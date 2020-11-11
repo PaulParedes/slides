@@ -1,0 +1,13 @@
+{:deps
+  {org.jetbrains.noria/noria-rt {:mvn/version "0.1-SNAPSHOT"}
+   org.jetbrains.noria/noria-ui {:mvn/version "0.1-SNAPSHOT"}
+   org.clojure/tools.analyzer.jvm {:mvn/version "0.7.2"}
+   org.clojure/core.async {:mvn/version "0.4.490"}}
+ :paths ["clj"]
+ :jvm-opts ["-XstartOnFirstThread"
+            "-Djava.awt.headless=true"]
+ :aliases {:dev {:extra-paths ["test"]
+                 :extra-deps {nrepl {:mvn/version "0.6.0"}}
+                 :jvm-opts ["-XstartOnFirstThread"
+                            "-Djava.awt.headless=true"
+                            "-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=1044"]}}}

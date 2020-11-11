@@ -1,0 +1,495 @@
+---
+title: "Teoría de la prueba"
+subtitle: "Cargas probatorias, presunciones legales,<br/>estándares de prueba, teoría del caso"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "8 de junio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle, animated, slideInRight
+
+# Segunda clase
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: animated, fadeIn
+
+# Teoría de la prueba
+# desde el razonamiento probatorio
+
+La prueba como aquello que justifica la decisión del juez sobre los hechos.
+
+Argumentación jurídica en tanto se ocupa sobre **aquellos conceptos** que intervienen en la cuestión de hecho (la ***quaestio facti***).
+
++ Carga de la prueba | presunciones | defensas materiales (excepciones materiales) | estándares de prueba
+
+Estos conceptos (y otros) son relevantes porque explican y justifican **la decisión** del juez.
+
+---
+
+# Teoría de la prueba
+
+La decisión tiene que ver con el **derecho**; con **¿qué es el derecho?**
+
+Es una forma, método, de regular las conductas de las personas.
+
++ El juez toma decisiones prácticas: esas decisiones (compromisos) es lo que el derecho ES en una sociedad, en un momento y lugar determinados.
+
+### ¿Cómo deben ser esas decisiones prácticas?
+
++ Decisión justa::debido proceso::**imparcialidad y derecho de defensa**
+
+#### Imparcialidad:: juez sujeto al derecho::juez sujeto a la verdad de los hechos
+
++ el derecho vigente
+
++ los hechos ocurridos, verdaderos
+
+---
+
+# Los hechos ocurridos, verdaderos
+
+¿Cuándo un hecho es V/F?
+
++ Consenso: acuerdo: "Todos (la mayoría, algunos, alguien) acordamos que "La Tierra es plana".
+  + Los motivos del acuerdo pueden ser las creencias, la conveniencia, la utilidad, etc.
+  
++ Persuación: victoria en el ánimo, la conciencia del decisor: "Tengo la convicción, la certeza, de que la Tierra es plana".
+
++ Correspondencia: con la realidad: "La afirmación "La Tierra es plana es V/F porque hay suficientes elementos de corroboración de lo afirmado".
+
++ Volveremos sobre esto más adelante.
+  
+---
+background-image: url(tierra.jpg)
+background-size: cover
+
+---
+
+# Los hechos ocurridos, verdaderos
+
+### La verdad como correspondencia implica ciertas condiciones o presupuestos:
+
+1. Hay una verdad fáctica.
+2. Esa verdad es objetiva.
+3. Es posible encontrarla con suficiente frecuencia.
+4. Que haya estándares objetivos de lo que hace que una prueba sea mejor o peor.
+5. Aunque falible, es probable que la afirmación en cuestión es verdadera.
+
+---
+
+# Los hechos ocurridos, verdaderos
+
+### Es objetiva
+
+La realidad existe fuera de nosotros y se puede conocer.
+
+Hay mecanismo, herramientas, instrumentos para conocer.
+
+Eso que se conoce depende de la calidad (antes que de la cantidad) de la información.
+
+Lo que se conoce es más, o menos, probable porque depende de esa información.
+
+Es falible. Y por eso se puede apreciar el error.
+
+Es ese conocimiento objetivo, sustentado en ese razonamiento probatorio, lo que permite tomar la decisión sobre los hechos.
+
+Y entonces, una decisión así será una decisión imparcial, justa, con debido proceso.
+
+---
+
+# Los hechos que se prueban
+
+¿Cuáles son estos hechos? 
+
++ Son las afirmaciones o proposiciones fácticas.
+
++ La p.f. será V/F si encuentra correspondencia con la realidad.
+
++ Lo que se ajusta al mundo son las palabras.
+
++ Las palabras (los enunciados) es lo que debe corresponder con el mundo.
+
+¿De dónde salen estos?
+
++ Lo veremos más adelante.
+
+---
+
+# ¿Cómo se prueban los hechos?
+
+¿Qué va en medio de las PF y los HaP (Hechos a probar, el Mundo)?
+
+Los medios de prueba
+
+  + Luego, entre los MP(los hechos probatorios) y los HaP, va un enlace (generalización empírica, una norma, una definición)
+  
+¿Qué son los MP?
+
+Son descripciones o representaciones del mundo, de una parte o partecita del mundo, del HaP.
+
+¿Cuáles son?
+
+Los relevantes por correspondencia con el HaP
+
+---
+# Los medios de prueba
+
+Sujeto a reglas:
+
++ Ofrecimiento, admisión
+
++ Reglas de exclusión: 
+
+  + Los MP irrelevantes, impertinentes
+
+  + Los que violan DDFF
+
+  + La tortura, los indignos (el polígrafo)
+  
++ Actuación
+
++ Valoración
+
++ Resultado
+
+---
+
+# El resultado
+
+La conclusión del razonamiento probatorio sobre los HaP(M)
+
+La conclusión sobre la suficiencia probatoria: si cruza, o no, la línea de lo probado.
+
+---
+
+# Problemas con la prueba
+
+1. MP escasos.
+2. MP difíciles de acceder.
+3. HaP de difícil probanza.
+4. El HaP es, de origen, probable (o improbable).
+5. El costo del error es relevante. Protección de derechos.
+
+---
+
+# Herramientos de solución
+
++ Cargas probatorias
+  + Subjetiva. Producir prueba.
+  + Objetiva. Superar el umbral de suficiencia probatoria.
+
++ Presunciones
+  + Legales
+  + Judiciales
+  
++ Estándares probatorios
+  + MADR (BARD)
+  + Prueba clara y convincente
+  + Prueba preponderante 
+
+---
+
+# Los hechos ocurridos, verdaderos
+
+¿Los Hs son naturales o construcciones jurídicas?
+
++ Hay hechos (+) naturales: Juan vive en Lima.
+
++ Hay hechos (+) jurídicos: Juan es trabajador de la empresa S.A.
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# Unos ejercicios
+
+---
+
+# Los hechos ocurridos, verdaderos
+
+¿Cuántos hechos hay en cada una de las siguientes puntos?
+
+- Juan tiene vínculo laboral con S.A.
+
+- Juan presta servicios bajo subordinación a S.A.
+
+- El trabajador con código 2344 es Juan.
+
+- Juan tiene un vínculo contractual con S.A. por el cual recibe dinero. Juan sale de su casa de L a V a las 6:30 a.m. y regresa, más o menos, entre las 8 y 9 de la noche. Sus hijos lo quieren mucho.
+
+--
+
+¿Son descripciones iguales?
+
+---
+
+# Los hechos del ejemplo anterior:
+
+¿De dónde salen estos?
+
+¿Cuáles son? ¿Puede enumerarlos?
+
+---
+class: center, middle, animated, slideInRight
+# Tercera clase
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: center, middle, animated, bounceInDown
+
+> "1781. Le maître est cru sur son affirmation, Pour la quotité des gages; Pour le paiement du salaire de l'année échue; Et pour les à-comptes donnés pour l'année courante." 
+
+> "Al dueño se le cree por su dicho, en cuanto a la cuota de los salarios; en cuanto al pago del salario del año vencido; y en cuanto a lo que diga haber dado a cuenta por el año corriente".
+
+> Código civil francés, 1804
+
+---
+background-image: url(factura.jpg)
+background-size: cover
+
+---
+class: animated, fadeIn
+
+# Cargas probatorias
+
+## Cargas probatorias (burden of proof)
+
++ Subjetiva. (Burden of production).
+  + Producir prueba.
+  + Suministrar, ofrecer, producir, aportar prueba.
+    
++ Objetiva. (Burden of persuasion).
+  + "Lograr la prueba".
+  + Superar el umbral de suficiencia probatoria.
+  + "Risk of non-persuasion".
+
+---
+
+# Cargas probatorias
+
+## ¿Cómo se distribuye la carga de la prueba?
+
+### Subjetiva. Carga de producir prueba: 
+
+  + La carga de producir prueba la tiene quien presenta la pretensión o la defensa.
+
+  + ¿Siempre? ¿Aun cuando el material probatorio no esté en su poder? ¿Aun cuando la prueba la tengo la contraparte?
+  
+### Objetiva. Carga de lograr la suficiencia de la prueba.
+
+  + Pierde quien supera el umbral de suficiencia.
+
+  + Es la regla (o reglas) de derecho aplicable al caso las que determinan, de un lado, los hechos relevantes de la causa (la HIN) y, de otro lado, en qué posición (DTE o DDO) se encuentran dichos hechos en relación con la pretensión o defensa deducida en juicio.
+
+---
+# Cargas probatorias
+### Objetiva
+
+  + No todos los hechos (relevantes de la causa) necesitan ser probados (comprobados).
+    + Hechos admitidos.
+    + Hechos notorios.
+    + Hechos materia de cosa juzgada.
+    + Hechos presumidos por ley.
+    
+  + Simplifica la actividad probatoria.
+
+  + Facilita la acreditación de los hechos.
+
+  + Consideraciones extraepistémicas (eficiencia del proceso, colaboración de las partes).
+
+  + No necesariamente hay una afectación al valor epistémico del proceso.
+  
+---
+## Inversión de la carga de la prueba 
+## Presunción de inocencia en la impugnación de sanciones
+
+Cargas compartidas:
+  + ### **T-DTE: VL + PI + PP + >4H + EV**
+  
+  + ### **E-DDO: CJ (FG)**
+
+* Verdades interinas (Rosenberg).
+* Presunción principio (Aguiló).
+
+* Conexión con la **presunción de inocencia**.
+
+---
+# Las presunciones legales
+
++ Inciden en el *thema probandum* y en la distribución de la carga de la prueba.
+
++ Cumple una función de regla (legal) en la decisión sobre los hechos.
+
+### Cómo opera
+
++ * Distinguir de las presunciones simples o judiciales o de hombre.
+
++ De un hecho conocido a), se afirma un hecho desconocido b), a partir del establecimiento de un enlace que los conecta y justifica. 
+
+---
+# Las presunciones legales
+
+### Vistas desde la derrotabilidad o refutabilidad del hecho constituido
+
+1. Presunciones *iuris tantum* o presunciones en sentido estricto. (Presunciones regla).
+
+  + De A, se afirma B, porque el enlace C lo ordena, salvo que ~A (bloqueo) o ~B (destrucción).
+
+2. Presunciones aparentes o verdades interinas. (Presunciones principio).
+
+  + Se afirma B, salvo ~B
+
+---
+# Las presunciones legales
+
+Las presunciones no aportan prueba de la verdad del hecho presumido, sino que, sin prueba, ordenan al juez a considerar el hecho presumido entre las premisas de justificación de la adjudicación o aplicación de derecho.
+
+Las normas de presunción (incluidas las presunciones iure et de iura) son normas puramente constitutivas (Raymundo Gama).
+
+Serían, entonces, reglas legales de prueba. 
+
+### ¿Qué función cumplen?
+
++ Las presunciones *iuris tantum* aligeran la carga probatoria al cambiar el thema de prueba.
+
++ Las verdades interinas o presunciones - principio: eliminan la carga probatoria y afirman: la presunción de inocencia, de buena fe, de despido arbitrario.
+
++ Las presunciones *iure et de iure* no alteran ninguna carga de la prueba: de no consentimiento sexual de menores de edad, de paternidad, de pacto de intereses en materia tributaria.
+
++ Función instrumental de superación del *impasse*
+
++ Función de tutela de bienes o valores jurídicos.
+
+---
+# Los estándares probatorios
+
++ Estándares probatorios
+  + MADR (BARD)
+  + Prueba clara y convincente
+  + Prueba preponderante 
+
+---
+# Ejercicio
+
+¿Las presunciones legales *iuris tantum* son un estándar de prueba?
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# Razonamiento probatorio
+
+---
+
+background-image: url(puntos.jpg)
+background-size: cover
+
+---
+# Elementos de la estructura argumentativa
+
++ Argumento[A]-->[Así pues]-->Pretensión[P]
+
++ Calificador[C]-->[probablemente quizás]-->P
+
++ porque--> Regla general[RG]-->[dado que, a partir de]
+
++ Fuente[F]-->[como dice]-->RG
+
++ Reserva sobre las reglas[R]-->[a menos que]-->RG
+
+---
+# Fases de la argumentación del caso
+
+1. Apertura: tema
+2. Confrontación: protagonistas --pro, --contra
+3. Argumentación:
+   - P: pretensión, opinión, tesis
+   - A: argumentos, datos
+   - RG: reglas generales
+   - F: Fuentes (de A, y RG)
+   - C: Calificadores
+   - R: Reserva
+4. Clausura: conclusión
+
+---
+## Caso
+
+María es médico. Trabaja en una clínica desde hace dos años, pero no tiene contrato de trabajo. Más bien tiene un contrato civil. Cumple un horario. Hace dos días su jefe le ha dicho lo siguiente: "Ya no te necesitamos más María". Y luego le cerraron la puerta.
+
+---
+# Ejercicio: construya la teoría del caso
+
+Considerando el Argumento, la Regla general, la Fuente, la Pretensión, el Calificador y las posibles Reservas
+
+---
+# Un ejemplo de teoría del caso
+
+- A: María ha sido despedida sin causa.
+- RG: "Cuando un trabajador es despedido sin causa, le corresponde la reposición en el empleo".
+- F: Luis ha contado que, en efecto, le cerraron la puerta a María.
+- P: Por lo tanto, le corresponde la reposición en el empleo.
+- C: Esto es altamente probable
+- R: A menos que el vínculo sea civil 
+
+---
+  
+# Esquema de inferencia probatoria
+
++ **Hechos probatorios** --> [Respaldo o justificación]--> **Hechos a probar(hipótesis)**
+
++ ***[Hprobtrs]*** --- [Respaldo] ---> **[HaP]**
+
+### El respaldo o justificación
+
+1. Generalizaciones empíricas (máximas de la experiencia, generaliz. ciencia)
+2. Normas aceptación como probado (presunciones, reglas de prueba tasada)
+3. Definiciones
+
+---
+
+## Dudas sobre las premisas descriptivas, la premisa menor:
+
+1. Por falta de conocimiento sobre lo que sucedió
+2. Por falta de criterio sobre cómo se debe calificar un comportamiento determinado
+
+---
+## 1. Sobre el conocimiento
+
+- Justificación externa: acontecimiento que realmente ocurrieron
+- Por inducción, grado de probabilidad de la conclusión
+- Principios que deben observarse: presunción de inocencia, derecho al silencio, presunciones, reglas de exclusión de la prueba, reglas de prueba tasada
+
+## 2. Sobre la calificación
+
+1. ¿El hecho se puede subsumir en el caso genérico descrito en la norma? Problema de vaguedad de las reglas generales.
+
++ Es un problema de definiciones. No depende del mundo, sino de cómo hablamos sobre el mundo.
+
+  - Interpretación correctiva extensiva. Amplía el significado de las palabras del texto normativo, para incluir ciertos casos de la zona de penumbra. (Reglas de subsunción laxas).
+  
+  - Interpretación correctiva restrictiva: Restringe el significado ... para excluir de la zona de penumbra. (Reglas de subsunción estricta)
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

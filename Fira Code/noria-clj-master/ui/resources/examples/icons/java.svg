@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <title>java</title>
+  <g>
+    <g>
+      <polygon points="7 1 3 5 7 5 7 1" fill="#9aa7b0" opacity="0.8" style="isolation: isolate"/>
+      <polygon points="8 1 8 5 8 6 7 6 3 6 3 8 13 8 13 1 8 1" fill="#9aa7b0" opacity="0.8" style="isolation: isolate"/>
+    </g>
+    <rect x="1" y="9" width="15" height="7" fill="#40b6e0" opacity="0.7"/>
+    <path d="M5.12549,10v3.22559A1.24032,1.24032,0,0,1,5,13.792V14H4.85889a.69676.69676,0,0,1-.49854.19727,1.18455,1.18455,0,0,1-.9707-.585L3,14.02539v.37305A1.77,1.77,0,0,0,4.37451,15a1.58977,1.58977,0,0,0,1.17139-.437A1.81488,1.81488,0,0,0,6,13.25342V10Z" fill="#231f20" opacity="0.7"/>
+  </g>
+</svg>

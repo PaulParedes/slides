@@ -1,0 +1,6 @@
+.gradle
+.idea
+.onair
+build
+target
+noria-plugin.iml

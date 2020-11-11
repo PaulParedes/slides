@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/619144/3f359b6a580c4ebdad463a0890372664
+bundleId: https://api.rpubs.com/api/v1/document/619144/3f359b6a580c4ebdad463a0890372664
+url: http://rpubs.com/paulparedes/619144/edit
+when: 1590369641.34022

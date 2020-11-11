@@ -1,0 +1,278 @@
+---
+title: "Proceso laboral<br/>y distanciamiento social"
+subtitle: "¿Qué hacer?"
+author: "Paul Paredes"
+institute: "Derecho & Sociedad, PUCP"
+date: "3 de junio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle, animated, slideInRight
+
+# ¿Qué hacer?
+
+## [paulparedes.pe]()
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: animated, fadeIn
+
+# Introducción
+
+--
+
++ ### La necesidad del distanciamiento social
+
+
++ ### ¿La necesidad de modernizar la justicia?
+
+--
+
+.center[
+##[Oralidad]()
+]
+
+.center[
+##[TIC]()
+]
+
+--
+
++ ### 3 criterios y algo más
+
+--
+
+## .center[**● ----- ▶ Justicia digital**]
+
+---
+class: animated, fadeIn
+
+# Proceso oral y distanciamiento social
+
++ ### Necesidad de cambios ¿transitorios? ¿permanentes?
+
+--
+
++ ### Algunas propuestas del Juez Superior Huerta:
+
+  - reservar las audiencias para la actuación probatoria no documental
+  
+  - no audiencias (ad hoc) de conciliación 
+  
+  - resolver los recursos solo con los escritos
+
+---
+class: animated, fadeIn
+# La oralidad
+
+## Importancia de la oralidad
+
++ ### Derecho a ser oído (art. 8.1 Conv. Amer.)
+
+  > «No necesarimante se ejerce de manera oral.»
+  
+  > «Pero siempre con las debidas garantías.»
+  
+  > Corte IDH
+
+--
+
++ ### La NLPT: 
+  + Proceso laboral oral
+  + Rol protagónico de los jueces
+  + Interpretación conforme a los DDHH
+  
+# .center[➠]
+
+---
+class: animated, fadeIn
+# Importancia de la oralidad
+
+## ● Los procesos laborales de conocimiento deben ser orales, salvo excepción sujeta a 2 condiciones:
+
+--
+
+  + ### ▶ que no se pueda cumplir con la oralidad por alguna circunstancia extraordinaria
+  
+  + ### ▶ que no se afecte el derecho a ser oído con las debidas garantías
+
+# .center[➠]
+
+---
+class: animated, fadeIn
+# Importancia de la oralidad
+
+## Dos reglas:
+
+--
+
+### 1. Si a pesar del distanciamiento social es aún posible cumplir con la oralidad, los procesos deberían continuar desarrollándose con oralidad.
+
+--
+
+### 2. Si bajo alguna circunstancia no fuese posible cumplir con la oralidad, pero sí se garantiza el derecho a ser oído con las debidas garantías, entonces, podría, excepcionalmente, prescindirse de la oralidad.
+
+# .center[◼]
+
+---
+class: animated, fadeIn
+# Contenido de la oralidad
+
+--
+
+## La clave del contenido de la oralidad no está en hablar (aunque, sin duda, es lo que se hace), sino en la **interacción** simultánea de los participantes, en un lugar y momento determinados.
+
+# .center[◼]
+
+---
+class: animated, fadeIn
+# Las Tecnologías de la Información y la Comunicación (TIC)
+
+## Interacción simultánea
+
+--
+
+.pull-left[
+## Física
+###    + Momento ✔ | Lugar ✔
+]
+
+--
+
+.pull-right[
+## Virtual
+###    + Momento ✔ | Lugar ✘
+]
+
+--
+
+<br>
+
+.center[
+### domicilio | competencia | sede ➠ acceso a la justicia
+]
+
+---
+class: animated, fadeIn
+# TIC
+
+<br>
+
+<br>
+
+# .center[**● ----- ▶ Justicia en la nube**]
+
+---
+# TIC
+
+## Condiciones
+
+--
+
++ #### Acceso a Internet
+
++ #### Lugares de conexión
+
++ #### Usabilidad del aplicativo
+
++ #### Comprensión del nuevo procedimiento *en línea*
+
++ #### Publicidad de las audiencias *en línea*
+
++ #### Seguridad | Almacenamiento
+
+# .center[➠ ◼]
+
+---
+class: animated, fadeIn
+# Las dos reglas (y una más)
+
+--
+
+1. Si a pesar del distanciamiento social es factible el uso de aplicativos de videoconferencia, los procesos laborales podrían continuar desarrollándose con oralidad, pero para ello debería garantizarse, los puntos anotados de acceso, disponibilidad, usabilidad, comprensión, publicidad y almacenamiento.
+
+2. Si no fuese factible utilizar los aplicativos de videoconferencia o no se pudiese cumplir con las condiciones de garantía, podría prescindirse (en mayor o menor medida) de la oralidad, pero en esos casos debe garantizarse el derecho a ser oído con las debidas garantías.
+
+--
+
+3. Que los jueces autodeterminen las causas, o tipos de causas, que merecerían ser tratadas con oralidad o sin ella. 
+
+  + P. ej.: las causas menos complejas | aquellas en las que se tiene un criterio reiterado
+
+# .center[◼]
+
+---
+class: animated, fadeIn
+# Medidas complementarias 
+
+--
+
+## Escenario físico
+
+## Distanciamiento social (1m) | Mascarilla | Lavarse las manos
+
+<br>
+
+
+### .center[Mesa de partes | ascensores | salas de espera | salas de audiencia]
+
+---
+class: animated, fadeIn
+# Medidas complementarias
+
+--
+
+## Escenario digital
+
++ ### Firma digital
+
++ ### Mesa de partes electrónica
+
++ ### Expediente digital
+
++ ### Audiencias virtuales
+
++ ### Sist. cálculo BBSS | Jurisprudencia sistematizada | Acceso a las planillas electrónicas
+
+---
+class: animated, fadeIn
+# Justicia en línea en el mundo
+
+<br>
+
+<br>
+
+.center[
+## Reino Unido | Singapur | China | Korea | Países Bajos | Estados Unidos | Perú
+]
+
+<br>
+
+.center[
+## Inteligencia Artificial | Blockchain
+]
+
+# .center[◼]
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

@@ -1,0 +1,366 @@
+---
+title: "Derecho procesal del trabajo"
+subtitle: "Clase 7<br/>Medios impugnatorios"
+author: "Paul Paredes"
+institute: "Maestría en Derecho Procesal, UNMSM"
+date: "31 de julio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+class: center, middle, animated, slideInRight
+
+# La clase anterior
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
+1. Privilegio del fondo sobre la forma ...>
+2. Interpretación de los requisitos y presupuestos procesales a favor de la continuidad del proceso
+
++ Las formas y sus límites
+  + Res. Adm. 014-93-CE-PJ (Papel A4)
+  + Art. 130° y ss. C.P.C.
+  + Sentencia de la Corte Constitucional Colombia T-204 1997
+  + Corte IDH, Caso Velásquez Rodríguez, sentencia 29 julio 1988
+  + Corte IDH, Caso Godínez Cruz, sentencia 20 enero 1989
+  
++ Las nulidades procesales
+  + STC 00197-2005-PA/TC, fund. 7
+  + STC 00569-2003-AC/TC, fund. 4
+     + Actos defectuosos ...> actos inocuos
+     + Actos inválidos ...> subsanación o suplencia
+     + Actos nulos ...> ni subsanación ni suplencia
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
++ Consecuencias de la aplicación de los principios estudiados
+  1. No observar falta de requisitos ante actos inocuos
+  2. Subsanación (hacia adelante)
+  3. Apercibimientos diferentes a la conclusión
+  4. Suplencia de los actos procesales deficientes
+  
++ Otras consecuencias
+  + Impulso de oficio
+  + Sentencia
+     + Fallo ultra y extra petita
+          + (Congruencia y derecho de defensa)
+
+---
+class: animated, fadeIn
+
+# .verde[Suplencia de la demanda]
+
+# ¿Petitorio o pretensión implícitos?
+
+# CAS LAB 16940-2017 (5 de diciembre de 2019)
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/encuesta-suprema-dpt.jpg)
+background-size: contain
+
+---
+class: animated, fadeIn, middle
+
+> **Décimo Segundo:** Tal como se ha descrito, la litis ha discurrido respecto a la reposición por un despido incausado, al haberlo así propuesto el actor en su escrito de demanda, mas no, la desnaturalización de los contratos, lo que no importó que se ejerza también la defensa en dicho sentido, lo que conlleva a establecer que al haberse sentenciado, y otorgado el derecho por una pretensión no postulada, como es el caso de la desnaturalización de los contratos, se ha violentado el principio de congruencia procesal y por ende el debido proceso. 
+
+---
+class: animated, fadeIn
+
+# Una propuesta de solución
+
++ Las oraciones y las proposiciones en el derecho
+
++ Las oraciones: conjunto de símbolos lingüísticos con sentido completo:
+  + [ ] UNMSM
+  + [ ] deseoso Lima estaba fruta aromática en otro
+  + [ ] La Ciudad Blanca es la capital de Perú
+
+---
+class: animated, fadeIn
+
+## Una propuesta de solución
+
++ Es usual distinguir entre oraciones asertivas (descriptivas::proposiciones) (V/F) y oraciones directivas (prescriptivas::normas) (Jus/Inj; Vál/Inv; Efi/Inef)
+
+  + [ ] Juan trabaja en el Poder Judicial
+  + [ ] María es mayor de edad
+  + [ ] Está prohibido fumar en clase
+  + [ ] Quien por dolo causa un daño a otro está obligado a repararlo
+
+---
+class: animated, fadeIn
+
+## Una propuesta de solución
+
++ Las proposiciones son el significado expresado por las oraciones asertivas
+
+  + María tiene 25 años de edad.
+  + La edad de María es de 25 años.
+  + Hace 25 años nació María.
+  + María le lleva 3 años a su hermano Jorge quien ya tiene 22 años cumplidos.
+  + No veo a María desde que cumplió 20 años. Han pasado 5 años desde ese entonces.
+
+--
+  
++ Varias oraciones asertivas pueden expresar la misma proposición
+
+--
+
++ Los razonamientos se dan entre las proposiciones.
+
+  =
+
++ Las premisas de los razonamientos son proposiciones y de estas se infiere otra proposición que es la conclusión.
+
++ Las premisas y conclusiones permiten construir cadenas argumentativas, conformadas por proposiciones.
+
+---
+class: animated, fadeIn
+
+## Una propuesta de solución
+
++ Una conclusión no es sino una proposición derivada de una cadena argumentativa (los razonamientos) integrada por una serie de proposiciones.
+
++ Esa conclusión podría ser el petitorio o la pretensión.
+
++ ¿Qué significaría la suplencia de la demanda en este contexto?
+
+--
+
+> Determinar la cadena de proposiciones
+
+--
+
++ ¿Qué sería el petitorio implícito?
+
+--
+
+> La cadena de proposiciones que deriva **en** la pretensión explícita.
+
+---
+class: animated, slideInRight
+
+## Diagrama de proposiciones
+
+![](https://raw.githubusercontent.com/PaulParedes/materiales/master/mermaid-implicito.svg)
+
+---
+class: animated, fadeIn
+
+# ¿Petitorio o pretensión .verde[implícitos]?
+
+## CAS LAB 16940-2017 (5 de diciembre de 2019)
+
++ El "petitorio implícito" ¿afecta la congruencia?
+
++ El "petitorio implícito" ¿vulnera el derecho de defensa?
+
+---
+class: animated, fadeIn
+
+# Medios impugnatorios en la NLPT
+
+1. Recurso de apelación
+
+2. Recurso de casación
+
+3. ¿Recurso de reposición?
+
+---
+class: animated, fadeIn, center, middle
+
+# El procedimiento ...>
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pol2.png)
+background-size: contain
+
+---
+class: animated, fadeIn
+
+# La apelación
+
++ Plazo de apelación de sentencia: **.red[5 dhs]**
+  + de la audiencia (cuando se dicta el fallo y se notifica la sentencia o resolución en la misma audiencia :: no es lo típico ni frecuente).
+  + de citadas las partes para su notificación (notificación en estrado)
+
++ Audiencia de vista de la causa
+  + Extremos apelados y su fundamento
+  + El OJ puede formular preguntas a las partes y sus abogados
+  + Sentencia inmediata o luego de 60 min.; o diferir dentro de los 5 dhs.
+  + Cita a las partes para la notificación de la sentencia. Debe ser dentro de los 5 dhs.
+  + Si las partes no concurren a la audiencia, igualmente notifica la sentencia en su despacho al 5 dhs.
+
+---
+class: animated, fadeIn
+
+# La casación. Causales.
+  
+1. Infracción normativa que incide directamente sobre la decisión contenida en la resolución impugnada.
+2. Apartamiento de los precedentes vinculantes del TC o la CS.
+  + (¿apartamiento inmotivado? ~ art. 386 CPC)
+
+> Ley 26636 | *Artículo 56.- CAUSALES.- Son causales para interponer el recurso de casación:*
+
+>	*a) La aplicación indebida de una norma de derecho material.*
+
+>	*b) La interpretación errónea de una norma de derecho material.*
+
+>	*c) La inaplicación de una norma de derecho material.*
+
+>	*d) La contradicción con otras resoluciones expedidas por la Corte Suprema de Justicia o las Cortes Superiores, pronunciadas en casos objetivamente similares, siempre que dicha contradicción esté referida a una de las causales anteriores.*
+
+---
+class: animated, fadeIn
+
+# La casación. Precedentes vinculantes CS. (art. 40.° NLPT)
+
++ La SCyS-CSJR **convoca** al pleno de los jueces supremos en materia constitucional y social.
++ **Finalidad::** .red[constituir] o .red[variar] un precedente judicial.
++ **Decisión::** por mayoría absoluta de los asistentes al pleno casatorio.
++ **Consecuencia:: .red[vincula]** a los órganos jurisdiccionales hasta que sea modificada por otro precedente.
++ Los abogados pueden **informar oralmente** en la vista de la causa ante el pleno casatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Admisibilidad.
+
++ Vs. sentencias y autos finales de las salas superiores.
+  + Si contiene monto reconocido, ...>>100 URP. (cf. art. 388 CPC)
++ Ante la sala superior que emitió la resolución impugnada.
+  + Sala superior remite **sin más trámite**.
++ Plazo: **.red[10 dhs]**.
++ Tasa (cf. Undécima D.C.)
+
+---
+class: animated, fadeIn
+
+# La casación. Procedencia.
+
++ No consentimiento de la resolución adversa de primera instancia, si fuese confirmada en segunda instancia.
++ Claridad y precisión de las causales:: Infrac.Normat. o Apart.Precd.Vinc.
++ Demostrar la incidencia directa de la IN.
++ Indicar si pedido es Anulatorio o Revocatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Efecto.
+
++ ### La interposición **.red[no suspende]** la ejecución de la sentencia.
++ Excepcionalmente se suspende:
+  + solo si obligación de dar suma de dinero.
+  + a pedido de parte.
+  + previo depósito o carta fianza por el importe total.
+     + IT: capital, intereses, costos, costas, más intereses de 1 año proyectado.
+> ...> juez suspende en resolución fundamentada e inimpugnable
+
+---
+class: animated, fadeIn
+
+# La casación. Finalidad.
+
+> Artículo 384.- Fines de la casación
+El recurso de casación tiene por fines la adecuada aplicación del derecho objetivo al caso concreto y la uniformidad de la jurisprudencia nacional por la Corte Suprema de Justicia. 
+
+> (Ley 29364, del 28 mayo 2009).
+
+> Artículo  384.- El recurso de casación tiene por fines esenciales la correcta aplicación e interpretación del derecho objetivo y la unificación de la jurisprudencia nacional por la Corte Suprema de Justicia.
+
+> (Original)
+
+---
+class: animated, fadeIn
+
+#### La casación. Fines.
+
+1. Función de nomofilaquia::
+
+ a) Poner en evidencia los errores. Modelo de tercera instancia.
+
+ b) Interpretación | justa | adecuada | correcta | mejor | ajustada a los valores, bienes, principios constitucionales | de la norma.
+
+ > CS elige entre valores. ¿Hacer derecho? Modelo de Corte Suprema.
+
+2. Uniformidad (de la interpretación de la ley) por medio de la jurisprudencia nacional.
+ 
+ a) Mera y formal unificación de la jurisprudencia. Modelo de tercera instancia.
+ 
+ b) Uniformidad de la interpretación en los supuestos de hecho. (¿conservador vs. innovación?)
+ 
+  > El precedente se vuelve significativo. Referencia para jurisprudencia uniforme.
+  
+  > El cambio de precedente rompe la uniformidad para crear una nueva.
+ 
+---
+class: animated, fadeIn
+
+# El rol de la Corte Suprema
+
+Distinguir entre:
+
+1. Resoluciones emitidas en casación. Jurisprudencia. (art. 31, 39 NLPT).
+
+2. Resoluciones emitidas en casación. Precedentes vinculantes. (art. 40 NLPT) ~~ (art. 400 CPC).
+
+3. Plenos jurisdiccionales supremos en materia laboral. (art. 22 y 116 LOPJ).
+
+---
+class: animated, fadeIn
+
+#### Doctrina jurisprudencial
+
+> Carácter vinculante de la doctrina jurisprudencial.
+
+>Artículo 22.- Las Salas Especializadas de la Corte Suprema de Justicia de la República ordenan la publicación trimestral en el Diario Oficial "El Peruano" de las Ejecutorias que fijan principios jurisprudenciales que han de ser de obligatorio cumplimiento, en todas las instancias judiciales.
+
+> Estos principios deben ser invocados por los Magistrados de todas las instancias judiciales, cualquiera que sea su especialidad, como precedente de obligatorio cumplimiento. En caso que por excepción decidan apartarse de dicho criterio, están obligados a motivar adecuadamente su resolución dejando constancia del precedente obligatorio que desestiman y de los fundamentos que invocan.
+
+> Los fallos de la Corte Suprema de Justicia de la República pueden excepcionalmente apartarse en sus resoluciones jurisdiccionales, de su propio criterio jurisprudencial, motivando debidamente su resolución, lo que debe hacer conocer mediante nuevas publicaciones, también en el Diario Oficial "El Peruano", en cuyo caso debe hacer mención expresa del precedente que deja de ser obligatorio por el nuevo y de los fundamentos que invocan.
+
+---
+class: animated, fadeIn
+
+# Plenos jurisdiccionales
+
++ Plenos laborales nacionales, regionales o distritales.
+
+> Plenos jurisdiccionales.
+
+> Artículo 116.- Los integrantes de las Salas Especializadas, pueden reunirse en plenos jurisdiccionales nacionales, regionales o distritales a fin de concordar jurisprudencia de su especialidad, a instancia de los órganos de apoyo del Poder Judicial.
+
+---
+class: animated, fadeIn
+
+### Sala plena de la Corte Suprema
+
+> Artículo 80.- Atribuciones de la Sala Plena de la Corte Suprema
+Son atribuciones de la Sala Plena de la Corte Suprema de Justicia de la República:
+
+> 4.Sistematizar y difundir la jurisprudencia de las Salas Especializadas de la Corte Suprema y disponer la publicación trimestral de las Ejecutorias que fijen principios jurisprudenciales que han de ser de obligatorio cumplimiento en todas las instancias judiciales.
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

@@ -1,0 +1,847 @@
+---
+title: "Tendencias del proceso laboral en América Latina"
+subtitle: "Clase 9<br/>Mecanismos alternativos de resolución de conflictos"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo y de la Seguridad Social, UNMSM"
+date: "15 de agosto de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+class: center, middle, animated, slideInRight
+
+# La clase anterior
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
+<ol>
+<li> Suplencia de la demanda
+  + Enfoque desde las proposiciones en el derecho
+  + Los razonamientos se dan entre las proposiciones
+  + Las premisas de los razonamientos son proposiciones y de esas se infiere otra proposición que es la conclusión; y así, se construye una cadena argumentativa.
+  + .red[En el caso:] la conclusión sería el petitorio o pretensión
+  + entonces, la suplencia de la demanda sería
+</ol>
+> determinar la cadena de proposiciones que deriva .red[en] la pretensión explícita
+
+
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
+<ol start=2>
+<li> Medios impugnatorios en la NLPT
+</ol>
+
+  + Recurso de apelación
+  + Recurso de casación
+  + ¿Recurso de reposición?
+
+---
+class: animated, fadeIn, center, middle
+
+# El procedimiento ...>
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pol2.png)
+background-size: contain
+
+---
+class: animated, fadeIn
+
+# La apelación
+
++ Plazo de apelación de sentencia: **.red[5 dhs]**
+  + de la audiencia (cuando se dicta el fallo y se notifica la sentencia o resolución en la misma audiencia :: no es lo típico ni frecuente).
+  + de citadas las partes para su notificación (notificación en estrado)
+
++ Audiencia de vista de la causa
+  + Extremos apelados y su fundamento
+  + El OJ puede formular preguntas a las partes y sus abogados
+  + Sentencia inmediata o luego de 60 min.; o diferir dentro de los 5 dhs.
+  + Cita a las partes para la notificación de la sentencia. Debe ser dentro de los 5 dhs.
+  + Si las partes no concurren a la audiencia, igualmente notifica la sentencia en su despacho al 5 dhs.
+
+---
+class: animated, fadeIn
+
+# La casación. Causales.
+  
+1. Infracción normativa que incide directamente sobre la decisión contenida en la resolución impugnada.
+2. Apartamiento de los precedentes vinculantes del TC o la CS.
+  + (¿apartamiento inmotivado? ~ art. 386 CPC)
+
+> Ley 26636 | *Artículo 56.- CAUSALES.- Son causales para interponer el recurso de casación:*
+
+>	*a) La aplicación indebida de una norma de derecho material.*
+
+>	*b) La interpretación errónea de una norma de derecho material.*
+
+>	*c) La inaplicación de una norma de derecho material.*
+
+>	*d) La contradicción con otras resoluciones expedidas por la Corte Suprema de Justicia o las Cortes Superiores, pronunciadas en casos objetivamente similares, siempre que dicha contradicción esté referida a una de las causales anteriores.*
+
+---
+class: animated, fadeIn
+
+# La casación. Precedentes vinculantes CS. (art. 40.° NLPT)
+
++ La SCyS-CSJR **convoca** al pleno de los jueces supremos en materia constitucional y social.
++ **Finalidad::** .red[constituir] o .red[variar] un precedente judicial.
++ **Decisión::** por mayoría absoluta de los asistentes al pleno casatorio.
++ **Consecuencia:: .red[vincula]** a los órganos jurisdiccionales hasta que sea modificada por otro precedente.
++ Los abogados pueden **informar oralmente** en la vista de la causa ante el pleno casatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Admisibilidad.
+
++ Vs. sentencias y autos finales de las salas superiores.
+  + Si contiene monto reconocido, ...>>100 URP. (cf. art. 388 CPC)
++ Ante la sala superior que emitió la resolución impugnada.
+  + Sala superior remite **sin más trámite**.
++ Plazo: **.red[10 dhs]**.
++ Tasa (cf. Undécima D.C.)
+
+---
+class: animated, fadeIn
+
+# La casación. Procedencia.
+
++ No consentimiento de la resolución adversa de primera instancia, si fuese confirmada en segunda instancia.
++ Claridad y precisión de las causales:: Infrac.Normat. o Apart.Precd.Vinc.
++ Demostrar la incidencia directa de la IN.
++ Indicar si pedido es Anulatorio o Revocatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Efecto.
+
++ ### La interposición **.red[no suspende]** la ejecución de la sentencia.
++ Excepcionalmente se suspende:
+  + solo si obligación de dar suma de dinero.
+  + a pedido de parte.
+  + previo depósito o carta fianza por el importe total.
+     + IT: capital, intereses, costos, costas, más intereses de 1 año proyectado.
+> ...> juez suspende en resolución fundamentada e inimpugnable
+
+---
+class: animated, inverse, bounceDownIn, center, middle
+
+# ¡Empecemos!
+
+---
+class: animated, fadeIn
+
+# La casación. Finalidad.
+
+> Artículo 384.- Fines de la casación
+El recurso de casación tiene por fines la adecuada aplicación del derecho objetivo al caso concreto y la uniformidad de la jurisprudencia nacional por la Corte Suprema de Justicia. 
+
+> (Ley 29364, del 28 mayo 2009).
+
+> Artículo  384.- El recurso de casación tiene por fines esenciales la correcta aplicación e interpretación del derecho objetivo y la unificación de la jurisprudencia nacional por la Corte Suprema de Justicia.
+
+> (Original)
+
+---
+class: animated, fadeIn
+
+#### La casación. Fines.
+
+1. Función de nomofilaquia::
+
+ a) Poner en evidencia los errores. Modelo de tercera instancia.
+
+ b) Interpretación | justa | adecuada | correcta | mejor | ajustada a los valores, bienes, principios constitucionales | de la norma.
+
+ > CS elige entre valores. ¿Hacer derecho? Modelo de Corte Suprema.
+
+2. Uniformidad (de la interpretación de la ley) por medio de la jurisprudencia nacional.
+ 
+ a) Mera y formal unificación de la jurisprudencia. Modelo de tercera instancia.
+ 
+ b) Uniformidad de la interpretación en los supuestos de hecho. (¿conservador vs. innovación?)
+ 
+  > El precedente se vuelve significativo. Referencia para jurisprudencia uniforme.
+  
+  > El cambio de precedente rompe la uniformidad para crear una nueva.
+ 
+---
+class: animated, fadeIn
+
+# El rol de la Corte Suprema
+
+Distinguir entre:
+
+1. Resoluciones emitidas en casación. Jurisprudencia. (art. 31, 39 NLPT).
+
+2. Resoluciones emitidas en casación. Precedentes vinculantes. (art. 40 NLPT) ~~ (art. 400 CPC).
+
+3. Plenos jurisdiccionales supremos en materia laboral. (art. 22 y 116 LOPJ).
+
+---
+class: animated, fadeIn
+
+#### Doctrina jurisprudencial
+
+> Carácter vinculante de la doctrina jurisprudencial.
+
+>Artículo 22.- Las Salas Especializadas de la Corte Suprema de Justicia de la República ordenan la publicación trimestral en el Diario Oficial "El Peruano" de las Ejecutorias que fijan principios jurisprudenciales que han de ser de obligatorio cumplimiento, en todas las instancias judiciales.
+
+> Estos principios deben ser invocados por los Magistrados de todas las instancias judiciales, cualquiera que sea su especialidad, como precedente de obligatorio cumplimiento. En caso que por excepción decidan apartarse de dicho criterio, están obligados a motivar adecuadamente su resolución dejando constancia del precedente obligatorio que desestiman y de los fundamentos que invocan.
+
+> Los fallos de la Corte Suprema de Justicia de la República pueden excepcionalmente apartarse en sus resoluciones jurisdiccionales, de su propio criterio jurisprudencial, motivando debidamente su resolución, lo que debe hacer conocer mediante nuevas publicaciones, también en el Diario Oficial "El Peruano", en cuyo caso debe hacer mención expresa del precedente que deja de ser obligatorio por el nuevo y de los fundamentos que invocan.
+
+---
+class: animated, fadeIn
+
+# Plenos jurisdiccionales
+
++ Plenos laborales nacionales, regionales o distritales.
+
+> Plenos jurisdiccionales.
+
+> Artículo 116.- Los integrantes de las Salas Especializadas, pueden reunirse en plenos jurisdiccionales nacionales, regionales o distritales a fin de concordar jurisprudencia de su especialidad, a instancia de los órganos de apoyo del Poder Judicial.
+
+---
+class: animated, fadeIn
+
+### Sala plena de la Corte Suprema
+
+> Artículo 80.- Atribuciones de la Sala Plena de la Corte Suprema
+Son atribuciones de la Sala Plena de la Corte Suprema de Justicia de la República:
+
+> 4.Sistematizar y difundir la jurisprudencia de las Salas Especializadas de la Corte Suprema y disponer la publicación trimestral de las Ejecutorias que fijen principios jurisprudenciales que han de ser de obligatorio cumplimiento en todas las instancias judiciales.
+
+---
+class: animated, slideInRight, center, middle, inverse
+
+# Los medios impugnatorios en Bolivia, Chile, Colombia, Ecuador, Uruguay y Venezuela
+
+---
+class: animated, fadeIn
+
+# Bolivia:
+
+1. Reposición, contra autos interlocutorios.
+
+2. Apelación, contra resoluciones.
+
+3. Casación:
+
+ a) En el Código Procesal del Trabajo de 1979 se reguló el «recurso de nulidad» remitiendo el trámite al Código de Procedimiento Civil, que a partir del 2016 es el Código Procesal Civil.
+
+ b) Hoy el recurso de casación se regula por el CPC.
+
+ c) Puede ser por el fondo o la forma. Es un requisito formal, pero no ritualista. Se exige requisitos de procedencia, causales, legitimación, plazo.
+
+  + «Expresará, con claridad y precisión, la Ley o leyes infringidas, violadas o aplicadas indebida o erróneamente interpretadas, especificando en qué consiste la infracción, la violación, falsedad o error, ya se trate de recurso de casación en el fondo, en la forma o en ambos.»
+
+---
+class: animated, fadeIn
+
+# Bolivia
+
+ d) Suspende la ejecución.
+
+ e) Se interpone ante el tribunal cuya resolución se pretende casar.
+
+ f) El Tribunal Supremo de Justicia revisa el cumplimiento de los requisitos. Puede declarar la improcedencia del recurso. Si lo admite, pasa a estudio, audiencia y decisión.
+
+4.Compulsa, por negativa indebida de la apelación o casación o por concesión errónea en el efecto de la apelación.
+
+5.Recurso extraordinario de revisión de sentencia: documentos falsos, falso testimonio, fraude, violencia.
+
+---
+class: animated, fadeIn
+
+# Chile
+
+1. Art. 475. La reposición será procedente en contra de los autos, decretos, y de las sentencias interlocutorias que no pongan término al juicio o hagan imposible su continuación.
+
+2. Art. 476. Sólo serán susceptibles de apelación las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación, las que se pronuncien sobre medidas cautelares y las que fijen el monto de las liquidaciones o reliquidaciones de beneficios de seguridad social.
+
+3. Art. 477. Tratándose de las sentencias definitivas, sólo será procedente el recurso de nulidad, cuando en la tramitación del procedimiento o en la dictación de la sentencia definitiva se hubieren infringido sustancialmente derechos o garantías constitucionales, o aquélla se hubiere dictado con infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo. En contra de las sentencias definitivas no procederán más recursos.
+
+ El recurso de nulidad tendrá por finalidad invalidar el procedimiento total o parcialmente junto con la sentencia definitiva, o sólo esta última, según corresponda.
+
+---
+class: animated, fadeIn
+
+### Chile
+
+4.Art. 478. El recurso de nulidad procederá, además: a) Cuando la sentencia haya sido pronunciada por juez incompetente, legalmente implicado, o cuya recusación se encuentre pendiente o haya sido declarada por tribunal competente; b) Cuando haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica; c) Cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior; d) Cuando en el juicio hubieren sido violadas las disposiciones establecidas por la ley sobre inmediación o cualquier otro requisito para los cuales la ley haya previsto expresamente la nulidad o lo haya declarado como esencial expresamente; e) Cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos en los artículos 459, 495 o 501, inciso final, de este Código, según corresponda; contuviese decisiones contradictorias; otorgare más allá de lo pedido por las partes, o se extendiere a puntos no sometidos a la decisión del tribunal, sin perjuicio de las facultades para fallar de oficio que la ley expresamente otorgue, y f) Cuando la sentencia haya sido dictada contra otra pasada en autoridad de cosa juzgada y hubiere sido ello alegado oportunamente en el juicio.
+
+5.Art. 480. La interposición del recurso de nulidad suspende los efectos de la sentencia recurrida.
+
+---
+class: animated, fadeIn
+
+### Chile
+
+6.Art. 483. Excepcionalmente, contra la resolución que falle el recurso de nulidad, podrá interponerse **recurso de unificación de jurisprudencia**. Procederá el recurso de unificación de jurisprudencia cuando respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia. 
+
+7.Art. 483-A. El recurso de que trata el artículo precedente, deberá interponerse ante la Corte de Apelaciones correspondiente en el plazo de quince días desde la notificación de la sentencia que se recurre, para que sea conocido por la Corte Suprema. 
+
+[No aplica en el monitorio, ver art. 502.]
+
+[La interposición de este recurso no suspende la ejecución de la resolución recurrida].
+
+---
+class: animated, fadeIn
+
+# Colombia
+
+1. Corte Suprema. Sala de Casación Laboral
+
+ a) Del recurso de casación.
+
+ b) Del recurso de anulación de los laudos proferidos por tribunales de arbitramento que decidan conflictos colectivos de carácter económico.
+
+ c) Del recurso de queja contra los autos que nieguen el recurso de casación o el de anulación.
+
+ d) Del recurso de revisión que no esté atribuido a los Tribunales Superiores de Distrito Judicial.
+
+2. Las Salas Laborales de los Tribunales Superiores de Distrito Judicial
+
+ a) Del recurso de apelación contra los autos señalados en este código y contra las sentencias proferidas en primera instancia.
+
+ b) Del recurso de anulación de los laudos proferidos por tribunales de arbitramento que decidan conflictos de carácter jurídico.
+
+ c) Del grado de consulta en los casos previstos en este código.
+
+---
+class: animated, fadeIn
+
+### Colombia
+
+ d) Del recurso de queja contra los autos que nieguen el recurso de apelación o el de anulación.
+
+ e) Del recurso de revisión, contra las sentencias dictadas por los jueces de circuito laboral.
+
+3.Recursos
+
+ a) Reposición, contra los autos interlocutorios
+
+ b) Apelación, contra autos y sentencia de primera instancia.
+
+ c) El de súplica. [En la práctica es inoperante; está desarrollado en el CPC, no en el laboral donde nada se dice].
+
+ d) El de casación: sólo serán susceptibles del recurso de casación los procesos cuya cuantía exceda de ciento veinte (120) veces el salario mínimo legal mensual vigente (US$29,000 aprox. a julio 2020). 
+
+---
+class: animated, fadeIn
+
+### Colombia
+
+ e) El de queja, por denegatoria de los recursos de apelación o casación.
+
+ f) Consulta: Las sentencias de primera instancia, cuando fueren totalmente adversas a las pretensiones del trabajador, afiliado o beneficiario serán necesariamente consultadas con el respectivo Tribunal si no fueren apeladas. También serán consultadas las sentencias de primera instancia cuando fueren adversas a la Nación, al Departamento o al Municipio o a aquellas entidades descentralizadas en las que la Nación sea garante.
+
+ g) El de revisión. Cuando aparece un hecho que cambiaría el sentido del fallo.
+
+ h) El de anulación. Busca que el procedimiento esté conforme al ordenamiento.
+ 
+---
+class: animated, fadeIn
+
+### Colombia
+
+Causales:
+
+1) Ser la sentencia violatoria de la ley sustancial, por infracción directa, aplicación indebida o interpretación errónea. Si la violación de la ley proviene de apreciación errónea o de falta de apreciación de determinada prueba, es necesario que se alegue por el recurrente sobre este punto, demostrando haberse incurrido en error de derecho, o en error de hecho que aparezca de modo manifiesto en los autos. Sólo habrá lugar a error de derecho en la casación del trabajo, cuando se haya dado por establecido un hecho con un medio probatorio no autorizado por la ley, por exigir esta al efecto una determinada solemnidad para la validez del acto, pues en este caso no se debe admitir su prueba por otro medio y también cuando deja de apreciarse una prueba de esta naturaleza, siendo el caso de hacerlo.
+
+2) Contener la sentencia de decisiones que hagan más gravosa la situación de la parte que apeló de la de primera instancia, o de aquella en cuyo favor se surtió la consulta.
+
+3) Haberse incurrido en alguna de las causales de que trata el artículo 448 del Código de Procedimiento Civil*, siempre que la nulidad no haya sido saneada de conformidad con la ley.
+
+---
+class: animated, fadeIn
+
+### Colombia
+
+• Artículo 336. C.G.P. Causales de casación. Son causales del recurso extraordinario de casación: 1. La violación directa de una norma jurídica sustancial. 2. La violación indirecta de la ley sustancial, como consecuencia de error de derecho derivado del desconocimiento de una norma probatoria, o por error de hecho manifiesto y trascendente en la apreciación de la demanda, de su contestación, o de una determinada prueba. 3. No estar la sentencia en consonancia con los hechos, con las pretensiones de la demanda, o con las excepciones propuestas por el demandado o que el juez ha debido reconocer de oficio. 4. Contener la sentencia decisiones que hagan más gravosa la situación del apelante único. 5. Haberse dictado sentencia en un juicio viciado de algunas de las causales de nulidad consagradas en la ley, a menos que tales vicios hubieren sido saneados. La Corte no podrá tener en cuenta causales de casación distintas de las que han sido expresamente alegadas por el demandante. Sin embargo, podrá casar la sentencia, aún de oficio, cuando sea ostensible que la misma compromete gravemente el orden o el patrimonio público, o atenta contra los derechos y garantías constitucionales.
+
+4)Artículo 341. C.G.P. Efectos del recurso. **La concesión del recurso no impedirá que la sentencia se cumpla**, salvo cuando verse exclusivamente sobre el estado civil, o se trate de sentencia meramente declarativa, o cuando haya sido recurrida por ambas partes.
+
+---
+class: animated, fadeIn
+
+# Ecuador
+
+1. Artículo 253.- Aclaración y ampliación.- La aclaración tendrá lugar en caso de sentencia oscura. La ampliación procederá cuando no se haya resuelto alguno de los puntos controvertidos o se haya omitido decidir sobre frutos, intereses o costas.
+
+2. Artículo 254.- Revocatoria y reforma.- Por la revocatoria la parte pretende que el mismo órgano jurisdiccional que pronunció un auto de sustanciación lo deje sin efecto y dicte otro en sustitución. También será admisible la reforma, en cuyo caso se enmendará la providencia en la parte que corresponda.
+
+3. Artículo 256.- Procedencia. El recurso de apelación procede contra las sentencias y los autos interlocutorios dictados dentro de primera instancia así como contra las providencias con respecto a las cuales la ley conceda expresamente este recurso. Se interpondrá de manera oral en la respectiva audiencia.
+
+ Por regla general, la apelación se concederá con efecto suspensivo. El efecto diferido se concederá en los casos en que la ley así lo disponga.
+
+---
+class: animated, fadeIn
+
+## Ecuador
+
+4.Las sentencias adversas al sector público se elevarán en consulta a la respectiva Corte Provincial, aunque las partes no recurran, salvo las sentencias emitidas por los Jueces de lo Contencioso Administrativo y Tributario. En la consulta se procederá como en la apelación.
+
+5.Artículo 266.- Procedencia. El recurso de casación procederá contra las sentencias y autos que pongan fin a los procesos de conocimiento dictados por las Cortes Provinciales de Justicia y por los Tribunales Contencioso Tributario y Contencioso Administrativo. Igualmente procederá respecto de las providencias expedidas por dichas cortes o tribunales en la fase de ejecución de las sentencias dictadas en procesos de conocimiento, si tales providencias resuelven puntos esenciales no controvertidos en el proceso ni decididos en el fallo o contradicen lo ejecutoriado.
+
+---
+class: animated, fadeIn
+
+## Ecuador
+
+6.Artículo 268.- Casos. El recurso de casación procederá en los siguientes casos:
+
+1.Cuando se haya incurrido en aplicación indebida, falta de aplicación o errónea interpretación de normas procesales, que hayan viciado al proceso de nulidad insubsanable o causado indefensión y hayan influido por la gravedad de la transgresión en la decisión de la causa, y siempre que la respectiva nulidad no haya sido subsanada en forma legal.
+
+2.Cuando la sentencia o auto no contenga los requisitos exigidos por la ley o en su parte dispositiva se adopten decisiones contradictorias o incompatibles así como, cuando no cumplan el requisito de motivación.
+
+ 3.Cuando se haya resuelto en la sentencia o auto lo que no sea materia del litigio o se haya concedido más allá de lo demandado, o se omita resolver algún punto de la controversia
+
+ 4.Cuando se haya incurrido en aplicación indebida, falta de aplicación o errónea interpretación de los preceptos jurídicos aplicables a la valoración de la prueba, siempre que hayan conducido a una equivocada aplicación o a la no aplicación de normas de derecho sustantivo en la sentencia o auto.
+
+---
+class: animated, fadeIn
+
+## Ecuador
+
+5.Cuando se haya incurrido en aplicación indebida, falta de aplicación o errónea interpretación de normas de derecho sustantivo, incluyendo los precedentes jurisprudenciales obligatorios, que hayan sido determinantes en la parte dispositiva de la sentencia o auto.
+
+No procede el recurso de casación, cuando de manera evidente, lo que se pretende es la revisión de la prueba.
+
+7.Artículo 271.- Caución y suspensión de la ejecución. El recurrente podrá solicitar, al interponer el recurso, que se suspenda la ejecución de la sentencia o auto recurrido, rindiendo caución suficiente sobre los perjuicios estimados que la demora en la ejecución de la sentencia o auto pueda ocasionar a la contraparte. El Tribunal correspondiente establecerá el monto de la caución al momento de expedir el auto que califica la oportunidad del recurso, en el término máximo de tres días desde su presentación. Si la caución es consignada dentro del término de diez días posteriores a la notificación del auto de calificación del recurso, se dispondrá la suspensión de la ejecución de la sentencia o auto. En caso contrario, se ordenará su ejecución.
+
+8.Artículo 278.- Procedencia. El recurso de hecho procede contra las providencias que niegan un recurso de apelación o de casación, a fin de que la o el juzgador competente las confirme o las revoque.
+
+---
+class: animated, fadeIn
+
+# Uruguay
+
+1. Aclaración, ampliación, reposición, apelación, queja por denegación de apelación, revisión y casación
+
+2. Reposición y apelación con efecto diferida contra autos interlocutorios.
+
+3. Apelación con efecto suspensivo en el caso del proceso ordinario laboral.
+
+4. El recurso de apelación procede contra la sentencia definitiva y contra la interlocutoria que pongan fin al proceso.
+
+5. La sentencia que pone fin al proceso será susceptible de los recursos de aclaración y ampliación que se interpondrán, sustanciarán y resolverán en los mismos plazos: recursos en el caso de los procesos de menor cuantía.
+
+---
+class: animated, fadeIn
+
+#### Uruguay
+
+6.Casación: conforme al Código General del Proceso:
+
+a) Artículo 268 Procedencia.- El recurso de casación procede contra las sentencias dictadas en segunda instancia por los Tribunales de Apelaciones en lo Civil, de Trabajo y de Familia, así como los Juzgados Letrados de Primera Instancia, sean definitivas o interlocutorias con fuerza de definitivas. No será procedente el recurso de casación cuando la sentencia de segunda instancia confirme en todo, y sin discordia, a la sentencia de primera instancia, excepto cuando se trate de juicios seguidos contra el Estado, los Gobiernos Departamentales, los Entes Autónomos y Servicios Descentralizados en general. En estos casos, aun mediando sentencia de segunda instancia que confirme en todo y sin discordias la sentencia de primera instancia, el recurso será admisible cuando se trate de asuntos cuyo monto superare el importe equivalente a 6.000 UR (seis mil unidades reajustables).
+
+b) Artículo 270 Causales de casación.- El recurso sólo podrá fundarse en la existencia de una infracción o errónea aplicación de la norma de derecho, sea en el fondo o en la forma. Se entenderá por tal, inclusive, la infracción a las reglas legales de admisibilidad o de valoración de la prueba. No se tendrán en cuenta los errores de derecho que no determinaren la parte dispositiva de la sentencia. En cuanto a las normas de procedimiento, sólo constituirá causal la infracción o errónea aplicación de aquellas que sean esenciales para la garantía del debido proceso y siempre que la respectiva nulidad no haya sido subsanada en forma legal.
+
+---
+class: animated, fadeIn
+
+#### Uruguay
+
+c)Artículo 275 Efectos del recurso.- 275.1 Salvo que el proceso versare sobre el estado civil de las personas, **la interposición del recurso no impedirá que la sentencia se cumpla**, para lo cual deberá expedirse, a pedido de parte, testimonio de la misma. Cuando la sentencia ejecutada fuere, en definitiva, casada y sustituida por otra que la modifique total o parcialmente, se procederá, en lo pertinente, conforme con lo dispuesto por el artículo 375. (Ordenará que se vuelvan las cosas a su estado anterior con más los daños y perjuicios que correspondieren).
+
+275.2 Sin embargo, al interponer el recurso o dentro del término para hacerlo, podrá solicitar el recurrente que se suspenda la ejecución de la sentencia, prestando garantía para responder de los perjuicios que a la parte contraria pudiere ocasionar la demora, sin perjuicio de lo dispuesto por el artículo 260.3. El monto y la naturaleza de la garantía serán fijados, en forma irrecurrible, por el tribunal en la providencia que conceda el recurso y disponga la suspensión de la ejecución. Dicha garantía deberá constituirse dentro de los diez días siguientes al de la notificación de aquélla. Si así no se hiciere ni se solicitare prórroga de dicho plazo o ésta se denegare, se dispondrá el cumplimiento de la sentencia. 275.3 La caución se cancelará por el tribunal si la sentencia es casada. De lo contrario seguirá garantizando los mencionados perjuicios, que se liquidarán por el procedimiento establecido por el artículo 378.3.
+
+---
+class: animated, fadeIn
+
+## Venezuela
+
+1. Apelación
+
+2. Casación
+
+ a) 1. Contra las sentencias de segunda instancia que pongan fin al proceso, cuyo interés principal exceda de tres mil unidades tributarias (3.000 U.T.). 2. Contra los laudos arbitrales, cuando el interés principal de la controversia exceda de tres mil unidades tributarias (3.000 U.T.).
+
+ b) Artículo 172. Se declarará con lugar el recurso de casación: 1. Cuando en el proceso se hayan quebrantado u omitido formas sustanciales de los actos que menoscaben el derecho a la defensa. 2. Cuando se haya incurrido en un error de interpretación acerca del contenido y alcance de una disposición expresa de la ley o aplicada falsamente una norma jurídica; cuando se aplique una norma que no esté vigente, o se le niegue aplicación y vigencia a una que lo esté; o cuando se haya violado una máxima de experiencia. En estos casos, la infracción tiene que haber sido determinante de lo dispositivo en la sentencia. 3. Por falta, contradicción, error, falsedad o manifiesta ilogicidad de la motivación.
+
+ c) La ejecución empieza cuando el expediente es devuelto al tribunal (juzgado) de sustanciación, mediación y ejecución, ya sea por el tribunal superior o el tribunal suprema.
+
+---
+class: animated, fadeIn
+
+### Venezuela
+
+3.Control de la Legalidad
+
+ a) Artículo 182. El Tribunal Supremo de Justicia en Sala de Casación Social podrá, a solicitud de parte, conocer de aquellos fallos emanados de los Tribunales Superiores del Trabajo, que aún y cuando no fueran recurribles en casación, sin embargo, violenten o amenacen con violentar las normas de orden público laboral o cuando la sentencia recurrida sea contraria a la reiterada doctrina jurisprudencial de dicha Sala de Casación.
+
+---
+class: animated, fadeIn
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6jxd{border-color:inherit;font-family:Georgia, serif !important;;text-align:left;vertical-align:top}
+.tg .tg-v0f8{background-color:#c0c0c0;border-color:inherit;font-family:Georgia, serif !important;;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-6n4m{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-weight:bold;
+  text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6n4m">País</th>
+    <th class="tg-6n4m">Recursos</th>
+    <th class="tg-6n4m">Casación*</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v0f8">Bolivia</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación<br>- Casación<br>- Compulsa x neg. apel. cas.<br>- Rec. extraord. rev. sent.</td>
+    <td class="tg-6jxd">- Suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Chile</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación (sent. interl.)<br>- de Nulidad (sent. def.)<br>- Unif. jurisprudencia*</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Colombia</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación<br>- Casación<br>- Queja por denegatoria<br>- Consulta<br>- Revisión<br>- Anulación</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Ecuador</td>
+    <td class="tg-6jxd">- Aclaración y ampliación<br>- Revocatoria y reforma<br>- Apelación<br>- Casación</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Uruguay</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación<br>- Queja por denegatoria apel.<br>- Revisión<br>- Casación</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Venezuela</td>
+    <td class="tg-6jxd">- Apelación<br>- Casación<br>- Control de legalidad</td>
+    <td class="tg-6jxd">- Suspende ejecución</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, center, middle, inverse, bounceInDown
+
+# Mecanismos alternativos de resolución de conflictos
+
+# Conciliación y .red[arbitraje]
+
+---
+class: animated, fadeIn
+
+.left-column[
+# .verde[Caso 1:]
+]
+
+.right-column[
+Un trabajador después de 35 años de servicios es despedido imputándosele la comisión de una falta grave. Esta consiste en el incumplimiento de sus obligaciones de trabajo que supone el quebrantamiento de la buena fe laboral. El trabajador entra en contacto con su exempleador y luego de varias reuniones han llegado al siguiente acuerdo:
+
+1. El trabajador (extrabajador) se compromete a no interponer ninguna demanda y, en caso que la hubiese interpuesto, se compromete a desistirse de la pretensión. Declara que no tiene nada que reclamar a su empleador.
+
+2. A cambio, el empleador se compromete --y cumple-- contratar al hijo menor de su extrabajador.
+
+***
+
+> #### ¿Usted daría su conformidad al acuerdo? ¿Por qué?
+
+]
+
+---
+class: animated, fadeIn
+
+.left-column[
+# .verde[Caso 2:]
+]
+.right-column[
+Un trabajador después de más de 10 años de servicios reclama el pago de sus beneficios sociales a su empleador. Nunca le entregó recibo, ni boletas, pero cada fin de mes le pagaba el monto acordado: S/750.00. El extrabajador solicita el pago de las gratificaciones legales, asignación familiar, CTS y, en general, los beneficios que por ley corresponden a los trabajadores sujetos a la actividad privada. El exempleador tiene la voluntad de llegar a un acuerdo. Uno de los puntos de discusión es la fecha de inicio, pues desde esa fecha empezaría el reconocimiento de los derechos. Luego de varias conversaciones las partes llegan al siguiente acuerdo: 
+
+1. Considerar como fecha de ingreso el 1 de julio de 2015.
+2. Calcular los beneficios de ley considerando la suma de S/750.00.
+3. Pagar la suma que arroje dicho cálculo en el plazo de 3 días hábiles.
+
+***
+
+> #### ¿Usted daría su conformidad al acuerdo? ¿Por qué?
+]
+
+---
+class: animated, fadeIn
+
+# Conciliación
+
++ Es un mecanismo para resolver un conflicto de intereses.
+
++ ¿De qué manera se resuelve un conflicto en conciliación?
+
+--
+
++ Mediante el acuerdo:: llegando a un acuerdo.
+
+> Es el acuerdo lo que pone fin al conflicto.
+
+> Es el acuerdo el modo de resolver el conflicto.
+
+--
+
++ ¿Ese .red[acuerdo] tiene algún parámetro de validez?
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo adoptado en conciliación
+
+1. **.red[El derecho]:: derechos disponibles de las partes**
+
+> (D. Leg. 1070) Artículo 7.- Materias conciliables
+ 
+> Son materia de conciliación las pretensiones determinadas o determinables que versen sobre derechos disponibles de las partes.
+
++ Entonces, solo los derechos laborales disponibles serían susceptibles de conciliar.
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo adoptado en conciliación
+
+<ol start=2>
+2.  .red[Los hechos]:: la verdad como correspondencia
+</ol>
+
++ Verdad como correspondencia con la realidad: `"La afirmación 'La Tierra es plana' es V/F porque hay suficientes elementos de corroboración de lo afirmado".`
+  
++ Verdad como consenso: acuerdo: `"Todos (la mayoría, algunos, alguien) acordamos que 'La Tierra es plana'."`
+
+  + Los motivos del acuerdo pueden ser las creencias, la conveniencia, la utilidad, etc.
+
++ Verdad como persuasión: victoria en el ánimo, en la conciencia del decisor: `"Tengo la convicción, la certeza, de que 'la Tierra es plana'."`
+
+---
+class: animated, fadeIn
+
+## El principio dispositivo
+
++ Iniciativa de parte
+
++ Según lo alegado y probado"
+
+> Yo soy dueño de mis conflictos
+
+> Yo los propongo, yo los concluyo
+
+---
+class: animated, fadeIn
+
+## ¿Cuál es la función del proceso?
+
+1. El proceso como mero mecanismo de resolución de controversias .red[antes] que como `actuación del derecho:: antes que como decir derecho:: aplicar derecho`.
+
+2. El proceso como instancia de `construcción de una realidad para persuadir al juzgador`.
+
+3. El proceso como un `mecanismo de solución de conflictos donde se aplica el derecho vigente en un país sobre los hechos sucedidos` antes que como mera instancia de resolución de controversias.
+
+---
+class: animated, fadeIn
+
+# La NLPT y la conciliación
+
+> Artículo 30.- Formas especiales de conclusión del proceso
+
+> El proceso laboral puede concluir, de forma especial, por conciliación, allanamiento, reconocimiento de la demanda, transacción, desistimiento o abandono. También concluye cuando ambas partes inasisten por segunda vez a cualquiera de las audiencias programadas en primera instancia.
+
+> La conciliación y la transacción pueden ocurrir dentro del proceso, cualquiera sea el estado en que se encuentre, hasta antes de la notificación de la sentencia con calidad de cosa juzgada. El juez puede en cualquier momento invitar a las partes a llegar a un acuerdo conciliatorio, sin que su participación implique prejuzgamiento y sin que lo manifestado por las partes se considere declaración. Si ambas partes concurren al juzgado llevando un acuerdo para poner fin al proceso, el juez le da trámite preferente en el día.
+
+---
+class: animated, fadeIn
+
+# La NLPT y la conciliación
+
+> Para que un acuerdo conciliatorio o transaccional ponga fin al proceso debe superar el test de disponibilidad de derechos, para lo cual se toman los siguientes criterios:
+
+> a) El acuerdo debe versar sobre derechos nacidos de una norma dispositiva, debiendo el juez verificar que no afecte derechos indisponibles;
+
+> b) debe ser adoptado por el titular del derecho; y
+
+> c) debe haber participado el abogado del prestador de servicios demandante.
+
+> Los acuerdos conciliatorios y transaccionales también pueden darse independientemente de que exista un proceso en trámite, en cuyo caso no requieren ser homologados para su cumplimiento o ejecución. La demanda de nulidad del acuerdo es improcedente si el demandante lo ejecutó en la vía del proceso ejecutivo habiendo adquirido, de ese modo, la calidad de cosa juzgada.
+
+---
+class: animated, fadeIn
+
+# La NLPT y la conciliación
+
+## Características del acuerdo en conciliación:
+
+### 1. Libre
+
+### 2. Informado
+
+### 3. De buena fe
+
+---
+class: animated, fadeIn
+
+# El arbitraje jurídico en materia laboral
+
++ Es un mecanismo para resolver un conflicto de intereses.
+
++ ¿De qué manera se resuelve un conflicto jurídico en arbitraje?
+
+--
+
++ Aplicando derecho
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo de someter el conflicto a arbitraje jurídico
+
+1. **.red[El derecho]:: derechos disponibles de las partes y aquellas que la ley autorice**
+
+> (D. Leg. 1071) Artículo 2.- Materias susceptibles de arbitraje.
+
+> 1. Pueden someterse a arbitraje las controversias sobre materias de libre disposición conforme a derecho, así como aquellas que la ley o los tratados o acuerdos internacionales autoricen.
+
++ Entonces, solo los derechos laborales disponibles serían susceptibles de llevar a arbitraje.
+
++ Pero también podría sostenerse que `lo laboral` es una materia autorizada por ley.
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo de someter el conflicto a arbitraje jurídico
+
+> (NLPT. Disp. Complem.) SEXTA.- Las controversias jurídicas en materia laboral pueden ser sometidas a arbitraje, siempre y cuando el convenio arbitral se inserte a la conclusión de la relación laboral y, adicionalmente, la remuneración mensual percibida sea, o haya sido, superior a las setenta (70) Unidades de Referencia Procesal (URP).
+
++ De cumplir 2 condiciones:
+
+1. El convenio arbitral solo puede pactarse a la conclusión de la relación laboral; y,
+
+2. La remuneración mensual percibida debe haber sido mayor a 70 URP (en 2020 > S/30,100)
+
+---
+class: animated, fadeIn
+
+# La NLPT y el arbitraje jurídico
+
+## Características del acuerdo que somete el conflicto a arbitraje jurídico:
+
+### 1. Libre
+
+### 2. Con garantía de solvencia
+
+### 3. De buena fe
+
+---
+class: animated, fadeIn, center, middle
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-10o3{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-7f10{background-color:#c0c0c0;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-w396{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-4s63{border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-10o3"></th>
+    <th class="tg-w396">Conciliación prejudicial<br>obligatoria</th>
+    <th class="tg-w396">Conciliación facultativa<br>para el trabajador</th>
+    <th class="tg-w396">Conciliación intrajudicial</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7f10">Argentina</td>
+    <td class="tg-4s63">Sí. Ley 24.635. SECLO</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Bolivia</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">No</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Chile</td>
+    <td class="tg-4s63">En caso de monitorio<br>- Ante Inspección del trabajo<br>- Hasta 10 ing. min. men. (S/15,000)</td>
+    <td class="tg-4s63">Sí<br></td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Colombia</td>
+    <td class="tg-4s63">Fue declarada inexequible<br>por la Corte Constitucional<br>C-893/01</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Ecuador</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">España</td>
+    <td class="tg-4s63">Sí. Ley 36/2011</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">--</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Uruguay</td>
+    <td class="tg-4s63">Sí. Ley 18.572</td>
+    <td class="tg-4s63"></td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Venezuela</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

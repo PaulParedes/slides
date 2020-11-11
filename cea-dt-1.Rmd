@@ -1,0 +1,696 @@
+---
+title: "XVI Curso de Especialización en Derecho del Trabajo"
+subtitle: "La función jurisdiccional"
+author: "Paul Paredes"
+institute: "Centro de Educación Continua, PUCP"
+date: "14 de julio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle, animated, slideInRight
+
+# Clase 1
+
+---
+class: animated, fadeIn
+
+# Presentación
+
+--
+
++ ### La (necesidad) reforma de los procesos laborales en América Latina
+
++ ### Los ejes de la reforma procesal en Perú
+
++ ### Los beneficios esperados
+
++ ### La tendencia en América Latina
+
++ ### Fundamentos del proceso laboral
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: animated, fadeIn, center, middle
+
+# ¿Por qué plantear una reforma de la justicia laboral?
+
+---
+class: animated, fadeIn
+
+# Algunas razones...
+
+### + Proceso breve y sencillo
+
+### + Acceso a la justicia
+
+### + Medidas de protección
+
+---
+class: animated, fadeIn
+
+# Los ejes (oficiales) de la reforma procesal
+
+## R.M. 044-2008-TR (febrero de 2008)
+
+# 1. La oralidad
+
+# 2. Uso intensivo de la tecnología
+
+---
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/rm044-2008-tr.png)
+background-size: auto
+background-position: center
+
+---
+class: animated, fadeIn
+
+# Qué actividades se realizaron para elaborar el nuevo diseño procesal
+
+### 1. Plantear como pilares la oralidad y el uso intensivo de la tecnología (¿y el acceso a la justicia?)
+
+### 2. Comisión de redacción
+
+### 3. Viajes
+
+### 4. Códigos
+
+### 5. Comisión de revisión
+
+### 6. Foros de discusión
+
+---
+class: animated, fadeIn
+
+# Tareas (necesarias) para la reforma
+
+### 1. Formación y capacitación
+
+### 2. Implementación material de los despachos. Infraestructura
+
+### 3. La NLPT
+
+### 4. Seguimiento y retroalimentación del nuevo proceso
+
+---
+class: animated, fadeIn
+
+# Beneficios esperables (?) de la reforma
+
+### 1. Celeridad: 6 meses
+
+### 2. Ensanchamiento de la base poblacional con acceso a la justicia laboral
+
+### 3. Simplicidad del procedimiento
+
+### 4. Predictibilidad de la justicia laboral
+
+### 5. Modernidad de los procedimientos
+
+### 6. Revaloración del rol de la Corte Suprema
+
+---
+class: animated, fadeIn, center, middle
+
+# 1. La oralidad
+
+> # «hay que **diseñar** un procedimiento laboral que sea oral»
+
+---
+class: animated, fadeIn, center, middle
+# ... pero
+
+# ¿La Ley 26636 regula, incorpora, describe un proceso *escrito*?
+
+---
+class: animated, fadeIn, center, middle
+
+> ### «El moderno **‘sistema de la oralidad’** [es aquel] en el cual las partes, los defensores y los testigos **hablan**, más que escriben, **al juez** en la **audiencia** pública, y en el cual, por tanto, la audiencia viene a constituir el momento más importante del proceso.»
+
+> Mauro Cappelletti
+
+---
+class: animated, fadeIn, center, middle
+
+> # proceso oral.
+> ## 1. Proceso que reúne, en la audiencia, a las partes, sus abogados, el material probatorio y el juez, para conocer y resolver una causa.
+
+---
+class: animated, fadeIn, center, middle
+
+> ### «Las audiencias y actuación de los medios probatorios se realizan ante el juez, siendo indelegables bajo sanción de nulidad».
+
+> Artículo I, Título Preliminar, Ley 26636
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+> # «No basta cambiar la ley para tener procesos orales»
+
+---
+class: animated, fadeIn
+
+# 2. Uso intensivo de la tecnología
+
+### 1. Notificaciones electrónicas, a cargo del PJ
+
+### 2. Expediente electrónico, a cargo del PJ
+
+### 3. Base de datos de jurisprudencia y precedentes sistematizada, a cargo del MTPE, con la colaboración del PJ y TC
+
+### 4. Sistema de cálculo de derechos laborales, a cargo del MTPE con la colaboración del PJ
+
+### 5. Sistema de remisión electrónico de información de las planillas electrónicas, a cargo del MTPE
+
+---
+class: animated, fadeIn
+
+# La reforma en América Latina
+
+### 1. Perspectiva estática
++ Legislativa
++ ¿Cómo es el proceso laboral?
+
+### 2. Perspectiva dinámica
++ El proceso en acción
++ ¿Cómo funciona (cómo viene funcionando) el proceso laboral?
+
+---
+class: animated, fadeIn
+
+# Países que han implementado reformas laborales
+
++ Venezuela, agosto 2003
+
++ Ecuador, julio 2004
+
++ Colombia, enero 2008
+
++ Chile, marzo 2008
+
++ Bolivia, (1979), 2009
+
++ Uruguay, febrero 2010
+
++ Perú, enero-julio 2010
+
+---
+class: animated, fadeIn
+
+# La experiencia ecuatoriana 
+
++ Oralidad, inmediación, concentración
+
++ Grabación magnetofónica
+
++ Trascripción en acta
+
+---
+class: animated, fadeIn
+
+# La experiencia venezolana
+
++ Infraestructura
+
++ Capacitación
+
++ Efectividad de la conciliación (85%)
+
++ Oralidad, inmediación, concentración
+
++ Grabación audiovisual
+
++ Sentencia al final de la audiencia de juicio
+
++ Lentitud en la etapa de casación
+
+---
+class: animated, fadeIn
+
+# La tendencia actual a la oralidad
+
++ Mayor dosis de oralidad (que no excluye la escritura, sino que acerca, concentra y simplifica)
+
++ Uso de nuevas tecnologías
+
++ Rol protagónico del juez
+
++ Fortalecimiento de los mecanismos alternativos de solución de conflictos
+
++ Protección especial frente a la vulneración de derechos fundamentales
+
+---
+class: animated, fadeIn
+
+# La tendencia actual a la oralidad
+
++ Principio protector
+
+  + Igualdad por compensación
+
+  + Fondo vs. Forma
+
+  + A favor del proceso
+
+  + Simplicidad
+
+  + Acceso a la justicia
+
+  + Debido proceso / tutela judicial
+
+---
+class: animated, fadeIn
+
+# La tendencia actual a la oralidad
+
++ Principio protector
+
+  + Ampliación de las medidas cautelares y celeridad en la ejecución de la sentencia
+
+  + Igualdad en la aplicación de la ley
+
+  + Predictibilidad de las resoluciones
+
+  + Eficacia de la justicia
+
+  + Una justicia pronta
+
+  + La teoría del caso*
+
+---
+class: animated, slideInRight, center, middle
+
+# Hoy en día, ¿qué cambio **tecnológico** o de **diseño procesal** propondría usted sobre el proceso laboral? ¿Por qué?
+
+---
+class: animated, bounceInDown, inverse
+
+# Octava Sala Laboral de Lima, 18 de junio de 2020
+
+.center[
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Foctavasalalaboraldelima%2Fvideos%2F633063550753094%2F&show_text=0&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+]
+
+---
+class: animated, slideInRight, center, middle
+
+# ¿Por qué (debe haber) un proceso laboral?
+
+---
+class: animated, fadeIn
+
+# Poder. Estado social. 
+  + Intervención en la economía para asegurar ciertos derechos básicos
+
+# Justicia
+  + Justicia distributiva
+  + Justicia correctiva (conmutativa)
+
+---
+class: animated, fadeIn
+
+# Igualdad (en la distribución)
+  + De características
+  + De trato (a los iguales, misma categoría)
+    + a c/u lo mismo
+    + a c/u lo de la ley
+    + a c/u según su rango
+    + a c/u según su mérito
+    + a c/u según su trabajo
+    + a c/u según su necesidad
+
+# Igualdad (¿cómo distribuir?)
+  + En el proceso de distribución igualitario
+  + En el resultado igualitario
+  
+---
+class: animated, fadeIn  
+
+# Tres nociones de igualdad en las constituciones
+
+1. Igualdad política
+  + Reparto del poder político en una sociedad
+  + Participación en la producción de las normas jurídicas
+
+2. Igualdad ante la ley
+  + Normas generales y no arbitrarias: casos iguales, se resuelven iguales
+  + Prohibición de discriminar: (no siempre hay que tratar igual a todos en ciertas circunstancias, pero nunca se puede utilizar ciertas características para diferenciar el trato)
+
+3. Igualdad en la ley (a través de la ley)
+  + La aplicación del Derecho debe producir resultados igualitarios en cuanto a las condiciones de vida de los ciudadanos
+  + Podría parecer ir contra la igualdad ante la ley en abstracto (acción afirmativa)
+
+---
+class: animated, fadeIn
+
+# Couture
+
+### **Couture** planteó que la razón de ser del Derecho procesal del trabajo era asegurar ciertos resultados mínimos de justicia dentro de la desigual relación del trabajo, y que para lograrlo era necesario establecer la igualdad mediante una desigualdad: la igualdad por compensación.
+
+.left-column[
+# Pregunta:
+]
+.right-column[
+### ¿Qué noción de igualdad daría respaldo a la postura de Couture?
+]
+
+---
+class: animated, fadeIn
+
+# Impacto de la desigualdad (económica y social)
+
++ En la configuración de las relaciones laborales
+
++ En el valor epistémico de la prueba
+
++ En valores de política pública (p. ej. la justicia distributiva)
+
+---
+class: animated, fadeIn
+
+# La desigualdad como fundamento del proceso laboral (dos perspectivas)
+
+## 1. La desigualdad material y la igualdad por compensación
+
+## 2. La igualdad en el principio dispositivo
+
+---
+class: animated, fadeIn
+
+# 1. La desigualdad material y la igualdad por compensación
+
+1. La igualdad por compensación: el procedimiento lógico de corregir las desigualdades es el crear otras desigualdades
+  + El principio de imparcialidad: igualdad de armas
+    + Quien produce y conserva un medio de prueba | Sin acceso al medio de prueba
+    + Quien dispone cómo ejecutar un servicio y cómo se deja constancia de ello | Quien está sometido a las órdenes
+    + La igualdad de armas es un objetivo por cumplir
+    + Importancia de los poderes del juez
+
+**+ La igualdad por compensación se posiciona como el fundamento de las actuaciones procesales en los conflictos laborales**.
+
+---
+class: animated, fadeIn
+
+# Tres datos como respaldo epistémico a la desigualdads de las relaciones jurídicas laborales en el Perú
+
+### 1. Informalidad laboral: en 2015, 55.5%; en microempresas, 88.7%
+
+### 2. Contratos a plazo fijo: 78% fijos vs. 22% indeterminado
+
+### 3. Sindicación y cobertura de la negociación colectiva: 6% y 5.1%, respectivamente.
+
+---
+class: animated, fadeIn
+
+# 2. La igualdad en el principio dispositivo
+
+1. El principio dispositivo (según lo alegado y probado) prohíbe apreciar, de oficio, hechos relevantes que constan en el proceso pero que no han sido propuestos expresamente por las partes.
+
+2. De vincular al juez a lo alegado y probado no se sigue, necesariamente, que la actuación del juez esté completamente sometida a las partes.
+
+---
+class: animated, fadeIn
+
+# Principio dispositivo
+
++ Afirmar la sujeción del juez a la soberanía de las partes camufla una idea de desigualdad: si las partes son soberanas, entonces, son igualmente soberanas.
+
++ ¿Son las partes iguales?
+
++ Si todo se deja al principio dispositivo (en su versión más restrictiva), entonces se niega el derecho de defensa de una de las partes.
+
++ Se trata de afirmar el p. dispositivo pero sin llevar a convertir al proceso en "una cosa de las partes"
+
++ Presencia de algunas notas del p. inquisitivo en clave de optimización de la decisión. 
+
++ Pero también en clave de optimización epistémica (evitar que se cree una realidad paralela y el sistema procesal no tendría nada que decir)
+
+---
+class: animated, fadeIn
+
+### Mario Pasco. Fundamentos de derecho procesal del trabajo
+
+### Principios del derecho procesal del trabajo 
+
+### A. VERACIDAD 
+1. Limitación al formalismo (prevalencia fondo sobre forma)
+  + simplicidad 
+  + prohibición de pruebas (juramento decisorio)
+  + relativización de ciertas pruebas (declaración de parte, confesión, instrumentos)
+  + libertad probatoria 
+
+2. Ampliación facultades juez
+  + inhibición de oficio 
+  + suplencia demanda 
+  + impulso procesal 
+  + sentencia inmediata 
+
+3. Facultad ultra y extra petita 
+
+---
+class: animated, fadeIn
+
+### B. PRINCIPIO PROTECTOR 
+1. Reglas pro operario 
+  + Retroactividad 
+  + In dubio pro operario 
+  + Norma más favorable 
+  + Condición más beneficiosa 
+
+2. Iniciativa de oficio del proceso 
+
+3. Redistribución de la carga de la prueba 
+
+4. Otras normas de protección 
+  + Gratuidad 
+  + Defensa gratuita 
+  + Oralidad, concentración, inmediación, celebridad 
+
+5. Ponderación ecuánime del principio protector 
+
+---
+class: animated, fadeIn
+
+### C. CRITERIO DE CONCIENCIA Y EQUIDAD 
+1. Criterio de conciencia en la evaluación de las pruebas 
+2. Equidad 
+
+### Tres funciones de los principios 
+1. Informadora. Inspira al legislador. 
+2. Normativa. Fuente supletoria. 
+3. Interpretadora. 
+
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo I.- Principios del proceso laboral
+
+> El proceso laboral se inspira, entre otros, en los principios de inmediación, oralidad, concentración, celeridad, economía procesal y veracidad.
+	
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo II.- Ámbito de la justicia laboral
+> Corresponde a la justicia laboral resolver los conflictos jurídicos que se originan con ocasión de las prestaciones de servicios de carácter personal, de naturaleza laboral, formativa, cooperativista o administrativa; están excluidas las prestaciones de servicios de carácter civil, salvo que la demanda se sustente en el encubrimiento de relaciones de trabajo. Tales conflictos jurídicos pueden ser individuales, plurales o colectivos, y estar referidos a aspectos sustanciales o conexos, incluso previos o posteriores a la prestación efectiva de los servicios.
+
+---
+class: animated, fadeIn
+
+# NLPT 
+
+>Artículo III.- Fundamentos del proceso laboral
+
+>En todo proceso laboral los jueces deben evitar que la desigualdad entre las partes afecte el desarrollo o resultado del proceso, para cuyo efecto procuran alcanzar la igualdad real de las partes, privilegian el fondo sobre la forma, interpretan los requisitos y presupuestos procesales en sentido favorable a la continuidad del proceso, observan el debido proceso, la tutela jurisdiccional y el principio de razonabilidad. En particular, acentúan estos deberes frente a la madre gestante, el menor de edad y la persona con discapacidad.
+
+> Los jueces laborales tienen un rol protagónico en el desarrollo e impulso del proceso. Impiden y sancionan la inconducta contraria a los deberes de veracidad, probidad, lealtad y buena fe de las partes, sus representantes, sus abogados y terceros.
+
+> El proceso laboral es gratuito para el prestador de servicios, en todas las instancias, cuando el monto total de las pretensiones reclamadas no supere las setenta (70) Unidades de Referencia Procesal (URP).
+
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo IV.- Interpretación y aplicación de las normas en la resolución de los conflictos de la justicia laboral
+
+> Los jueces laborales, bajo responsabilidad, imparten justicia con arreglo a la Constitución Política del Perú, los tratados internacionales de derechos humanos y la ley. Interpretan y aplican toda norma jurídica, incluyendo los convenios colectivos, según los principios y preceptos constitucionales, así como los precedentes vinculantes del Tribunal Constitucional y de la Corte Suprema de Justicia de la República.
+
+---
+class: animated, fadeIn
+
+# En otros países
+
++ Oralidad
++ Gratuidad
++ Prueba de oficio
++ Ultra petita 
++ Extra petita (Colombia, Venezuela)
+
+---
+# Bolivia, Nueva Constitución del Estado, 07/02/2009
+
+Artículo 180. I. La jurisdicción ordinaria se fundamenta en los principios procesales de gratuidad, publicidad, transparencia, oralidad, celeridad, probidad, honestidad, legalidad, eficacia, eficiencia, accesibilidad, inmediatez, verdad material, debido proceso e igualdad de las partes ante el juez.
+II. Se garantiza el principio de impugnación en los procesos judiciales.
+III. La jurisdicción ordinaria no reconocerá fueros, privilegios ni tribunales de excepción. La jurisdicción militar juzgará los delitos de naturaleza militar regulados por la ley.
+
+---
+
+# Bolivia, Código Procesal del Trabajo, Decreto Ley 16896
+
+Vigencia: 25/07/1979
+
+Articulo 3.— Todos los procedimientos y trámites del trabajo se basarán en los siguientes principios:
+
+a) Gratuidad, por el que todas las actuaciones en los juicios y trámites del trabajo serán absolutamente gratuitos.
+
+b) Inmediación, por el que es obligatoria la presencia del juzgador en la celebración de las audiencias, la práctica de las pruebas y otros trámites.
+
+c) Publicidad, por el que las actuaciones y trámites del trabajo serán eminentemente públicos, es decir, que a ellos puedan asistir todos los que libremente así lo deseen.
+
+d) Impulsión de oficio, por el que los juzgadores tienen la obligación de instar las partes a realizar los actos procesales bajo conminatoria de seguir adelante en caso de omisión.
+
+---
+class: animated, fadeIn
+
+# Bolivia
+
+e) Preclusión, por el que el juez, no cumplido por la parte un acto procesal, dentro del tiempo conferido por la ley, determina la clausura de la etapa procesal respectiva.
+
+f) Lealtad procesal, por la que las partes ejerciten en el proceso una actividad exenta de dolo o mala fe.
+
+g) Proteccionismo, por el que los procedimientos laborales busquen la protección y la tutela de los derechos de los trabajadores.
+
+h) Inversión de la prueba, por el que la carga de la prueba corresponde al empleador.
+
+i) Concentración, por la que se evita la diseminación del procedimiento en actuaciones separadas.
+
+j) Libre apreciación de la prueba, por la que el juez valora las pruebas con amplio margen de libertad conforme a la sana lógica, los dictados de su conciencia y los principios enunciados.
+
+---
+class: animated, fadeIn
+
+# Chile, Ley 20.087 que modifica el Libro V del Código del Trabajo
+
+Vigencia: 01/03/2008 (Ley 20.164)
+
+Art. 425. Los procedimientos del trabajo serán orales, públicos y concentrados. Primarán en ellos los principios de la inmediación, impulso procesal de oficio, celeridad, buena fe, bilateralidad de la audiencia y gratuidad.
+
+Todas las actuaciones procesales serán orales, salvo las excepciones expresamente contenidas en esta ley.
+
+Las actuaciones realizadas oralmente, por o ante el juez de la causa, serán registradas por cualquier medio apto para producir fe y que permita garantizar la fidelidad, conservación y reproducción de su contenido. Se considerarán válidos, para estos efectos, la grabación en medios de reproducción fonográfica, audiovisual o electrónica. La audiencia deberá ser registrada íntegramente, como asimismo todas las resoluciones, incluyendo la sentencia que dicte el juez fuera de ella.
+
+---
+class: animated, fadeIn
+
+# Colombia, Ley que reforma el Código Procesal del Trabajo y de la Seguridad Social para hacer efectiva la oralidad en sus procesos, Ley 1149 de 2007
+
+Vigente: 01/01/2008
+
+ARTICULO 39. PRINCIPIO DE GRATUIDAD. La actuación en los procesos del trabajo se adelantará en papel común, no dará lugar a impuesto de timbre nacional ni a derechos de secretaría, y los expedientes, despachos, exhortos y demás actuaciones cursarán libres de porte por los correos nacionales.
+
+ARTICULO 40. PRINCIPIO DE LIBERTAD. Los actos del proceso para los cuales las leyes no prescriban una forma determinada, los realizará el Juez o dispondrá que se lleven a cabo, de manera adecuada al logro de su finalidad.
+
+ARTICULO 42. PRINCIPIOS DE ORALIDAD Y PUBLICIDAD. <Artículo modificado por el artículo 3 de la Ley 1149 de 2007. Ver artículo 15 sobre Régimen de Transición. El nuevo texto es siguiente:> Las actuaciones judiciales y la práctica de pruebas en las instancias, se efectuarán oralmente en audiencia pública, so pena de nulidad, salvo las que expresamente señalen la ley, y los siguientes autos:
+
+---
+class: animated, faceIn
+
+# Colombia
+
+1. Los de sustanciación por fuera de audiencia.
+2. Los interlocutorios no susceptibles de apelación.
+3. Los interlocutorios que se dicten antes de la audiencia de conciliación, saneamiento, decisión de excepciones y fijación del litigio y con posterioridad a las sentencias de instancias.
+
+PARÁGRAFO 1o. En los procesos ejecutivos sólo se aplicarán estos principios en la práctica de pruebas y en la decisión de excepciones.
+
+PARÁGRAFO 2o. El juez limitará la duración de las intervenciones de las partes y de sus apoderados, respetando el derecho a la defensa.
+
+ARTICULO 43. EXCEPCION AL PRINCIPIO DE LA PUBLICIDAD. No obstante lo dispuesto en el artículo anterior, el Juez que dirige la audiencia podrá ordenar que se efectúe privadamente por razones de orden público o de buenas costumbres.
+
+---
+class: animated, fadeIn
+
+# Ecuador, Código del Trabajo, Codificación 2005; Ley 2003-13; Ley 2004-29; Ley 2004-43; Código Orgánico General de Procesos, vigente 22/05/2016
+
+Vigente: 01/07/2014
+
+Artículo 1.- Ámbito. Este Código regula la actividad procesal en todas las materias, excepto la constitucional, electoral y penal, con estricta observancia del debido proceso.
+
+Artículo 2.- Principios rectores. En todas las actividades procesales se aplicarán los principios previstos en la Constitución de la República, en los instrumentos internacionales de derechos humanos, en los instrumentos internacionales ratificados por el Estado, en el Código Orgánico de la Función Judicial y los desarrollados en este
+Código.
+
+---
+class: animated, fadeIn
+
+# Ecuador
+
+Artículo 3.- Dirección del proceso. La o el juzgador, conforme con la ley, ejercerá la dirección del proceso, controlará las actividades de las partes procesales y evitará dilaciones innecesarias.En función de este principio, la o el juzgador podrá interrumpir a las partes para solicitar aclaraciones, encauzar el debate y realizar las demás acciones correctivas.
+
+Artículo 4.- Proceso oral por audiencias. La sustanciación de los procesos en todas las instancias, fases y diligencias se desarrollarán mediante el sistema oral, salvo los actos procesales que deban realizarse por escrito. Las audiencias podrán realizarse por videoconferencia u otros medios de comunicación de similar tecnología, cuando la comparecencia personal no sea posible. 
+
+---
+class: animated, fadeIn
+
+# Ecuador
+
+Artículo 5.- Impulso procesal. Corresponde a las partes procesales el impulso del proceso, conforme con el sistema dispositivo.
+
+Artículo 6.- Principio de inmediación. La o el juzgador celebrará las audiencias en conjunto con las partes procesales que deberán estar presentes para la evacuación de la prueba y demás actos procesales que estructuran de manera fundamental el proceso. Solo podrán delegar las diligencias que deban celebrarse en territorio distinto al de su competencia. Las audiencias que no sean conducidas por la o el juzgador serán nulas.
+
+---
+class: animated, fadeIn
+
+# Ecuador
+
+Artículo 7.- Principio de intimidad. Las y los juzgadores garantizarán que los datos personales de las partes procesales se destinen únicamente a la sustanciación del proceso y se registren o divulguen con el consentimiento libre, previo y expreso de su titular, salvo que el ordenamiento jurídico les imponga la obligación de incorporar dicha información con el objeto de cumplir una norma constitucionalmente legítima.
+
+Artículo 8.- Transparencia y publicidad de los procesos judiciales. La información de los procesos sometidos a la justicia es pública, así como las audiencias, las resoluciones judiciales y las decisiones administrativas. Únicamente se admitirá aquellas excepciones estrictamente necesarias para proteger la intimidad, el honor, el buen nombre o la seguridad de cualquier persona. Son reservadas las diligencias y actuaciones procesales previstas como tales en la Constitución de la República y la ley.
+
+---
+class: animated, fadeIn
+
+# Uruguay, Abreviación de los procesos laborales: Ley 18.572, mod. 18.847, 18.623
+
+Vigencia: 01/02/2010
+
+Artículo 1º.- Los procesos laborales se ajustarán a los principios de oralidad, celeridad, gratuidad, inmediación, concentración, publicidad, buena fe y efectividad de la tutela de los derechos sustanciales.
+El Tribunal, de oficio, podrá averiguar o complementar la prueba de los hechos objeto de controversia, quedando investido, a tales efectos, con todas las facultades inquisitivas previstas para el orden procesal penal.
+
+---
+class: animated, fadeIn
+
+# Venezuela, Ley Orgánica Procesal del Trabajo: G.O. 37.504; Ley Orgánica del Trabajo, los Trabajadores y las Trabajadores: G.O. 6.076 (07/05/2012)
+
+Vigencia: 13/08/2003
+
+Artículo 23
+Principios de la administración de justicia
+
+La legislación procesal, la organización de los tribunales y la administración del trabajo, se orientarán con el propósito de ofrecer a los trabajadores y a las trabajadoras, patronos y patronas, la solución de los conflictos sobre derechos individuales o colectivos que surjan entre ellos, mediante una administración de justicia orientada por los principios de uniformidad, brevedad, gratuidad, celeridad, oralidad, inmediatez, concentración, prioridad de la realidad de los hechos, la equidad, rectoría del juez en el proceso, sencillez, eficacia, accesibilidad, imparcialidad, idoneidad, transparencia, autonomía, independencia, responsabilidad, atendiendo el debido proceso, sin dilaciones indebidas, sin formalismos o reposiciones inútiles.
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

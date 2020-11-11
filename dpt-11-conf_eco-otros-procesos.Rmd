@@ -1,0 +1,693 @@
+---
+title: "Derecho procesal del trabajo"
+subtitle: "Clase 11<br/>1. Solución de los conflictos económicos<br/>2. Otros procesos "
+author: "Paul Paredes"
+institute: "Maestría en Derecho Procesal, UNMSM"
+date: "28 de agosto de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+class: center, middle, animated, slideInRight
+
+# La clase anterior
+
+---
+class: animated, fadeIn
+
+## Mecanismos alternativos de resolución de conflictos: conciliación y .red[arbitraje]
+
+# 1. Conciliación
+
++ Es un mecanismo para resolver un conflicto de intereses.
+
++ ¿De qué manera se resuelve un conflicto en conciliación?
+
++ Mediante el acuerdo:: llegando a un acuerdo.
+
+> Es el acuerdo lo que pone fin al conflicto.
+
+> Es el acuerdo el modo de resolver el conflicto.
+
+---
+class: animated, fadeIn
+
+# 1. Conciliación
+
++ ¿Ese .red[acuerdo] tiene algún parámetro de validez?
+
+## Tesis 1
+
+1. **.red[El derecho]:: derechos disponibles de las partes**
+
+ > (D. Leg. 1070) Artículo 7.- Materias conciliables
+ 
+ > Son materia de conciliación las pretensiones determinadas o determinables que versen sobre derechos disponibles de las partes.
+
+ + Entonces, solo los derechos laborales disponibles serían susceptibles de conciliar.
+
+2. **.red[Los hechos]:: la verdad como correspondencia**
+
+---
+class: animated, fadeIn
+
+# 1. Conciliación
+
++ ¿Ese .red[acuerdo] tiene algún parámetro de validez?
+
+## Tesis 2
+
+- **El principio dispositivo**
+
+  + Iniciativa de parte
+
+  + Según lo alegado y probado"
+
+> Yo soy dueño de mis conflictos
+
+> Yo los propongo, yo los concluyo
+
+---
+class: animated, fadeIn
+
+## 1. La NLPT y la conciliación
+
+### Características del acuerdo en conciliación:
+
+#### 1. Libre
+
+#### 2. Informado
+
+#### 3. De buena fe
+
+---
+class: animated, fadeIn
+
+# 2. El arbitraje jurídico en materia laboral
+
++ Es un mecanismo para resolver un conflicto de intereses.
+
++ ¿De qué manera se resuelve un conflicto jurídico en arbitraje?
+
++ Aplicando derecho
+
+---
+class: animated, fadeIn
+
+## 2. El arbitraje jurídico
+
+### + Parámetros de validez del acuerdo de someter el conflicto a arbitraje jurídico
+
+1. **.red[El derecho]:: derechos disponibles de las partes y aquellas que la ley autorice**
+
+ > (D. Leg. 1071) Artículo 2.- Materias susceptibles de arbitraje.
+
+ > 1. Pueden someterse a arbitraje las controversias sobre materias de libre disposición conforme a derecho, así como aquellas que la ley o los tratados o acuerdos internacionales autoricen.
+
+ + Entonces, solo los derechos laborales disponibles serían susceptibles de llevar a arbitraje.
+
+ + Pero también podría sostenerse que `lo laboral` es una materia autorizada por ley.
+
+---
+class: animated, fadeIn
+
+## 2. El arbitraje jurídico
+
++ ### Parámetros de validez del acuerdo de someter el conflicto a arbitraje jurídico
+
+ > (NLPT. Disp. Complem.) SEXTA.- Las controversias jurídicas en materia laboral pueden ser sometidas a arbitraje, siempre y cuando el convenio arbitral se inserte a la conclusión de la relación laboral y, adicionalmente, la remuneración mensual percibida sea, o haya sido, superior a las setenta (70) Unidades de Referencia Procesal (URP).
+
+ Debe cumplir 2 condiciones:
+
+ 1. El convenio arbitral solo puede pactarse a la conclusión de la relación laboral; y,
+
+ 2. La remuneración mensual percibida debe haber sido mayor a 70 URP (en 2020 > S/30,100)
+
+---
+class: animated, fadeIn
+
+## 2. La NLPT y el arbitraje jurídico
+
+### Características del acuerdo que somete el conflicto a arbitraje jurídico:
+
+#### 1. Libre
+
+#### 2. Con garantía de solvencia
+
+#### 3. De buena fe
+
+---
+class: animated, fadeIn, center, middle
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-10o3{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-7f10{background-color:#c0c0c0;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-w396{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-4s63{border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-10o3"></th>
+    <th class="tg-w396">Conciliación prejudicial<br>obligatoria</th>
+    <th class="tg-w396">Conciliación facultativa<br>para el trabajador</th>
+    <th class="tg-w396">Conciliación intrajudicial</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7f10">Argentina</td>
+    <td class="tg-4s63">Sí. Ley 24.635. SECLO</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Bolivia</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">No</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Chile</td>
+    <td class="tg-4s63">En caso de monitorio<br>- Ante Inspección del trabajo<br>- Hasta 10 ing. min. men. (S/15,000)</td>
+    <td class="tg-4s63">Sí<br></td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Colombia</td>
+    <td class="tg-4s63">Fue declarada inexequible<br>por la Corte Constitucional<br>C-893/01</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Ecuador</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">España</td>
+    <td class="tg-4s63">Sí. Ley 36/2011</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">--</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Uruguay</td>
+    <td class="tg-4s63">Sí. Ley 18.572</td>
+    <td class="tg-4s63"></td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Venezuela</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+.left-column[
+# .verde[Caso 1:]
+]
+
+.right-column[
+Un trabajador después de 35 años de servicios es despedido imputándosele la comisión de una falta grave. Esta consiste en el incumplimiento de sus obligaciones de trabajo que supone el quebrantamiento de la buena fe laboral. El trabajador entra en contacto con su exempleador y luego de varias reuniones han llegado al siguiente acuerdo:
+
+1. El trabajador (extrabajador) se compromete a no interponer ninguna demanda y, en caso que la hubiese interpuesto, se compromete a desistirse de la pretensión. Declara que no tiene nada que reclamar a su empleador.
+
+2. A cambio, el empleador se compromete --y cumple-- contratar al hijo menor de su extrabajador.
+
+***
+
+> #### ¿Usted daría su conformidad al acuerdo? ¿Por qué?
+
+]
+
+---
+class: animated, fadeIn
+
+.left-column[
+# .verde[Caso 2:]
+]
+.right-column[
+Un trabajador después de más de 10 años de servicios reclama el pago de sus beneficios sociales a su empleador. Nunca le entregó recibo, ni boletas, pero cada fin de mes le pagaba el monto acordado: S/750.00. El extrabajador solicita el pago de las gratificaciones legales, asignación familiar, CTS y, en general, los beneficios que por ley corresponden a los trabajadores sujetos a la actividad privada. El exempleador tiene la voluntad de llegar a un acuerdo. Uno de los puntos de discusión es la fecha de inicio, pues desde esa fecha empezaría el reconocimiento de los derechos. Luego de varias conversaciones las partes llegan al siguiente acuerdo: 
+
+1. Considerar como fecha de ingreso el 1 de julio de 2015.
+2. Calcular los beneficios de ley considerando la suma de S/750.00.
+3. Pagar la suma que arroje dicho cálculo en el plazo de 3 días hábiles.
+
+***
+
+> #### ¿Usted daría su conformidad al acuerdo? ¿Por qué?
+]
+
+---
+
+class: animated, fadeIn
+
+# ¿Solucionar acordando o solucionar aplicando derecho?
+
++ ### ¿Cuál es la función del proceso? 
+
++ ### ¿Cuál es la función de la conciliación?
+
+---
+class: center, middle, animated, slideInRight, inverse
+
+# ¡Continuemos!
+
+---
+
+class: center, middle, animated, slideInRight, inverse
+
+# El arbitraje (económico)
+
+---
+class: animated, fadeIn
+
+# Los conflictos laborales
+
+Varias formas de clasificarlos. Por ejemplo:
+
++ .green[Jurídicos (de aplicación)] vs. .blue[De intereses (económicos, de creación)]
+
++ Individuales, pluriindividuales, colectivos
+
+---
+class: animated, fadeIn, center, middle
+
+# ¿Cómo distinguir un .green[conflicto jurídico] de uno de .blue[intereses o económico]?
+
+---
+class: animated, fadeIn
+
+# Caso 1
+
+> Juan tiene en su contrato de trabajo una cláusula en la cual se indica que el empleador se compromete a brindar todas las facilidades que resulten necesarias para la adecuada prestación del servicio, incluyendo facilidades para el traslado a su centro de trabajo. Juan se acaba de comprar un automóvil último modelo. Juan piensa que su empleador debe darle un espacio para estacionar su moderno vehículo o, en todo caso, pagarle la cochera. Su empleador le acaba de responder que "ni hablar, de ninguna manera".
+
+---
+class: animated, fadeIn
+
+# Caso 2
+
+> Lo mismo que el caso 1 pero la cláusula no está contenida en el contrato de trabajo sino en el convenio colectivo del año 1998.
+
+---
+class: animated, fadeIn
+
+# Caso 3
+
+> Andrés está sujeto al régimen laboral del trabajo doméstico. Su remuneración mensual es de S/200.00. Recientemente ha escuchado que el Gobierno ha dado el D. Leg. 1499 que modifica la Ley de los Trabajadores del Hogar. Buscando en Internet ha encontrado que el nuevo artículo dice lo siguiente: *"5.1 El monto de la remuneración de los/as trabajadores/as del hogar, en cualquiera de sus modalidades, es establecido por acuerdo libre de las partes. La remuneración debe ser justa y equitativa, conforme a los parámetros del marco legal vigente."* El mayor cambio que percibe es que el nuevo texto agrega que la remuneración debe ser justa y equitativa. Andrés pensaba que a partir de la fecha iba a empezar a ganar S/930.00 pero le siguen pagando S/200.00. ¿Andrés debería reclamar? ¿Qué le aconsejaría usted?
+
+---
+class: animated, fadeIn
+# Caso 4
+
+> En la sección de "Acabados" trabajan 27 operarios en un espacio de poco más de 50 m<sup>2</sup>. Hace mucho calor, incluso en invierno. Los trabajadores han solicitado que la empresa coloque aire acondicionado pero les han contestado que no están obligados a ello. El sindicato piensa incluir dicho punto en el próximo pliego de reclamos. ¿Qué les diría usted?
+
+---
+class: animated, fadeIn
+
+# Los conflictos económicos colectivos
+
++ ### ¿Cómo inician?
+
++ ### ¿Cómo se tramitan o canalizan?
+
++ ### ¿Cómo se solucionan?
+
++ ### ¿Qué alternativas procedimentales de solución existen?
+
+---
+class: animated, fadeIn
+
+# El arbitraje (derivado de un procedimiento de negociación colectiva)
+
++ ### ¿Cómo se activa el arbitraje?
+
++ ### ¿Qué tipos de arbitraje existen en el ordenamiento jurídico peruano?
+
+---
+class: animated, fadeIn
+
+# El arbitraje potestativo
+
+### Origen del arbitraje potestativo
+
+### La jurisprudencia del TC
+
++ Caso portuarios STC 03561-2009-PA/TC
++ Caso SINAUT - SUNAT 02566-2012-PA/TC
++ Caso FETRATEL 03243-2012-PA/TC
++ Caso América Móvil STC 03361-2013-PA/TC
++ Caso América Móvil STC 06518-2013-PA/TC
++ Caso Aris Industrial STC 01499-2015-PA/TC, 20/12/2017; 17/12/2018
+* Caso Shougang RTC 06001-2013-PA/TC
+
+---
+class: animated, fadeIn
+
+# El arbitraje
+
+## Reglas de trámite del árbitraje
+
++ TUO LRCT y reglamento
+
++ LSC y reglamento
+
++ El D.S. 009-2017-TR ¿mala fe?
+
+---
+class: animated, fadeIn
+
+# El arbitraje
+
+## Impugnación del laudo vs. cumplimiento
+
+## Reglas de impugnación
+
+## El VI Pleno Jurisdiccional Supremo y las causales de impugnación
+
+## El control difuso (Caso Minera Maria Julia STC 142-2011-PA/TC). Vid. fundamentos 20, 21 y 26.
+
+---
+class: animated, fadeIn
+
+# El VI Pleno Jurisdiccional Supremo y las causales de impugnación
+
+El V Pleno Jurisdiccional Supremo en Materia Laboral y Previsional, publicado en El Peruano el 4 de agosto de 2017 justamente –recogiendo pronunciamientos previos de la Corte Suprema como la Apelación N.° 12028-2013-LIMA (Caso Municipalidad Distrital de Los Olivos, del 15 de octubre de 2014) ha ordenado las causales de nulidad aplicables a los Laudos Arbitrales Económicos en materia laboral.
+
+---
+class: animated, fadeIn
+
+### Este Acuerdo Plenario establece lo siguiente:
+
+> «El Pleno acordó por unanimidad:
+
+> Las normas aplicables para determinar las causales de nulidad, que se pueden invocar válidamente en un proceso de impugnación de laudo arbitral económico en materia laboral son las siguientes:
+
+> Los artículos 63° a 66° del Texto Único Ordenado de la Ley de Relaciones Colectivas de Trabajo, aprobado por el Decreto Supremo N° 010-2003-TR. 
+
+> El artículo 56° del Texto Único Ordenado de la Ley de Relaciones Colectivas de Trabajo, aprobado por el Decreto Supremo N° 010-2003-TR, en concordancia con el artículo 65 de la misma norma y el artículo 57° de su Reglamento, regulado por el Decreto Supremo N° 011-92-TR. 
+
+
+> Los literales b y d del inciso 1 del artículo 63° de la Ley General de Arbitraje, Decreto Legislativo N° 1071.»
+
+---
+class: animated, fadeIn
+
+# Apelación N.° 4968-2017
+
+Asimismo, redondeando estos criterios en la Apelación N.° 4968-2017 (Publicada en El Peruano el 11 de febrero de 2018) el Pleno de la Segunda Sala Constitucional y Social Transitoria de la Corte Suprema de Justicia estableció como criterio jurisdiccional respecto de las causales de nulidad de un laudo arbitral económico, el siguiente:
+
+---
+class: animated, fadeIn
+
+> «El laudo arbitral será nulo cuando se presente alguno de los supuestos que a continuación enumeramos:
+
+> a) Cuando el árbitro, tribunal o alguno de sus miembros, están impedidos de participar como tales (artículo 64° del Decreto Supremo N° 010-2003-TR);
+
+> b) Cuando se pronuncie en forma distinta a alguna de las propuestas finales de las partes o combinando planteamientos de una y otra (artículo 65° del Decreto Supremo N° 010-2003-TR);
+
+> c) Cuando se ha expedido bajo presión derivada de modalidades irregulares de huelga o de daños a las personas o las cosas (artículo 69° del Decreto Supremo N° 010-2003-TR);
+
+> d) Cuando se haya emitido sin tener en cuenta el informe de la Autoridad Administrativa de Trabajo (Apelación N° 11673-2015-LIMA de fecha once de diciembre de dos mil quince);
+
+> e) Cuando una de las partes no ha sido debidamente notificada del nombramiento de un árbitro o de alguna actuación arbitral, o por cualquier motivo no ha podido ejercer sus derechos (literal b), del artículo 63° del Decreto Legislativo N° 1071); y
+
+> f) Cuando el árbitro o tribunal arbitral resuelve sobre materias no sometidas a su decisión (literal d), del artículo 63° del Decreto Legislativo N° 1071).»
+
+---
+class: animated, fadeIn
+
+# El control difuso (Caso Minera Maria Julia STC 142-2011-PA/TC). Vid. fundamentos 20, 21 y 26.
+
+> 20.De acuerdo con lo indicado líneas arriba y con la finalidad de establecer de modo claro y preciso los criterios a utilizarse en materia de amparo arbitral, este Supremo térprete de la Constitución establece, con calidad de precedentes vinculantes, las guientes reglas: 
+
+> Improcedencia del amparo arbitral
+
+>a) El recurso de anulación previsto en el Decreto Legislativo N° 1071, que norma el arbitraje y, por razones de temporalidad, los recursos de apelación y anulación para aquellos procesos sujetos a la Ley General de Arbitraje (Ley N° 26572) constituyen vías procedimentales específicas, igualmente satisfactorias para la protección de derechos constitucionales, que determinan la improcedencia del amparo de conformidad con el artículo 5°, inciso 2), del Código Procesal Constitucional, salvo las excepciones establecidas en la presente sentencia.
+
+---
+class: animated, fadeIn
+
+> b) De conformidad con el inciso b) del artículo 63° del Decreto Legislativo N.° 1071 , no procede el amparo para la protección de derechos constitucionales aún cuando éstos constituyan parte del debido proceso o de la tutela procesal efectiva. La misma regla rige para los casos en que sea de aplicación la antigua Ley General de Arbitraje, Ley N.° 26572.
+
+> c) Es improcedente el amparo para cuestionar la falta de convenio arbitral. En tales casos la vía idónea que corresponde es el recurso de anulación, de conformidad con el inciso a) del artículo 63° del Decreto Legislativo N.° 1071; o el recurso de apelación y anulación si correspondiera la aplicación del inciso 1 del artículo 65° e inciso 1 del artículo 73° de la Ley N.° 26572, respectivamente.
+
+> d) Cuando a pesar de haberse aceptado voluntariamente la jurisdicción arbitral, las materias sobre las que ha de decidirse tienen que ver con derechos fundamentales de carácter indisponible o que no se encuentran sujetas a posibilidad de negociación alguna, procederá el recurso de anulación (Decreto Legislativo que norma el Arbitraje, artículo 63° [incisos "e" y "f']) o los recursos de apelación y anulación (Ley General Arbitraje, respectivamente, artículos 65° [inciso 1] y 73° [inciso 7]), siendo improcedente el amparo alegándose el mencionado motivo (artículo 5°,inciso 2, del Código Procesal Constitucional).
+
+---
+class: animated, fadeIn
+
+> e) La interposición del amparo que desconozca las reglas de procedencia establecidas en esta sentencia no suspende ni interrumpe los plazos previstos para demandar en proceso ordinario el cuestionamiento del laudo arbitral vía recurso de anulación y/o apelación según corresponda. 
+
+> f) Contra lo resuelto por el Poder Judicial en materia de impugnación de laudos arbitrales sólo podrá interponerse proceso de amparo contra resoluciones judiciales, conforme a las reglas del artículo 4° del Código Procesal Constitucional y su desarrollo jurisprudencial. 
+
+---
+class: animated, fadeIn
+
+### Supuestos de procedencia del amparo arbitral 
+
+> 21.No podrá declararse la improcedencia del amparo arbitral por aplicación del artículo 5° inciso 2) del Código Procesal Constitucional, en los siguientes supuestos:
+
+>a) Cuando se invoca la vulneración directa o frontal de los precedentes vinculantes establecidos por el Tribunal Constitucional.
+
+>b) Cuando en el laudo arbitral se ha ejercido control difuso sobre una norma declarada constitucional por el Tribunal Constitucional o el Poder Judicial, según corresponda, invocándose la contravención al artículo VI del Título Preliminar del Código Procesal Constitucional.
+
+>c) Cuando el amparo sea interpuesto por un tercero que no forma parte del convenio arbitral y se sustente en la afectación directa y manifiesta de sus derechos constitucionales a consecuencia del laudo pronunciado en dicho arbitraje, salvo que dicho tercero esté comprendido en el supuesto del artículo 14° del Decreto Legislativo N.° 1071.
+
+---
+class: animated, fadeIn
+
+>En el caso de los supuestos a) y b) del presente fundamento, será necesario que quien se considere afectado haya previamente formulado un reclamo expreso ante el tribunal arbitral y que éste haya sido desestimado, constituyendo tal reclamo y su respuesta, expresa o implícita, el agotamiento de la vía previa para la procedencia del amparo.
+
+>La sentencia que declare fundada la demanda de amparo por alguno de los supuestos indicados en el presente fundamento, puede llegar a declarar la nulidad del laudo o parte de él, ordenándose la emisión de uno nuevo que reemplace al anterior o a la parte anulada, bajo los criterios o parámetros señalados en la respectiva sentencia. En ningún caso el Juez o el Tribunal Constitucional podrá resolver el fondo de la controversia sometida a arbitraje. 
+
+---
+class: animated, fadeIn
+
+### Control difuso
+
+> 26.No obstante, el ejercicio del control difuso de constitucionalidad en la jurisdicción arbitral debe ser objeto, como se acaba de expresar, de modulación por este Supremo Intérprete de la Constitución, con el propósito de que cumpla debidamente su finalidad de garantizar la primacía de la Constitución y evitar así cualquier desviación en el uso de este control constitucional. Por ello, se instituye la siguiente regla:
+
+> El control difuso de la jurisdicción arbitral se rige por las disposiciones del artículo VI del Título Preliminar del Código Procesal Constitucional y la jurisprudencia vinculante dictada por este Tribunal Constitucional sobre el control difuso. Sólo podrá ejercerse el control difuso de constitucionalidad sobre una norma aplicable al caso de la que dependa la validez del laudo arbitral, siempre que no sea posible obtener de ella una interpretación conforme a la Constitución y además, se verifique la existencia de un perjuicio claro y directo respecto al derecho de alguna de las partes. 
+
+---
+class: animated, fadeIn, center middle
+
+# El proceso impugnativo de laudos arbitrales económicos
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pilae.png)
+background-size: contain
+
+---
+class: animated, bounceInDown, center, middle, inverse
+
+# Proceso contencioso administrativo en materia laboral
+
+# Proceso de amparo 
+
+---
+class: animated, fadeIn
+
+#### El proceso contencioso administrativo en materia laboral
+
+> Artículo 2.- Competencia por materia de los juzgados especializados de trabajo
+
+>	Los juzgados especializados de trabajo conocen de los siguientes procesos:
+
+> 4.- En proceso contencioso administrativo conforme a la ley de la materia, las pretensiones originadas en las prestaciones de servicios de carácter personal, de naturaleza laboral, administrativa o de seguridad social, de derecho público; así como las impugnaciones contra actuaciones de la autoridad administrativa de trabajo.
+
+> Artículo 20.- Caso especial de procedencia
+
+> En el caso de pretensiones referidas a la prestación personal de servicios, de naturaleza laboral o administrativa de derecho público, no es exigible el agotamiento de la vía administrativa establecida según la legislación general del procedimiento administrativo, salvo que en el correspondiente régimen se haya establecido un procedimiento previo ante un órgano o tribunal específico, en cuyo caso debe recurrirse ante ellos antes de acudir al proceso contencioso administrativo.
+
+---
+class: animated, fadeIn
+
+# El proceso contencioso administrativo conforme a la ley de la materia
+
+1. ¿Qué temas o pretensiones?
+
+  + Preguntarnos por los actos impugnables (art. 4, TUO-LPCA) (actuaciones administrativas)
+  
+  + II Pleno Jurisdiccional
+  
+  + III Pleno Jurisdiccional
+
+2. Norma procesal:
+
+  + D.S. 011-2019-JUS, TUO de la Ley 27584, Ley que regula el proceso contencioso administrativo
+  
+    + Vías del proceso ordinario (antes proceso especial)
+    + Tiene sus propios plazos
+    + Actuación probatoria restringida al procedimiento administrativo*
+    + Medios impugnatorios: reposición, apelación, casación
+    + Los recursos siguen al CPC.
+
+---
+class: animated, fadeIn
+
+# II Pleno
+
+**1. ¿Es necesario que los servidores públicos sujetos al régimen laboral privado regulado por el Decreto Legislativo N° 728 agoten la vía administrativa?**
+
+No es necesario que agoten la vía administrativa. El agotamiento de la misma solo será exigible en los siguientes supuestos: i) aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); (ii) aquellos trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios (Decreto Legislativo N° 1057); y, iii) aquellos trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057- Ley del Servicio Civil (SERVIR). No obstante, no seré exigible en los supuestos excepcionales a que se refiere el articulo 19 de la Ley N° 27584 así como en aquellas impugnaciones que se formulen en contra de actos materiales, a que se refiere el articulo 4 inciso 3 dela citada ley.
+
+---
+class: animated, fadeIn
+
+**2.¿Cuál es el órgano administrativo competente para el agotamiento de la vía administrativa?**
+
+El Pleno acordó por unanimidad: El órgano administrativo competente para el agotamiento de la vía administrativa es el Tribunal del Servicio Civil, solo respecto de las pretensiones referidas a: (i) el acceso al servicio civil; ii) evaluación y progresión en la carrera, (iii) régimen disciplinario;y, (iv) terminación de la relación de trabajo, de conformidad con el articulo 17 del Decreto Legislativo N° 1023. Los regímenes laborales públicos especiales se rigen por sus propias normas.
+
+---
+class: animated, fadeIn
+
+**3.¿Cuál es la vía procesal judicial pertinente para aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios (Decreto Legislativo N° 1057); y, trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057 - Ley del Servicio Civil?**
+
+El Pleno acordé por unanimidad: En aquellos distritos judiciales en los que se encuentre vigente la Ley N° 26636, la vía procesal será la del proceso contencioso administrativo, de conformidad con lo establecido en la Ley N° 27584; y, en aquellos distritos judiciales en los que se encuentre vigente la Ley N° 29497, Nueva Ley Procesal del Trabajo, la vía procesal será la del proceso contencioso administrativo, conforme lo establece el articulo 2° numeral 4° de la misma.
+
+---
+class: animated, fadeIn
+
+**4.¿Cuál es el órgano jurisdiccional competente para conocer demandas contencioso administrativas de aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios Decreto Legislativo N° 1057); y, trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057 - Ley del Servicio Civil?**
+
+El Pleno acordé por unanimidad: Al amparo de la Ley N° 26636, el órgano jurisdiccional competente para demandas contencioso administrativas es el Juzgado Especializado de Trabajo, pues así lo estableció la Segunda Disposición Modificatoria de la Ley 29364, Ley que modifica diversos artículos del Código Procesal Civil. Mientras que, en aplicación de la Ley N° 29497, el órgano jurisdiccional competente para conocer las demandas contencioso administrativas es el juzgado especializado de trabajo, pues así se establece expresamente en el numeral 4 del articulo 2 de la Nueva Ley
+Procesal del Trabajo.
+
+---
+class: animated, fadeIn
+
+**5. ¿Cuál es la vía procesal judicial para que los trabajadores demanden la invalidez del contrato administrativo de servicios?**
+
+El Pleno acordó por unanimidad:
+
+1. Aquellos trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios - CAS (Decreto Legislativo N° 1057), deberán tramitar su demanda de invalidez en la vía del proceso contencioso administrativo;
+
+2. Aquellos trabajadores que iniciaron su prestación de servicios sujeto a contratos modales (Decreto Legislativo N° 728) o contratos de servicios no personales (SNP), en una entidad pública bajo el régimen laboral de la actividad privada o mixto, y que posteriormente suscribieron contratos CAS, deben tramitar su demanda de invalidez en la vía del proceso ordinario laboral;
+
+---
+class: animated, fadeIn
+
+(...)
+
+3.Aquellos trabajadores que iniciaron su prestación de servicios sujetos a contratos temporales o contratos de servicios no personales (SNP), en una entidad publica cuyo régimen laboral sea exclusivamente el régimen de la actividad publica, y que posteriormente suscribieron contratos CAS, deben tramitar su demanda de invalidez en la vía del proceso
+contencioso administrativo, y,
+
+4.Si el régimen laboral de la entidades el régimen laboral público y el trabajador inicia su prestación de servicios suscribiendo un contrato administrativo de servicios pero continúa laborando luego de vencido el plazo de vigencia del mismo, la vía procesal seré la del proceso contencioso administrativo. Si el personal de la entidad se encuentra bajo el régimen laboral privado o mixto, la vía procesal será la del proceso ordinario laboral.
+
+5.En los casos en que el juez de la causa advierta la improcedencia de la demanda por incompetencia; éste debe disponer la remisión del proceso al juez competente para que conozca del mismo o adecuar la vía procesal, de ser el caso.
+
+---
+class: animated, fadeIn
+
+**6.¿Cuál es el órgano competente para conocer demandas planteadas por trabajadores obreros municipales?**
+
+El Pleno acordé por unanimidad:
+
+El órgano jurisdiccional competente es el juez laboral en la vía del proceso ordinario o abreviado laboral según corresponda, atendiendo a las pretensiones que se planteen; pues de conformidad con el articulo 37 de la Ley 27972, Ley Orgánica de Municipalidades, los obreros municipales se encuentran bajo el régimen laboral de la actividad privada y como tales, no estén obligados a agotar la vía administrativa para acudir al Poder Judicial.
+
+---
+class: animated, fadeIn
+
+### CASACIÓN N.° 15366-2016, LIMA NORTE
+
+> Ante una actuación material que no se sustenta en un acto administrativo, conocido en doctrina como “vía de hecho” resulta innecesario exigirle al administrado el agotamiento de la vía administrativa, independientemente que dicha actuación impugnable no se encuentre contemplada expresamente entre las causales de inexigibilidad del agotamiento de la vía administrativa a que se refiere el artículo 19° del Texto Único Ordenado de la Ley N° 27584.
+
+---
+class: animated, fadeIn
+
+# Tercer pleno 
+
+**1. ¿En qué caso, además de los expresamente predeterminados en la ley, el trabajador se encuentra exonerado de agotar la vía administrativa, para interponer la demanda contenciosa administrativa laboral?**
+
+El Pleno acordó por unanimidad:
+
+El trabajador se encuentra exonerado de agotar la vía administrativa, para interponer la demanda contenciosa administrativa laboral, en aquellos casos en los que invoca la afectación del contenido esencial del derecho a la remuneración, ya sea que peticione el pago de la remuneración básica, la remuneración total, la remuneración permanente, las bonificaciones, las dietas, las asignaciones, las retribuciones, los estímulos, los incentivos, las compensaciones económicas y los beneficios de toda índole, cualquiera sea su forma, modalidad, periodicidad, mecanismo y fuente de financiamiento.
+
+---
+class: animated, fadeIn
+
+# El proceso de amparo
+
++ Según el CPConst.
++ Regla de residualidad:: Amparo es improcedente si existe una "VPE=S"
++ Caso 00206-2005-PA/TC, Baylón Flores
++ Caso 02383-2013-PA/TC, Elgo Ríos
+
+---
+class: animated, fadeIn
+
+# Caso Elgo Ríos
+
+### Precedentes
+
+12.- Sistematizando la jurisprudencia vigente de este Tribunal, puede afirmarse que existen dos perspectivas para entender cuándo una vía puede ser considerada "igualmente satisfactoria": una objetiva, vinculada al análisis de la vía propiamente dicha (vía específica idónea); y otra subjetiva, relacionada con el examen de la afectación al derecho invocado (urgencia iusfundamental).
+
+13.- Desde la perspectiva objetiva, el análisis de la vía específica idónea puede aludir tanto: (1) a la estructura del proceso, atendiendo a si la regulación objetiva del procedimiento permite afirmar que estamos ante una vía célere y eficaz (estructura idónea)', o (2) a la idoneidad de la protección que podría recibirse en la vía ordinaria, debiendo analizarse si la vía ordinaria podrá resolver debidamente el caso iusfundamental que se ponga a su consideración (tutela idónea). Este análisis objetivo, claro está, es independiente a si estamos ante un asunto que merece tutela urgente.
+ 
+---
+class: animated, fadeIn
+
+14.- De otra parte, desde una perspectiva subjetiva, una vía ordinaria puede ser considerada igualmente satisfactoria si: (1) transitada no pone en grave riesgo al derecho afectado, siendo necesario evaluar si transitar la vía ordinaria puede tornar irreparable la afectación alegada (urgencia como amenaza de irreparabilidad); situación también predicable cuando existe un proceso ordinario considerado como "vía igualmente satisfactoria" desde una perspectiva objetiva; (2) se evidencia que no es necesaria una tutela urgente, atendiendo a la relevancia del derecho involucrado o a la gravedad del daño que podría ocurrir (urgencia por la magnitud del bien involucrado o del daño).
+
+---
+class: animated, fadeIn
+
+15.- Queda claro, entonces, que la vía ordinaria será "igualmente satisfactoria" a la vía del proceso constitucional de amparo, si en un caso concreto se demuestra, de manera copulativa, el cumplimiento de estos elementos:
+
+- Que la estructura del proceso es idónea para la tutela del derecho;
+
+- Que la resolución que se fuera a emitir podría brindar tutela adecuada;
+
+- Que no existe riesgo de que se produzca la irreparabilidad; y
+
+- Que no existe necesidad de una tutela urgente derivada de la relevancia
+del derecho o de la gravedad de las consecuencias.
+
+En sentido inverso, la ausencia de cualquiera de estos presupuestos revela que no
+existe una vía idónea alternativa al amparo, por lo que la vía constitucional quedará
+habilitada para la emisión de un pronunciamiento de fondo (salvo que se incurra en alguna otra causal de improcedencia).
+
+17.- Las reglas para determinar cuándo una vía ordinaria alterna resulta igualmente
+satisfactoria son las establecidas en esta sentencia, y conforme a ellas se
+interpretará el inciso 2 del artículo 5, resultando aplicables a todos los procesos de
+amparo, independientemente de su materia.
+
+---
+class: animated, fadeIn
+
+25.- Al respecto, este Tribunal señala que, a pesar de la existencia de referida norma procesal, en sustancia mantiene los criterios materiales referidos a la procedencia del amparo laboral. Así, como antes, en caso que la vía laboral no permita la reposición satisfactoria o eficaz del trabajador (supuesto de estructura idónea, previsto en el fundamento 13, supra), o cuando el demandante persiga la tutela urgente de sus derechos constitucionales frente a despidos nulos, en caso no vaya a obtener tutela satisfactoria en la vía laboral (supuesto de tutela idónea y urgencia iusfundamental, previstos en los fundamentos 13 y 14, supra), deberá admitirse a trámite la demanda de amparo. Igualmente, para los casos que no se encuentran regidos por la Ley N° 29497, Nueva Ley Procesal del Trabajo, resulta de aplicación el análisis sobre la pertinencia de la vía constitucional fijados en esta sentencia como precedente, que son compatibles con los precedentes que fueron establecidos en la STC Exp. N° 00206-2005-PA/TC. 
+
+26.- En este orden de ideas, si el demandante cuenta con una vía laboral en la que podrá obtener de manera célere —tanto o más que a través del amparo— la reposición que solicita, deberá acudir a esa vía y no al proceso constitucional de amparo, salvo que estemos ante situaciones que objetivamente demanden una tutela urgente que solamente puede canalizarse mediante un medio procesal como el amparo. 
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

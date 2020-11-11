@@ -1,0 +1,506 @@
+---
+title: "Procesos laborales"
+subtitle: "Clase 5<br/>Tendencias del proceso laboral en América Latina"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo y de la Seguridad Social, UNMSM"
+date: "18 de julio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+class: center, middle, animated, slideInRight
+
+# La clase anterior
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
++ El ámbito de la justicia laboral (¿qué abarca?)
+
++ Criterios para determinar el ámbito
+
++ Materia(*)
+  + Listado de materias
+  + Recordar que hay un **.red[«otros»]**
+
++ Tipo de relación
+
+> Se aplica a TODO conflicto jurídico derivado de una prestación personal de servicios remunerada:
+
+--
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gure{background-color:#9aff99;border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gure">De naturaleza</th>
+    <th class="tg-gure">Sobre derechos</th>
+    <th class="tg-gure">Respecto de temas</th>
+    <th class="tg-gure">Ocurridos</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yd3j"><span style="color:#000">Laboral</span><br><br><span style="color:#000">Formativa</span><br><br><span style="color:#000">Cooperativista</span><br><br><span style="color:#000">Administrativa</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Individuales</span><br><br><span style="color:#000">Plurales</span><br><br><span style="color:#000">Colectivos</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Sustanciales</span><br><br><span style="color:#000">Conexos</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Antes</span><br><br><span style="color:#000">Durante</span><br><br><span style="color:#000">Después</span></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
++ Lugar geográfico (competencia por territorio)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6c8b{font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-a9uw{background-color:#9aff99;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">Regla, a elección del demandante</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">Si la demanda es dirigida contra quien prestó los servicios</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En el caso de  impugnación de laudos arbitrales económicos</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6c8b"><span style="color:#000">El juez del lugar del domicilio principal del demandado, o,</span><br><br><span style="color:#000">El juez del último lugar donde se prestaron los servicios</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Solo es competente el juez del domicilio del prestador de servicios</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Solo es competente la sala laboral del lugar donde se expidió el laudo</span></td>
+  </tr>
+</tbody>
+</table>
+
+--
+
+<br/>
+
+***
+
++ La competencia por razón de territorio solo puede ser prorrogada cuando resulte a favor del prestador de servicios.
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
++ #### Órgano jurisdiccional 
+
++ Juzgados especializados de trabajo
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6c8b{font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-a9uw{background-color:#9aff99;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En proceso ordinario laboral</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En proceso abreviado laboral</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En proceso contencioso administrativo</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En proceso de ejecución</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6c8b"><span style="color:#000">Todo conflicto jurídico de naturaleza laboral, formativa o cooperativista, </span><span style="font-weight:bold;color:#000">mayor 50 URP o sin expresión monetaria</span><br><br><span style="color:#000">El listado de materias es meramente ilustrativo</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Reposición, cuando se plantea como pretensión principal única</span><br><br><span style="color:#000">Pretensiones relativas a la vulneración de la libertad sindical</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Todo conflicto jurídico de naturaleza laboral, administrativa o de seguridad social, de derecho público</span><br><br><span style="color:#000">Impugnación de actuaciones de la AAT</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Títulos ejecutivos mayor a 50 URP</span></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
++ #### Juzgados de paz letrados laborales
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e904{font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-jtsx{background-color:#9aff99;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jtsx"><span style="font-weight:bold;color:#000">En proceso abreviado laboral</span></th>
+    <th class="tg-jtsx"><span style="font-weight:bold;color:#000">En proceso de ejecución</span></th>
+    <th class="tg-jtsx"><span style="font-weight:bold;color:#000">Procesos no contenciosos</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e904"><span style="color:#000">Las pretensiones:</span><br><br><span style="color:#000">. atribuidas originalmente a los Juzgados de Trabajo,</span><br><br><span style="color:#000">1. que sean obligaciones de dar, </span><span style="text-decoration:underline;color:#000">y</span><br><br><span style="color:#000">2. hasta 50 URP</span></td>
+    <td class="tg-e904"><span style="color:#000">Títulos ejecutivos hasta 50 URP</span><br><br><span style="color:#000">Cobranza de aportes previsionales del sistema privado de pensiones retenidos por el empleador, sin importar la cuantía</span></td>
+    <td class="tg-e904"><span style="color:#000">Todos los asuntos no contenciosos, sin importar la cuantía</span></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
++ #### Salas laborales superiores
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-67cq{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-sbdv{background-color:#9aff99;border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sbdv"><span style="font-weight:bold;color:#000">En proceso de acción popular</span></th>
+    <th class="tg-sbdv"><span style="font-weight:bold;color:#000">En proceso de anulación de laudo arbitral jurídico</span></th>
+    <th class="tg-sbdv"><span style="font-weight:bold;color:#000">En proceso impugnativo de laudos arbitrales económicos</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-67cq"><span style="color:#000">La acción popular en materia laboral, conforme a las reglas del Código Procesal Constitucional</span></td>
+    <td class="tg-67cq"><span style="color:#000">La anulación de laudo que resuelve un conflicto jurídico de naturaleza laboral, conforme a las reglas de la Ley de Arbitraje</span></td>
+    <td class="tg-67cq"><span style="color:#000">Impugnación de laudos arbitrales derivados de una negociación colectiva</span></td>
+  </tr>
+  <tr>
+    <td class="tg-67cq" colspan="3">* También conocen las contiendas de competencia y los conflictos de autoridad</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# La clase anterior
+
++ #### Límites de cuantía en otros países de América Latina
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-67cq{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-76gi{background-color:#9aff99;border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-ebfe{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-76gi">País</th>
+    <th class="tg-76gi">Criterio</th>
+    <th class="tg-76gi">Monto MN</th>
+    <th class="tg-76gi">Monto Soles</th>
+    <th class="tg-76gi">Tratamiento</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-67cq">Perú</td>
+    <td class="tg-67cq">50 URP</td>
+    <td class="tg-67cq">PEN 21,500</td>
+    <td class="tg-67cq">S/21,500</td>
+    <td class="tg-67cq">Proceso abreviado, doble instancia</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">Uruguay</td>
+    <td class="tg-ebfe">---</td>
+    <td class="tg-67cq">UYU 81,000</td>
+    <td class="tg-67cq">S/6,500</td>
+    <td class="tg-67cq">Proceso menor cuantía, única instancia</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">Chile</td>
+    <td class="tg-67cq">10 Ing.Mín.Men.</td>
+    <td class="tg-67cq">CLP 3'205,000</td>
+    <td class="tg-67cq">S/14,180</td>
+    <td class="tg-67cq">Proceso monitorio</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">Colombia</td>
+    <td class="tg-67cq">20 Sal.Mín.Leg.Men.</td>
+    <td class="tg-67cq">COP 17'556,060</td>
+    <td class="tg-67cq">S/17,000</td>
+    <td class="tg-67cq">Proceso ordinario de única instancia, <br>jueces municipales de pequeñas causas</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">Ecuador</td>
+    <td class="tg-67cq">50 Sal.Bás.Unif.</td>
+    <td class="tg-67cq">USD 20,000</td>
+    <td class="tg-67cq">S/70,000</td>
+    <td class="tg-67cq">Proceso monitorio</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: animated, fadeIn
+
+# Los tipos de procesos en la NLPT
+
+1. El proceso ordinario laboral
+
+2. El proceso abreviado laboral
+
+3. El proceso impugnativo de laudos arbitrales económicos
+
+4. El proceso cautelar
+
+5. El proceso de ejecución
+
+6. Los procesos no contenciosos
+
+---
+class: animated, fadeIn
+
+# Los tipos de procesos fuera de la NLPT
+
+7. El proceso contencioso administrativo (D.S. 013-2008-JUS)
+
+8. El proceso de acción popular (CPConst.)
+
+9. El proceso de anulación de laudo jurídico (D.Leg. 1071)
+
+10. El proceso de acción de amparo (CPConst.)
+
+11. El proceso de inconstitucionalidad (CPConst.)
+
+12. El proceso de cumplimiento (CPConst.)
+
+---
+class: animated, fadeIn
+
+# El proceso ordinario laboral
+
+## 1. Audiencia de .red[conciliación]
+
++ El juez tiene una participación activa en la solución de las diferencias.
+
++ La conciliación puede prolongarse lo necesario por decisión de las partes.
+
++ El juez aprueba el acuerdo parcial o total, y también sobre los extremos no controvertidos, con calidad de cosa juzgada y ordena el cumplimiento de lo acordado.
+
++ Los extremos no solucionados pasan a ser materia de juicio.
+
++ El juez emite sentencia al finalizar la audiencia si la causa es de puro derecho o no hay necesidad de actuación probatoria (**juzgamiento anticipado**).
+
+---
+class: animated, fadeIn
+
+# El proceso ordinario laboral
+
+## 2. Audiencia de .red[juzgamiento]
+
++ Incorpora las etapas de:
+  + **Confrontación de posiciones:** exposición de los argumentos de demandante y demandado.
+  
+  + **Actuación probatoria:** actuación de todos los medios probatorios sólo de los hechos necesitados de prueba.
+  
+  + **Alegatos:** argumentación de cierre de los abogados.
+  
+  + **Sentencia:** a la conclusión de la audiencia o luego de 60 minutos. Excepcionalmente, dentro de 5 días hábiles siguientes.
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pol1.png)
+background-size: contain
+
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pol2.png)
+background-size: contain
+
+---
+class: animated, fadeIn
+
+# El proceso abreviado laboral
+
+## Audiencia .red[Única]
+
++ Se estructura sobre la base de las audiencias de conciliación y de juzgamiento del proceso ordinario laboral.
+
++ Incorpora las etapas de:
+  + Conciliación
+  + Confrontación de posiciones
+  + Actuación probatoria
+  + Alegatos
+  + Sentencia
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pal.png)
+background-size: contain
+
+---
+class: animated, fadeIn, center middle
+
+# El proceso impugnativo de laudos arbitrales económicos
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pilae.png)
+background-size: contain
+
+---
+class: animated, fadeIn
+
+# El proceso cautelar
+
++ Se admite .red[CUALQUIER] medida que sea idónea para asegurar la eficacia de la pretensión principal.
+
++ En general, cabe la medida especial de reposición provisional.
+
++ Si ésta es solicitada por un dirigente sindical, menor de edad, madre gestante o persona con discapacidad no tendrá la necesidad de acreditar el peligro en la demora ni ofrecer contracautela. Le bastará acreditar su condición de tal al momento del despido y la verosimilitud de su demanda.
+
++ Asignación provisional
+  + Procede en los casos de reposición.
+  + Es la entrega de una suma mensual fijada por el juez, no mayor a la última remuneración ordinaria mensual percibida, con cargo a la CTS.
+  + Ordenada la reposición el empleador restituye el depósito CTS.
+  + Ordenado el pago de remuneraciones devengadas estas se deducirán de la asignación percibida.
+  
+---
+class: animated, fadeIn
+
+# El proceso de ejecución
+
++ Títulos ejecutivos
+  + Las resoluciones judiciales firmes
+  + Las actas de conciliación judicial
+  + Los laudos arbitrales firmes que resuelven un conflicto jurídico
+  + Las resoluciones de la AAT firmes que reconocen obligaciones
+  + El documento privado que contenga una transacción extrajudicial
+  + El acta de conciliación extrajudicial, privada o administrativa; y
+  + La liquidación para cobranza de aportes previsionales del sistema privado de pensiones
+
+---
+class: animated, fadeIn
+
+# El proceso de ejecución
+
++ Características:
+  + Multa por contradicción temeraria
+     + Se produce si la contradicción no se sustenta en la inexigibilidad de la obligación, la nulidad o falsedad del título ejecutivo, la extinción de la obligación o excepciones o defensas previas
+     + La multa puede ser de ½ hasta 50 URP
+
+  + Incumplimiento injustificado al mandato de ejecución
+     + Se produce cuando injustificadamente no se cumple el mandato de hacer o no hacer, sin que exista suspensión de la ejecución
+     + Las multas podrán ser sucesivas, acumulativas y crecientes en 30% hasta que el obligado cumpla el mandato
+
+---
+class: animated, fadeIn
+
+# Los procesos no contenciosos
+
+1. Consignación de beneficios sociales
+
+2. Autorización de ingreso a centro de trabajo
+  + Da trámite a la necesidad de autorización previa para ingresar al centro de trabajo cuando este coincide con el domicilio del empleador, en el caso de la inspección del trabajo.
+
+3. Entrega de documentos
+  + Regula la mera solicitud de entrega de documentos laborales tales como certificado de trabajo, constancias, etc.
+
+---
+class: animated, fadeIn
+
+## Algunas reglas adicionales en torno a los procesos
+
+1. Arbitraje:
+  + Se puede pactar arbitraje si este se celebra a la conclusión de la relación laboral y si la remuneración mensual fue mayor a 70 URP.
+
+2. Costos a cargo del Estado:
+  + El Estado puede ser condenado al pago de costos, pero no de gastos judiciales (costas).
+
+3. Aplicación supletoria:
+  + Las normas del Código Procesal Civil son de aplicación supletoria
+
+4. Aplicación progresiva:
+  + Se establece que la nueva ley procesal del trabajo deberá implementarse de modo progresivo
+  + Las cortes más recientes: Puno (2019), Ayacucho (2019)
+  + Falta: Huancavelica, Cerro de Pasco, Apurímac, Huaura, Madre de Dios, Amazonas, San Martín
+
+---
+class: animated, bounceInDown, inverse
+
+# Octava Sala Laboral de Lima, 18 de junio de 2020
+
+.center[
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Foctavasalalaboraldelima%2Fvideos%2F633063550753094%2F&show_text=0&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+]
+
+---
+class: animated, fadeIn
+
+# .left-column[
+Pregunta:
+]
+
+# .right-column[
+¿Qué hubiese hecho usted en el rol de demandante, demandado o juez?
+]
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

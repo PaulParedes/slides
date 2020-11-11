@@ -1,0 +1,289 @@
+---
+title: "Verdad y prueba en el proceso"
+subtitle: "Michele Taruffo - Susan Haack"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "25-05-2020"
+output:
+  xaringan::moon_reader:
+    css: ["default", "css/my-theme.css", "css/my-fonts.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "https://platform.twitter.com/widgets.js"
+    includes:
+      in_header: header.html  
+    seal: true
+    self_contained: true
+---
+
+class: center, middle
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmWAPDtsnYd68ACq-IycAVvoeH3RHuqPd26xqE1aDAhq3mqOpn&usqp=CAU)
+background-size: contain 
+
+---
+class: inverse, center, middle
+
+# El proceso
+
+---
+class: center, middle
+# ¿Cuál es su función?
+
+---
+class: middle
+# es un método para ...
+
+--
+## 1. Resolver controversias (adversarial::USA)
+
+--
+## 2. Construir y describir los hechos relevantes
+
+--
+## 3. Solucionar los conflictos
+
+---
+# 1. Resolver controversias
+
+## No es el árbitro quien decide qué equipo ha ganado el partido. Es solo constatar quien gana o pierde según ciertas reglas.
+
+---
+# 2. Construir y describir los hechos relevantes (storytelling)
+
+## Los relatos construyen ***el caso***
+
+---
+# 3. Solucionar los conflictos
+
+## La decisión del caso es del juez
+
+## hechos::derecho
+
+---
+class: inverse, center, middle
+
+# La toma de decisión en el proceso
+---
+
+## [  ] ¿Interesa la verdad?
+
+--
+
+## [  ] ¿Interesa resolver el conflicto?
+
+--
+
+## [  ] ¿Interesa la paz social, la convivencia?
+
+---
+
+# ¿Qué interesa entonces en el proceso?
+
+--
+
+- Un buen relato (coherente, completo, de sentido común, normal, el más creíble, el más plausible)
+
+--
+
+- ¿Los hechos?
+
+---
+class: center
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">1/ El sesgo de confirmación -que nos afecta a todos- es la tendencia a creer y recordar todo aquello que favorece nuestras propias creencias, ideas, incluso prejuicios.; José María de Pablo (@chemadepablo) <a href="https://twitter.com/chemadepablo/status/1262306110725373952?s=09?ref_src=twsrc%5Etfw">18 mayo 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+### Jonathan Cohen (1923-2006)
+
+En *An Essay on Belief and Acceptance* (1992)
+
+Distingue entre:
+
+- creencia **(belief)** como un sentimiento no voluntario,
+
+- aceptación **(acceptance)** como una decisión voluntaria de suponer. 
+
+La distinción sirve para la paradoja socrática (nadie se equivoca a sabiendas), así como el autoengaño (una persona que se autoengaña pone en duda lo que realmente cree aceptando su opuesto).
+
+---
+# Decisión y aplicación del derecho
+
+- Justicia
+
+- Verdad
+
+- Aplicación del derecho
+
+  - hechos::derecho
+    (condición de aplicación)
+
+- Teorías racionalistas del proceso y de la prueba
+
+---
+# La importancia de los hechos
+
+- Una decisión es justa sí y solo sí la norma, la ley, el derecho se aplica a los hechos sucedidos
+
+--
+
+Pero,
+
+... el hecho no entra al proceso en su realidad empírica
+
+... el hecho ingresa como un relato, un enunciado, una afirmación
+
+... es ese **enunciado** el que se verifica en el proceso que sea **verdadero**
+
+entonces: hay una correspondencia entre **lo afirmado** y **la realidad**
+
+Dirección de ajuste: PALABRAS -----> MUNDO
+(Direction of fit: E. Anscombe, J. Searle)
+
+---
+# El proceso tiene (también) una función epistémica
+
+- la determinación de la verdad de los hechos relevantes de la causa
+
+---
+# La VERDAD de los HECHOS en el proceso
+
+## ¿Qué significa?
+
+> "Es la realidad del hecho del cual se habla el que determina si lo que se dice de ese hecho es verdadero o falso".
+
+- Verdad como correspondencia o equivalencia
+
+- [Lo que se describe, lo que se afirma] **=** [la realidad de lo descrito]
+
+---
+# Problemas sobre la verdad
+
+1. ¿Existe la verdad? ¿Es posible alcanzarla?
+
+2. ¿Hay una (sola) verdad? ¿Una verdad verdadera?
+
+3. En todo caso, ¿el proceso sirve para encontrar la verdad?
+
+*. Verdad absoluta vs. verdad formal
+
+---
+# Resolviendo el problema
+
+- No existen verdades absolutas, ni siquiera en la ciencia. Solo una (alta) probabilidad de haber ocurrido.
+
+- La verdad siempre es relativa en cualquier ámbito porque está en relación con la información, el conocimiento que se tiene en un determinado momento y lugar.
+
+- Que la verdad sea relativa no significa que sea subjetiva, múltiple, irrelevante, individual
+
+- La relatividad es objetiva: en relación con la cantidad y calidad de información, de datos, en tiempo y lugar.
+
+---
+
+# Ejercicio
+
+### La búsqueda (averiguación) de la verdad ¿qué significa entonces?
+
+---
+
+# La verdad
+
+La fiabilidad del enunciado real que se trata, puede ser más o menos probable según el grado de confirmación que se le atribuye al mismo sobre la base de las pruebas
+
+Diferenciar entre:
+
+Probabilidad pascaliana, bayesiana, cuantitativa, matemática
+
+Probabilidad baconiana, de Cohen, lógica
+
+---
+
+# La prueba como fuente de información
+
+- Como medio de prueba
+
+- Todo lo que proporciona información útil, relevante
+
+- ¿Prueba directa y prueba indirecta?
+> En ambas hay inferencias, razonamiento
+
+---
+
+## La prueba como resultado: verdad demostrada del enunciado
+
+- ¿Función persuasiva: dirigida a convencer al juez? ¿Y la justicia?
+
+--
+
+- El juez debe fundar su decisión con base en las pruebas adquiridas para el proceso
+
+--
+
+* (Función epistémica de la prueba en el proceso)
+
+---
+
+## Valoración de los medios de prueba
+
+- ¿Holística?
+
+- Analítica:
+
+## Valoración ¿cómo?
+
+- Íntima convicción del juez (Francia). Alcanzar la certeza. ¿Subjetivo? ¿Arbitrario?
+
+- Sería una valoración ________________.
+  
+--
+
+## Irracional
+
+---
+
+## Concepción racional de la valoración
+
+--
+
+- Ejercicio
+
+--
+
+## A qué sistema se adhiere .... ¿Por qué?
+
+- ¿La NLPT?
+
+- ¿La Constitución?
+
+---
+class: inverse, center, middle
+
+# Susan Haack
+
+---
+
+background-image: url(https://alchetron.com/cdn/susan-haack-dd4e537d-b51a-4978-883a-71d482ded63-resize-750.jpeg)
+background-size: contain
+
+---
+
+# ¿Por qué la verdad fáctica importa al proceso?
+
+---
+
+### 1. Hay una verdad fáctica
+### 2. Esa verdad es objetiva
+### 3. Es posible encontrarla con suficiente frecuencia
+### 4. Que haya estándares objetivos de lo que hace que una prueba sea mejor o peor
+### 5. Aunque falible, es probable que la afirmación en cuestión es verdadera.
+
+---
+
+class: center, middle
+
+# ¡Gracias!
+

@@ -1,0 +1,326 @@
+---
+title: "Responsabilidad y procesos laborales"
+subtitle: "Módulo 5"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "22 de junio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+class: center, middle, animated, slideInRight
+
+# En la cuarta clase ...
+
+## El derecho de daños y la justicia correctiva
+
+### ¿La responsabilidad o el derecho de daños, en el ámbito laboral, tiene alguna particularidad? Si la tiene ¿en qué consistiría esta?
+
+---
+class: animated, fadeIn
+
+# La responsabilidad (civil) en el ámbito laboral
+
+## 1. Enfoque clásico
+
+## 2. Enfoque desde la justicia distributiva y la justicia correctiva
+
+---
+class: animated, fadeIn
+
+# 1. El enfoque clásico
+
+- La responsabilidad es materia civil
+
+- No hay razones para diferenciarlo con otros ámbitos
+
+- Aplica subsidiariamente, en lo laboral, la dogmática civil clásica
+
+- La responsabilidad se divide en:
+  + Contractual
+  + Extracontractual
+  
+- La responsabilidad en el ámbito laboral {despido, AT, EP} es (civil) contractual
+
+**Por tanto:** se trata de verificar la presencia de los 4 elementos de la responsabilidad contractual:
+  1. Conducta antijurídica (- incumplimiento de la ley, del contrato)
+  2. Daño
+  3. Nexo causalidad
+  4. Factor de atribución: - Dolo, - Culpa inexcusable, o - Culpa leve
+
+---
+class: animated, fadeIn
+
+## 1. Conducta antijurídica
+
++ 1321: no ejecutar la obligación (por dolo, culpa inexcusable, culpa leve)
+
++ 1314: actuar con la diligencia ordinaria requerida
+
++ 1315: por tanto, si
+  + inejecución
+  + cumplimiento tardío o defectuoso
+  + CF o FM: no hay responsabilidad
+  
++ 1329: se presume la culpa leve
+  + invierte. carga. probatoria: --> demandado: + probar diligencia ordinaria requerida (circunstancias de persona, tiempo y lugar)
+  
+---
+class: animated, fadeIn
+
+## 2. Daño (y cuantía)
+
++ perjuicio en un interés legítimo
+
++ 1321:
+  + daño emergente
+  + lucro cesante
+
++ 1322:
+  + daño moral
+
++ 1331: la prueba corresponde al DTE: el perjudicado por la
+  + inejecución
+  + cumplimiento parcial
+  + cumplimiento tardío
+  + cumplimiento defectuoso
+  
++ 1332: si no prueba el monto preciso, el juez lo fija "con valoración equitativa"
+
+---
+class: animated, fadeIn
+
+## 3. Causalidad {fáctica, jurídica (qué consecuencias se reparan)}
+
++ 1321: DE; LC; DM que sean
+  + consecuencia inmediata y directa de la inejecución y, además
+  + [culpa inexcusable, dolo] todas esas consecuencias: previsibles (o no) al momento de la contratación
+  + [culpa leve] solo el daño que podía preverse al tiempo en que la obligación fue contraída
+
+---
+class: animated, fadeIn
+
+## 4. Factor de atribución {dolo, culpa inexcusable, culpa leve}
+
++ 1329: se presume la culpa leve
+  + inversión.carga.prueba: DDO --> prueba: diligencia ordinaria (estándar de diligencia: esfuerzos, prevenciones)
+  
++ 1330: DTE --> prueba dolo, culpa inexcusable del DDO
+
+---
+class: animated, fadeIn
+
+## *. Defensas de fondo
+
++ 1326: concurrencia de culpa/dolo de la víctima
+  + reducción del resarcimiento; porque hay corresponsabilidad (cocausación)
+
++ 1327: liberación de resarcimiento por daños que el acreedor habría podido evitar usando su diligencia ordinaria
+
++ 1315: CF / FM:  causa no imputable, consistente en un evento extraordinario (que sale de lo común, que no es usual), imprevisible (no se podía prever al tiempo de contraer la obligación (según lo debido)) e irresistible (al momento de cumplirla), que impide la ejecución de la obligación o determina su cumplimiento parcial, tardío o defectuoso.
+
++ 1328*: nulidad de los pactos de exoneración y limitación de responsabilidad
+
+---
+class: animated, bounceInDown, center, middle, inverse
+
+# Quinta clase
+
+---
+class: animated, slideInRight
+
+# 2. El enfoque desde la justicia distributiva y la justicia correctiva
+
+- Tendencia a la unificación de los sistemas de responsabilidad
+
+- Se habla de responsabilidad civil vs. responsabilidad penal, pero abarca muchos campos, incluido el laboral
+
+- La unificación significa que los linderos de la responsabilidad contractual vs. la extracontractual se difuminan
+
+- No se reconoce que hay diferencia entre que haya, o no, un contrato de por medio, pero ya no es un criterio de separación entre "sistemas".
+
+- P. ej. el CCyC argentino de 2014
+
+- O "Los principios de derecho europeo de la responsabilidad civil", Viena 2005
+
+- Se habla de derecho de daños, *tort law*
+
+  - Extracontractual: protege personas
+  - Contractual: patrimonio puro
+
+---
+class: animated, fadeIn
+
+# John Rawls
+
+- En sociedades liberales el Estado debe garantizar a los individuos un conjunto de bienes, derechos:: bienes primarios:: propiedad privada - integridad física
+
+- Bienes útiles para desarrollar un plan de vida del cual soy responsable
+
+- En el mundo real hay hechos, interacciones, que alteran los planes de vida por circunstancias ajenas a la voluntad de la persona: hechos naturales; de otros: (terceros, contraparte)
+
+Naturaleza
+:: - El Estado interviene neutralizando el infortunio (esquemas de compensación social, castigo al dañador)
+:: - El sujeto asume el infortunio
+
+Acción de terceros
+:: - Posibilidad de dañarse mutuamente
+:: - Posibilidad de causar pérdidas de uno a otro
+
+Estado reconoce
+:: Derechos de indemnidad (libre de interferencias)
+:: Deberes de indemnidad (deber de no dañar)
+
+Reglas sustantivas de responsabilidad
+:: Derecho a no ser dañado
+:: Deber de no dañar a los otros || --> Incide en: Libertad y seguridad personal
+Sirven como criterios de distribución
+
+---
+class: animated, fadeIn
+
+# Los derechos de indemnidad
+
+Son bienes primarios que se distribuyen entre los miembros de una comunidad
+
+- Derechos y deberes primarios, de indemnidad: justicia distributiva
+
+- Derechos y deberes secundarios, de compensación: justicia correctiva (subsanar o rectificar las interacciones injustas)
+
+---
+class: animated, fadeIn
+
+# La responsabilidad civil
+
+Tiene 2 aspectos entonces:
+
+1. Distributivo: derechos y deberes de indemnidad (derecho a no ser dañado, deber de no dañar)
+
+2. Correctivo o rectificatorio (compensar la pérdida; incluye la posibilidad de la  restitución)
+
+---
+class: animated, fadeIn
+
+# Contenido de la justicia distributiva en particular
+(¿de qué depende?)
+
+- Tipo de responsabilidad: culpa, objetiva (o por riesgo creado)
+
+- La causalidad jurídica: qué consecuencias se reparan (lo previsible, lo directo e inmediato, lo remoto)
+
+- Tipo de daños indemnizables: patrimonial, extrapatrimonial
+
+- Defensas admisibles: (CF/FM, culpa de la víctima)
+
+- Estándares de diligencia: esfuerzos, prevenciones que se toman para evitar los daños (diligencia ordinaria)
+
+---
+class: animated, bounceInDown, inverse
+
+.left-column[
+# Pregunta:
+]
+.right-column[
+# ¿De qué depende que sea preferible:<br/> a) la regla de la culpa, o <br/>b) la responsabilidad objetiva?
+]
+
+---
+class: animated, bounceInDown
+
+# Aspectos problemáticos en los casos de responsabilidad por despido 
+
++ Extensión del daño: daño emergente, lucro cesante, daño moral
+
++ Cuantificación del lucro cesante (ganancias dejadas de percibir: ingresos - gastos:: ¿qué ingresos; qué gastos?)
+
++ Prueba del daño moral (psicológico: dolor, sufrimiento)
+
++ Cuantificación del daño moral
+
+---
+class: animated, fadeIn
+# Aspectos problemáticos en los casos de responsabilidad por accidente de trabajo y por enfermedad profesional
+
+¿Qué tipo de responsabilidad aplica?
+
+> Artículo 53. Indemnización por daños a la salud en el trabajo
+
+>	El incumplimiento del empleador del deber de prevención genera la obligación de pagar las indemnizaciones a las víctimas, o a sus derechohabientes, de los accidentes de trabajo y de las enfermedades profesionales. En el caso en que producto de la vía inspectiva se haya comprobado fehacientemente el daño al trabajador, el Ministerio de Trabajo y Promoción del Empleo determina el pago de la indemnización respectiva.
+
+> Ley 29783, LSST
+
+---
+class: animated, fadeIn
+
+# Aspectos problemáticos en los casos de responsabilidad por accidente de trabajo y por enfermedad profesional
+
++ Extensión del daño: daño emergente, lucro cesante, daño moral
+
++ Cuantificación del lucro cesante (ganancias dejadas de percibir: ingresos - gastos:: ¿qué ingresos; qué gastos?)
+
++ Prueba del daño moral (daño físico, daño psicológico, proyecto de vida) 
+
++ Cuantificación del daño moral (cuantificación del valor vida)
+
+---
+class: animated, fadeIn
+
+# Aspectos a considerar en un caso de responsabilidad (por despido arbitrario, accidente de trabajo o enfermedad profesional)
+
++ Hechos pasados y hechos futuros: extensión del daño
+
++ Identificar al (o los) responsable(s)
+
++ Identificar la(s) obligación(es) incumplida(s) (acciones, omisiones)
+
++ Identificar causas (concurrentes) y efectos
+
++ Identificar el tipo de daño (patrimonial, extrapatrimonial)
+
++ Cuantificar los daños
+
++ La prueba de los elementos de la teoría del caso
+
+***
+
+    + Plantear la teoría del caso
+
+---
+class: animated, bounceInDown, inverse
+
+# Octava Sala Laboral de Lima, 18 de junio de 2020
+
+.center[
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Foctavasalalaboraldelima%2Fvideos%2F633063550753094%2F&show_text=0&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+]
+
+---
+class: animated, slideInRight
+
+# Plantear la teoría de un caso
+
+1. de responsabilidad derivado de un despido arbitrario (incausado, fraudulento o nulo) 
+
+2. de responsabilidad derivada de un accidente de trabajo
+
+3. de responsabilidad derivada de una enfermedad profesional
+
+***
+
+>    + Posibles pretensiones
+
+>    + Elementos integrantes de la teoría del caso
+
+---
+class: center, middle, inverse, animated, bounceInDown
+
+# ¡Gracias!

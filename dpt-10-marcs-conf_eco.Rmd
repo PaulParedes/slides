@@ -1,0 +1,758 @@
+---
+title: "Derecho procesal del trabajo"
+subtitle: "Clase 10<br/>Mecanismos alternativos de resolución de conflictos<br/>Solución de los conflictos económicos"
+author: "Paul Paredes"
+institute: "Maestría en Derecho Procesal, UNMSM"
+date: "21 de agosto de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+class: center, middle, animated, slideInRight
+
+# La clase anterior
+
+---
+class: animated, fadeIn
+
+# La casación. Causales.
+  
+1. Infracción normativa que incide directamente sobre la decisión contenida en la resolución impugnada.
+2. Apartamiento de los precedentes vinculantes del TC o la CS.
+  + (¿apartamiento inmotivado? ~ art. 386 CPC)
+
+> Ley 26636 | *Artículo 56.- CAUSALES.- Son causales para interponer el recurso de casación:*
+
+>	*a) La aplicación indebida de una norma de derecho material.*
+
+>	*b) La interpretación errónea de una norma de derecho material.*
+
+>	*c) La inaplicación de una norma de derecho material.*
+
+>	*d) La contradicción con otras resoluciones expedidas por la Corte Suprema de Justicia o las Cortes Superiores, pronunciadas en casos objetivamente similares, siempre que dicha contradicción esté referida a una de las causales anteriores.*
+
+---
+class: animated, fadeIn
+
+# La casación. Precedentes vinculantes CS. (art. 40.° NLPT)
+
++ La SCyS-CSJR **convoca** al pleno de los jueces supremos en materia constitucional y social.
++ **Finalidad::** .red[constituir] o .red[variar] un precedente judicial.
++ **Decisión::** por mayoría absoluta de los asistentes al pleno casatorio.
++ **Consecuencia:: .red[vincula]** a los órganos jurisdiccionales hasta que sea modificada por otro precedente.
++ Los abogados pueden **informar oralmente** en la vista de la causa ante el pleno casatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Admisibilidad.
+
++ Vs. sentencias y autos finales de las salas superiores.
+  + Si contiene monto reconocido, ...>>100 URP. (cf. art. 388 CPC)
++ Ante la sala superior que emitió la resolución impugnada.
+  + Sala superior remite **sin más trámite**.
++ Plazo: **.red[10 dhs]**.
++ Tasa (cf. Undécima D.C.)
+
+---
+class: animated, fadeIn
+
+# La casación. Procedencia.
+
++ No consentimiento de la resolución adversa de primera instancia, si fuese confirmada en segunda instancia.
++ Claridad y precisión de las causales:: Infrac.Normat. o Apart.Precd.Vinc.
++ Demostrar la incidencia directa de la IN.
++ Indicar si pedido es Anulatorio o Revocatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Efecto.
+
++ ### La interposición **.red[no suspende]** la ejecución de la sentencia.
++ Excepcionalmente se suspende:
+  + solo si obligación de dar suma de dinero.
+  + a pedido de parte.
+  + previo depósito o carta fianza por el importe total.
+     + IT: capital, intereses, costos, costas, más intereses de 1 año proyectado.
+> ...> juez suspende en resolución fundamentada e inimpugnable
+
+---
+class: animated, fadeIn
+
+# La casación. Finalidad.
+
+> Artículo 384.- Fines de la casación
+El recurso de casación tiene por fines la adecuada aplicación del derecho objetivo al caso concreto y la uniformidad de la jurisprudencia nacional por la Corte Suprema de Justicia. 
+
+> (Ley 29364, del 28 mayo 2009).
+
+> Artículo  384.- El recurso de casación tiene por fines esenciales la correcta aplicación e interpretación del derecho objetivo y la unificación de la jurisprudencia nacional por la Corte Suprema de Justicia.
+
+> (Original)
+
+---
+class: animated, fadeIn
+
+#### La casación. Fines.
+
+1. .verde[Función de nomofilaquia::]
+
+ a) Poner en evidencia los errores. .azul[Modelo de tercera instancia.]
+
+ b) Interpretación | justa | adecuada | correcta | mejor | ajustada a los valores, bienes, principios constitucionales | de la norma.
+
+ > CS elige entre valores. ¿Hacer derecho? .blue[Modelo de Corte Suprema.]
+
+2. .green[Uniformidad (de la interpretación de la ley) por medio de la jurisprudencia nacional::]
+ 
+ a) Mera y formal unificación de la jurisprudencia. .azul[Modelo de tercera instancia.]
+ 
+ b) Uniformidad de la interpretación en los supuestos de hecho. (conservador vs. innovación). .blue[Modelo de Corte Suprema]
+ 
+  > El precedente se vuelve significativo. Referencia para jurisprudencia uniforme.
+  
+  > El cambio de precedente rompe la uniformidad para crear una nueva.
+ 
+---
+class: animated, fadeIn
+
+# El rol de la Corte Suprema
+
+Distinguir entre:
+
+1. Resoluciones emitidas en casación. Jurisprudencia. (art. 31, 39 NLPT).
+
+2. Resoluciones emitidas en casación. Precedentes vinculantes. (art. 40 NLPT) ~~ (art. 400 CPC).
+
+3. Plenos jurisdiccionales supremos en materia laboral. (art. 22 y 116 LOPJ).
+
+---
+class: animated, fadeIn
+
+#### Doctrina jurisprudencial
+
+> Carácter vinculante de la doctrina jurisprudencial.
+
+>Artículo 22.- Las Salas Especializadas de la Corte Suprema de Justicia de la República ordenan la publicación trimestral en el Diario Oficial "El Peruano" de las Ejecutorias que fijan principios jurisprudenciales que han de ser de obligatorio cumplimiento, en todas las instancias judiciales.
+
+> Estos principios deben ser invocados por los Magistrados de todas las instancias judiciales, cualquiera que sea su especialidad, como precedente de obligatorio cumplimiento. En caso que por excepción decidan apartarse de dicho criterio, están obligados a motivar adecuadamente su resolución dejando constancia del precedente obligatorio que desestiman y de los fundamentos que invocan.
+
+> Los fallos de la Corte Suprema de Justicia de la República pueden excepcionalmente apartarse en sus resoluciones jurisdiccionales, de su propio criterio jurisprudencial, motivando debidamente su resolución, lo que debe hacer conocer mediante nuevas publicaciones, también en el Diario Oficial "El Peruano", en cuyo caso debe hacer mención expresa del precedente que deja de ser obligatorio por el nuevo y de los fundamentos que invocan.
+
+---
+class: animated, fadeIn
+
+# Plenos jurisdiccionales
+
++ Plenos laborales nacionales, regionales o distritales.
+
+> Plenos jurisdiccionales.
+
+> Artículo 116.- Los integrantes de las Salas Especializadas, pueden reunirse en plenos jurisdiccionales nacionales, regionales o distritales a fin de concordar jurisprudencia de su especialidad, a instancia de los órganos de apoyo del Poder Judicial.
+
+---
+class: animated, fadeIn
+
+### Sala plena de la Corte Suprema
+
+> Artículo 80.- Atribuciones de la Sala Plena de la Corte Suprema
+Son atribuciones de la Sala Plena de la Corte Suprema de Justicia de la República:
+
+> 4.Sistematizar y difundir la jurisprudencia de las Salas Especializadas de la Corte Suprema y disponer la publicación trimestral de las Ejecutorias que fijen principios jurisprudenciales que han de ser de obligatorio cumplimiento en todas las instancias judiciales.
+
+---
+class: animated, slideInRight, center, middle, inverse
+
+# Los medios impugnatorios en Bolivia, Chile, Colombia, Ecuador, Uruguay y Venezuela
+
+---
+class: animated, fadeIn
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6jxd{border-color:inherit;font-family:Georgia, serif !important;;text-align:left;vertical-align:top}
+.tg .tg-v0f8{background-color:#c0c0c0;border-color:inherit;font-family:Georgia, serif !important;;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-6n4m{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-weight:bold;
+  text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6n4m">País</th>
+    <th class="tg-6n4m">Recursos</th>
+    <th class="tg-6n4m">Casación*</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v0f8">Bolivia</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación<br>- Casación<br>- Compulsa x neg. apel. cas.<br>- Rec. extraord. rev. sent.</td>
+    <td class="tg-6jxd">- Suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Chile</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación (sent. interl.)<br>- de Nulidad (sent. def.)<br>- Unif. jurisprudencia*</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Colombia</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación<br>- Casación<br>- Queja por denegatoria<br>- Consulta<br>- Revisión<br>- Anulación</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Ecuador</td>
+    <td class="tg-6jxd">- Aclaración y ampliación<br>- Revocatoria y reforma<br>- Apelación<br>- Casación</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Uruguay</td>
+    <td class="tg-6jxd">- Reposición<br>- Apelación<br>- Queja por denegatoria apel.<br>- Revisión<br>- Casación</td>
+    <td class="tg-6jxd">- No suspende ejecución</td>
+  </tr>
+  <tr>
+    <td class="tg-v0f8">Venezuela</td>
+    <td class="tg-6jxd">- Apelación<br>- Casación<br>- Control de legalidad</td>
+    <td class="tg-6jxd">- Suspende ejecución</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, center, middle, inverse, bounceInDown
+
+# Mecanismos alternativos de resolución de conflictos
+
+# Conciliación y .red[arbitraje]
+
+---
+class: animated, fadeIn
+
+.left-column[
+# .verde[Caso 1:]
+]
+
+.right-column[
+Un trabajador después de 35 años de servicios es despedido imputándosele la comisión de una falta grave. Esta consiste en el incumplimiento de sus obligaciones de trabajo que supone el quebrantamiento de la buena fe laboral. El trabajador entra en contacto con su exempleador y luego de varias reuniones han llegado al siguiente acuerdo:
+
+1. El trabajador (extrabajador) se compromete a no interponer ninguna demanda y, en caso que la hubiese interpuesto, se compromete a desistirse de la pretensión. Declara que no tiene nada que reclamar a su empleador.
+
+2. A cambio, el empleador se compromete --y cumple-- contratar al hijo menor de su extrabajador.
+
+***
+
+> #### ¿Usted daría su conformidad al acuerdo? ¿Por qué?
+
+]
+
+---
+class: animated, fadeIn
+
+.left-column[
+# .verde[Caso 2:]
+]
+.right-column[
+Un trabajador después de más de 10 años de servicios reclama el pago de sus beneficios sociales a su empleador. Nunca le entregó recibo, ni boletas, pero cada fin de mes le pagaba el monto acordado: S/750.00. El extrabajador solicita el pago de las gratificaciones legales, asignación familiar, CTS y, en general, los beneficios que por ley corresponden a los trabajadores sujetos a la actividad privada. El exempleador tiene la voluntad de llegar a un acuerdo. Uno de los puntos de discusión es la fecha de inicio, pues desde esa fecha empezaría el reconocimiento de los derechos. Luego de varias conversaciones las partes llegan al siguiente acuerdo: 
+
+1. Considerar como fecha de ingreso el 1 de julio de 2015.
+2. Calcular los beneficios de ley considerando la suma de S/750.00.
+3. Pagar la suma que arroje dicho cálculo en el plazo de 3 días hábiles.
+
+***
+
+> #### ¿Usted daría su conformidad al acuerdo? ¿Por qué?
+]
+
+---
+class: animated, fadeIn
+
+# Conciliación
+
++ Es un mecanismo para resolver un conflicto de intereses.
+
++ ¿De qué manera se resuelve un conflicto en conciliación?
+
+--
+
++ Mediante el acuerdo:: llegando a un acuerdo.
+
+> Es el acuerdo lo que pone fin al conflicto.
+
+> Es el acuerdo el modo de resolver el conflicto.
+
+--
+
++ ¿Ese .red[acuerdo] tiene algún parámetro de validez?
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo adoptado en conciliación
+
+1. **.red[El derecho]:: derechos disponibles de las partes**
+
+> (D. Leg. 1070) Artículo 7.- Materias conciliables
+ 
+> Son materia de conciliación las pretensiones determinadas o determinables que versen sobre derechos disponibles de las partes.
+
++ Entonces, solo los derechos laborales disponibles serían susceptibles de conciliar.
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo adoptado en conciliación
+
+<ol start=2>
+2.  .red[Los hechos]:: la verdad como correspondencia
+</ol>
+
++ Verdad como correspondencia con la realidad: `"La afirmación 'La Tierra es plana' es V/F porque hay suficientes elementos de corroboración de lo afirmado".`
+  
++ Verdad como consenso: acuerdo: `"Todos (la mayoría, algunos, alguien) acordamos que 'La Tierra es plana'."`
+
+  + Los motivos del acuerdo pueden ser las creencias, la conveniencia, la utilidad, etc.
+
++ Verdad como persuasión: victoria en el ánimo, en la conciencia del decisor: `"Tengo la convicción, la certeza, de que 'la Tierra es plana'."`
+
+---
+class: animated, fadeIn
+
+## El principio dispositivo
+
++ Iniciativa de parte
+
++ Según lo alegado y probado"
+
+> Yo soy dueño de mis conflictos
+
+> Yo los propongo, yo los concluyo
+
+---
+class: animated, fadeIn
+
+## ¿Cuál es la función del proceso?
+
+1. El proceso como mero mecanismo de resolución de controversias .red[antes] que como `actuación del derecho:: antes que como decir derecho:: aplicar derecho`.
+
+2. El proceso como instancia de `construcción de una realidad para persuadir al juzgador`.
+
+3. El proceso como un `mecanismo de solución de conflictos donde se aplica el derecho vigente en un país sobre los hechos sucedidos` antes que como mera instancia de resolución de controversias.
+
+---
+class: animated, fadeIn
+
+# La NLPT y la conciliación
+
+> Artículo 30.- Formas especiales de conclusión del proceso
+
+> El proceso laboral puede concluir, de forma especial, por conciliación, allanamiento, reconocimiento de la demanda, transacción, desistimiento o abandono. También concluye cuando ambas partes inasisten por segunda vez a cualquiera de las audiencias programadas en primera instancia.
+
+> La conciliación y la transacción pueden ocurrir dentro del proceso, cualquiera sea el estado en que se encuentre, hasta antes de la notificación de la sentencia con calidad de cosa juzgada. El juez puede en cualquier momento invitar a las partes a llegar a un acuerdo conciliatorio, sin que su participación implique prejuzgamiento y sin que lo manifestado por las partes se considere declaración. Si ambas partes concurren al juzgado llevando un acuerdo para poner fin al proceso, el juez le da trámite preferente en el día.
+
+---
+class: animated, fadeIn
+
+# La NLPT y la conciliación
+
+> Para que un acuerdo conciliatorio o transaccional ponga fin al proceso debe superar el test de disponibilidad de derechos, para lo cual se toman los siguientes criterios:
+
+> a) El acuerdo debe versar sobre derechos nacidos de una norma dispositiva, debiendo el juez verificar que no afecte derechos indisponibles;
+
+> b) debe ser adoptado por el titular del derecho; y
+
+> c) debe haber participado el abogado del prestador de servicios demandante.
+
+> Los acuerdos conciliatorios y transaccionales también pueden darse independientemente de que exista un proceso en trámite, en cuyo caso no requieren ser homologados para su cumplimiento o ejecución. La demanda de nulidad del acuerdo es improcedente si el demandante lo ejecutó en la vía del proceso ejecutivo habiendo adquirido, de ese modo, la calidad de cosa juzgada.
+
+---
+class: animated, fadeIn
+
+# La NLPT y la conciliación
+
+## Características del acuerdo en conciliación:
+
+### 1. Libre
+
+### 2. Informado
+
+### 3. De buena fe
+
+---
+class: animated, fadeIn
+
+# El arbitraje jurídico en materia laboral
+
++ Es un mecanismo para resolver un conflicto de intereses.
+
++ ¿De qué manera se resuelve un conflicto jurídico en arbitraje?
+
+--
+
++ Aplicando derecho
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo de someter el conflicto a arbitraje jurídico
+
+1. **.red[El derecho]:: derechos disponibles de las partes y aquellas que la ley autorice**
+
+> (D. Leg. 1071) Artículo 2.- Materias susceptibles de arbitraje.
+
+> 1. Pueden someterse a arbitraje las controversias sobre materias de libre disposición conforme a derecho, así como aquellas que la ley o los tratados o acuerdos internacionales autoricen.
+
++ Entonces, solo los derechos laborales disponibles serían susceptibles de llevar a arbitraje.
+
++ Pero también podría sostenerse que `lo laboral` es una materia autorizada por ley.
+
+---
+class: animated, fadeIn
+
+## Parámetros de validez del acuerdo de someter el conflicto a arbitraje jurídico
+
+> (NLPT. Disp. Complem.) SEXTA.- Las controversias jurídicas en materia laboral pueden ser sometidas a arbitraje, siempre y cuando el convenio arbitral se inserte a la conclusión de la relación laboral y, adicionalmente, la remuneración mensual percibida sea, o haya sido, superior a las setenta (70) Unidades de Referencia Procesal (URP).
+
++ De cumplir 2 condiciones:
+
+1. El convenio arbitral solo puede pactarse a la conclusión de la relación laboral; y,
+
+2. La remuneración mensual percibida debe haber sido mayor a 70 URP (en 2020 > S/30,100)
+
+---
+class: animated, fadeIn
+
+# La NLPT y el arbitraje jurídico
+
+## Características del acuerdo que somete el conflicto a arbitraje jurídico:
+
+### 1. Libre
+
+### 2. Con garantía de solvencia
+
+### 3. De buena fe
+
+---
+class: animated, fadeIn, center, middle
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-10o3{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-7f10{background-color:#c0c0c0;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-w396{background-color:#67fd9a;border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-4s63{border-color:inherit;font-family:Georgia, serif !important;;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-10o3"></th>
+    <th class="tg-w396">Conciliación prejudicial<br>obligatoria</th>
+    <th class="tg-w396">Conciliación facultativa<br>para el trabajador</th>
+    <th class="tg-w396">Conciliación intrajudicial</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7f10">Argentina</td>
+    <td class="tg-4s63">Sí. Ley 24.635. SECLO</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Bolivia</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">No</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Chile</td>
+    <td class="tg-4s63">En caso de monitorio<br>- Ante Inspección del trabajo<br>- Hasta 10 ing. min. men. (S/15,000)</td>
+    <td class="tg-4s63">Sí<br></td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Colombia</td>
+    <td class="tg-4s63">Fue declarada inexequible<br>por la Corte Constitucional<br>C-893/01</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Ecuador</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">España</td>
+    <td class="tg-4s63">Sí. Ley 36/2011</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">--</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Uruguay</td>
+    <td class="tg-4s63">Sí. Ley 18.572</td>
+    <td class="tg-4s63"></td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-7f10">Venezuela</td>
+    <td class="tg-4s63">No</td>
+    <td class="tg-4s63">--</td>
+    <td class="tg-4s63">Sí</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+class: center, middle, animated, slideInRight, inverse
+
+# El arbitraje (económico)
+
+---
+class: animated, fadeIn
+
+# Los conflictos laborales
+
+Varias formas de clasificarlos. Por ejemplo:
+
++ .green[Jurídicos (de aplicación)] vs. .blue[De intereses (económicos, de creación)]
+
++ Individuales, pluriindividuales, colectivos
+
+---
+class: animated, fadeIn, center, middle
+
+# ¿Cómo distinguir un .green[conflicto jurídico] de uno de .blue[intereses o económico]?
+
+---
+class: animated, fadeIn
+
+# Caso 1
+
+> Juan tiene en su contrato de trabajo una cláusula en la cual se indica que el empleador se compromete a brindar todas las facilidades que resulten necesarias para la adecuada prestación del servicio, incluyendo facilidades para el traslado a su centro de trabajo. Juan se acaba de comprar un automóvil último modelo. Juan piensa que su empleador debe darle un espacio para estacionar su moderno vehículo o, en todo caso, pagarle la cochera. Su empleador le acaba de responder que "ni hablar, de ninguna manera".
+
+---
+class: animated, fadeIn
+
+# Caso 2
+
+> Lo mismo que el caso 1 pero la cláusula no está contenida en el contrato de trabajo sino en el convenio colectivo del año 1998.
+
+---
+class: animated, fadeIn
+
+# Caso 3
+
+> Andrés está sujeto al régimen laboral del trabajo doméstico. Su remuneración mensual es de S/200.00. Recientemente ha escuchado que el Gobierno ha dado el D. Leg. 1499 que modifica la Ley de los Trabajadores del Hogar. Buscando en Internet ha encontrado que el nuevo artículo dice lo siguiente: *"5.1 El monto de la remuneración de los/as trabajadores/as del hogar, en cualquiera de sus modalidades, es establecido por acuerdo libre de las partes. La remuneración debe ser justa y equitativa, conforme a los parámetros del marco legal vigente."* El mayor cambio que percibe es que el nuevo texto agrega que la remuneración debe ser justa y equitativa. Andrés pensaba que a partir de la fecha iba a empezar a ganar S/930.00 pero le siguen pagando S/200.00. ¿Andrés debería reclamar? ¿Qué le aconsejaría usted?
+
+---
+class: animated, fadeIn
+# Caso 4
+
+> En la sección de "Acabados" trabajan 27 operarios en un espacio de poco más de 50 m<sup>2</sup>. Hace mucho calor, incluso en invierno. Los trabajadores han solicitado que la empresa coloque aire acondicionado pero les han contestado que no están obligados a ello. El sindicato piensa incluir dicho punto en el próximo pliego de reclamos. ¿Qué les diría usted?
+
+---
+class: animated, fadeIn
+
+# Los conflictos económicos colectivos
+
++ ### ¿Cómo inician?
+
++ ### ¿Cómo se tramitan o canalizan?
+
++ ### ¿Cómo se solucionan?
+
++ ### ¿Qué alternativas procedimentales de solución existen?
+
+---
+class: animated, fadeIn
+
+# El arbitraje (derivado de un procedimiento de negociación colectiva)
+
++ ### ¿Cómo se activa el arbitraje?
+
++ ### ¿Qué tipos de arbitraje existen en el ordenamiento jurídico peruano?
+
+---
+class: animated, fadeIn
+
+# El arbitraje potestativo
+
+### Origen del arbitraje potestativo
+
+### La jurisprudencia del TC
+
++ Caso portuarios STC 03561-2009-PA/TC
++ Caso SINAUT - SUNAT 02566-2012-PA/TC
++ Caso FETRATEL 03243-2012-PA/TC
++ Caso América Móvil STC 03361-2013-PA/TC
++ Caso América Móvil STC 06518-2013-PA/TC
++ Caso Aris Industrial STC 01499-2015-PA/TC, 20/12/2017; 17/12/2018
+* Caso Shougang RTC 06001-2013-PA/TC
+
+---
+class: animated, fadeIn
+
+# El arbitraje
+
+## Reglas de trámite del árbitraje
+
++ TUO LRCT y reglamento
+
++ LSC y reglamento
+
++ El D.S. 009-2017-TR ¿mala fe?
+
+---
+class: animated, fadeIn
+
+# El arbitraje
+
+## Impugnación del laudo vs. cumplimiento
+
+## Reglas de impugnación
+
+## El VI Pleno Jurisdiccional Supremo y las causales de impugnación
+
+## El control difuso (Caso Minera Maria Julia STC 142-2011-PA/TC). Vid. fundamentos 20, 21 y 26.
+
+---
+class: animated, fadeIn
+
+# El VI Pleno Jurisdiccional Supremo y las causales de impugnación
+
+El V Pleno Jurisdiccional Supremo en Materia Laboral y Previsional, publicado en El Peruano el 4 de agosto de 2017 justamente –recogiendo pronunciamientos previos de la Corte Suprema como la Apelación N.° 12028-2013-LIMA (Caso Municipalidad Distrital de Los Olivos, del 15 de octubre de 2014) ha ordenado las causales de nulidad aplicables a los Laudos Arbitrales Económicos en materia laboral.
+
+---
+class: animated, fadeIn
+
+### Este Acuerdo Plenario establece lo siguiente:
+
+> «El Pleno acordó por unanimidad:
+
+> Las normas aplicables para determinar las causales de nulidad, que se pueden invocar válidamente en un proceso de impugnación de laudo arbitral económico en materia laboral son las siguientes:
+
+> Los artículos 63° a 66° del Texto Único Ordenado de la Ley de Relaciones Colectivas de Trabajo, aprobado por el Decreto Supremo N° 010-2003-TR. 
+
+> El artículo 56° del Texto Único Ordenado de la Ley de Relaciones Colectivas de Trabajo, aprobado por el Decreto Supremo N° 010-2003-TR, en concordancia con el artículo 65 de la misma norma y el artículo 57° de su Reglamento, regulado por el Decreto Supremo N° 011-92-TR. 
+
+
+> Los literales b y d del inciso 1 del artículo 63° de la Ley General de Arbitraje, Decreto Legislativo N° 1071.»
+
+---
+class: animated, fadeIn
+
+# Apelación N.° 4968-2017
+
+Asimismo, redondeando estos criterios en la Apelación N.° 4968-2017 (Publicada en El Peruano el 11 de febrero de 2018) el Pleno de la Segunda Sala Constitucional y Social Transitoria de la Corte Suprema de Justicia estableció como criterio jurisdiccional respecto de las causales de nulidad de un laudo arbitral económico, el siguiente:
+
+---
+class: animated, fadeIn
+
+> «El laudo arbitral será nulo cuando se presente alguno de los supuestos que a continuación enumeramos:
+
+> a) Cuando el árbitro, tribunal o alguno de sus miembros, están impedidos de participar como tales (artículo 64° del Decreto Supremo N° 010-2003-TR);
+
+> b) Cuando se pronuncie en forma distinta a alguna de las propuestas finales de las partes o combinando planteamientos de una y otra (artículo 65° del Decreto Supremo N° 010-2003-TR);
+
+> c) Cuando se ha expedido bajo presión derivada de modalidades irregulares de huelga o de daños a las personas o las cosas (artículo 69° del Decreto Supremo N° 010-2003-TR);
+
+> d) Cuando se haya emitido sin tener en cuenta el informe de la Autoridad Administrativa de Trabajo (Apelación N° 11673-2015-LIMA de fecha once de diciembre de dos mil quince);
+
+> e) Cuando una de las partes no ha sido debidamente notificada del nombramiento de un árbitro o de alguna actuación arbitral, o por cualquier motivo no ha podido ejercer sus derechos (literal b), del artículo 63° del Decreto Legislativo N° 1071); y
+
+> f) Cuando el árbitro o tribunal arbitral resuelve sobre materias no sometidas a su decisión (literal d), del artículo 63° del Decreto Legislativo N° 1071).»
+
+---
+class: animated, fadeIn
+
+# El control difuso (Caso Minera Maria Julia STC 142-2011-PA/TC). Vid. fundamentos 20, 21 y 26.
+
+> 20.De acuerdo con lo indicado líneas arriba y con la finalidad de establecer de modo claro y preciso los criterios a utilizarse en materia de amparo arbitral, este Supremo térprete de la Constitución establece, con calidad de precedentes vinculantes, las guientes reglas: 
+
+> Improcedencia del amparo arbitral
+
+>a) El recurso de anulación previsto en el Decreto Legislativo N° 1071, que norma el arbitraje y, por razones de temporalidad, los recursos de apelación y anulación para aquellos procesos sujetos a la Ley General de Arbitraje (Ley N° 26572) constituyen vías procedimentales específicas, igualmente satisfactorias para la protección de derechos constitucionales, que determinan la improcedencia del amparo de conformidad con el artículo 5°, inciso 2), del Código Procesal Constitucional, salvo las excepciones establecidas en la presente sentencia.
+
+---
+class: animated, fadeIn
+
+> b) De conformidad con el inciso b) del artículo 63° del Decreto Legislativo N.° 1071 , no procede el amparo para la protección de derechos constitucionales aún cuando éstos constituyan parte del debido proceso o de la tutela procesal efectiva. La misma regla rige para los casos en que sea de aplicación la antigua Ley General de Arbitraje, Ley N.° 26572.
+
+> c) Es improcedente el amparo para cuestionar la falta de convenio arbitral. En tales casos la vía idónea que corresponde es el recurso de anulación, de conformidad con el inciso a) del artículo 63° del Decreto Legislativo N.° 1071; o el recurso de apelación y anulación si correspondiera la aplicación del inciso 1 del artículo 65° e inciso 1 del artículo 73° de la Ley N.° 26572, respectivamente.
+
+> d) Cuando a pesar de haberse aceptado voluntariamente la jurisdicción arbitral, las materias sobre las que ha de decidirse tienen que ver con derechos fundamentales de carácter indisponible o que no se encuentran sujetas a posibilidad de negociación alguna, procederá el recurso de anulación (Decreto Legislativo que norma el Arbitraje, artículo 63° [incisos "e" y "f']) o los recursos de apelación y anulación (Ley General Arbitraje, respectivamente, artículos 65° [inciso 1] y 73° [inciso 7]), siendo improcedente el amparo alegándose el mencionado motivo (artículo 5°,inciso 2, del Código Procesal Constitucional).
+
+---
+class: animated, fadeIn
+
+> e) La interposición del amparo que desconozca las reglas de procedencia establecidas en esta sentencia no suspende ni interrumpe los plazos previstos para demandar en proceso ordinario el cuestionamiento del laudo arbitral vía recurso de anulación y/o apelación según corresponda. 
+
+> f) Contra lo resuelto por el Poder Judicial en materia de impugnación de laudos arbitrales sólo podrá interponerse proceso de amparo contra resoluciones judiciales, conforme a las reglas del artículo 4° del Código Procesal Constitucional y su desarrollo jurisprudencial. 
+
+---
+class: animated, fadeIn
+
+### Supuestos de procedencia del amparo arbitral 
+
+> 21.No podrá declararse la improcedencia del amparo arbitral por aplicación del artículo 5° inciso 2) del Código Procesal Constitucional, en los siguientes supuestos:
+
+>a) Cuando se invoca la vulneración directa o frontal de los precedentes vinculantes establecidos por el Tribunal Constitucional.
+
+>b) Cuando en el laudo arbitral se ha ejercido control difuso sobre una norma declarada constitucional por el Tribunal Constitucional o el Poder Judicial, según corresponda, invocándose la contravención al artículo VI del Título Preliminar del Código Procesal Constitucional.
+
+>c) Cuando el amparo sea interpuesto por un tercero que no forma parte del convenio arbitral y se sustente en la afectación directa y manifiesta de sus derechos constitucionales a consecuencia del laudo pronunciado en dicho arbitraje, salvo que dicho tercero esté comprendido en el supuesto del artículo 14° del Decreto Legislativo N.° 1071.
+
+---
+class: animated, fadeIn
+
+>En el caso de los supuestos a) y b) del presente fundamento, será necesario que quien se considere afectado haya previamente formulado un reclamo expreso ante el tribunal arbitral y que éste haya sido desestimado, constituyendo tal reclamo y su respuesta, expresa o implícita, el agotamiento de la vía previa para la procedencia del amparo.
+
+>La sentencia que declare fundada la demanda de amparo por alguno de los supuestos indicados en el presente fundamento, puede llegar a declarar la nulidad del laudo o parte de él, ordenándose la emisión de uno nuevo que reemplace al anterior o a la parte anulada, bajo los criterios o parámetros señalados en la respectiva sentencia. En ningún caso el Juez o el Tribunal Constitucional podrá resolver el fondo de la controversia sometida a arbitraje. 
+
+---
+class: animated, fadeIn
+
+### Control difuso
+
+> 26.No obstante, el ejercicio del control difuso de constitucionalidad en la jurisdicción arbitral debe ser objeto, como se acaba de expresar, de modulación por este Supremo Intérprete de la Constitución, con el propósito de que cumpla debidamente su finalidad de garantizar la primacía de la Constitución y evitar así cualquier desviación en el uso de este control constitucional. Por ello, se instituye la siguiente regla:
+
+> El control difuso de la jurisdicción arbitral se rige por las disposiciones del artículo VI del Título Preliminar del Código Procesal Constitucional y la jurisprudencia vinculante dictada por este Tribunal Constitucional sobre el control difuso. Sólo podrá ejercerse el control difuso de constitucionalidad sobre una norma aplicable al caso de la que dependa la validez del laudo arbitral, siempre que no sea posible obtener de ella una interpretación conforme a la Constitución y además, se verifique la existencia de un perjuicio claro y directo respecto al derecho de alguna de las partes. 
+
+---
+class: animated, fadeIn, center middle
+
+# El proceso impugnativo de laudos arbitrales económicos
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pilae.png)
+background-size: contain
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

@@ -1,0 +1,12 @@
+#!/bin/bash -e
+
+cd "$( dirname "${BASH_SOURCE[0]}" )/.."
+
+export JAVA_HOME=$(/usr/libexec/java_home -v 11+)
+
+cd ../rt
+mvn clean install
+cd ../photon
+./script/build
+cd ../ui
+mvn clean compile

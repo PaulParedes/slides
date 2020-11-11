@@ -1,0 +1,258 @@
+---
+title: "El uso de la prueba científica por la SCJN en materia laboral"
+author: "Paul Paredes"
+#abstract: "Este artículo analiza dos sentencias de la Suprema Corte de Justicia de la Nación de México (SCJN), sobre materia laboral, en las que se apoya en prueba científica. Este análisis se hace con dos propósitos: el primero, identificar cómo, cuándo y para qué la SCJN ha recurrido a la prueba científica; y el segundo, proyectar hacia las instancias jurisdiccionales ese uso del conocimiento experto para la admisión, la práctica y la valoración de la prueba."
+#keywords: "prueba científica, prueba pericial, estadística, razonamiento probatorio, inferencia a la mejor explicación, proceso laboral"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: 3
+    number_sections: yes
+    df_print: kable
+  word_document:
+    toc: yes
+    number_sections: yes
+#header-includes:
+fontsize: 12pt
+geometry: margin=1in
+documentclass: article
+papersize: letter
+linestretch: 1.5
+lang: es
+bibliography: bib/mibiblio.bib
+biblio-style: apsr
+endnote: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introducción {-}
+
+El conocimiento científico
+
+# Los casos
+
++--------+------------+---------------------+------------------------------+------------------------------------------------+
+| Asunto | Expediente | Fecha de resolución | Tema                         | Subtema                                        |
++:======:+:==========:+:===================:+:============================:+:==============================================:+
+| ADR    | 4883/2017  | 28.02.2018          | Igualdad y no discriminación | - Compensación, divorcio, separación de bienes\|
+|        |            |                     |                              | - Doble jornada de las mujeres                 |
++--------+------------+---------------------+------------------------------+:-----------------------------------------------+
+| AR     | 9/2018 \   | 05.12.2018          | Igualdad y no discriminación | - Discriminación\                              |
+|        | (8/2018)   |                     |                              | - Seguridad social\                            |
+|        |            |                     |                              | - Trabajadoras domésticas\                     |
+|        |            |                     |                              | - Acreditación renuncia y antigüedad empleo    |
++--------+------------+---------------------+------------------------------+------------------------------------------------+
+
+## ADR 4883/2017: compensación y doble jornada
+
+### El caso
+
+El caso trata de una excónyuge cuyo matrimonio estuvo bajo el régimen de separación de bienes. Ella demandó el pago de una compensación igual al 50% del valor comercial de dos bienes inmuebles. El sustento de la demanda es que durante la vigencia de su matrimonio, de cuarenta años, se dedicó preponderantemente al trabajo del hogar y al cuidado de sus tres hijas.
+
+### Selección de la norma que resuelve el caso
+
+La fracción VI del artículo 267 del Código Civil de la Ciudad de México, según el texto vigente de 2008 a 2011. Esto porque el divorcio ocurrió en 2010.
+
+> Artículo 267.- El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiando contener los siguientes requisitos:
+
+> VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, **durante el matrimonio, se haya dedicado al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos o que no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte**. El Juez de lo Familiar resolverá atendiendo las circunstancias especiales de cada caso.
+
+### Identificación inicial del supuesto de hecho
+
+La regla aplicable, la de solución del conflicto, es la fracción VI del artículo 267 del C.C. de 2008. Esta norma describe el siguiente supuesto de hecho que puede ser expresado, en sus elementos, de la siguiente forma:
+
++------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                        |
+|> A {Un matrimonio} +                                                                                                   |
+|                                                                                                                        |
+|> B {Con separación de bienes} +                                                                                        |
+|                                                                                                                        |
+|> C {[Durante el matrimonio]::[Trabajo del hogar/cuidado hijos]**o**[No adquirió bienes propios]o[Notoriamente menores]}|
+|                                                                                                                        |
+|> =====                                                                                                                 |
+|                                                                                                                        |
+|**o** = **Y**                                                                                                           |
+|                                                                                                                        |
+|> COMPENSACIÓN $\leqslant$ 50% [Valor de los bienes adquiridos]                                                         |
+|                                                                                                                        |
++------------------------------------------------------------------------------------------------------------------------+
+
+### Identificación por la SCJN del supuesto de hecho
+
+La SCJN identifica el supuesto de hecho: lo interpreta para luego calificar el hecho [@maccormickLegalReasoningLegal2003; @moresoLogicaArgumentacionInterpretacion2006].
+
+El punto de atención es el elemento C. La SCJN considera inconstitucional interpretar que "el desempeño en cuidado familiar" sea "exclusivo durante toda la vigencia del matrimonio". Así, el componente C pasa a tener la siguiente descripción:
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------+
+|> C {[Durante el matrimonio ***exclusiva O preponderantemente***]::[Trabajó en el hogar/cuidado hijos]\\otras labores profesionales (modalidad del TH y | |periodo de tiempo empleado TH ^ P. ej. doble jornada)]:::>Y[No adquirió bienes propios]o[Notoriamente menores]}                                         |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+La SCJN hace una precisión en el supuesto de hecho.
+
++-------------------+--------------------------------------------------------------------------------------+-----------------+
+| Primera instancia | [TH + Otras actividades] + [Bienes propios] + [No probó bienes notoriamente menores] | No compensación |
++-------------------+--------------------------------------------------------------------------------------+-----------------+
+| Segunda instancia | [No es una cuestión de género; generaría parcialidad]  Mismas razones.               | No compensación |
++-------------------+--------------------------------------------------------------------------------------+-----------------+
+| Tribunal colegiado| [TH y Cuidado hijos durante todo el tiempo del matrimonio]                           | No compensación |        
++-------------------+--------------------------------------------------------------------------------------+-----------------+
+| SCJN              | Si [TH exclusiva O preponderantemente] + Doble jornada + Costo de oportunidad        | ::> Compensación|
++-------------------+--------------------------------------------------------------------------------------+-----------------+
+
+### Los pasos seguidos por la SCJN
+
+#### Finalidad de la compensación y reconocimiento de la doble jornada laboral
+
++ La finalidad de la compensación es colocar en igualdad de derechos a aquel cónyuge que al asumir las cargas domésticas no logró desarrollarse en el mercado con igual tiempo, intesidad y diligencia.
+
++ Afirma que las labores domésticas no tienen que ser exclusivas porque es posible distinguir modalidades y periodos de tiempo.
+
++ En el caso de las modalidades del trabajo del hogar (TH):
+  + Ejecución material de las tareas del hogar.
+  + Ejecución material de las tareas fuera del hogar, pero vinculadas a la organización de la casa y la obtención de bienes y servicios para la familia.
+  + Funciones de dirección y gestión de la economía del hogar.
+  + Cuidado, crianza y educación de los hijos
+  
++ Periodo de tiempo empleado en el trabajo del hogar:
+  + Dedicación plena y exclusiva
+  + Dedicación mayoritaria al TH compatibilizada con una actividad secundaria fuera del hogar.
+  + Dedicación minoritaria al TH compatibilizada con una actividad principal, mayoritaria y más relevante que la contribución del otro cónyuge.
+  + Ambos cónyuges comparten el TH y contribuyen a las tareas domésticas.
+  
+Por tanto: "no es determinante que el cónyuge solicitante se dedicara exclusivamente a las labores domésticas, pues existen una multiplicidad de actividades que son el parámetro para graduar la ejecución material y el tiempo dedicado a las labores familiares" [@aponenteministroarturozaldivarDobleJornadaDesigualdad2018, p. 14].
+
+A ello se suma la consideración de la "doble jornada" (ADR 1754/2015) que consiste "en el reconocimiento de que algunas mujeres además de tener un empleo o profesión, también realizan actividades laborales dentro del hogar, y de cuidado de los hijos. Normalmente, este trabajo doméstico no es remunerado y representa un costo de oportunidad para las mujeres".
+
+Así, "la doble jornada que realizan las mujeres no puede constituir un obstáculo al momento de solicitar la compensación de su masa patrimonial. En efecto, el hecho de que en alguna medida hayan tenido un empleo o adquirido bienes propios, no subsana el costo de oportunidad que estas mujeres asumieron al dedicar gran parte de su tiempo al cuidado de sus hijos y del hogar".
+
+La tesis de la SCJN es: si las mujeres dedicaron más tiempo que sus parejas al trabajo doméstico y no recibieron remuneración alguna por el mismo, entonces, no pudieron desarrollarse profesionalmente en igualdad de condiciones que sus excónyuges, y por ende, no pudieron adquirir la misma cantidad de bienes. De lo contrario, se invisibilizaría el valor del trabajo doméstico.
+
+Para apoyar esta conclusión la SCJN recurre a las siguientes fuentes:
+
+1. El ADR 1754/2015 que recogió el criterio de la doble jornada de las mujeres.
+1. Este se apoya en el estudio de la OCDE sobre Igualdad de Género (Gender Equality). La data de México es del año 2014^[La data disponible sobre México, a octubre de 2020, es del año 2014. Esta indica que las mujeres dedican 53 minutos al cuidado del hogar vs. 15 minutos de los hombres; y 280 minutos en tareas domésticas vs. 75 minutos de los hombres. De otro lado, la data de la OCDE refleja que este patrón se mantiene sus estados miembros. Así, el promedio OCDE de trabajo de las mujeres en cuidado del hogar es de 40 minutos vs. 16 de los hombres; y de 168 minutos de las mujeres vs. 74 de los hombres, respecto de las tareas domésticas.].
+1. El Consenso de Brasilia^[Adoptado el 16 de julio de 2010 en la XI Conferencia Regional sobre la Mujer en América Latina y el Caribe, (https://www.cepal.org/mujer/noticias/paginas/5/40235/ConsensoBrasilia_ESP.pdf) organizado por la Comisión Económica para América Latina (CEPAL).]. Allí se sostiene: "Considerando también que el trabajo doméstico no remunerado constituye una carga desproporcionada para las mujeres y en la práctica es un subsidio invisible al sistema económico, que perpetúa su subordinación y explotación".
+1. Valor económico del trabajo doméstico no remunerado, para el año 2009, equivalía al 21.7% del PIB. Cuatro quintas partes de esa riqueza la producen las mujeres; un quinto, los hombres. Datos del Instituto Nacional de las Mujeres del Gobierno de México.
+
+#### La constitucionalidad de la fracción VI del artículo 267 del Código Civil de la Ciudad de México
+
+La fracción normativa es constitucional si se interpreta que "dedicarse al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos, no implica exigir al cónyuge solicitante que acredite que se dedicó *exclusivamente* a las labores domésticas.
+
+Pero no basta haber realizado tareas domésticas, sino que, además, interviene el costo de oportunidad: "evaluar que la realización de las tareas del hogar fueron la causa que originó la nula o inferior adquisición de un patrimonio propio respecto del otro cónyuge. Para esto debe evaluarse:
++ la modalidad del trabajo del hogar; y,
++ el periodo de tiempo empleado para estas labores (aquí entraría, la doble jornada).
+
+#### Análisis del caso concreto: (determinación del supuesto de hecho)
+
+En estricto, la SCJN no se pronuncia sobre el caso concreto, sino que da las pautas para que el Tribunal Colegiado resuelva el caso.
+
+Las pautas que da son las siguientes:
+
+1. Determinar si la solicitante se dedicó preponderantemente al hogar, aun cuando hubiese realizado labores profesionales;
+1. Si el haberse dedicado en mayor proporción que su excónyuge a las labores domésticas le generó algún costo de oportunidad; y,
+1. Con libertad de jurisdicción, establezca el porcentaje de compensación que, en su caso, le corresponda.
+
+#### Otros puntos de interés
+
+Señala que "la carga de la prueba le corresponde a la parte solicitante, y ante la duda de cómo se distribuyeron las cargas domésticas y de cuidado durante el matrimonio, el juez debe asumir un rol activo en el proceso y utilizar una serie de atribuciones que lo facultan a actuar de forma más versátil que el estricto principio dispositivo, como medidas para mejor proveer que pueden complementar la actividad probatoria de las partes a fin de esclarecer la verdad de algún hecho controvertido" [[@aponenteministroarturozaldivarDobleJornadaDesigualdad2018, pp. 12-13].
+
+### Formulación de las *probanda* (las proposición fácticas a ser probadas)
+
+Esta, conforme a Wigmore "incluye cada uno de los hechos jurídicamente relevantes que deben ser probados en orden a satisfacer las condiciones especificadas por la regla". Siguiendo a este autor una proposición que debe ser probada es un "*factum probandum*", o dicho más simplemente, un "*probandum*" [@aandersonAnalisisPrueba2015, p. 129].
+
+Se puede advertir, en consecuencia, que cada elemento del supuesto de hecho de la norma tiene como correlato un *probandum*. Si esos *probanda* quedan lo suficientemente acreditados, entonces, el caso de resuelve aplicando dicha norma.
+
+El conjunto de esos hechos constituye el *probandum final* y sus elementos o proposiciones más simples las *probanda penúltimas* [@aandersonAnalisisPrueba2015, p. 129-130, 158-160, 449].
+
+Estos elementos o unidades fácticas en el caso serían las siguientes:
+
++-------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                 |
+|> A {X y Z constituyeron un matrimonio} +                                                                                                        |
+|                                                                                                                                                 |
+|> B {Bajo régimen de separación de bienes} +                                                                                                     |
+|                                                                                                                                                 |
+|> C {[Durante el matrimonio ***exclusiva O preponderantemente***]::[Trabajó en el hogar Y cuidó 3 hijas]\\realizó otras labores]Y[No adquirió bienes propios]o[Notoriamente menores]}|
+|                                                                                                                                                 |
+|> =====                                                                                                                                          |
+|                                                                                                                                                 |
+|                                                                                                                                                 |
+|> COMPENSACIÓN $\leqslant$ 50% [Valor de los bienes adquiridos]                                                                                  |
+|                                                                                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+
+
+ver la carga de la prueba, y también, en qué elementos no hay controversia, en cuáles podríamos estar frente a hechos notorios, o materia de cosa juzgada o presumidos por ley.
+
+umunidades lasse les 
+
+El supuesto de hecho Cada elemento hecho del supuesto de Un caso 
+
+
+
+Esto nos permite dar el siguiente paso: expresar el supuesto de hecho en términos
+
+
+[[Y si hubiesen sido hombres, ¿también? También si lo que se considera es el rol que se cumple, lo que el rol significa, lo que no se valora es desempeñar el rol doméstico, mayoritariamente desarrollado por las mujeres. Si un hombre lo hace, igual el rol es el que suele atribuirse a la mujer y que requiere ser protegido]]
+
+
+## AD 9/2018: trabajo doméstico; seguridad social
+
+### El caso
+
+El caso trata de una trabajadora doméstica que reclama el pago de varios derechos laborales, así como "la inscripción retroactiva ante el Instituto Mexicano del Seguro Social". 
+
+La demandante afirma haber ingresado a laborar el 11 de enero de 1959, y además de adeudársele varios beneficios, sostiene haber sido despedida sin causa justificada. 
+
+La Junta Especial de la Local de Conciliación y Arbitraje de la Ciudad de México resolvió lo siguiente:
+
+1. Estimó acreditada la renuncia voluntaria de la trabajadora doméstica. Esto considerando el documento de renuncia hecho con computadora presentado por las demandadas, respecto del cual mediante prueba de grafoscopía, documentoscopía y grafología se determinó que la firma que lo calza corresponde al puño y letra de la trabajadora. En ese documento figura: fecha de ingreso 15 de marzo de 2011 y fecha de cese (por renuncia voluntaria) el 26 de abril de 2016. Por lo tanto: infundado el pago de la indemnización constitucional y los salarios caídos.
+  
+1. Estimó fundada la demanda respecto del pago de vacaciones, prima vacacional y aguinaldo.
+
+1. Fundado el pago de horas extras, teniendo por cierta la jornada señalada por la demandante.
+
+1. Fundada la excepción de prescripción respecto del tiempo extraordinario por lo que solo se considera el último año.
+
+1. Señaló que el empleador no tiene la obligación de inscribir a la trabajadora doméstica en el IMSS por cuanto esta es voluntaria (artículo 13, fracción II, LSS).
+
+### Análisis del caso
+
+La SCJN presenta dos puntos relevantes de análisis:
+
+1. La cobertura de la seguridad social respecto del trabajo doméstico.
+
+    La Sala concluye que las normas reclamadas (LSS y LFT) al excluir a las trabajadoras del hogar de la protección del régimen obligatorio, se traducen en una discriminación indirecta proscrita por el principio de igualdad y equidad.
+    
+    La Sala reitera algunos de los criterios apoyados en OIT como el que se señala que la cobertura voluntaria es ineficaz, mientras que la cobertura obligatoria resulta conveniente y eficaz; por tanto, la afiliación obligatoria juega un papel fundamental para la extensión de la cobertura de la seguridad social.
+    
+    Así, el hecho que las trabajadoras domésticas se encuentren excluidas del régimen obligatorio del IMSS resulta violatorio del derecho humano a la seguridad social en igualdad de condiciones. Entonces, el artículo 13, fracción II de la LSS es inconstitucional.
+
+1. Acreditación renuncia y antigüedad empleo
+
+    La Junta le concedió valor probatorio pleno al escrito de renuncia presentado por las demandadas, en tanto se determinó que la firma que lo calza sí corresponde al puño y letra de la trabajadora. Esto llevó a que la Junta considere como fecha de ingreso la fecha puesta en ese documento (15/03/2011) y no la fecha que aparecía acreditada por otros medios (01/01/1960). También concluyó la Junta que la decisión de renunciar fue de la demandante. 
+
+    La Sala señala que dicho escrito de renuncia de la trabajadora no es suficiente para acreditar que la trabajadora del hogar efectivamente haya manifestado libre y espontáneamente su deseo de rescindir la relación laboral, ni para demostrar su antigüedad en el empleo.
+
+    La Sala señala que debió valorarse las testimoniales a cargo de las hermanas de la demandada, de lo cual se infiere que la antigüedad es mayor a la señalada en escrito de renuncia, y también, que no renunció sino que fue despedida.
+
+    Agrega la Sala que el escrito de renuncia es insuficiente para acreditar tanto la renuncia como la antigüedad en el empleo. La prueba debió valorarse considerando todos los medios.
+
+    La Sala señala que la Junta debió tener en cuenta el grado de vulnerabilidad de la trabajadora del hogar y el contexto fáctico, pues no resulta verosímil que, dada la edad de la quejosa y su desconocimiento de medios tecnológicos, pudiese haber redactado el referido escrito a computadora, ni que ello haya sido su manifestación unilateral y voluntaria de rescindir la relación de trabajo. De esto, se acredita el despido injustificado de la trabajadora.
+
+
+
+#### Otros puntos de interés
+
+
+# Referencias {-}
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent

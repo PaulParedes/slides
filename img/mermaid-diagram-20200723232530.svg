@@ -1,0 +1,595 @@
+<svg id="mermaid-1595564720177" width="973.453125" xmlns="http://www.w3.org/2000/svg" height="598.625" viewBox="0 0 973.453125 598.625"><style>
+
+
+
+#mermaid-1595564720177 .label {
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  color: #333; }
+
+#mermaid-1595564720177 .label text {
+  fill: #333; }
+
+#mermaid-1595564720177 .node rect,
+#mermaid-1595564720177 .node circle,
+#mermaid-1595564720177 .node ellipse,
+#mermaid-1595564720177 .node polygon,
+#mermaid-1595564720177 .node path {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1px; }
+
+#mermaid-1595564720177 .node .label {
+  text-align: center; }
+
+#mermaid-1595564720177 .node.clickable {
+  cursor: pointer; }
+
+#mermaid-1595564720177 .arrowheadPath {
+  fill: #333333; }
+
+#mermaid-1595564720177 .edgePath .path {
+  stroke: #333333;
+  stroke-width: 1.5px; }
+
+#mermaid-1595564720177 .flowchart-link {
+  stroke: #333333;
+  fill: none; }
+
+#mermaid-1595564720177 .edgeLabel {
+  background-color: #e8e8e8;
+  text-align: center; }
+#mermaid-1595564720177   .edgeLabel rect {
+    opacity: 0.5; }
+
+#mermaid-1595564720177 .cluster rect {
+  fill: #ffffde;
+  stroke: #aaaa33;
+  stroke-width: 1px; }
+
+#mermaid-1595564720177 .cluster text {
+  fill: #333; }
+
+#mermaid-1595564720177 div.mermaidTooltip {
+  position: absolute;
+  text-align: center;
+  max-width: 200px;
+  padding: 2px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 12px;
+  background: #ffffde;
+  border: 1px solid #aaaa33;
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 100; }
+
+#mermaid-1595564720177 .actor {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1595564720177 text.actor &gt; tspan {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1595564720177 .actor-line {
+  stroke: grey; }
+
+#mermaid-1595564720177 .messageLine0 {
+  stroke-width: 1.5;
+  stroke-dasharray: none;
+  stroke: #333; }
+
+#mermaid-1595564720177 .messageLine1 {
+  stroke-width: 1.5;
+  stroke-dasharray: 2, 2;
+  stroke: #333; }
+
+#mermaid-1595564720177 #arrowhead path {
+  fill: #333;
+  stroke: #333; }
+
+#mermaid-1595564720177 .sequenceNumber {
+  fill: white; }
+
+#mermaid-1595564720177 #sequencenumber {
+  fill: #333; }
+
+#mermaid-1595564720177 #crosshead path {
+  fill: #333;
+  stroke: #333; }
+
+#mermaid-1595564720177 .messageText {
+  fill: #333;
+  stroke: #333; }
+
+#mermaid-1595564720177 .labelBox {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1595564720177 .labelText,#mermaid-1595564720177  .labelText &gt; tspan {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1595564720177 .loopText,#mermaid-1595564720177  .loopText &gt; tspan {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1595564720177 .loopLine {
+  stroke-width: 2px;
+  stroke-dasharray: 2, 2;
+  stroke: #CCCCFF;
+  fill: #CCCCFF; }
+
+#mermaid-1595564720177 .note {
+  stroke: #aaaa33;
+  fill: #fff5ad; }
+
+#mermaid-1595564720177 .noteText,#mermaid-1595564720177  .noteText &gt; tspan {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1595564720177 .activation0 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+#mermaid-1595564720177 .activation1 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+#mermaid-1595564720177 .activation2 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+
+#mermaid-1595564720177 .mermaid-main-font {
+  font-family: "trebuchet ms", verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 .section {
+  stroke: none;
+  opacity: 0.2; }
+
+#mermaid-1595564720177 .section0 {
+  fill: rgba(102, 102, 255, 0.49); }
+
+#mermaid-1595564720177 .section2 {
+  fill: #fff400; }
+
+#mermaid-1595564720177 .section1,
+#mermaid-1595564720177 .section3 {
+  fill: white;
+  opacity: 0.2; }
+
+#mermaid-1595564720177 .sectionTitle0 {
+  fill: #333; }
+
+#mermaid-1595564720177 .sectionTitle1 {
+  fill: #333; }
+
+#mermaid-1595564720177 .sectionTitle2 {
+  fill: #333; }
+
+#mermaid-1595564720177 .sectionTitle3 {
+  fill: #333; }
+
+#mermaid-1595564720177 .sectionTitle {
+  text-anchor: start;
+  font-size: 11px;
+  text-height: 14px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+
+#mermaid-1595564720177 .grid .tick {
+  stroke: lightgrey;
+  opacity: 0.8;
+  shape-rendering: crispEdges; }
+#mermaid-1595564720177   .grid .tick text {
+    font-family: 'trebuchet ms', verdana, arial;
+    font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 .grid path {
+  stroke-width: 0; }
+
+
+#mermaid-1595564720177 .today {
+  fill: none;
+  stroke: red;
+  stroke-width: 2px; }
+
+
+
+#mermaid-1595564720177 .task {
+  stroke-width: 2; }
+
+#mermaid-1595564720177 .taskText {
+  text-anchor: middle;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 .taskText:not([font-size]) {
+  font-size: 11px; }
+
+#mermaid-1595564720177 .taskTextOutsideRight {
+  fill: black;
+  text-anchor: start;
+  font-size: 11px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 .taskTextOutsideLeft {
+  fill: black;
+  text-anchor: end;
+  font-size: 11px; }
+
+
+#mermaid-1595564720177 .task.clickable {
+  cursor: pointer; }
+
+#mermaid-1595564720177 .taskText.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+#mermaid-1595564720177 .taskTextOutsideLeft.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+#mermaid-1595564720177 .taskTextOutsideRight.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+
+#mermaid-1595564720177 .taskText0,
+#mermaid-1595564720177 .taskText1,
+#mermaid-1595564720177 .taskText2,
+#mermaid-1595564720177 .taskText3 {
+  fill: white; }
+
+#mermaid-1595564720177 .task0,
+#mermaid-1595564720177 .task1,
+#mermaid-1595564720177 .task2,
+#mermaid-1595564720177 .task3 {
+  fill: #8a90dd;
+  stroke: #534fbc; }
+
+#mermaid-1595564720177 .taskTextOutside0,
+#mermaid-1595564720177 .taskTextOutside2 {
+  fill: black; }
+
+#mermaid-1595564720177 .taskTextOutside1,
+#mermaid-1595564720177 .taskTextOutside3 {
+  fill: black; }
+
+
+#mermaid-1595564720177 .active0,
+#mermaid-1595564720177 .active1,
+#mermaid-1595564720177 .active2,
+#mermaid-1595564720177 .active3 {
+  fill: #bfc7ff;
+  stroke: #534fbc; }
+
+#mermaid-1595564720177 .activeText0,
+#mermaid-1595564720177 .activeText1,
+#mermaid-1595564720177 .activeText2,
+#mermaid-1595564720177 .activeText3 {
+  fill: black !important; }
+
+
+#mermaid-1595564720177 .done0,
+#mermaid-1595564720177 .done1,
+#mermaid-1595564720177 .done2,
+#mermaid-1595564720177 .done3 {
+  stroke: grey;
+  fill: lightgrey;
+  stroke-width: 2; }
+
+#mermaid-1595564720177 .doneText0,
+#mermaid-1595564720177 .doneText1,
+#mermaid-1595564720177 .doneText2,
+#mermaid-1595564720177 .doneText3 {
+  fill: black !important; }
+
+
+#mermaid-1595564720177 .crit0,
+#mermaid-1595564720177 .crit1,
+#mermaid-1595564720177 .crit2,
+#mermaid-1595564720177 .crit3 {
+  stroke: #ff8888;
+  fill: red;
+  stroke-width: 2; }
+
+#mermaid-1595564720177 .activeCrit0,
+#mermaid-1595564720177 .activeCrit1,
+#mermaid-1595564720177 .activeCrit2,
+#mermaid-1595564720177 .activeCrit3 {
+  stroke: #ff8888;
+  fill: #bfc7ff;
+  stroke-width: 2; }
+
+#mermaid-1595564720177 .doneCrit0,
+#mermaid-1595564720177 .doneCrit1,
+#mermaid-1595564720177 .doneCrit2,
+#mermaid-1595564720177 .doneCrit3 {
+  stroke: #ff8888;
+  fill: lightgrey;
+  stroke-width: 2;
+  cursor: pointer;
+  shape-rendering: crispEdges; }
+
+#mermaid-1595564720177 .milestone {
+  transform: rotate(45deg) scale(0.8, 0.8); }
+
+#mermaid-1595564720177 .milestoneText {
+  font-style: italic; }
+
+#mermaid-1595564720177 .doneCritText0,
+#mermaid-1595564720177 .doneCritText1,
+#mermaid-1595564720177 .doneCritText2,
+#mermaid-1595564720177 .doneCritText3 {
+  fill: black !important; }
+
+#mermaid-1595564720177 .activeCritText0,
+#mermaid-1595564720177 .activeCritText1,
+#mermaid-1595564720177 .activeCritText2,
+#mermaid-1595564720177 .activeCritText3 {
+  fill: black !important; }
+
+#mermaid-1595564720177 .titleText {
+  text-anchor: middle;
+  font-size: 18px;
+  fill: black;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 g.classGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 10px; }
+#mermaid-1595564720177   g.classGroup text .title {
+    font-weight: bolder; }
+
+#mermaid-1595564720177 g.clickable {
+  cursor: pointer; }
+
+#mermaid-1595564720177 g.classGroup rect {
+  fill: #ECECFF;
+  stroke: #9370DB; }
+
+#mermaid-1595564720177 g.classGroup line {
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 .classLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #ECECFF;
+  opacity: 0.5; }
+
+#mermaid-1595564720177 .classLabel .label {
+  fill: #9370DB;
+  font-size: 10px; }
+
+#mermaid-1595564720177 .relation {
+  stroke: #9370DB;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1595564720177 .dashed-line {
+  stroke-dasharray: 3; }
+
+#mermaid-1595564720177 #compositionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 #compositionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 #aggregationStart {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 #aggregationEnd {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 #dependencyStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 #dependencyEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 #extensionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 #extensionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 .commit-id,
+#mermaid-1595564720177 .commit-msg,
+#mermaid-1595564720177 .branch-label {
+  fill: lightgrey;
+  color: lightgrey;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 .pieTitleText {
+  text-anchor: middle;
+  font-size: 25px;
+  fill: black;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 .slice {
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 g.stateGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-size: 10px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 g.stateGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-size: 10px; }
+
+#mermaid-1595564720177 g.stateGroup .state-title {
+  font-weight: bolder;
+  fill: black; }
+
+#mermaid-1595564720177 g.stateGroup rect {
+  fill: #ECECFF;
+  stroke: #9370DB; }
+
+#mermaid-1595564720177 g.stateGroup line {
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1595564720177 .transition {
+  stroke: #9370DB;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1595564720177 .stateGroup .composit {
+  fill: white;
+  border-bottom: 1px; }
+
+#mermaid-1595564720177 .stateGroup .alt-composit {
+  fill: #e0e0e0;
+  border-bottom: 1px; }
+
+#mermaid-1595564720177 .state-note {
+  stroke: #aaaa33;
+  fill: #fff5ad; }
+#mermaid-1595564720177   .state-note text {
+    fill: black;
+    stroke: none;
+    font-size: 10px; }
+
+#mermaid-1595564720177 .stateLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #ECECFF;
+  opacity: 0.5; }
+
+#mermaid-1595564720177 .stateLabel text {
+  fill: black;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1595564720177 .node circle.state-start {
+  fill: black;
+  stroke: black; }
+
+#mermaid-1595564720177 .node circle.state-end {
+  fill: black;
+  stroke: white;
+  stroke-width: 1.5; }
+
+#mermaid-1595564720177 #statediagram-barbEnd {
+  fill: #9370DB; }
+
+#mermaid-1595564720177 .statediagram-cluster rect {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1px; }
+
+#mermaid-1595564720177 .statediagram-cluster rect.outer {
+  rx: 5px;
+  ry: 5px; }
+
+#mermaid-1595564720177 .statediagram-state .divider {
+  stroke: #9370DB; }
+
+#mermaid-1595564720177 .statediagram-state .title-state {
+  rx: 5px;
+  ry: 5px; }
+
+#mermaid-1595564720177 .statediagram-cluster.statediagram-cluster .inner {
+  fill: white; }
+
+#mermaid-1595564720177 .statediagram-cluster.statediagram-cluster-alt .inner {
+  fill: #e0e0e0; }
+
+#mermaid-1595564720177 .statediagram-cluster .inner {
+  rx: 0;
+  ry: 0; }
+
+#mermaid-1595564720177 .statediagram-state rect.basic {
+  rx: 5px;
+  ry: 5px; }
+
+#mermaid-1595564720177 .statediagram-state rect.divider {
+  stroke-dasharray: 10,10;
+  fill: #efefef; }
+
+#mermaid-1595564720177 .note-edge {
+  stroke-dasharray: 5; }
+
+#mermaid-1595564720177 .statediagram-note rect {
+  fill: #fff5ad;
+  stroke: #aaaa33;
+  stroke-width: 1px;
+  rx: 0;
+  ry: 0; }
+
+:root {
+  --mermaid-font-family: '"trebuchet ms", verdana, arial';
+  --mermaid-font-family: "Comic Sans MS", "Comic Sans", cursive; }
+
+
+#mermaid-1595564720177 .error-icon {
+  fill: #552222; }
+
+#mermaid-1595564720177 .error-text {
+  fill: #552222;
+  stroke: #552222; }
+
+#mermaid-1595564720177 .edge-thickness-normal {
+  stroke-width: 2px; }
+
+#mermaid-1595564720177 .edge-thickness-thick {
+  stroke-width: 3.5px; }
+
+#mermaid-1595564720177 .edge-pattern-solid {
+  stroke-dasharray: 0; }
+
+#mermaid-1595564720177 .edge-pattern-dashed {
+  stroke-dasharray: 3; }
+
+#mermaid-1595564720177 .edge-pattern-dotted {
+  stroke-dasharray: 2; }
+
+#mermaid-1595564720177 .marker {
+  fill: #333333; }
+
+#mermaid-1595564720177 .marker.cross {
+  stroke: #333333; }
+
+:root { --mermaid-font-family: "trebuchet ms", verdana, arial;}</style><style>#mermaid-1595564720177 {
+    color: rgb(0, 0, 0);
+    font: 16px "trebuchet ms", verdana, arial;
+  }</style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath LS-A LE-B" id="L-A-B" style="opacity: 1;"><path class="path" d="M260.546875,60.375L444.1015625,60.375L621.6875,60.375" marker-end="url(#arrowhead25117)" style="fill:none"></path><defs><marker id="arrowhead25117" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-C LE-D" id="L-C-D" style="opacity: 1;"><path class="path" d="M250.5234375,182.25L444.1015625,182.25L526.6875,182.25" marker-end="url(#arrowhead25118)" style="fill:none"></path><defs><marker id="arrowhead25118" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-E LE-F" id="L-E-F" style="opacity: 1;"><path class="path" d="M272.7734375,271.25L444.1015625,271.25L577.3046875,271.25" marker-end="url(#arrowhead25119)" style="fill:none"></path><defs><marker id="arrowhead25119" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-G LE-H" id="L-G-H" style="opacity: 1;"><path class="path" d="M235.4375,360.25L444.1015625,360.25L556.859375,360.25" marker-end="url(#arrowhead25120)" style="fill:none"></path><defs><marker id="arrowhead25120" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-H LE-I" id="L-H-I" style="opacity: 1;"><path class="path" d="M749.5976123595506,340.75L846.4375,315.75L871.4375,315.75" marker-end="url(#arrowhead25121)" style="fill:none"></path><defs><marker id="arrowhead25121" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-H LE-J" id="L-H-J" style="opacity: 1;"><path class="path" d="M749.5976123595506,379.75L846.4375,404.75L874.828125,404.75" marker-end="url(#arrowhead25122)" style="fill:none"></path><defs><marker id="arrowhead25122" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath LS-AB LE-BB" id="L-AB-BB" style="opacity: 1;"><path class="path" d="M260.546875,538.25L444.1015625,538.25L621.6875,538.25" marker-end="url(#arrowhead25123)" style="fill:none"></path><defs><marker id="arrowhead25123" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="translate(444.1015625,60.375)" style="opacity: 1;"><g transform="translate(-37.6484375,-9.5)" class="label"><rect rx="0" ry="0" width="75.296875" height="19" style="fill:#e8e8e8;"></rect><foreignObject width="75.296875" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-A-B" class="edgeLabel L-LS-A' L-LE-B">Pretensión</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(444.1015625,182.25)" style="opacity: 1;"><g transform="translate(-57.328125,-9.5)" class="label"><rect rx="0" ry="0" width="114.65625" height="19" style="fill:#e8e8e8;"></rect><foreignObject width="114.65625" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-C-D" class="edgeLabel L-LS-C' L-LE-D">Desnaturalizado</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(444.1015625,271.25)" style="opacity: 1;"><g transform="translate(-57.5859375,-9.5)" class="label"><rect rx="0" ry="0" width="115.171875" height="19" style="fill:#e8e8e8;"></rect><foreignObject width="115.171875" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-E-F" class="edgeLabel L-LS-E' L-LE-F">Para extinguirse</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(444.1015625,360.25)" style="opacity: 1;"><g transform="translate(-7.6015625,-9.5)" class="label"><rect rx="0" ry="0" width="15.203125" height="19" style="fill:#e8e8e8;"></rect><foreignObject width="15.203125" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-G-H" class="edgeLabel L-LS-G' L-LE-H">es</span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-H-I" class="edgeLabel L-LS-H' L-LE-I"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-H-J" class="edgeLabel L-LS-H' L-LE-J"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0" style="fill:#e8e8e8;"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-AB-BB" class="edgeLabel L-LS-AB' L-LE-BB"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="A" transform="translate(184.7578125,60.375)" style="opacity: 1;"><rect rx="0" ry="0" x="-75.7890625" y="-19.5" width="151.578125" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-65.7890625,-9.5)"><foreignObject width="131.578125" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Despido incausado</div></foreignObject></g></g></g><g class="node default" id="B" transform="translate(674.0625,60.375)" style="opacity: 1;"><circle x="-52.375" y="-19.5" r="52.375" class="label-container"></circle><g class="label" transform="translate(0,0)"><g transform="translate(-42.375,-9.5)"><foreignObject width="84.75" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">REPOSICIÓN</div></foreignObject></g></g></g><g class="node default" id="C" transform="translate(184.7578125,182.25)" style="opacity: 1;"><rect rx="5" ry="5" x="-65.765625" y="-19.5" width="131.53125" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-55.765625,-9.5)"><foreignObject width="111.53125" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Contrato modal</div></foreignObject></g></g></g><g class="node default" id="D" transform="translate(674.0625,182.25)" style="opacity: 1;"><rect rx="5" ry="5" x="-147.375" y="-19.5" width="294.75" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-137.375,-9.5)"><foreignObject width="274.75" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">CONTRATO DURACIÓN INDETERMINADA</div></foreignObject></g></g></g><g class="node default" id="E" transform="translate(184.7578125,271.25)" style="opacity: 1;"><rect rx="5" ry="5" x="-88.015625" y="-19.5" width="176.03125" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-78.015625,-9.5)"><foreignObject width="156.03125" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Contrato dur. indeter.</div></foreignObject></g></g></g><g class="node default" id="F" transform="translate(674.0625,271.25)" style="opacity: 1;"><rect rx="5" ry="5" x="-96.7578125" y="-19.5" width="193.515625" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-86.7578125,-9.5)"><foreignObject width="173.515625" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">SE NECESITA UNA CAUSA</div></foreignObject></g></g></g><g class="node default" id="G" transform="translate(184.7578125,360.25)" style="opacity: 1;"><rect rx="5" ry="5" x="-50.6796875" y="-19.5" width="101.359375" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-40.6796875,-9.5)"><foreignObject width="81.359375" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">UNA CAUSA</div></foreignObject></g></g></g><g class="node default" id="H" transform="translate(674.0625,360.25)" style="opacity: 1;"><rect rx="5" ry="5" x="-117.203125" y="-19.5" width="234.40625" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-107.203125,-9.5)"><foreignObject width="214.40625" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">EL DESPIDO POR CAUSA JUSTA</div></foreignObject></g></g></g><g class="node default" id="I" transform="translate(918.4453125,315.75)" style="opacity: 1;"><rect rx="5" ry="5" x="-47.0078125" y="-19.5" width="94.015625" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-37.0078125,-9.5)"><foreignObject width="74.015625" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Capacidad</div></foreignObject></g></g></g><g class="node default" id="J" transform="translate(918.4453125,404.75)" style="opacity: 1;"><rect rx="5" ry="5" x="-43.6171875" y="-19.5" width="87.234375" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-33.6171875,-9.5)"><foreignObject width="67.234375" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Conducta</div></foreignObject></g></g></g><g class="node default" id="K" transform="translate(184.7578125,449.25)" style="opacity: 1;"><rect rx="0" ry="0" x="-176.7578125" y="-19.5" width="353.515625" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-166.7578125,-9.5)"><foreignObject width="333.515625" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">EN EL CASO, NO HAY CAUSA JUSTA DE DESPIDO</div></foreignObject></g></g></g><g class="node default" id="AB" transform="translate(184.7578125,538.25)" style="opacity: 1;"><rect rx="0" ry="0" x="-75.7890625" y="-19.5" width="151.578125" height="39" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-65.7890625,-9.5)"><foreignObject width="131.578125" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Despido incausado</div></foreignObject></g></g></g><g class="node default" id="BB" transform="translate(674.0625,538.25)" style="opacity: 1;"><circle x="-52.375" y="-19.5" r="52.375" class="label-container"></circle><g class="label" transform="translate(0,0)"><g transform="translate(-42.375,-9.5)"><foreignObject width="84.75" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">REPOSICIÓN</div></foreignObject></g></g></g></g></g></g></svg>

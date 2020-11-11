@@ -1,0 +1,823 @@
+---
+title: "Tendencias del proceso laboral en América Latina"
+subtitle: "Clase 12<br/>1. Otros procesos<br/>2. Participación de los sindicatos"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo y de la Seguridad Social, UNMSM"
+date: "5 de setiembre de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+
+class: center, middle, animated, slideInRight
+
+# La clase anterior
+
+---
+class: animated, fadeIn
+
+# El arbitraje (económico)
+
+## ¿Cómo distinguir un .green[conflicto jurídico] de uno de .blue[intereses o económico]?
+
+---
+class: animated, fadeIn, center, middle
+
+### Comparación: conflicto jurídico vs. conflicto económico (1)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-umkb{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-10x8{background-color:#c0c0c0;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-bhpe{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-3245{border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-k6mb{border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-umkb"></th>
+    <th class="tg-bhpe">Conflicto jurídico</th>
+    <th class="tg-bhpe">Conflicto económico</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-10x8">Origen</td>
+    <td class="tg-3245">Un conflicto, una insatisfacción</td>
+    <td class="tg-3245">Un conflicto, una insatisfacción</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">¿Cómo resolverlo?</td>
+    <td class="tg-3245">Aplicando derecho:<br>ello supone que existe una norma que contiene la solución,<br>entonces, lo que se pide es aplicar la norma, o,<br>interpretarla del modo como se pretende</td>
+    <td class="tg-3245">Creando derecho:<br>ello supone que no existe la norma que contiene la solución,<br>o que la que existe es insuficiente (vaga, ambigua),<br>o para garantizar mejor un derecho</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Medio típico de aplicación de derecho</td>
+    <td class="tg-3245">La sentencia</td>
+    <td class="tg-k6mb">---</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Medio típico de creación de derecho</td>
+    <td class="tg-k6mb">---</td>
+    <td class="tg-3245">El acuerdo contractual,<br>El consenso legislativo,<br>El convenio colectivo</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Vía típica de canalización</td>
+    <td class="tg-3245">El proceso (judicial)</td>
+    <td class="tg-3245">El procedimiento legislativo<br>La negociación<br>La conciliación<br>La negociación colectiva</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn, center, middle
+
+### Comparación: conflicto jurídico vs. conflicto económico (2)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-umkb{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-10x8{background-color:#c0c0c0;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-bhpe{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-3245{border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-umkb"></th>
+    <th class="tg-bhpe">Conflicto jurídico</th>
+    <th class="tg-bhpe">Conflicto económico</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-10x8">Vías alternativas</td>
+    <td class="tg-3245">La conciliación<br>La mediación<br>El arbitraje</td>
+    <td class="tg-3245">La conciliación<br>La mediación<br>El arbitraje<br>La huelga</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Acto de presentación (postulación)</td>
+    <td class="tg-3245">La demanda</td>
+    <td class="tg-3245">La propuesta legislativa<br>La propuesta contractual<br>El pliego de reclamos</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Resultado o producto</td>
+    <td class="tg-3245">La sentencia<br>El acuerdo en conciliación*<br>La transacción*<br>El laudo arbitral jurídico</td>
+    <td class="tg-3245">La ley<br>El contrato<br>El acuerdo en conciliación<br>El laudo arbitral económico</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Consecuencia respecto del resultado</td>
+    <td class="tg-3245">Se cumple.<br>Si no: proceso de ejecución</td>
+    <td class="tg-3245">Se cumple.<br>Si no: proceso de conocimiento</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# El arbitraje potestativo
+
+### Origen del arbitraje potestativo
+
+### La jurisprudencia del TC
+
++ Caso portuarios STC 03561-2009-PA/TC
++ Caso SINAUT - SUNAT 02566-2012-PA/TC
++ Caso FETRATEL 03243-2012-PA/TC
++ Caso América Móvil STC 03361-2013-PA/TC
++ Caso América Móvil STC 06518-2013-PA/TC
++ Caso Aris Industrial STC 01499-2015-PA/TC, 20/12/2017; 17/12/2018
++ Caso Shougang RTC 06001-2013-PA/TC
+
+---
+class: animated, fadeIn
+
+# El arbitraje
+
+## Reglas de trámite del árbitraje
+
++ TUO LRCT y reglamento
+
++ LSC y reglamento
+
+---
+class: animated, fadeIn
+
+# El arbitraje
+
+## Impugnación del laudo vs. cumplimiento
+
+## Reglas de impugnación
+
+## El V Pleno Jurisdiccional Supremo (4 de agosto de 2017) y las causales de impugnación
+
+## El control difuso (Caso Minera Maria Julia STC 142-2011-PA/TC). Vid. fundamentos 20, 21 y 26.
+
+---
+class: animated, fadeIn
+
+# El V Pleno Jurisdiccional Supremo y las causales de impugnación
+
+El V Pleno Jurisdiccional Supremo en Materia Laboral y Previsional, publicado en El Peruano el 4 de agosto de 2017 justamente –recogiendo pronunciamientos previos de la Corte Suprema como la Apelación N.° 12028-2013-LIMA (Caso Municipalidad Distrital de Los Olivos, del 15 de octubre de 2014) ha ordenado las causales de nulidad aplicables a los Laudos Arbitrales Económicos en materia laboral.
+
+---
+class: animated, fadeIn
+
+### Este Acuerdo Plenario establece lo siguiente:
+
+> «El Pleno acordó por unanimidad:
+
+> Las normas aplicables para determinar las causales de nulidad, que se pueden invocar válidamente en un proceso de impugnación de laudo arbitral económico en materia laboral son las siguientes:
+
+> Los artículos 63° a 66° del Texto Único Ordenado de la Ley de Relaciones Colectivas de Trabajo, aprobado por el Decreto Supremo N° 010-2003-TR. 
+
+> El artículo 56° del Texto Único Ordenado de la Ley de Relaciones Colectivas de Trabajo, aprobado por el Decreto Supremo N° 010-2003-TR, en concordancia con el artículo 65 de la misma norma y el artículo 57° de su Reglamento, regulado por el Decreto Supremo N° 011-92-TR. 
+
+
+> Los literales b y d del inciso 1 del artículo 63° de la Ley General de Arbitraje, Decreto Legislativo N° 1071.»
+
+---
+class: animated, fadeIn
+
+# Apelación N.° 4968-2017
+
+Asimismo, redondeando estos criterios en la Apelación N.° 4968-2017 (Publicada en El Peruano el 11 de febrero de 2018) el Pleno de la Segunda Sala Constitucional y Social Transitoria de la Corte Suprema de Justicia estableció como criterio jurisdiccional respecto de las causales de nulidad de un laudo arbitral económico, el siguiente:
+
+---
+class: animated, fadeIn
+
+> «El laudo arbitral será nulo cuando se presente alguno de los supuestos que a continuación enumeramos:
+
+> a) Cuando el árbitro, tribunal o alguno de sus miembros, están impedidos de participar como tales (artículo 64° del Decreto Supremo N° 010-2003-TR);
+
+> b) Cuando se pronuncie en forma distinta a alguna de las propuestas finales de las partes o combinando planteamientos de una y otra (artículo 65° del Decreto Supremo N° 010-2003-TR);
+
+> c) Cuando se ha expedido bajo presión derivada de modalidades irregulares de huelga o de daños a las personas o las cosas (artículo 69° del Decreto Supremo N° 010-2003-TR);
+
+> d) Cuando se haya emitido sin tener en cuenta el informe de la Autoridad Administrativa de Trabajo (Apelación N° 11673-2015-LIMA de fecha once de diciembre de dos mil quince);
+
+> e) Cuando una de las partes no ha sido debidamente notificada del nombramiento de un árbitro o de alguna actuación arbitral, o por cualquier motivo no ha podido ejercer sus derechos (literal b), del artículo 63° del Decreto Legislativo N° 1071); y
+
+> f) Cuando el árbitro o tribunal arbitral resuelve sobre materias no sometidas a su decisión (literal d), del artículo 63° del Decreto Legislativo N° 1071).»
+
+---
+class: animated, fadeIn
+
+# El control difuso (Caso Minera Maria Julia STC 142-2011-PA/TC). Vid. fundamentos 20, 21 y 26.
+
+> 20.De acuerdo con lo indicado líneas arriba y con la finalidad de establecer de modo claro y preciso los criterios a utilizarse en materia de amparo arbitral, este Supremo térprete de la Constitución establece, con calidad de precedentes vinculantes, las guientes reglas: 
+
+> Improcedencia del amparo arbitral
+
+>a) El recurso de anulación previsto en el Decreto Legislativo N° 1071, que norma el arbitraje y, por razones de temporalidad, los recursos de apelación y anulación para aquellos procesos sujetos a la Ley General de Arbitraje (Ley N° 26572) constituyen vías procedimentales específicas, igualmente satisfactorias para la protección de derechos constitucionales, que determinan la improcedencia del amparo de conformidad con el artículo 5°, inciso 2), del Código Procesal Constitucional, salvo las excepciones establecidas en la presente sentencia.
+
+---
+class: animated, fadeIn
+
+> b) De conformidad con el inciso b) del artículo 63° del Decreto Legislativo N.° 1071 , no procede el amparo para la protección de derechos constitucionales aún cuando éstos constituyan parte del debido proceso o de la tutela procesal efectiva. La misma regla rige para los casos en que sea de aplicación la antigua Ley General de Arbitraje, Ley N.° 26572.
+
+> c) Es improcedente el amparo para cuestionar la falta de convenio arbitral. En tales casos la vía idónea que corresponde es el recurso de anulación, de conformidad con el inciso a) del artículo 63° del Decreto Legislativo N.° 1071; o el recurso de apelación y anulación si correspondiera la aplicación del inciso 1 del artículo 65° e inciso 1 del artículo 73° de la Ley N.° 26572, respectivamente.
+
+> d) Cuando a pesar de haberse aceptado voluntariamente la jurisdicción arbitral, las materias sobre las que ha de decidirse tienen que ver con derechos fundamentales de carácter indisponible o que no se encuentran sujetas a posibilidad de negociación alguna, procederá el recurso de anulación (Decreto Legislativo que norma el Arbitraje, artículo 63° [incisos "e" y "f']) o los recursos de apelación y anulación (Ley General Arbitraje, respectivamente, artículos 65° [inciso 1] y 73° [inciso 7]), siendo improcedente el amparo alegándose el mencionado motivo (artículo 5°,inciso 2, del Código Procesal Constitucional).
+
+---
+class: animated, fadeIn
+
+> e) La interposición del amparo que desconozca las reglas de procedencia establecidas en esta sentencia no suspende ni interrumpe los plazos previstos para demandar en proceso ordinario el cuestionamiento del laudo arbitral vía recurso de anulación y/o apelación según corresponda. 
+
+> f) Contra lo resuelto por el Poder Judicial en materia de impugnación de laudos arbitrales sólo podrá interponerse proceso de amparo contra resoluciones judiciales, conforme a las reglas del artículo 4° del Código Procesal Constitucional y su desarrollo jurisprudencial. 
+
+---
+class: animated, fadeIn
+
+### Supuestos de procedencia del amparo arbitral 
+
+> 21.No podrá declararse la improcedencia del amparo arbitral por aplicación del artículo 5° inciso 2) del Código Procesal Constitucional, en los siguientes supuestos:
+
+>a) Cuando se invoca la vulneración directa o frontal de los precedentes vinculantes establecidos por el Tribunal Constitucional.
+
+>b) Cuando en el laudo arbitral se ha ejercido control difuso sobre una norma declarada constitucional por el Tribunal Constitucional o el Poder Judicial, según corresponda, invocándose la contravención al artículo VI del Título Preliminar del Código Procesal Constitucional.
+
+>c) Cuando el amparo sea interpuesto por un tercero que no forma parte del convenio arbitral y se sustente en la afectación directa y manifiesta de sus derechos constitucionales a consecuencia del laudo pronunciado en dicho arbitraje, salvo que dicho tercero esté comprendido en el supuesto del artículo 14° del Decreto Legislativo N.° 1071.
+
+---
+class: animated, fadeIn
+
+>En el caso de los supuestos a) y b) del presente fundamento, será necesario que quien se considere afectado haya previamente formulado un reclamo expreso ante el tribunal arbitral y que éste haya sido desestimado, constituyendo tal reclamo y su respuesta, expresa o implícita, el agotamiento de la vía previa para la procedencia del amparo.
+
+>La sentencia que declare fundada la demanda de amparo por alguno de los supuestos indicados en el presente fundamento, puede llegar a declarar la nulidad del laudo o parte de él, ordenándose la emisión de uno nuevo que reemplace al anterior o a la parte anulada, bajo los criterios o parámetros señalados en la respectiva sentencia. En ningún caso el Juez o el Tribunal Constitucional podrá resolver el fondo de la controversia sometida a arbitraje. 
+
+---
+class: animated, fadeIn
+
+### Control difuso
+
+> 26.No obstante, el ejercicio del control difuso de constitucionalidad en la jurisdicción arbitral debe ser objeto, como se acaba de expresar, de modulación por este Supremo Intérprete de la Constitución, con el propósito de que cumpla debidamente su finalidad de garantizar la primacía de la Constitución y evitar así cualquier desviación en el uso de este control constitucional. Por ello, se instituye la siguiente regla:
+
+> El control difuso de la jurisdicción arbitral se rige por las disposiciones del artículo VI del Título Preliminar del Código Procesal Constitucional y la jurisprudencia vinculante dictada por este Tribunal Constitucional sobre el control difuso. Sólo podrá ejercerse el control difuso de constitucionalidad sobre una norma aplicable al caso de la que dependa la validez del laudo arbitral, siempre que no sea posible obtener de ella una interpretación conforme a la Constitución y además, se verifique la existencia de un perjuicio claro y directo respecto al derecho de alguna de las partes. 
+
+---
+class: animated, bounceInDown, center, middle, inverse
+
+# Proceso contencioso administrativo en materia laboral
+
+# Proceso de amparo 
+
+---
+class: animated, fadeIn
+
+#### El proceso contencioso administrativo en materia laboral
+
+> Artículo 2.- Competencia por materia de los juzgados especializados de trabajo
+
+>	Los juzgados especializados de trabajo conocen de los siguientes procesos:
+
+> 4.- En proceso contencioso administrativo conforme a la ley de la materia, las pretensiones originadas en las prestaciones de servicios de carácter personal, de naturaleza laboral, administrativa o de seguridad social, de derecho público; así como las impugnaciones contra actuaciones de la autoridad administrativa de trabajo.
+
+> Artículo 20.- Caso especial de procedencia
+
+> En el caso de pretensiones referidas a la prestación personal de servicios, de naturaleza laboral o administrativa de derecho público, no es exigible el agotamiento de la vía administrativa establecida según la legislación general del procedimiento administrativo, salvo que en el correspondiente régimen se haya establecido un procedimiento previo ante un órgano o tribunal específico, en cuyo caso debe recurrirse ante ellos antes de acudir al proceso contencioso administrativo.
+
+---
+class: animated, fadeIn
+
+# El proceso contencioso administrativo conforme a la ley de la materia
+
+1. ¿Qué temas o pretensiones?
+
+  + Preguntarnos por los actos impugnables (art. 4, TUO-LPCA) (actuaciones administrativas)
+  
+  + II Pleno Jurisdiccional
+  
+  + III Pleno Jurisdiccional
+
+2. Norma procesal:
+
+  + D.S. 011-2019-JUS, TUO de la Ley 27584, Ley que regula el proceso contencioso administrativo
+  
+    + Vías del proceso ordinario (antes proceso especial)
+    + Tiene sus propios plazos
+    + Actuación probatoria restringida al procedimiento administrativo*
+    + Medios impugnatorios: reposición, apelación, casación
+    + Los recursos siguen al CPC.
+
+---
+class: animated, fadeIn
+
+# II Pleno
+
+**1. ¿Es necesario que los servidores públicos sujetos al régimen laboral privado regulado por el Decreto Legislativo N° 728 agoten la vía administrativa?**
+
+No es necesario que agoten la vía administrativa. El agotamiento de la misma solo será exigible en los siguientes supuestos: i) aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); (ii) aquellos trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios (Decreto Legislativo N° 1057); y, iii) aquellos trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057- Ley del Servicio Civil (SERVIR). No obstante, no seré exigible en los supuestos excepcionales a que se refiere el articulo 19 de la Ley N° 27584 así como en aquellas impugnaciones que se formulen en contra de actos materiales, a que se refiere el articulo 4 inciso 3 dela citada ley.
+
+---
+class: animated, fadeIn
+
+**2.¿Cuál es el órgano administrativo competente para el agotamiento de la vía administrativa?**
+
+El Pleno acordó por unanimidad: El órgano administrativo competente para el agotamiento de la vía administrativa es el Tribunal del Servicio Civil, solo respecto de las pretensiones referidas a: (i) el acceso al servicio civil; ii) evaluación y progresión en la carrera, (iii) régimen disciplinario;y, (iv) terminación de la relación de trabajo, de conformidad con el articulo 17 del Decreto Legislativo N° 1023. Los regímenes laborales públicos especiales se rigen por sus propias normas.
+
+---
+class: animated, fadeIn
+
+**3.¿Cuál es la vía procesal judicial pertinente para aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios (Decreto Legislativo N° 1057); y, trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057 - Ley del Servicio Civil?**
+
+El Pleno acordé por unanimidad: En aquellos distritos judiciales en los que se encuentre vigente la Ley N° 26636, la vía procesal será la del proceso contencioso administrativo, de conformidad con lo establecido en la Ley N° 27584; y, en aquellos distritos judiciales en los que se encuentre vigente la Ley N° 29497, Nueva Ley Procesal del Trabajo, la vía procesal será la del proceso contencioso administrativo, conforme lo establece el articulo 2° numeral 4° de la misma.
+
+---
+class: animated, fadeIn
+
+**4.¿Cuál es el órgano jurisdiccional competente para conocer demandas contencioso administrativas de aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios Decreto Legislativo N° 1057); y, trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057 - Ley del Servicio Civil?**
+
+El Pleno acordé por unanimidad: Al amparo de la Ley N° 26636, el órgano jurisdiccional competente para demandas contencioso administrativas es el Juzgado Especializado de Trabajo, pues así lo estableció la Segunda Disposición Modificatoria de la Ley 29364, Ley que modifica diversos artículos del Código Procesal Civil. Mientras que, en aplicación de la Ley N° 29497, el órgano jurisdiccional competente para conocer las demandas contencioso administrativas es el juzgado especializado de trabajo, pues así se establece expresamente en el numeral 4 del articulo 2 de la Nueva Ley
+Procesal del Trabajo.
+
+---
+class: animated, fadeIn
+
+**5. ¿Cuál es la vía procesal judicial para que los trabajadores demanden la invalidez del contrato administrativo de servicios?**
+
+El Pleno acordó por unanimidad:
+
+1. Aquellos trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios - CAS (Decreto Legislativo N° 1057), deberán tramitar su demanda de invalidez en la vía del proceso contencioso administrativo;
+
+2. Aquellos trabajadores que iniciaron su prestación de servicios sujeto a contratos modales (Decreto Legislativo N° 728) o contratos de servicios no personales (SNP), en una entidad pública bajo el régimen laboral de la actividad privada o mixto, y que posteriormente suscribieron contratos CAS, deben tramitar su demanda de invalidez en la vía del proceso ordinario laboral;
+
+---
+class: animated, fadeIn
+
+(...)
+
+3.Aquellos trabajadores que iniciaron su prestación de servicios sujetos a contratos temporales o contratos de servicios no personales (SNP), en una entidad publica cuyo régimen laboral sea exclusivamente el régimen de la actividad publica, y que posteriormente suscribieron contratos CAS, deben tramitar su demanda de invalidez en la vía del proceso
+contencioso administrativo, y,
+
+4.Si el régimen laboral de la entidades el régimen laboral público y el trabajador inicia su prestación de servicios suscribiendo un contrato administrativo de servicios pero continúa laborando luego de vencido el plazo de vigencia del mismo, la vía procesal seré la del proceso contencioso administrativo. Si el personal de la entidad se encuentra bajo el régimen laboral privado o mixto, la vía procesal será la del proceso ordinario laboral.
+
+5.En los casos en que el juez de la causa advierta la improcedencia de la demanda por incompetencia; éste debe disponer la remisión del proceso al juez competente para que conozca del mismo o adecuar la vía procesal, de ser el caso.
+
+---
+class: animated, fadeIn
+
+**6.¿Cuál es el órgano competente para conocer demandas planteadas por trabajadores obreros municipales?**
+
+El Pleno acordé por unanimidad:
+
+El órgano jurisdiccional competente es el juez laboral en la vía del proceso ordinario o abreviado laboral según corresponda, atendiendo a las pretensiones que se planteen; pues de conformidad con el articulo 37 de la Ley 27972, Ley Orgánica de Municipalidades, los obreros municipales se encuentran bajo el régimen laboral de la actividad privada y como tales, no estén obligados a agotar la vía administrativa para acudir al Poder Judicial.
+
+---
+class: animated, fadeIn
+
+### CASACIÓN N.° 15366-2016, LIMA NORTE
+
+> Ante una actuación material que no se sustenta en un acto administrativo, conocido en doctrina como “vía de hecho” resulta innecesario exigirle al administrado el agotamiento de la vía administrativa, independientemente que dicha actuación impugnable no se encuentre contemplada expresamente entre las causales de inexigibilidad del agotamiento de la vía administrativa a que se refiere el artículo 19° del Texto Único Ordenado de la Ley N° 27584.
+
+---
+class: animated, fadeIn
+
+# Tercer pleno 
+
+**1. ¿En qué caso, además de los expresamente predeterminados en la ley, el trabajador se encuentra exonerado de agotar la vía administrativa, para interponer la demanda contenciosa administrativa laboral?**
+
+El Pleno acordó por unanimidad:
+
+El trabajador se encuentra exonerado de agotar la vía administrativa, para interponer la demanda contenciosa administrativa laboral, en aquellos casos en los que invoca la afectación del contenido esencial del derecho a la remuneración, ya sea que peticione el pago de la remuneración básica, la remuneración total, la remuneración permanente, las bonificaciones, las dietas, las asignaciones, las retribuciones, los estímulos, los incentivos, las compensaciones económicas y los beneficios de toda índole, cualquiera sea su forma, modalidad, periodicidad, mecanismo y fuente de financiamiento.
+
+---
+class: animated, fadeIn, center, middle
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6l1t{background-color:#67fd9a;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-9zzx{background-color:#67fd9a;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-ceb2{font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9zzx" colspan="2">Contencioso administrativo laboral</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6l1t">Bolivia</td>
+    <td class="tg-ceb2">- Vs. recurso jerárquico cabe impugnación judicial<br>-Proceso contencioso administrativo<br>-Ante la Corte Suprema</td>
+  </tr>
+  <tr>
+    <td class="tg-6l1t">Chile</td>
+    <td class="tg-ceb2">- No hay un proceso contencioso administrativo propiamente<br>- Los reclamos "administrativos laborales" siguen al Cód. Trabajo.<br>- Juzgados de Letras de Trabajo</td>
+  </tr>
+  <tr>
+    <td class="tg-6l1t">Colombia</td>
+    <td class="tg-ceb2">- CPTSS, da competencia a los jueces laborales <br>- La jurisdicción de lo contencioso administrativo<br>- Ante el Consejo de Estado, una de las ramas de lo judicial</td>
+  </tr>
+  <tr>
+    <td class="tg-6l1t">Ecuador</td>
+    <td class="tg-ceb2">- COGP<br>- Proceso contencioso administrativo<br>- Tribunales contencioso administrativos<br>- Casación: Corte Nacional de Justicia</td>
+  </tr>
+  <tr>
+    <td class="tg-6l1t">Uruguay</td>
+    <td class="tg-ceb2">- Proceso contencioso administrativo<br>- Tribunal de lo Contencioso Administrativo</td>
+  </tr>
+  <tr>
+    <td class="tg-6l1t">Venezuela</td>
+    <td class="tg-ceb2">- Ley del Estatuto de la Función Pública<br>- Recurso contencioso administrativo funcionarial<br>- Proceso contencioso administrativo</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# El proceso de amparo
+
++ Según el CPConst.
++ Regla de residualidad:: Amparo es improcedente si existe una "VPE=S"
++ Caso 00206-2005-PA/TC, Baylón Flores
++ Caso 02383-2013-PA/TC, Elgo Ríos
+
+---
+class: animated, fadeIn
+
+# Caso Elgo Ríos
+
+### Precedentes
+
+12.- Sistematizando la jurisprudencia vigente de este Tribunal, puede afirmarse que existen dos perspectivas para entender cuándo una vía puede ser considerada "igualmente satisfactoria": una objetiva, vinculada al análisis de la vía propiamente dicha (vía específica idónea); y otra subjetiva, relacionada con el examen de la afectación al derecho invocado (urgencia iusfundamental).
+
+13.- Desde la perspectiva objetiva, el análisis de la vía específica idónea puede aludir tanto: (1) a la estructura del proceso, atendiendo a si la regulación objetiva del procedimiento permite afirmar que estamos ante una vía célere y eficaz (estructura idónea)', o (2) a la idoneidad de la protección que podría recibirse en la vía ordinaria, debiendo analizarse si la vía ordinaria podrá resolver debidamente el caso iusfundamental que se ponga a su consideración (tutela idónea). Este análisis objetivo, claro está, es independiente a si estamos ante un asunto que merece tutela urgente.
+ 
+---
+class: animated, fadeIn
+
+14.- De otra parte, desde una perspectiva subjetiva, una vía ordinaria puede ser considerada igualmente satisfactoria si: (1) transitada no pone en grave riesgo al derecho afectado, siendo necesario evaluar si transitar la vía ordinaria puede tornar irreparable la afectación alegada (urgencia como amenaza de irreparabilidad); situación también predicable cuando existe un proceso ordinario considerado como "vía igualmente satisfactoria" desde una perspectiva objetiva; (2) se evidencia que no es necesaria una tutela urgente, atendiendo a la relevancia del derecho involucrado o a la gravedad del daño que podría ocurrir (urgencia por la magnitud del bien involucrado o del daño).
+
+---
+class: animated, fadeIn
+
+15.- Queda claro, entonces, que la vía ordinaria será "igualmente satisfactoria" a la vía del proceso constitucional de amparo, si en un caso concreto se demuestra, de manera copulativa, el cumplimiento de estos elementos:
+
+- Que la estructura del proceso es idónea para la tutela del derecho;
+
+- Que la resolución que se fuera a emitir podría brindar tutela adecuada;
+
+- Que no existe riesgo de que se produzca la irreparabilidad; y
+
+- Que no existe necesidad de una tutela urgente derivada de la relevancia
+del derecho o de la gravedad de las consecuencias.
+
+En sentido inverso, la ausencia de cualquiera de estos presupuestos revela que no
+existe una vía idónea alternativa al amparo, por lo que la vía constitucional quedará
+habilitada para la emisión de un pronunciamiento de fondo (salvo que se incurra en alguna otra causal de improcedencia).
+
+17.- Las reglas para determinar cuándo una vía ordinaria alterna resulta igualmente
+satisfactoria son las establecidas en esta sentencia, y conforme a ellas se
+interpretará el inciso 2 del artículo 5, resultando aplicables a todos los procesos de
+amparo, independientemente de su materia.
+
+---
+class: animated, fadeIn
+
+25.- Al respecto, este Tribunal señala que, a pesar de la existencia de referida norma procesal, en sustancia mantiene los criterios materiales referidos a la procedencia del amparo laboral. Así, como antes, en caso que la vía laboral no permita la reposición satisfactoria o eficaz del trabajador (supuesto de estructura idónea, previsto en el fundamento 13, supra), o cuando el demandante persiga la tutela urgente de sus derechos constitucionales frente a despidos nulos, en caso no vaya a obtener tutela satisfactoria en la vía laboral (supuesto de tutela idónea y urgencia iusfundamental, previstos en los fundamentos 13 y 14, supra), deberá admitirse a trámite la demanda de amparo. Igualmente, para los casos que no se encuentran regidos por la Ley N° 29497, Nueva Ley Procesal del Trabajo, resulta de aplicación el análisis sobre la pertinencia de la vía constitucional fijados en esta sentencia como precedente, que son compatibles con los precedentes que fueron establecidos en la STC Exp. N° 00206-2005-PA/TC. 
+
+26.- En este orden de ideas, si el demandante cuenta con una vía laboral en la que podrá obtener de manera célere —tanto o más que a través del amparo— la reposición que solicita, deberá acudir a esa vía y no al proceso constitucional de amparo, salvo que estemos ante situaciones que objetivamente demanden una tutela urgente que solamente puede canalizarse mediante un medio procesal como el amparo. 
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# Participación de los sindicatos
+
+# Los procesos colectivos
+
+---
+class: animated, fadeIn
+
+# Los derechos colectivos ***.red[desde]*** los procesos colectivos
+
+Desde la doctrina de los procesos colectivos se reconocen tres tipos de derechos colectivos:
+
+1. Los derechos o intereses difusos;
+
+2. Los derechos colectivos en sentido estricto; y,
+
+3. Los derechos individuales homogéneos.
+
+---
+class: animated, fadeIn
+
+## Los derechos o intereses difusos
+
+Los derechos o intereses difusos son derechos supraindividuales (o también, “transindividual”), indivisibles, de titularidad del grupo, categoría o clase de personas, que son indeterminables, y que resultan vinculadas por circunstancias de hecho en una situación específica.
+
+:::
+
+Derecho difuso = Derecho supraindividual + Indivisible + Personas Indeterminables + Circunstancias de hecho
+
+(No existe un derecho a salirse del grupo: right to opt out)
+
+---
+class: animated, fadeIn
+
+## Los derechos colectivos en sentido estricto
+
+Los derechos colectivos en sentido estricto son derechos supraindividuales, indivisibles, de titularidad del grupo, categoría o clase de personas, que son indeterminadas pero determinables, y que resultan vinculadas por una relación jurídica previa.
+
+:::
+
+Derecho colectivo = Derecho supraindividual + Indivisible + Personas Indeterminadas + Relación jurídica
+
+(No existe un derecho a salirse del grupo: right to opt out)
+
+---
+class: animated, fadeIn
+
+## Los derechos individuales homogéneos
+
+Los derechos individuales homogéneos son derechos subjetivos individuales, divisibles, de titularidad de los miembros del grupo, categoría o clase, que provienen de un origen común.
+
+:::
+
+Derecho individual homogéneo = Derecho individual + Divisible + Miembro del grupo + Origen común
+
+(Siempre conserva su derecho a salirse del grupo: right to opt out)
+
+---
+class: animated, fadeIn
+
+# ¿Donde está lo colectivo?
+
++ En el propio derecho y, por consecuencia, en el modo colectivo de darles tutela. (DF y DCESE)
+
++ En el modo de darle tutela: el derecho no es colectivo, sino individual, pero el modo de buscar tutela es colectivo. (DIH)
+
+---
+class: animated, fadeIn
+
+# ¿La materia es relevante?
+
+--
+
++ Puede tratarse de cualquier derecho.
+
++ Obviamente, también la faceta colectiva de los tradicionales derechos colectivos del trabajo.
+
+--
+
+Lo relevante es el modo colectivo de buscar tutela:
+
++ ya sea porque involucra un derecho colectivo (supraindividual e indivisible); o,
+
++ porque involucra a un grupo de personas afectadas en sus derechos individuales por un acto común.
+
+---
+class: animated, fadeIn
+
+# Los procesos colectivos (las acciones colectivas)
+
++ Los procesos colectivos en el *civil law* tienen su inspiración en las *class actions* del derecho norteamericano.
+
++ La NLPT se inspira en:
+
+  +  La regla 23 de las Federal Rules of Civil Procedure de 1938. 
+
+  + El Código de Protección y Defensa del Consumidor de Brasil de 1990.
+  
+  + El Código Modelo de Procesos Colectivos para Iberoamérica.
+  
+---
+class: animated, fadeIn
+
+# ¿Qué es un proceso colectivo (una acción colectiva)?
+
+Desde una perspectiva general una acción colectiva o de clase es aquella
+
+(1) promovida por un sujeto legitimado,
+
+(2) donde la pretensión deducida consiste en proteger un derecho colectivo o a un colectivo de personas, 
+
+(3) a partir de una sentencia que vincula a tales colectivos.
+
+---
+class: animated, fadeIn
+
+# Elementos que definen un proceso colectivo
+
++ Primero: una legitimidad (especial o extraordinaria) que se aparta de la clásica legitimidad sustentada en la afirmación de la titularidad del derecho subjetivo material. La legitimidad proviene de la ley y se atribuye al margen de que las pretensiones deducidas sean afirmadas como de titularidad de quien demanda. En estos casos, el hecho de que quien demande pueda ser, a su vez, titular del derecho discutido, sería solo una coincidencia, un hecho contingente, no necesario para la activación del proceso.
+
+---
+class: animated, fadeIn
+
+# Elementos que definen un proceso colectivo
+
++ Segundo: que se trate de un derecho colectivo que, como se ha visto, son de tres tipos: los derechos colectivos difusos, los derechos colectivos en sentido estricto y los derechos individuales homogéneos. Estos últimos, a pesar de ser individuales, son colectivos por el modo de ser defendidos, en tanto proyecta su solución al grupo-de-individuos-afectados (que se constituye así en el colectivo protegido por el proceso colectivo).
+
+---
+class: animated, fadeIn
+
+# Elementos que definen un proceso colectivo
+
++ Tercer elemento: la sentencia que proyecta su solución al colectivo. Aquí se revela la finalidad multiplicadora del proceso colectivo: un proceso iniciado por cualquier legitimado que se proyecta sobre cualquiera de los tres tipos de derecho colectivo. 
+
+Un asunto de particular importancia, sobre el cual la NLPT no da una respuesta expresa, es el caso de la sentencia infundada: ¿genera los efectos de la cosa juzgada respecto de todo el colectivo o solamente respecto de los demandantes puntuales? Esta ausencia de regulación expresa del caso anotado no significa que se deje de lado la necesaria conexión que debe haber con los principios y valores recogidos en su título preliminar. 
+
+---
+class: animated, fadeIn
+
+# Los procesos colectivos y la NLPT
+
+## La legitimidad especial
+
+>Artículo 9.- Legitimación especial
+
+>9.1 Las pretensiones derivadas de la afectación al derecho a la no discriminación en el acceso al empleo o del quebrantamiento de las prohibiciones de trabajo forzoso e infantil pueden ser formuladas por los afectados directos, una organización sindical, una asociación o institución sin fines de lucro dedicada a la protección de derechos fundamentales con solvencia para afrontar la defensa a criterio del juez, la Defensoría del Pueblo o el Ministerio Público.
+
+>9.2 Cuando se afecten los derechos de libertad sindical, negociación colectiva, huelga, a la seguridad y salud en el trabajo y, en general, cuando se afecte un derecho que corresponda a un grupo o categoría de prestadores de servicios, pueden ser demandantes el sindicato, los representantes de los trabajadores, o cualquier trabajador o prestador de servicios del ámbito.
+
+---
+class: animated, fadeIn
+
+# Poniendo ejemplos
+
++ Litisconsorcio (p. colectivo de baja intensidad)
+
++ Tratándose de casos de discriminación en el acceso al empleo, trabajo forzoso y trabajo infantil –que tienen un fuerte componente de derechos difusos– la ley atribuye legitimidad especial a:
+
+1. Cualquier organización sindical;
+
+2. Cualquier asociación o institución sin fines de lucro;
+
+3. La Defensoría del Pueblo; o,
+
+4. El Ministerio Público.
+
+---
+class: animated, fadeIn
+
+# Poniendo ejemplos
+
+De otro lado, en el caso de los derechos colectivos laborales (libertad sindical, negociación colectiva y huelga) y, en general, cuando hay una afectación homogénea a un colectivo, la ley atribuye legitimidad especial a:
+
+1. Cualquier sindicato del ámbito;
+
+2. Los representantes de los trabajadores del ámbito; o,
+
+3. Cualquier trabajador o prestador de servicios del ámbito.
+
+---
+class: animated, fadeIn
+
+#### ADVERTENCIA
+
+En este punto debe advertirse que la actuación de los sindicatos no es en vía de representación de los afectados ni está circunscrita a sus afiliados. Es una actuación distinta. En estos casos el sindicato no actúa en representación de sus afiliados (para eso está el artículo 8°), sino en defensa del grupo o categoría de trabajadores del ámbito: ya sea en defensa de un derecho colectivo en sentido estricto o en defensa de los derechos individuales homogéneos. Se trata de dos maneras distintas en que puede actuar el sindicato para la defensa de los derechos laborales.
+
+Por ejemplo:
+
++ El caso de la modificación colectiva de los horarios de trabajo que afecta a un grupo o categoría de trabajadores, donde el sindicato que impugna la medida no actúa en representación de sus afiliados sino del grupo o categoría.
+
++ El procedimiento de cese colectivo por fuerza mayor que culmina con el mandato de pago de las remuneraciones a favor de los trabajadores afectados con la medida, donde el sindicato interviniente solicita el cumplimiento del mandato a favor del grupo afectado.
+
++ El cumplimiento de un laudo arbitral en el marco de un sindicato mayoritario, donde el sindicato pide su cumplimiento a favor de todos los trabajadores del ámbito (afiliados y no afiliados).
+
+---
+class: animated, fadeIn
+
+#### ADVERTENCIA
+
+Esto es diferente a, por ejemplo:
+
++ El sindicato demanda el pago de un beneficio a favor de cierto número determinado de sus afiliados. 
+
++ O el caso en que el sindicato actúa en representación de alguno de sus dirigentes sindicales solicitando el cese de un acto de hostilidad.
+
+---
+class: animated, fadeIn
+
+## Los derechos colectivos
+
+Desde la teoría de los procesos colectivos el artículo 9 también recoge los tres tipos de derechos colectivos: los derechos difusos, los derechos colectivos en sentido estricto y los derechos individuales homogéneos.
+
+#### Los derechos difusos, ejemplos:
+
+Los derechos o intereses difusos son derechos supraindividuales, indivisibles, de titularidad del grupo, categoría o clase de personas, que son indeterminables, y que resultan vinculadas por circunstancias de hecho en una situación específica.
+
+Un primer caso de defensa de derechos difusos laborales la encontraríamos en la acción de inconstitucional por ejemplo si una ley vulnerase el derecho de los trabajadores (presentes y futuros) a gozar de una remuneración equitativa y suficiente. 
+
+Otro mecanismo de defensa sería la acción popular si, por ejemplo, un reglamento afectase el derecho de los dirigentes sindicales a gozar de licencias sindicales sin injerencia del Estado ni de los empleadores. 
+
+Son derechos difusos porque involucran a un colectivo en su conjunto, respecto del cual sus miembros son indeterminables, donde a todos se les afecta por igual, por el solo hecho de encontrarse en las mismas circunstancias. 
+
+---
+class: animated, fadeIn
+
+#### Los derechos difusos, ejemplos:
+
+1. discriminación en el acceso al empleo,
+2. trabajo forzoso y
+3. trabajo infantil. 
+
+Son tres supuestos de derechos difusos en tanto involucran a un colectivo, cuyos miembros son indeterminables, afectados por igual, unidos por circunstancias de hecho. 
+
+Sería, por ejemplo, el caso de una oferta de empleo discriminatoria por razón de sexo. Si una empresa ofrece un empleo y lo limita a los hombres, entonces el colectivo de las mujeres, cuyos miembros son indeterminables, se ven afectadas en su conjunto (no individualmente), por el hecho de ser potenciales candidatas al referido empleo. 
+
+O el caso de una empresa que realice actividades que signifiquen una vulneración a las prohibiciones de trabajo forzoso o trabajo infantil, respecto de lo cual existen colectivos afectados por tales prácticas, por ejemplo, en el reclutamiento de las personas para tales actividades prohibidas. 
+
+En estos casos, la gravedad es tan grande y la dificultad de defensa mayor, que la NLPT atribuye legitimidad, como vimos, a cualquier sindicato, una organización sin fines de lucro, la Defensoría del Pueblo y el Ministerio Público.
+
+---
+class: animated, fadeIn
+
+#### Los derechos colectivos en sentido estricto, ejemplos:
+
+Estos tres mismos casos también podrían ser ejemplos de derechos colectivos en sentido estricto si en algún momento los miembros del grupo terminan vinculados jurídicamente. 
+
+Sería el caso de los grupos seleccionados para etapas posteriores de contratación o reclutamiento, o si es que luego se llega a materializar relaciones laborales concretas. 
+
+Más ejemplos: grupos de trabajadores que sufren discriminación por sexo, o los grupos que se encuentran bajo una relación laboral prohibida de trabajo forzoso o trabajo infantil. 
+
+Otros ejemplos de derechos colectivos en sentido estricto serían los casos vinculados (en su faceta colectiva) a la libertad sindical, negociación colectiva, huelga, seguridad y salud en el trabajo, en tanto sea el grupo en su conjunto el afectado.
+
+---
+class: animated, fadeIn
+
+#### Los derechos individuales homogéneos
+
+Y en cuanto a los derechos individuales homogéneos (derechos subjetivos individuales, divisibles, de titularidad de los miembros del grupo, categoría o clase, que provienen de un origen común) serían los más. 
+
+El derecho pertenece a cada individuo. 
+
+Lo colectivo, en estos casos, reside en el modo (colectivo) de buscar una tutela uniforme para los miembros del grupo. Tutela uniforme que se justifica en el hecho común. 
+
+Hecho común que no significa exactamente el mismo hecho físico, sino el mismo hecho lesivo. 
+
+Por ejemplo, el despido de un grupo de trabajadores a partir del alegato de que la empresa no puede seguir funcionando. A pesar de que las cartas de despido puedan ser de fechas diferentes, el hecho lesivo sería el mismo pues a todo el grupo se le da el mismo tratamiento (se le despide) a partir de un mismo hecho lesivo: alegar una misma causa de despido no sustentada en la ley.
+
+---
+class: animated, fadeIn
+
+## La sentencia
+
+El tercer elemento es la sentencia que proyecta su solución al colectivo. 
+
+Aquí se revela la finalidad multiplicadora del proceso colectivo: un proceso iniciado por cualquier legitimado que se proyecta sobre cualquiera de los tres tipos de derecho colectivo. 
+
+Evidentemente, si la demanda es declarada fundada no se produce mayor debate pues ello beneficiará al colectivo en su conjunto, independiente que, en el caso de los derechos individuales homogéneos, alguno de los beneficiarios no reclame lo que le corresponda o incluso lo rechace. Nada de eso menoscaba los alcances de la sentencia. 
+
+La discusión puede producirse más bien cuando la sentencia desestima la pretensión en el fondo. Sobre ello la NLPT no da una respuesta expresa. Esta ausencia de regulación expresa del punto, sin embargo, no significa que se deje de lado la necesaria conexión que debe haber con los principios y valores recogidos en su título preliminar, dentro de los cuales prima el concepto de acceso a la justicia, por lo cual, una interpretación conforme a esos valores permitiría que el alcance de la cosa juzgada se circunscriba únicamente a quienes promovieron la demanda finalmente desestimada, pues de lo contrario el efecto multiplicador de acceso a la justicia que anima la instauración de los procesos colectivos resultaría contraproducente.
+
+---
+class: animated, fadeIn
+
+## La demanda de liquidación de derechos individuales. El artículo 18° de la Ley 29497, Nueva Ley Procesal del Trabajo
+
+Artículo 18.- Demanda de liquidación de derechos individuales
+
+Cuando en una sentencia se declare la existencia de afectación de un derecho que corresponda a un grupo o categoría de prestadores de servicios, con contenido patrimonial, los miembros del grupo o categoría o quienes individualmente hubiesen sido afectados pueden iniciar, sobre la base de dicha sentencia, procesos individuales de liquidación del derecho reconocido, siempre y cuando la sentencia declarativa haya sido dictada por el Tribunal Constitucional o la Corte Suprema de Justicia de la República, y haya pasado en autoridad de cosa juzgada.
+
+En el proceso individual de liquidación del derecho reconocido es improcedente negar el hecho declarado lesivo en la sentencia del Tribunal Constitucional o de la Corte Suprema de Justicia de la República. El demandado puede, en todo caso, demostrar que el demandante no se encuentra en el ámbito fáctico recogido en la sentencia.
+
+---
+class: animated, fadeIn
+
+##### La demanda de liquidación de derechos individuales
+
+El artículo 18 –la demanda de liquidación de derechos individuales– se inspiró en la doctrina del Tribunal Constitucional del estado de cosas inconstitucionales. Que se haya inspirado no significa que haya terminado siendo lo mismo. 
+
+La idea detrás del artículo 18 es la posibilidad (no la obligación, no la necesidad) de multiplicar los efectos (benéficos) de una sentencia (del Tribunal Constitucional o de la Corte Suprema) fundamentada en el reconocimiento de un hecho lesivo que afecta a más de una persona prestadora de servicios. El propósito es utilizar (por los propios afectados, por cada uno de ellos, individualmente o en litisconsorcio) el reconocimiento del hecho lesivo que les afecta. Esta idea se sustenta en el principio de igualdad en la aplicación de la ley y hace tributo al valor de la predictibilidad de las decisiones judiciales.
+
+En este escenario, sí hay un propósito nuevo: que la demanda sirva para multiplicar los efectos de una anterior y, en ese sentido, demandar directamente la liquidación del derecho que le corresponde a cada quien. En este escenario el nuevo demandante pide directamente el pago de la suma de dinero que a él le corresponda, donde ya no es necesario discutir la existencia del hecho lesivo pues este ya viene recogido en la sentencia que se aprovecha. Aquí el propósito de la demanda es liquidar lo que le toca a cada quien, a partir de los fundamentos de una sentencia previa.
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

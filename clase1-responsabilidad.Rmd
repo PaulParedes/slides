@@ -1,0 +1,220 @@
+---
+title: "Responsabilidad y procesos laborales"
+subtitle: "Módulo 5"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "15 de junio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+class: center, middle
+
+# Cuarta clase
+
+# El derecho de daños y la justicia correctiva
+
+### ¿La responsabilidad o el derecho de daños, en el ámbito laboral, tiene alguna particularidad? Si la tiene ¿en qué consistiría esta?
+
+---
+class: center, middle, inverse
+
+# ¡Empecemos!
+
+---
+# La responsabilidad (civil) en el ámbito laboral
+
+## 1. Enfoque clásico
+
+## 2. Enfoque desde la justicia distributiva y la justicia correctiva
+
+---
+
+# 1. El enfoque clásico
+
+- La responsabilidad es materia civil
+
+- No hay razones para diferenciarlo con otros ámbitos
+
+- Aplica subsidiariamente, en lo laboral, la dogmática civil clásica
+
+- La responsabilidad se divide en:
+  + Contractual
+  + Extracontractual
+  
+- La responsabilidad en el ámbito laboral {despido, AT, EP} es (civil) contractual
+
+**Por tanto:** se trata de verificar la presencia de los 4 elementos de la responsabilidad contractual:
+  1. Conducta antijurídica (- incumplimiento de la ley, del contrato)
+  2. Daño
+  3. Nexo causalidad
+  4. Factor de atribución: - Dolo, - Culpa inexcusable, o - Culpa leve
+
+---
+
+## 1. Conducta antijurídica
+
++ 1321: no ejecutar la obligación (por dolo, culpa inexcusable, culpa leve)
+
++ 1314: actuar con la diligencia ordinaria requerida
+
++ 1315: por tanto, si
+  + inejecución
+  + cumplimiento tardío o defectuoso
+  + CF o FM: no hay responsabilidad
+  
++ 1329: se presume la culpa leve
+  + invierte. carga. probatoria: --> demandado: + probar diligencia ordinaria requerida (circunstancias de persona, tiempo y lugar)
+  
+---
+
+## 2. Daño (y cuantía)
+
++ perjuicio en un interés legítimo
+
++ 1321:
+  + daño emergente
+  + lucro cesante
+
++ 1322:
+  + daño moral
+
++ 1331: la prueba corresponde al DTE: el perjudicado por la
+  + inejecución
+  + cumplimiento parcial
+  + cumplimiento tardío
+  + cumplimiento defectuoso
+  
++ 1332: si no prueba el monto preciso, el juez lo fija "con valoración equitativa"
+
+---
+
+## 3. Causalidad {fáctica, jurídica (qué consecuencias se reparan)}
+
++ 1321: DE; LC; DM que sean
+  + consecuencia inmediata y directa de la inejecución y, además
+  + [culpa inexcusable, dolo] todas esas consecuencias: previsibles (o no) al momento de la contratación
+  + [culpa leve] solo el daño que podía preverse al tiempo en que la obligación fue contraída
+
+---
+
+## 4. Factor de atribución {dolo, culpa inexcusable, culpa leve}
+
++ 1329: se presume la culpa leve
+  + inversión.carga.prueba: DDO --> prueba: diligencia ordinaria (estándar de diligencia: esfuerzos, prevenciones)
+  
++ 1330: DTE --> prueba dolo, culpa inexcusable del DDO
+
+---
+
+## *. Defensas de fondo
+
++ 1326: concurrencia de culpa/dolo de la víctima
+  + reducción del resarcimiento; porque hay corresponsabilidad (cocausación)
+
++ 1327: liberación de resarimiento por daños que el acreedor habría podido evitar usando su diligencia ordinaria
+
++ 1315: CF / FM:  causa no imputable, consistente en un evento extraordinario (que sale de lo común, que no es usual), imprevisible (no se podía prever al tiempo de contraer la obligación (según lo debido)) e irresistible (al momento de cumplirla), que impide la ejecución de la obligación o determina su cumplimiento parcial, tardío o defectuoso.
+
++ 1328*: nulidad de los pactos de exoneración y limitación de responsabilidad
+
+---
+
+# 2. El enfoque desde la justicia distributiva y la justicia correctiva
+
+- Tendencia a la unificación de los sistemas de responsabilidad
+
+- Se habla de responsabilidad civil vs. responsabilidad penal, pero abarca muchos campos, incluido el laboral
+
+- La unificación significa que los linderos de la responsabilidad contractual vs. la extracontractual se difuminan
+
+- No se reconoce que hay diferencia entre que haya, o no, un contrato de por medio, pero ya no es un criterio de separación entre "sistemas".
+
+- P. ej. el CCyC argentino de 2014
+
+- O "Los principios de derecho europeo de la responsabilidad civil", Viena 2005
+
+- Se habla de derecho de daños, *tort law*
+
+  - Extracontractual: protege personas
+  - Contractual: patrimonio puro
+
+---
+
+# John Rawls
+
+- En sociedades liberales el Estado debe garantizar a los individuos un conjunto de bienes, derechos:: bienes primarios:: propiedad privada - integridad física
+
+- Bienes útiles para desarrollar un plan de vida del cual soy responsable
+
+- En el mundo real hay hechos, interacciones, que alteran los planes de vida por circunstancias ajenas a la voluntad de la persona: hechos naturales; de otros: (terceros, contraparte)
+
+Naturaleza
+:: - El Estado interviene neutralizando el infortunio (esquemas de compensación social, castigo al dañador)
+:: - El sujeto asume el infortunio
+
+Acción de terceros
+:: - Posibilidad de dañarse mutuamente
+:: - Posibilidad de causar pérdidas de uno a otro
+
+Estado reconoce
+:: Derechos de indemnidad (libre de interferencias)
+:: Deberes de indemnidad (deber de no dañar)
+
+Reglas sustantivas de responsabilidad
+:: Derecho a no ser dañado
+:: Deber de no dañar a los otros || --> Incide en: Libertad y seguridad personal
+Sirven como criterios de distribución
+
+---
+
+# Los derechos de indemnidad
+
+Son bienes primarios que se distribuyen entre los miembros de una comunidad
+
+- Derechos y deberes primarios, de indemnidad: justicia distributiva
+
+- Derechos y deberes secundarios, de compensación: justicia correctiva (subsanar o rectificar las interacciones injustas)
+
+---
+
+# La responsabilidad civil
+
+Tiene 2 aspectos entonces:
+
+1. Distributivo: derechos y deberes de indemnidad (derecho a no ser dañado, deber de no dañar)
+
+2. Correctivo o rectificatorio (compensar la pérdida; incluye la posibilidad de la  restitución)
+
+---
+
+# Contenido de la justicia distributiva en particular
+(¿de qué depende?)
+
+- Tipo de responsabilidad: culpa, objetiva (o por riesgo creado)
+
+- La causalidad jurídica: qué consecuencias se reparan (lo previsible, lo directo e inmediato, lo remoto)
+
+- Tipo de daños indemnizables: patrimonial, extrapatrimonial
+
+- Defensas admisibles: CF/FM, culpa de la víctima)
+
+- Estándares de diligencia: esfuerzos, prevenciones que se toman para evitar los daños (diligencia ordinaria)
+
+---
+.left-column[
+# Pregunta:
+]
+.right-column[
+# ¿De qué depende que sea preferible:<br/> a) la regla de la culpa, o <br/>b) la de responsabilidad objetiva?
+]
+
+---
+class: center, middle, inverse
+
+# ¡Gracias!

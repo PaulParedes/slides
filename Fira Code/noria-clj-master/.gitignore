@@ -1,0 +1,9 @@
+.idea/**
+!.idea/codeStyleSettings.xml
+profile.json
+noria.iml
+.DS_Store
+.project
+.settings
+.classpath
+/kt/target/

@@ -1,0 +1,78 @@
+---
+title: "Teoría de la prueba"
+subtitle: "Módulo 4"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "15 de junio de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+class: center, middle
+
+# Control 1
+
+# STC 05528-2014-PA/TC (19/12/2018)
+# CASACIÓN LABORAL 12816-2015 (08/04/2016)
+
+---
+class: center, middle, inverse
+
+# ¡Empecemos!
+
+---
+# Instrucciones
+
+## 1. ¿Cuál es la teoría del caso?
+
++ Identificación de la regla de derecho aplicable según la pretensión demandada
+
++ Identificación de la regla de derecho en caso de la defensa
+
++ Los hechos que componen la HIN
+
+---
+
+# STC 05528-2014-PA/TC
+
+DTE
+1. Despido (nulo) X Afil.Sind --> Repo Adm  + Rem Dev
+### :: VL + Af.Sind. + Ext.VL + [~CJ] --> Repo + Rem Dev
+
+2. Despido (fraudulento) X Engaño (calif. T.Conf.) == D. Incausado --> Repo
+### :: VL + [Engaño] + Ext.VL + [~CJ] --> Repo
+
+DDO
+1. <----- CJ [El retiro de la confianza como CJ] || Trab.Conf. + Retiro conf.
+
+2. <----- CJ [El retiro de la confianza como CJ] || Trab.Conf. + Retiro conf.
+
+---
+
+# CAS. LAB. 12816-2015
+
+DTE
+1. Desnatu.Cont.Mod.X.Serv.Esp. ---> Cont.Plaz.Indeterm
+2. Despido nulo X Afil.Sind. ---> Repo + RemDev + CTS + BBSS
+3*. Despido incausado ---> Repo + RemDev
+
+SUPREMA
+DTE
+1. Desp.X AfilSind [Indicios razonables X Afil.Sind]
+
+DDO
+1. <----- Motivo razonable [Falta grave o CJ] || Desnat.Contratos no es causa razonable
+
+
+
+
+
+---
+class: center, middle, inverse
+
+# ¡Gracias!

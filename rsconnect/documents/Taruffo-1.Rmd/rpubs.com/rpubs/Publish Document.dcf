@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/619137/ac8fc32d876b4aa493c4dc10bff86427
+bundleId: https://api.rpubs.com/api/v1/document/619137/ac8fc32d876b4aa493c4dc10bff86427
+url: http://rpubs.com/paulparedes/619137
+when: 1590512896.25681

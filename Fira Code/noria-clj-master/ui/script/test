@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+export JAVA_HOME=$(/usr/libexec/java_home -v 11+)
+
+mvn test
