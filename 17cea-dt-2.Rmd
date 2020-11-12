@@ -1,0 +1,698 @@
+---
+title: "XVII Curso de Especialización Avanzada en Derecho del Trabajo"
+subtitle: "Los principios del proceso laboral"
+author: "Paul Paredes"
+institute: "Centro de Educación Continua, PUCP"
+date: "19 de noviembre de 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle, animated, slideInRight
+
+# La clase anterior
+
+---
+class: animated, fadeIn
+
+### - ¿Por qué (debe haber) un proceso laboral?
+
+  + ¿Por qué **no** (debe haber) un proceso laboral?
+  
+  + Discutir: autonomía, especialidad
+  
+### - Algunas razones desde las que se puede justificar la existencia del proceso laboral
+
+  + Poder. Estado social.
+  
+  + Justicia distributiva
+  
+  + Igualdad (en la distribución)
+  
+  + Igualdad en la ley (a través de la ley): la aplicación del derecho debe producir resultados igualitarios en cuanto a las condiciones de vida de los ciudadanos.
+  
+  + El derecho material (su especialidad)
+  
+---
+class: animated, fadeIn
+
+### **Couture** planteó que la razón de ser del **derecho procesal del trabajo** era asegurar ciertos resultados mínimos de justicia dentro de la desigual relación del trabajo, y que para lograrlo era necesario establecer la igualdad mediante una desigualdad: **la igualdad por compensación**.
+
+### Impacto de la desigualdad (económica y social)
+
+### - La desigualdad como fundamento del proceso laboral (dos perspectivas)
+
+1. La desigualdad material y la igualdad por compensación
+  
+  + **La igualdad por compensación se posiciona como el fundamento de las actuaciones procesales en los conflictos laborales**.  
+
+2. La igualdad en el principio dispositivo
+  
+  + **Afirmar el p. dispositivo, pero con notas del p. inquisitivo: proceso especial con principio dispositivo atenuado**
+
+---
+class: center, middle, animated, slideInRight
+
+# Clase 2
+
+# Principios (y fundamentos) del proceso laboral
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: animated, fadeIn
+
+# ¿Cómo surge el proceso laboral?
+
+--
+
+# Dos valores imprescindibles en cualquier proceso
+
+--
+.center[
+##  + Imparcialidad
+]
+
+--
+.center[
+##  + Derecho de defensa
+]
+
+---
+class: animated, slideInRight
+
+.left-column[
+# Pregunta:
+]
+.right-column[
+### ¿Qué tipo de proceso (oral o escrito) permite una imparcialidad "más" intensa?
+
+### ¿Qué tipo de juez (espectador o director) permite un derecho de defensa "más" fuerte? 
+]
+
+---
+class: animated, fadeIn
+
+# Modelo 1
+
+# Imparcialidad --> derecho de defensa
+
+### 1. Equidistancia (no contacto con las partes)
+
+### 2. Sometido a las partes
+
+## + --> juez espectador
+
+## + --> proceso escrito, principio dispositivo 
+
+---
+class: animated, inverse, slideInRight
+
+# Código Civil francés de 1804
+
+> ## “1781. Le maître est cru sur son affirmation, Pour la quotité des gages; Pour le paiement du salaire de l'année échue; Et pour les à-comptes donnés pour l'année courante.” 
+
+> ## “Al dueño se le cree por su dicho, en cuanto al monto  de los salarios; en cuanto al pago del salario del año vencido; y en cuanto a lo que diga haber dado a cuenta para el año en curso.”
+
+---
+class: animated, fadeIn
+
+# Modelo 2
+
+# Imparcialidad --> derecho de defensa
+
+### 1. Sometimiento al Derecho (puede haber contacto con las partes)
+
+### 2. Sometido a las partes, pero con facultades de oficio
+
+## + --> juez director
+
+## + --> proceso oral, principio dispositivo atenuado (con notas del p. inquisitivo)
+
+---
+class: animated, fadeIn, center, middle
+
+# Proceso oral vs. proceso escrito 
+
+.pull-left[
+- Inmediación
+
+- Concentración
+
+- Publicidad
+
+- Celeridad
+
+- Economía procesal
+
+- Veracidad (mayor)
+
+- Informalismo
+]
+
+.pull-right[
+- No inmediación
+
+- No concentración
+
+- Publicidad (menor)
+
+- No celeridad
+
+- No economía procesal
+
+- Veracidad (menor)
+
+- Formalismo
+]
+
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo I.- Principios del proceso laboral
+
+> El proceso laboral se inspira, entre otros, en los principios de inmediación, oralidad, concentración, celeridad, economía procesal y veracidad.
+	
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo II.- Ámbito de la justicia laboral
+
+> Corresponde a la justicia laboral resolver los conflictos jurídicos que se originan con ocasión de las prestaciones de servicios de carácter personal, de naturaleza laboral, formativa, cooperativista o administrativa; están excluidas las prestaciones de servicios de carácter civil, salvo que la demanda se sustente en el encubrimiento de relaciones de trabajo. Tales conflictos jurídicos pueden ser individuales, plurales o colectivos, y estar referidos a aspectos sustanciales o conexos, incluso previos o posteriores a la prestación efectiva de los servicios.
+
+---
+class: animated, fadeIn
+
+# NLPT 
+
+>Artículo III.- Fundamentos del proceso laboral
+
+>En todo proceso laboral los jueces deben evitar que la desigualdad entre las partes afecte el desarrollo o resultado del proceso, para cuyo efecto procuran alcanzar la igualdad real de las partes, privilegian el fondo sobre la forma, interpretan los requisitos y presupuestos procesales en sentido favorable a la continuidad del proceso, observan el debido proceso, la tutela jurisdiccional y el principio de razonabilidad. En particular, acentúan estos deberes frente a la madre gestante, el menor de edad y la persona con discapacidad.
+
+> Los jueces laborales tienen un rol protagónico en el desarrollo e impulso del proceso. Impiden y sancionan la inconducta contraria a los deberes de veracidad, probidad, lealtad y buena fe de las partes, sus representantes, sus abogados y terceros.
+
+> El proceso laboral es gratuito para el prestador de servicios, en todas las instancias, cuando el monto total de las pretensiones reclamadas no supere las setenta (70) Unidades de Referencia Procesal (URP).
+
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo IV.- Interpretación y aplicación de las normas en la resolución de los conflictos de la justicia laboral
+
+> Los jueces laborales, bajo responsabilidad, imparten justicia con arreglo a la Constitución Política del Perú, los tratados internacionales de derechos humanos y la ley. Interpretan y aplican toda norma jurídica, incluyendo los convenios colectivos, según los principios y preceptos constitucionales, así como los precedentes vinculantes del Tribunal Constitucional y de la Corte Suprema de Justicia de la República.
+
+---
+class: animated, slideInRight, center, middle, inverse
+
+# En otros países
+
+---
+class: animated, fadeIn
+
+# Bolivia, Nueva Constitución del Estado, 07/02/2009
+
+Artículo 180. I. La jurisdicción ordinaria se fundamenta en los principios procesales de gratuidad, publicidad, transparencia, oralidad, celeridad, probidad, honestidad, legalidad, eficacia, eficiencia, accesibilidad, inmediatez, verdad material, debido proceso e igualdad de las partes ante el juez.
+II. Se garantiza el principio de impugnación en los procesos judiciales.
+III. La jurisdicción ordinaria no reconocerá fueros, privilegios ni tribunales de excepción. La jurisdicción militar juzgará los delitos de naturaleza militar regulados por la ley.
+
+---
+class: animated, fadeIn
+
+# Bolivia, Código Procesal del Trabajo, Decreto Ley 16896
+
+Vigencia: 25/07/1979
+
+Articulo 3.— Todos los procedimientos y trámites del trabajo se basarán en los siguientes principios:
+
+a) Gratuidad, por el que todas las actuaciones en los juicios y trámites del trabajo serán absolutamente gratuitos.
+
+b) Inmediación, por el que es obligatoria la presencia del juzgador en la celebración de las audiencias, la práctica de las pruebas y otros trámites.
+
+c) Publicidad, por el que las actuaciones y trámites del trabajo serán eminentemente públicos, es decir, que a ellos puedan asistir todos los que libremente así lo deseen.
+
+d) Impulsión de oficio, por el que los juzgadores tienen la obligación de instar las partes a realizar los actos procesales bajo conminatoria de seguir adelante en caso de omisión.
+
+---
+class: animated, fadeIn
+
+# Bolivia
+
+e) Preclusión, por el que el juez, no cumplido por la parte un acto procesal, dentro del tiempo conferido por la ley, determina la clausura de la etapa procesal respectiva.
+
+f) Lealtad procesal, por la que las partes ejerciten en el proceso una actividad exenta de dolo o mala fe.
+
+g) Proteccionismo, por el que los procedimientos laborales busquen la protección y la tutela de los derechos de los trabajadores.
+
+h) Inversión de la prueba, por el que la carga de la prueba corresponde al empleador.
+
+i) Concentración, por la que se evita la diseminación del procedimiento en actuaciones separadas.
+
+j) Libre apreciación de la prueba, por la que el juez valora las pruebas con amplio margen de libertad conforme a la sana lógica, los dictados de su conciencia y los principios enunciados.
+
+---
+class: animated, fadeIn
+
+# Chile, Ley 20.087 que modifica el Libro V del Código del Trabajo
+
+Vigencia: 01/03/2008 (Ley 20.164)
+
+Art. 425. Los procedimientos del trabajo serán orales, públicos y concentrados. Primarán en ellos los principios de la inmediación, impulso procesal de oficio, celeridad, buena fe, bilateralidad de la audiencia y gratuidad.
+
+Todas las actuaciones procesales serán orales, salvo las excepciones expresamente contenidas en esta ley.
+
+Las actuaciones realizadas oralmente, por o ante el juez de la causa, serán registradas por cualquier medio apto para producir fe y que permita garantizar la fidelidad, conservación y reproducción de su contenido. Se considerarán válidos, para estos efectos, la grabación en medios de reproducción fonográfica, audiovisual o electrónica. La audiencia deberá ser registrada íntegramente, como asimismo todas las resoluciones, incluyendo la sentencia que dicte el juez fuera de ella.
+
+---
+class: animated, fadeIn
+
+# Colombia, Ley que reforma el Código Procesal del Trabajo y de la Seguridad Social para hacer efectiva la oralidad en sus procesos, Ley 1149 de 2007
+
+Vigente: 01/01/2008
+
+ARTICULO 39. PRINCIPIO DE GRATUIDAD. La actuación en los procesos del trabajo se adelantará en papel común, no dará lugar a impuesto de timbre nacional ni a derechos de secretaría, y los expedientes, despachos, exhortos y demás actuaciones cursarán libres de porte por los correos nacionales.
+
+ARTICULO 40. PRINCIPIO DE LIBERTAD. Los actos del proceso para los cuales las leyes no prescriban una forma determinada, los realizará el Juez o dispondrá que se lleven a cabo, de manera adecuada al logro de su finalidad.
+
+ARTICULO 42. PRINCIPIOS DE ORALIDAD Y PUBLICIDAD. <Artículo modificado por el artículo 3 de la Ley 1149 de 2007. Ver artículo 15 sobre Régimen de Transición. El nuevo texto es siguiente:> Las actuaciones judiciales y la práctica de pruebas en las instancias, se efectuarán oralmente en audiencia pública, so pena de nulidad, salvo las que expresamente señalen la ley, y los siguientes autos:
+
+---
+class: animated, fadeIn
+
+# Colombia
+
+1. Los de sustanciación por fuera de audiencia.
+2. Los interlocutorios no susceptibles de apelación.
+3. Los interlocutorios que se dicten antes de la audiencia de conciliación, saneamiento, decisión de excepciones y fijación del litigio y con posterioridad a las sentencias de instancias.
+
+PARÁGRAFO 1o. En los procesos ejecutivos sólo se aplicarán estos principios en la práctica de pruebas y en la decisión de excepciones.
+
+PARÁGRAFO 2o. El juez limitará la duración de las intervenciones de las partes y de sus apoderados, respetando el derecho a la defensa.
+
+ARTICULO 43. EXCEPCION AL PRINCIPIO DE LA PUBLICIDAD. No obstante lo dispuesto en el artículo anterior, el Juez que dirige la audiencia podrá ordenar que se efectúe privadamente por razones de orden público o de buenas costumbres.
+
+---
+class: animated, fadeIn
+
+# Ecuador, Código del Trabajo, Codificación 2005; Ley 2003-13; Ley 2004-29; Ley 2004-43; Código Orgánico General de Procesos, vigente 22/05/2016
+
+Vigente: 01/07/2014
+
+Artículo 1.- Ámbito. Este Código regula la actividad procesal en todas las materias, excepto la constitucional, electoral y penal, con estricta observancia del debido proceso.
+
+Artículo 2.- Principios rectores. En todas las actividades procesales se aplicarán los principios previstos en la Constitución de la República, en los instrumentos internacionales de derechos humanos, en los instrumentos internacionales ratificados por el Estado, en el Código Orgánico de la Función Judicial y los desarrollados en este
+Código.
+
+---
+class: animated, fadeIn
+
+# Ecuador
+
+Artículo 3.- Dirección del proceso. La o el juzgador, conforme con la ley, ejercerá la dirección del proceso, controlará las actividades de las partes procesales y evitará dilaciones innecesarias.En función de este principio, la o el juzgador podrá interrumpir a las partes para solicitar aclaraciones, encauzar el debate y realizar las demás acciones correctivas.
+
+Artículo 4.- Proceso oral por audiencias. La sustanciación de los procesos en todas las instancias, fases y diligencias se desarrollarán mediante el sistema oral, salvo los actos procesales que deban realizarse por escrito. Las audiencias podrán realizarse por videoconferencia u otros medios de comunicación de similar tecnología, cuando la comparecencia personal no sea posible. 
+
+---
+class: animated, fadeIn
+
+# Ecuador
+
+Artículo 5.- Impulso procesal. Corresponde a las partes procesales el impulso del proceso, conforme con el sistema dispositivo.
+
+Artículo 6.- Principio de inmediación. La o el juzgador celebrará las audiencias en conjunto con las partes procesales que deberán estar presentes para la evacuación de la prueba y demás actos procesales que estructuran de manera fundamental el proceso. Solo podrán delegar las diligencias que deban celebrarse en territorio distinto al de su competencia. Las audiencias que no sean conducidas por la o el juzgador serán nulas.
+
+---
+class: animated, fadeIn
+
+# Ecuador
+
+Artículo 7.- Principio de intimidad. Las y los juzgadores garantizarán que los datos personales de las partes procesales se destinen únicamente a la sustanciación del proceso y se registren o divulguen con el consentimiento libre, previo y expreso de su titular, salvo que el ordenamiento jurídico les imponga la obligación de incorporar dicha información con el objeto de cumplir una norma constitucionalmente legítima.
+
+Artículo 8.- Transparencia y publicidad de los procesos judiciales. La información de los procesos sometidos a la justicia es pública, así como las audiencias, las resoluciones judiciales y las decisiones administrativas. Únicamente se admitirá aquellas excepciones estrictamente necesarias para proteger la intimidad, el honor, el buen nombre o la seguridad de cualquier persona. Son reservadas las diligencias y actuaciones procesales previstas como tales en la Constitución de la República y la ley.
+
+---
+class: animated, fadeIn
+
+# Uruguay, Abreviación de los procesos laborales: Ley 18.572, mod. 18.847, 18.623
+
+Vigencia: 01/02/2010
+
+Artículo 1º.- Los procesos laborales se ajustarán a los principios de oralidad, celeridad, gratuidad, inmediación, concentración, publicidad, buena fe y efectividad de la tutela de los derechos sustanciales.
+El Tribunal, de oficio, podrá averiguar o complementar la prueba de los hechos objeto de controversia, quedando investido, a tales efectos, con todas las facultades inquisitivas previstas para el orden procesal penal.
+
+---
+class: animated, fadeIn
+
+# Venezuela, Ley Orgánica Procesal del Trabajo: G.O. 37.504; Ley Orgánica del Trabajo, los Trabajadores y las Trabajadores: G.O. 6.076 (07/05/2012)
+
+Vigencia: 13/08/2003
+
+Artículo 23
+Principios de la administración de justicia
+
+La legislación procesal, la organización de los tribunales y la administración del trabajo, se orientarán con el propósito de ofrecer a los trabajadores y a las trabajadoras, patronos y patronas, la solución de los conflictos sobre derechos individuales o colectivos que surjan entre ellos, mediante una administración de justicia orientada por los principios de uniformidad, brevedad, gratuidad, celeridad, oralidad, inmediatez, concentración, prioridad de la realidad de los hechos, la equidad, rectoría del juez en el proceso, sencillez, eficacia, accesibilidad, imparcialidad, idoneidad, transparencia, autonomía, independencia, responsabilidad, atendiendo el debido proceso, sin dilaciones indebidas, sin formalismos o reposiciones inútiles.
+
+---
+class: animated, inverse, center, middle, bounceInDown
+
+# Las pretensiones en la justicia laboral
+
+---
+class: animated, fadeIn
+
+# ¿Qué abarca la justicia laboral?
+
+## Ámbito
+
+### Criterios:
+
++ Materia*
+
++ Tipo de relación 
+
++ Lugar geográfico
+
++ Órgano jurisdiccional 
+
+---
+class: animated, fadeIn
+
+# ¿Qué pretensiones se pueden proponer en el justicia laboral?
+
+--
+
+### Respuesta 1: (materia*)
+
+> Las pretensiones que están listadas en el artículo 2 de la NLPT, sin ser exclusivas.
+
+Las pretensiones relacionadas a los siguientes aspectos, temas:
+
+a) El nacimiento, desarrollo y extinción de la prestación personal de servicios; así como a los correspondientes actos jurídicos.
+
+b) La responsabilidad por daño patrimonial o extrapatrimonial, incurrida por cualquiera de las partes involucradas en la prestación personal de servicios, o terceros en cuyo favor se presta o prestó el servicio.
+
+c) Los actos de discriminación en el acceso, ejecución y extinción de la relación laboral.
+
+d) El cese de los actos de hostilidad del empleador, incluidos los actos de acoso moral y hostigamiento sexual, conforme a la ley de la materia.
+
+---
+# ...
+
+e) Las enfermedades profesionales y los accidentes de trabajo.
+
+f) La impugnación de los reglamentos internos de trabajo.
+
+g) Los conflictos vinculados a una organización sindical y entre organizaciones sindicales, incluida su disolución.
+
+h) El cumplimiento de obligaciones generadas o contraídas con ocasión de la prestación personal de servicios exigibles a institutos, fondos, cajas u otros.
+
+i) El cumplimiento de las prestaciones de salud y pensiones de invalidez, a favor de los asegurados o los beneficiarios, exigibles al empleador, a las entidades prestadoras de salud o a las aseguradoras.
+
+j) El Sistema Privado de Pensiones.
+
+k) La nulidad de cosa juzgada fraudulenta laboral.
+
+l) **(OTROS)**
+
+---
+class: animated, fadeIn
+
+# Ámbito de la justicia laboral
+
+> Se aplica a TODO conflicto jurídico derivado de una prestación personal de servicios remunerada:
+
+--
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gure{background-color:#9aff99;border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gure">De naturaleza</th>
+    <th class="tg-gure">Sobre derechos</th>
+    <th class="tg-gure">Respecto de temas</th>
+    <th class="tg-gure">Ocurridos</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yd3j"><span style="color:#000">Laboral</span><br><br><span style="color:#000">Formativa</span><br><br><span style="color:#000">Cooperativista</span><br><br><span style="color:#000">Administrativa</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Individuales</span><br><br><span style="color:#000">Plurales</span><br><br><span style="color:#000">Colectivos</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Sustanciales</span><br><br><span style="color:#000">Conexos</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Antes</span><br><br><span style="color:#000">Durante</span><br><br><span style="color:#000">Después</span></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+### Respuesta 2: (tipo de relación)
+
+> Todas las pretensiones relativas a cualquiera de los 4 tipos de relaciones considerados: laboral, formativa, cooperativista y administrativa.
+
+---
+class: animated, fadeIn
+
+### Lugar geográfico (competencia por territorio)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6c8b{font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-a9uw{background-color:#9aff99;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">Regla, a elección del demandante</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">Si la demanda es dirigida contra quien prestó los servicios</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En el caso de  impugnación de laudos arbitrales económicos</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6c8b"><span style="color:#000">El juez del lugar del domicilio principal del demandado, o,</span><br><br><span style="color:#000">El juez del último lugar donde se prestaron los servicios</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Solo es competente el juez del domicilio del prestador de servicios</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Solo es competente la sala laboral del lugar donde se expidió el laudo</span></td>
+  </tr>
+</tbody>
+</table>
+
+--
+
+<br/>
+
+***
+
++ La competencia por razón de territorio solo puede ser prorrogada cuando resulte a favor del prestador de servicios.
+
+---
+class: animated, fadeIn
+
+### Órgano jurisdiccional 
+
+### Juzgados especializados de trabajo
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gure{background-color:#9aff99;border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gure"><span style="font-weight:bold;color:#000">En proceso ordinario laboral</span></th>
+    <th class="tg-gure"><span style="font-weight:bold;color:#000">En proceso abreviado laboral</span></th>
+    <th class="tg-gure"><span style="font-weight:bold;color:#000">En proceso contencioso administrativo</span></th>
+    <th class="tg-gure"><span style="font-weight:bold;color:#000">En proceso de ejecución</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yd3j"><span style="color:#000">Todo conflicto jurídico de naturaleza laboral, formativa o cooperativista, </span><span style="font-weight:bold;color:#000">mayor 50 URP o sin expresión monetaria</span><br><br><span style="color:#000">El listado de materias es meramente ilustrativo</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Reposición, cuando se plantea como pretensión principal única</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Todo conflicto jurídico de naturaleza laboral, administrativa o de seguridad social, de derecho público</span><br><br><span style="color:#000">Impugnación de actuaciones de la AAT</span></td>
+    <td class="tg-yd3j"><span style="color:#000">Títulos ejecutivos mayor a 50 URP</span></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+### Órgano jurisdiccional 
+
+### Juzgados de paz letrados laborales
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e904{font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-jtsx{background-color:#9aff99;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jtsx"><span style="font-weight:bold;color:#000">En proceso abreviado laboral</span></th>
+    <th class="tg-jtsx"><span style="font-weight:bold;color:#000">En proceso de ejecución</span></th>
+    <th class="tg-jtsx"><span style="font-weight:bold;color:#000">Procesos no contenciosos</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e904"><span style="color:#000">Las pretensiones:</span><br><br><span style="color:#000">. atribuidas originalmente a los Juzgados de Trabajo,</span><br><br><span style="color:#000">1. que sean obligaciones de dar, </span><span style="text-decoration:underline;color:#000">y</span><br><br><span style="color:#000">2. hasta 50 URP</span></td>
+    <td class="tg-e904"><span style="color:#000">Títulos ejecutivos hasta 50 URP</span><br><br><span style="color:#000">Cobranza de aportes previsionales del sistema privado de pensiones retenidos por el empleador, sin importar la cuantía</span></td>
+    <td class="tg-e904"><span style="color:#000">Todos los asuntos no contenciosos, sin importar la cuantía</span></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+### Órgano jurisdiccional
+
+### Salas laborales superiores
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6c8b{font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-a9uw{background-color:#9aff99;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En proceso de acción popular</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En proceso de anulación de laudo arbitral jurídico</span></th>
+    <th class="tg-a9uw"><span style="font-weight:bold;color:#000">En proceso impugnativo de laudos arbitrales económicos</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6c8b"><span style="color:#000">La acción popular en materia laboral, conforme a las reglas del Código Procesal Constitucional</span></td>
+    <td class="tg-6c8b"><span style="color:#000">La anulación de laudo que resuelve un conflicto jurídico de naturaleza laboral, conforme a las reglas de la Ley de Arbitraje</span></td>
+    <td class="tg-6c8b"><span style="color:#000">Impugnación de laudos arbitrales derivados de una negociación colectiva</span></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, slideInRight, center, inverse, middle
+
+# En otros países
+
+---
+class: animated, fadeIn
+
+# Límites menor cuantía
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-67cq{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-76gi{background-color:#9aff99;border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-jztj{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-ebfe{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-76gi">País</th>
+    <th class="tg-76gi">Criterio</th>
+    <th class="tg-76gi">Monto MN</th>
+    <th class="tg-76gi">Monto Soles</th>
+    <th class="tg-76gi">Tratamiento</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-jztj">Perú</td>
+    <td class="tg-67cq">50 URP</td>
+    <td class="tg-67cq">PEN 21,500</td>
+    <td class="tg-67cq">S/21,500</td>
+    <td class="tg-67cq">Proceso abreviado, doble instancia</td>
+  </tr>
+  <tr>
+    <td class="tg-jztj">Uruguay</td>
+    <td class="tg-ebfe">---</td>
+    <td class="tg-67cq">UYU 81,000</td>
+    <td class="tg-67cq">S/6,500</td>
+    <td class="tg-67cq">Proceso menor cuantía, única instacia</td>
+  </tr>
+  <tr>
+    <td class="tg-jztj">Chile</td>
+    <td class="tg-67cq">10 Ing.Mín.Men.</td>
+    <td class="tg-67cq">CLP 3'205,000</td>
+    <td class="tg-67cq">S/14,180</td>
+    <td class="tg-67cq">Proceso monitorio</td>
+  </tr>
+  <tr>
+    <td class="tg-jztj">Colombia</td>
+    <td class="tg-67cq">20 Sal.Mín.Leg.Men.</td>
+    <td class="tg-67cq">COP 17'556,060</td>
+    <td class="tg-67cq">S/17,000</td>
+    <td class="tg-67cq">Proceso ordinario de única instancia, <br>jueces municipales de pequeñas causas</td>
+  </tr>
+  <tr>
+    <td class="tg-jztj">Ecuador</td>
+    <td class="tg-67cq">50 Sal.Bás.Unif.</td>
+    <td class="tg-67cq">USD 20,000</td>
+    <td class="tg-67cq">S/70,000</td>
+    <td class="tg-67cq">Proceso monitorio</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!
