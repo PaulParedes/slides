@@ -3,7 +3,7 @@ title: "XVII Curso de Especialización Avanzada en Derecho del Trabajo"
 subtitle: "Los procesos laborales"
 author: "Paul Paredes"
 institute: "Centro de Educación Continua, PUCP"
-date: "21 de noviembre de 2020"
+date: "25-28 de noviembre de 2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs

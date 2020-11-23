@@ -3,7 +3,7 @@ title: "XVII Curso de Especialización Avanzada en Derecho del Trabajo"
 subtitle: "Teoría de la prueba"
 author: "Paul Paredes"
 institute: "Centro de Educación Continua, PUCP"
-date: "24 de noviembre de 2020"
+date: "28 de noviembre de 2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs

@@ -3,18 +3,19 @@ title: "XVII Curso de Especialización Avanzada en Derecho del Trabajo"
 subtitle: "Los principios del proceso laboral"
 author: "Paul Paredes"
 institute: "Centro de Educación Continua, PUCP"
-date: "19 de noviembre de 2020"
+date: "24-25 de noviembre de 2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs
     css:
-      - default
-      - default-fonts 
+      - xaringan-themer.css
+      - mi-css.css
       - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      ratio: '16:9'
     self_contained: true
 ---
 
@@ -22,49 +23,20 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-class: center, middle, animated, slideInRight
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
 
-# La clase anterior
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
 
----
-class: animated, fadeIn
 
-### - ¿Por qué (debe haber) un proceso laboral?
-
-  + ¿Por qué **no** (debe haber) un proceso laboral?
-  
-  + Discutir: autonomía, especialidad
-  
-### - Algunas razones desde las que se puede justificar la existencia del proceso laboral
-
-  + Poder. Estado social.
-  
-  + Justicia distributiva
-  
-  + Igualdad (en la distribución)
-  
-  + Igualdad en la ley (a través de la ley): la aplicación del derecho debe producir resultados igualitarios en cuanto a las condiciones de vida de los ciudadanos.
-  
-  + El derecho material (su especialidad)
-  
----
-class: animated, fadeIn
-
-### **Couture** planteó que la razón de ser del **derecho procesal del trabajo** era asegurar ciertos resultados mínimos de justicia dentro de la desigual relación del trabajo, y que para lograrlo era necesario establecer la igualdad mediante una desigualdad: **la igualdad por compensación**.
-
-### Impacto de la desigualdad (económica y social)
-
-### - La desigualdad como fundamento del proceso laboral (dos perspectivas)
-
-1. La desigualdad material y la igualdad por compensación
-  
-  + **La igualdad por compensación se posiciona como el fundamento de las actuaciones procesales en los conflictos laborales**.  
-
-2. La igualdad en el principio dispositivo
-  
-  + **Afirmar el p. dispositivo, pero con notas del p. inquisitivo: proceso especial con principio dispositivo atenuado**
-
----
 class: center, middle, animated, slideInRight
 
 # Clase 2
