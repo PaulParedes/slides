@@ -18,7 +18,7 @@ output:
       ratio: '16:9'
     self_contained: true
 ---
-class: animated, bounceInDown, center, middle, inverse
+class: center, middle, animated, slideInRight
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
@@ -36,6 +36,13 @@ style_duo_accent(
 ```{r, echo=FALSE}
 xaringanExtra::use_webcam()
 ```
+
+# Clase 2
+
+# Los principios del proceso laboral 
+
+---
+class: center, middle, animated, BounceInDown, inverse
 
 # ¡Empecemos!
 
@@ -281,11 +288,6 @@ class: animated, fadeIn
 
 ---
 class: inverse, middle, center, animated, BounceInDown
-
-# ¡Parte 2!
-
----
-class: animated, fadeIn
 
 # ¿Cómo surge el proceso laboral?
 

@@ -3,28 +3,50 @@ title: "XVII Curso de Especialización Avanzada en Derecho del Trabajo"
 subtitle: "Técnicas de litigación oral"
 author: "Paul Paredes"
 institute: "Centro de Educación Continua, PUCP"
-date: "12 de diciembre de 2020"
+date: "19 de diciembre de 2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs
     css:
-      - default
-      - default-fonts 
+      - xaringan-themer.css
+      - mi-css.css
       - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      ratio: '16:9'
     self_contained: true
 ---
+class: animated, bounceInDown, center, middle, inverse
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
 
-class: center, middle, animated, slideInRight
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
 
-# La clase anterior
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+class: center, middle, animated, slideInRight, inverse
+
+# Clase 6
+
+# Técnicas de litigación oral
+
+---
+class: center middle, animated, bounceInDown
+
+# ¡Empecemos!
 
 ---
 class: animated, fadeIn, center, middle, inverse

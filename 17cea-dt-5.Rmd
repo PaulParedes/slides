@@ -3,18 +3,19 @@ title: "XVII Curso de Especialización Avanzada en Derecho del Trabajo"
 subtitle: "El arbitraje"
 author: "Paul Paredes"
 institute: "Centro de Educación Continua, PUCP"
-date: "28 de noviembre de 2020"
+date: "12 de diciembre de 2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs
     css:
-      - default
-      - default-fonts 
+      - xaringan-themer.css
+      - mi-css.css
       - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      ratio: '16:9'
     self_contained: true
 ---
 
@@ -22,9 +23,29 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
 class: center, middle, animated, slideInRight
 
+# Clase 5
+
 # El arbitraje
+
+---
+class: animated, inverse, bounceInDown, middle, center
+
+# ¡Empecemos!
 
 ---
 class: animated, fadeIn
