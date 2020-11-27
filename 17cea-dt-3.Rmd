@@ -618,6 +618,10 @@ class: animated, fadeIn
   + Se establece que la nueva ley procesal del trabajo deberá implementarse de modo progresivo
   + Las cortes más recientes: Puno (2019), Ayacucho (2019)
   + Falta: Huancavelica, Cerro de Pasco, Apurímac, Huaura, Madre de Dios, Amazonas, San Martín
+  + Previsto: 
+    + Apurímac: 01.12.2020
+    + Pasco: 10.12.2020
+    + Huaura: 11.12.2020
 
 ---
 class: animated, bounceInDown, inverse
