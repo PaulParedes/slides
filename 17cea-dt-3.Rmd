@@ -68,7 +68,7 @@ class: animated, fadeIn
 
 # Los tipos de procesos fuera de la NLPT
 
-7. El proceso contencioso administrativo (D.S. 013-2008-JUS)
+7. El proceso contencioso administrativo (D.S. 011-2019-JUS)
 
 8. El proceso de acción popular (CPConst.)
 
