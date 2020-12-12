@@ -112,6 +112,115 @@ class: animated, fadeIn
 
 + ### ¿Qué tipos de arbitraje existen en el ordenamiento jurídico peruano?
 
+
+---
+class: animated, fadeIn, center, middle
+
+### Comparación: conflicto jurídico vs. conflicto económico (1)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-umkb{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-10x8{background-color:#c0c0c0;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-bhpe{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-3245{border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-k6mb{border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-umkb"></th>
+    <th class="tg-bhpe">Conflicto jurídico</th>
+    <th class="tg-bhpe">Conflicto económico</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-10x8">Origen</td>
+    <td class="tg-3245">Un conflicto, una insatisfacción</td>
+    <td class="tg-3245">Un conflicto, una insatisfacción</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">¿Cómo resolverlo?</td>
+    <td class="tg-3245">Aplicando derecho:<br>ello supone que existe una norma que contiene la solución,<br>entonces, lo que se pide es aplicar la norma, o,<br>interpretarla del modo como se pretende</td>
+    <td class="tg-3245">Creando derecho:<br>ello supone que no existe la norma que contiene la solución,<br>o que la que existe es insuficiente (vaga, ambigua),<br>o para garantizar mejor un derecho</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Medio típico de aplicación de derecho</td>
+    <td class="tg-3245">La sentencia</td>
+    <td class="tg-k6mb">---</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Medio típico de creación de derecho</td>
+    <td class="tg-k6mb">---</td>
+    <td class="tg-3245">El acuerdo contractual,<br>El consenso legislativo,<br>El convenio colectivo</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Vía típica de canalización</td>
+    <td class="tg-3245">El proceso (judicial)</td>
+    <td class="tg-3245">El procedimiento legislativo<br>La negociación<br>La conciliación<br>La negociación colectiva</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn, center, middle
+
+### Comparación: conflicto jurídico vs. conflicto económico (2)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-umkb{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-10x8{background-color:#c0c0c0;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:left;vertical-align:top}
+.tg .tg-bhpe{background-color:#67fd9a;border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-3245{border-color:#000000;font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-umkb"></th>
+    <th class="tg-bhpe">Conflicto jurídico</th>
+    <th class="tg-bhpe">Conflicto económico</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-10x8">Vías alternativas</td>
+    <td class="tg-3245">La conciliación<br>La mediación<br>El arbitraje</td>
+    <td class="tg-3245">La conciliación<br>La mediación<br>El arbitraje<br>La huelga</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Acto de presentación (postulación)</td>
+    <td class="tg-3245">La demanda</td>
+    <td class="tg-3245">La propuesta legislativa<br>La propuesta contractual<br>El pliego de reclamos</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Resultado o producto</td>
+    <td class="tg-3245">La sentencia<br>El acuerdo en conciliación*<br>La transacción*<br>El laudo arbitral jurídico</td>
+    <td class="tg-3245">La ley<br>El contrato<br>El acuerdo en conciliación<br>El laudo arbitral económico</td>
+  </tr>
+  <tr>
+    <td class="tg-10x8">Consecuencia respecto del resultado</td>
+    <td class="tg-3245">Se cumple.<br>Si no: proceso de ejecución</td>
+    <td class="tg-3245">Se cumple.<br>Si no: proceso de conocimiento</td>
+  </tr>
+</tbody>
+</table>
+
 ---
 class: animated, fadeIn
 
@@ -127,7 +236,7 @@ class: animated, fadeIn
 + Caso América Móvil STC 03361-2013-PA/TC
 + Caso América Móvil STC 06518-2013-PA/TC
 + Caso Aris Industrial STC 01499-2015-PA/TC, 20/12/2017; 17/12/2018
-* Caso Shougang RTC 06001-2013-PA/TC
++ Caso Shougang RTC 06001-2013-PA/TC
 
 ---
 class: animated, fadeIn
@@ -140,8 +249,6 @@ class: animated, fadeIn
 
 + LSC y reglamento
 
-+ El D.S. 009-2017-TR ¿mala fe?
-
 ---
 class: animated, fadeIn
 
@@ -151,14 +258,14 @@ class: animated, fadeIn
 
 ## Reglas de impugnación
 
-## El VI Pleno Jurisdiccional Supremo y las causales de impugnación
+## El V Pleno Jurisdiccional Supremo (4 de agosto de 2017) y las causales de impugnación
 
 ## El control difuso (Caso Minera Maria Julia STC 142-2011-PA/TC). Vid. fundamentos 20, 21 y 26.
 
 ---
 class: animated, fadeIn
 
-# El VI Pleno Jurisdiccional Supremo y las causales de impugnación
+# El V Pleno Jurisdiccional Supremo y las causales de impugnación
 
 El V Pleno Jurisdiccional Supremo en Materia Laboral y Previsional, publicado en El Peruano el 4 de agosto de 2017 justamente –recogiendo pronunciamientos previos de la Corte Suprema como la Apelación N.° 12028-2013-LIMA (Caso Municipalidad Distrital de Los Olivos, del 15 de octubre de 2014) ha ordenado las causales de nulidad aplicables a los Laudos Arbitrales Económicos en materia laboral.
 
