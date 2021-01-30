@@ -1,0 +1,667 @@
+---
+title: "Curso taller en litigación oral"
+subtitle: "Prueba y litigación oral"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "30 de enero de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# .red[Prueba] y litigación oral
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+# .red[Plan de la ponencia]
+
+.pull-right[
+### 1. Derecho probatorio
+
+### 2. La prueba en sentido general
+
+### 3. Dos casos
+]
+
+---
+class: middle, center, inverse
+
+# Empecemos
+
+---
+# Distinguir .blue[derecho probatorio] y .azul[la prueba en sentido general]
+
+.pull-left[
+1. .blue[El derecho probatorio]
+    1. Conformación del conjunto de elementos de juicio
+        + Ofrecimiento
+        + Admisión/Exclusión
+        + (Forma de) actuación
+    1. Valoración de los elementos de juicio(¿?)
+    1. Decisión sobre los elementos probados
+        + Carga probatoria
+        + Presunciones
+        + Criterio de decisión
+]
+
+.pull-right[
+<ol start=2>
+<li> .azul[La prueba en sentido general]
+  + Objetivo: la prueba de los hechos
+  + Finalidad: la averiguación de la verdad
+  + Ciencia, técnica
+     + Teoría de la prueba
+     + Probática
+  + Argumentación
+     + Razonamiento probatorio
+     + Valoración
+  + Reglas jurídicas
+     + Estándares de prueba
+     + Cargas probatorias
+     + Presunciones
+]
+</ol>
+
+---
+class: center, middle, inverse
+
+# El derecho probatorio en la NLPT
+
+## Conformación del conjunto de elementos de juicio
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT
+
+### Requisitos del ofrecimiento probatorio
+
+> **Artículo 16.- Requisitos de la demanda**
+	La demanda se presenta por escrito y debe contener los requisitos y anexos establecidos en la norma procesal civil, con las siguientes precisiones:
+
+>	b) .red[no debe incluirse ningún pliego] dirigido a la contraparte, los testigos o los peritos; sin embargo, .red[debe indicarse la finalidad] de cada medio de prueba.
+
+> **Artículo 19.- Requisitos de la contestación**
+
+>	La contestación de la demanda se presenta por escrito y debe contener los requisitos y anexos establecidos en la norma procesal civil, .red[sin incluir ningún pliego] dirigido a la contraparte, los testigos o los peritos; sin embargo, .red[debe indicarse la finalidad] de cada medio de prueba.
+
+---
+class: animated, fadeIn
+
+## El derecho probatorio en la NLPT
+
+#### Oportunidad del ofrecimiento probatorio
+
+> **Artículo 21.- Oportunidad**
+
+> Los medios probatorios deben ser ofrecidos por las partes únicamente en la demanda y en la contestación. Extraordinariamente, pueden ser ofrecidos hasta el momento previo a la actuación probatoria, siempre y cuando estén referidos a hechos nuevos o hubiesen sido conocidos u obtenidos con posterioridad.
+
+>	Las partes concurren a la audiencia en la que se actúan las pruebas con todos sus testigos, peritos y documentos que, en dicho momento, corresponda ofrecer, exhibir o se pretenda hacer valer con relación a las cuestiones probatorias. Esta actividad de las partes se desarrolla bajo su responsabilidad y costo, sin necesidad de citación del juzgado y sin perjuicio de que el juez los admita o rechace en el momento. La inasistencia de los testigos o peritos, así como la falta de presentación de documentos, no impide al juez pronunciar sentencia si, sobre la base de la prueba actuada, los hechos necesitados de prueba quedan acreditados.
+
+>	En ningún caso, fuera de las oportunidades señaladas, la presentación extemporánea de medios probatorios acarrea la nulidad de la sentencia apelada. Estos medios probatorios no pueden servir de fundamento de la sentencia.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT
+
+### Prueba de oficio
+
+> **Artículo 22.- Prueba de oficio**
+
+>	Excepcionalmente, el juez puede ordenar la práctica de alguna prueba adicional, en cuyo caso dispone lo conveniente para su realización, procediendo a suspender la audiencia en la que se actúan las pruebas por un lapso adecuado no mayor a treinta (30) días hábiles, y a citar, en el mismo acto, fecha y hora para su continuación. Esta decisión es inimpugnable.
+
+>	Esta facultad no puede ser invocada encontrándose el proceso en casación. La omisión de esta facultad no acarrea la nulidad de la sentencia.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT.
+
+### Reglas de admisión y actuación
+
+> **Artículo 46.- Etapa de actuación probatoria**
+
+>	La etapa de actuación probatoria se lleva a cabo del siguiente modo:
+
+>	1. El juez enuncia los hechos que no necesitan de actuación probatoria por tratarse de hechos admitidos, presumidos por ley, recogidos en resolución judicial con calidad de cosa juzgada o notorios; así como los medios probatorios dejados de lado por estar dirigidos a la acreditación de hechos impertinentes o irrelevantes para la causa.
+
+>	2. El juez enuncia las pruebas admitidas respecto de los hechos necesitados de actuación probatoria.
+
+>	3. Inmediatamente después, las partes pueden proponer cuestiones probatorias solo respecto de las pruebas admitidas. El juez dispone la admisión de las cuestiones probatorias únicamente si las pruebas que las sustentan pueden ser actuadas en esta etapa.
+
+>	4. El juez toma juramento conjunto a todos los que vayan a participar en esta etapa.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT.
+
+### Reglas de actuación
+
+> <ol start=5>
+>	<li> Se actúan todos los medios probatorios admitidos, incluidos los vinculados a las cuestiones probatorias, empezando por los ofrecidos por el demandante, en el orden siguiente: declaración de parte, testigos, pericia, reconocimiento y exhibición de documentos. Si agotada la actuación de estos medios probatorios fuese imprescindible la inspección judicial, el juez suspende la audiencia y señala día, hora y lugar para su realización citando, en el momento, a las partes, testigos o peritos que corresponda. La inspección judicial puede ser grabada en audio y vídeo o recogida en acta con anotación de las observaciones constatadas; al concluirse, señala día y hora, dentro de los cinco (5) días hábiles siguientes para los alegatos y sentencia.
+
+>	<li> La actuación probatoria debe concluir en el día programado; sin embargo, si la actuación no se hubiese agotado, la audiencia continúa dentro de los cinco (5) días hábiles siguientes.
+
+</ol>
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT.
+
+### Reglas de actuación
+
+> **Artículo 24.- Forma de los interrogatorios**
+
+>	El interrogatorio a las partes, testigos, peritos y otros es realizado por el juez de manera libre, concreta y clara, sin seguir ningún ritualismo o fórmula preconstituida. Para su actuación no se requiere de la presentación de pliegos de preguntas. No se permite leer las respuestas, pero sí consultar documentos de apoyo. Los abogados de las partes también pueden preguntar o solicitar aclaraciones, bajo las mismas reglas de apertura y libertad. El juez guía la actuación probatoria con vista a los principios de oralidad, inmediación, concentración, celeridad y economía procesal. Impide que esta se desnaturalice sancionando las conductas temerarias, dilatorias, obstructivas o contrarias al deber de veracidad.
+
+>	**Artículo 25.- Declaración de parte**
+
+>	La parte debe declarar personalmente. Las personas jurídicas prestan su declaración a través de cualquiera de sus representantes, quienes tienen el deber de acudir informados sobre los hechos que motivan el proceso.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT.
+
+### Reglas de actuación
+
+>	**Artículo 26.- Declaración de testigos**
+
+>	Los testigos no presencian el desarrollo de la audiencia y solo ingresan a ella en el momento que les corresponda.
+
+>	El secretario del juzgado expide al testigo una constancia de asistencia a fin de acreditar el cumplimiento de su deber ciudadano. Tratándose de un trabajador, dicha constancia sirve para sustentar ante su empleador la inasistencia y el pago de la remuneración por el tiempo de ausencia.
+
+> **Artículo 15.- Multas**
+
+>	El juez puede imponer multa a los testigos o peritos, no menor de media (1/2) ni mayor de cinco (5) Unidades de Referencia Procesal (URP) cuando éstos, habiendo sido notificados excepcionalmente por el juzgado, inasisten sin justificación a la audiencia ordenada de oficio por el juez.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT.
+
+### Reglas de actuación
+
+>	**Artículo 27.- Exhibición de planillas**
+
+>	La exhibición de las planillas manuales se tiene por cumplida con la presentación de las copias legalizadas correspondientes a los períodos necesitados de prueba.
+
+>	La exhibición de las planillas electrónicas es ordenada por el juez al funcionario del Ministerio de Trabajo y Promoción del Empleo responsable de brindar tal información. Es improcedente la tacha de la información de las planillas electrónicas remitida por dicho funcionario, sin perjuicio de la responsabilidad penal o funcional que las partes puedan hacer valer en la vía correspondiente.
+
+>	Las partes pueden presentar copias certificadas expedidas por el Ministerio de Trabajo y Promoción del Empleo de la información contenida en las planillas electrónicas, en lugar de la exhibición electrónica.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT.
+
+### Reglas de actuación
+
+>	**Artículo 28.- Pericia**
+
+>	Los peritos no presencian el desarrollo de la audiencia y solo ingresan a ella en el momento que corresponda efectuar su exposición.
+
+>	Los informes contables practicados por los peritos adscritos a los juzgados de trabajo y juzgados de paz letrados tienen la finalidad de facilitar al órgano jurisdiccional la información necesaria para calcular, en la sentencia, los montos de los derechos que ampara, por lo que esta pericia no se ofrece ni se actúa como medio probatorio.
+
+> **Artículo 15.- Multas**
+
+>	El juez puede imponer multa a los testigos o peritos, no menor de media (1/2) ni mayor de cinco (5) Unidades de Referencia Procesal (URP) cuando éstos, habiendo sido notificados excepcionalmente por el juzgado, inasisten sin justificación a la audiencia ordenada de oficio por el juez.
+
+---
+class: center, middle, inverse
+
+# El derecho probatorio en la NLPT
+
+## Valoración de los elementos de juicio 
+
+> # (¿?)
+
+---
+class: center, middle, inverse, slightInRight
+
+# El derecho probatorio en la NLPT
+
+## Decisión sobre los hechos probados
+
+---
+class: animated, fadeIn
+
+## El derecho probatorio en la NLPT
+
+### Carga de la prueba
+
+> **Artículo 23.- Carga de la prueba**
+
+> 23.1 La carga de la prueba corresponde a quien afirma hechos que configuran su pretensión, o a quien los contradice alegando nuevos hechos, sujetos a las siguientes reglas especiales de distribución de la carga probatoria, sin perjuicio de que por ley se dispongan otras adicionales.
+
+> 23.2 Acreditada la prestación personal de servicios, se presume la existencia de vínculo laboral a plazo indeterminado, salvo prueba en contrario.
+
+>	23.3 Cuando corresponda, si el demandante invoca la calidad de trabajador o ex trabajador, tiene la carga de la prueba de:
+
+>	a) La existencia de la fuente normativa de los derechos alegados de origen distinto al constitucional o legal.
+
+>	b) El motivo de nulidad invocado y el acto de hostilidad padecido.
+
+>	c) La existencia del daño alegado.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT
+
+### Carga de la prueba
+
+>	23.4 De modo paralelo, cuando corresponda, incumbe al demandado que sea señalado como empleador la carga de la prueba de:
+
+>	a) El pago, el cumplimiento de las normas legales, el cumplimiento de sus obligaciones contractuales, su extinción o inexigibilidad.
+
+>	b) La existencia de un motivo razonable distinto al hecho lesivo alegado.
+
+>	c) El estado del vínculo laboral y la causa del despido.
+
+>	23.5 En aquellos casos en que de la demanda y de la prueba actuada aparezcan indicios que permitan presumir la existencia del hecho lesivo alegado, el juez debe darlo por cierto, salvo que el demandado haya aportado elementos suficientes para demostrar que existe justificación objetiva y razonable de las medidas adoptadas y de su proporcionalidad.
+
+>	Los indicios pueden ser, entre otros, las circunstancias en las que sucedieron los hechos materia de la controversia y los antecedentes de la conducta de ambas partes.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT
+
+### Presunciones derivadas de la conducta de las partes
+
+> **Artículo 29.- Presunciones legales derivadas de la conducta de las partes**
+
+>	El juez puede extraer conclusiones en contra de los intereses de las partes atendiendo a su conducta asumida en el proceso. Esto es particularmente relevante cuando la actividad probatoria es obstaculizada por una de las partes.
+
+>	Entre otras circunstancias, se entiende que se obstaculiza la actuación probatoria cuando no se cumple con las exhibiciones ordenadas, se niega la existencia de documentación propia de su actividad jurídica o económica, se impide o niega el acceso al juez, los peritos o los comisionados judiciales al material probatorio o a los lugares donde se encuentre, se niega a declarar, o responde evasivamente.
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT
+
+### Consecuencia del silencio del demandado
+
+> #### **Artículo 19.- Requisitos de la contestación**
+
+>	#### La contestación contiene todas las defensas procesales y de fondo que el demandado estime convenientes. .red[Si el demandado no niega expresamente los hechos expuestos en la demanda, estos son considerados admitidos.]
+
+---
+class: animated, fadeIn
+
+# El derecho probatorio en la NLPT
+
+### Reglas de valoración
+
+> #### **Artículo 31.- Contenido de la sentencia**
+
+>	#### El juez recoge los fundamentos de hecho y de derecho esenciales .red[para motivar su decisión]. La existencia de hechos admitidos no enerva la necesidad de fundamentar la sentencia en derecho.
+
+---
+class: inverse, middle, center
+
+# La prueba en sentido general
+
+---
+class: middle
+
+.pull-right[
+<ol start=2>
+<li> .azul[La prueba en sentido general]
+  + Objetivo: la prueba de los hechos
+  + Finalidad: la averiguación de la verdad
+  + Ciencia, técnica
+     + Teoría de la prueba
+     + Probática
+  + Argumentación
+     + Razonamiento probatorio
+     + Valoración
+  + Reglas jurídicas
+     + Estándares de prueba
+     + Cargas probatorias
+     + Presunciones
+]
+</ol>
+
+---
+class: center, middle, inverse
+
+# Caso uno
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Tres niños y una flauta
+
+> ## Amartya Sen (2009), *The idea of justice*, The Belknap Press, pp. 12-15.
+
+---
+class: animated, fadeIn, center, middle
+
+> ## ¿A quién le entregaría usted la flauta y por qué?
+
+> ## Escriba una lista de las razones de hecho y de derecho en sustento de su respuesta
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Exponga oralmente la justificación de su respuesta
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Identifique el caso: ¿qué ha necesitado para ello?
+
+---
+class: middle
+
+# Usted ha necesitado dos cosas:
+
+--
+
+> ## 1. Una .red[regla de derecho] (una norma)
+
+--
+
+> ## 2. Un .red[conjunto de hechos] que *"pertenecen"* | *"entran"* | *"encajan"* en la regla de derecho
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Diferencia entre "Teoría del caso" y "Técnicas de litigación oral"
+
+> ## *"Theory of the case"* vs. *"Courtroom tactics"*
+
+---
+class: animated, fadeIn, center, middle
+
+> ### *This conception of ‘theory’ serves the function of isolating that aspect of advocacy which is concerned with .red[rational arguments] from .red[other aspects], such as commanding attention, communication, questioning, persuasive presentation and various courtroom tactics. The conception is also analytically convenient in that it provides a clear connection with theories of legal reasoning.*
+
+> ### William Twining (2006), *Rethinking evidence*, Cambridge University Press, p. 290.
+
+---
+class: animated, fadeIn, center, middle
+
+> ### .red[La teoría del caso] es la afirmación lógica formulada como un argumento que apoya una o más conclusiones sobre el caso como un todo.
+
+> ### Terence Anderson, David Schum, William Twining (2005), *Análisis de la prueba*, Marcial Pons, p. 160.
+
+---
+class: animated, fadeIn, middle
+
+> ## Condiciones para una teoría del caso o,
+
+dicho de otro modo,
+
+> ## Condiciones para la aplicación de derecho que recoge la pretensión/defensa planteada
+
+  > ### Interpretar la norma, en el supuesto de hecho y en la consecuencia
+
+  > ### Identificar los problemas de prueba y los problemas de calificación
+
+---
+class: animated, fadeIn, middle
+
+# Plantear el caso | Formular las pretensiones/defensas
+
+> ### 1. Identificar la regla de derecho que resuelve el conflicto
+
+> ### 2. Determinar los elementos del supuesto de hecho
+
+> ### 2.1. Distribuir el riesgo procesal: .red[la carga de la prueba]
+
+> ### 3. Relacionar la prueba con cada uno de los elementos
+
+> ### 4. ---> plantear el caso
+
+---
+# Argumentación sobre hechos
+
+## Tres (3) concepciones de la argumentación
+
+### 1. .red[Concepción formal]: lógica deductiva: argumentar es deducid
+  
+### 2. .red[Concepción material]: conocimiento: *justified true believe*: epistemología, leyes científicas, máximas de la experiencia: argumentar es fundamentar
+  
+### 3. .red[Concepción pragmática]: dialéctica (justificar una decisión con base en razones) o retórica (persuasión actoral al auditorio): argumentar es convencer
+
+---
+# Argumetación sobre hechos
+
+### Cuatro modos de debatir (Josep Aguiló)
+
+|Tipo de debate | Modo de debatir | Metáfora | Finalidad | 
+|:--------------:|:---------:|:--------:|:---------:|
+|Disputa | Combatir | Bélica | Imponerse al otro |
+|Controversia  |Competir  | Deportiva | Opinión prevaleciente |
+|Diálogo racional |Explorar/diagnosticar | Médica/judicial | Resolver un problema |
+|Consenso |Construir | Constructiva | Alcanzar un consenso |
+
+---
+class: animated, fadeIn, middle
+
+# (recordemos...)
+
+> ## Momentos de la actividad probatoria
+
+> ### 1. Conformación del conjunto de los elementos de juicio (ofrecimiento, admisión, actuación)
+
+> ### 2. Valoración de la prueba (individual (credibilidad) y en conjunto (corroboración))
+
+> ### 3. Decisión sobre los hechos probados (sufiencia probatoria)
+
+---
+
+> # ¿Importan los hechos en el proceso?
+
+> ## - Una decisión es justa sí y solo sí el derecho, la norma, la ley (válido en el OJ) se aplica a los hechos sucedidos en la realidad.
+
+---
+class: animated, fadeIn
+
+# Decisión y aplicación del derecho
+
+> ## La función jurisdiccional en un Estado de Derecho exige dos condiciones de aplicación:
+
+> ### 1. Que la regla a ser aplicada en la resolución del conflicto sea válida.
+
+> ### 2. Que se aplique solo si en la realidad han ocurrido los hechos abstractos descritos en la hipótesis de incidencia normativa.
+
+---
+> # ¿Qué tipo de proceso y de prueba se requiere para que se cumplan, de mejor modo, las condiciones de aplicación?
+
+> Teorías persuasivas y meramente narrativas del proceso 
+
+> vs
+
+> Teorías racionalistas del proceso y de la prueba
+
+> + El proceso es la instancia de aplicación del derecho 
+
+> + La finalidad institucional de la prueba es la averiguación de la verdad
+
+> + (La verdad como correspondencia entre *lo afirmado*  y *la realidad*)
+
+---
+class: middle
+
+> # La averiguación de la verdad
+
+> + Contexto de incerditumbre
+
+> + Falta de información
+
+> + Probabilidad inferencia o lógica: no hay lugar a certezas racionales: solo se puede llegar (también en las ciencias) a un conocimiento más o menos probable: 
+
+> + Las razones justifican el conocimiento
+
+---
+# Valoración y decisión sobre los hechos
+
+## Valoración individual prueba tangible
+
+  1. Valoración individual (análisis de credibilidad)
+
+|Atributos de credibilidad | Prueba tangible |
+|--------------------------|-----------------|
+|Autenticidad |Falsificación |
+|             |Errores en el soporte |
+|             |Cadena de custodia |
+|Exactitud/sensibilidad | Funcionamiento, precisión, del aparato, informe |
+|Fiabilidad | Repetición medida, margen de error análisis estadísticos |
+
+---
+## Valoración individual prueba testimonial
+
+  2.Valoración individual (análisis de credibilidad)
+  
+|Atributos de credibilidad         |Prueba testimonial                |
+|----------------------------------|----------------------------------|
+|Base de la afirmación testimonial |Testigo presencial                |
+|                                  |De oídas                           |
+|                                  |De opinión                         |
+|Veracidad                         |Declaración intencionalmente falsa |
+|                                  |Declaración que cree verdadera, pero es falsa |
+|      |* Conformación de la memoria |
+|      |* Recuperación de la memoria |
+|Objetividad | Sin sesgos (v.g. de confirmación)|
+|Sensibilidad observacional | Defectos sensoriales, condiciones de observación, condición física, foco de atención |
+
+---
+class: middle
+> ## La inmediación no es garantía de credibilidad del testigo (negado experimentalmente)
+
+---
+## Valoración en conjunto
+
+> ### Grado de corroboración de la hipótesis de prueba
+
+> ### Probabilidad lógica (no matemática)
+
+> ### Umbral de suficiencia probatoria: punto a partir del cual se justifica dar por verdadero / cierto / ocurrido un hecho
+
+---
+## Los enlaces de las inferencias probatorias
+
+> #### Epistémico: las máximas de la experiencia: generalizaciones
+
+|Generalizaciones | Descripción |Ejemplo |
+|-----------------|-------------|--------|
+|G. específicas del caso |Hábitos personales, prácticas locales |X usualmente llega tarde al trabajo |
+|G. de contexto | Sentido común (en camino hacia la ciencia) |En AQP las entidades públicas empiezan a atender a las 7:00 a.m. |
+|Conocimiento científico y experticia |Investigación, experimentación |El mesotelioma se produce por exposición al asbesto |
+|Conocimiento general | Cultura media |El BCR fija la tasa de interés legal laboral |
+|G. basadas en la experiencia | Experiencias de primera mano |La X sala laboral de Y siempre pide mostrar el DNI antes de las audiencias |
+|G. de creencias | G. de sentido común |Los que de verdad han cometido una falta son los que no reclaman; el que huye es porque es culpable |
+
+---
+class: middle
+
+> ### Hechos públicos y notorios
+
+> ### Información estadística al alcance de una búsqueda en Google
+
+---
+## Los enlaces de las inferencias probatorias
+
+> ### Legales: las presunciones (legales)
+
+> ### La inferencia, a la conclusión, no la hace el juez, sino que viene hecha por la ley
+
+> + #### Función de garantía de los derechos
+  
+---
+## Los enlaces de las inferencias probatorias
+
+> ### Las definiciones
+
+> ### El problema de clasificación de los hechos
+
+---
+class: center, middle, inverse
+
+# Caso dos 
+
+# Valoración en conjunto
+
+# Mapas argumentativos 
+
+---
+class: middle
+
+> La señora D ha sido trabajadora doméstica en la casa de los padres de tres hermanas. Ella demanda el pago de beneficios sociales desde 1959. Además sostiene que ha sido despedida sin mediar causa justa por lo que pide la IDA. El caso presenta los siguientes medios de prueba. De un lado, se tiene tres testimonios correspondientes a las hermanas de la parte demandada que señalan que la demandante ingresó a laborar en el año 1960 y que no renunció, sino que fue despedida. De otro lado, se tiene un documento elaborado en computadora en el que figura que la causa de extinción del vínculo laboral fue la renuncia al empleo y, además, que laboró del 15 de marzo de 2011 hasta el 26 de abril de 2016. Este documento fue sometido a pericia en materia de grafoscopía, documentoscopía y grafología habiéndose concluido que la firma puesta en él corresponde al puño y letra de la trabajadora.
+
+---
+class: middle
+
+# Preguntas
+
+> ### ¿La señora D fue despedida o renunció?
+
+> ### ¿Ingresó en 1959, 1960 o 2011?
+
+> ### Fundamente su respuesta
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba1.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba2.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba3.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba.svg)
+
+---
+class: inverse, center, middle
+
+# ¡Gracias!
+
+> # *pgparede@pucp.pe*

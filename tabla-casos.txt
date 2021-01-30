@@ -1,0 +1,54 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h0tr{background-color:#FFA4A0;color:#000000;font-family:Georgia, serif !important;;font-size:20px;text-align:center;
+  vertical-align:middle}
+.tg .tg-yx61{background-color:#232756;color:#ffffff;font-family:Georgia, serif !important;;font-size:20px;text-align:center;
+  vertical-align:top}
+.tg .tg-3z35{background-color:#FFA4A0;color:#000000;font-family:Georgia, serif !important;;font-size:20px;text-align:left;
+  vertical-align:top}
+.tg .tg-wu9l{color:#000000;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-nq2h{color:#000000;font-family:Georgia, serif !important;;font-size:20px;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yx61">Asunto</th>
+    <th class="tg-yx61">EXP</th>
+    <th class="tg-yx61">Fecha resolución</th>
+    <th class="tg-yx61">Temas</th>
+    <th class="tg-yx61">Subtemas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h0tr" rowspan="3">ADR</td>
+    <td class="tg-h0tr" rowspan="3">4883/2017</td>
+    <td class="tg-h0tr" rowspan="3">28.02.2018</td>
+    <td class="tg-h0tr" rowspan="3">Igualdad y no discriminación</td>
+    <td class="tg-3z35">- Compensación, divorcio, separación de bienes<br></td>
+  </tr>
+  <tr>
+    <td class="tg-wu9l">- Doble jornada de las mujeres</td>
+  </tr>
+  <tr>
+    <td class="tg-3z35">- Discriminación</td>
+  </tr>
+  <tr>
+    <td class="tg-nq2h" rowspan="3">AR</td>
+    <td class="tg-nq2h" rowspan="3">9/2018<br>(8/2018)</td>
+    <td class="tg-nq2h" rowspan="3">05.12.2018</td>
+    <td class="tg-nq2h" rowspan="3">Igualdad y no discriminación</td>
+    <td class="tg-wu9l">- Seguridad social</td>
+  </tr>
+  <tr>
+    <td class="tg-3z35">- Trabajadoras domésticas</td>
+  </tr>
+  <tr>
+    <td class="tg-wu9l">- Acreditación renuncia y antigüedad empleo</td>
+  </tr>
+</tbody>
+</table>

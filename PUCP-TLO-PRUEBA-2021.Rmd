@@ -1,0 +1,524 @@
+---
+title: "El uso de la prueba científica por la SCJN en materia laboral"
+author: ".small[Paul Paredes]"
+date: "29 de octubre de 2020 "
+output:
+  xaringan::moon_reader:
+    css:
+      - "custom_2020.css"
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+      - "mi-css.css"
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    seal: false # esto omite title slide automática
+    self_contained: false
+#mode: selfcontained
+---
+class: front, hide_logo
+
+```{r eval=FALSE, include=FALSE}
+# Para que funcione el infinite moon reader, correr desde el root!
+```
+
+```{r setup, include=FALSE, cache = FALSE}
+require("knitr")
+options(htmltools.dir.version = FALSE)
+pacman::p_load(RefManageR)
+# bib <- ReadBib("../../bib/electivomultinivel.bib", check = FALSE)
+opts_chunk$set(warning=FALSE,
+             message=FALSE,
+             echo=TRUE,
+             cache = TRUE,fig.width=7, fig.height=5.2)
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css"))
+```
+
+```{r xaringan-logo, echo=FALSE}
+xaringanExtra::use_logo(
+  image_url = "https://raw.githubusercontent.com/PaulParedes/materiales/master/logo.jpg",
+  position = xaringanExtra::css_position(top = ".1em", right = ".1em"),
+  width = "110px",
+  height = "128px",
+  link_url = NULL,
+  exclude_class = c("title-slide", "inverse", "hide_logo")
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# El uso de la prueba científica por la SCJN<br/>en materia laboral
+----
+## Paul Paredes<br/>29 de octubre de 2020
+]
+
+.pull-right[
+.right[
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+]
+
+.center[
+## Centro de Estudios Constitucionales<br/>Suprema Corte de Justicia de la Nación
+]
+]
+
+---
+class: animated, slideInRight, inverse, center, middle
+
+# ¡Gracias por su asistencia!
+
+???
+Agradecer al Centro de Estudios Constitucionales de la Suprema Corte de Justicia de la Nación, a la Dirección General de Casas de la Cultura Jurídica, al Instituto de la Judicatura Federal y a la Universidad de Girona; a Ana María Ibarra Directora del Centro de Estudios Constitucionales, a Alejandra Rabasa, y de modo muy especial a Carmen Vázquez por haberme propuesto para hacer esta ponencia.
+ 
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+# Plan de la ponencia
+
+1. Uso de la prueba científica por la SCJN en materia laboral
+
+1. ¿Qué enseñanzas nos deja?
+
+1. Proceso laboral y prueba (oralidad en algunos países de América Latina)
+
+---
+class: middle, center, inverse
+
+# Empecemos
+
+---
+
+# Los casos
+
+`r xfun::file_string('tabla-casos.txt')`
+
+---
+class: roja, hide_logo, middle
+# Caso 1
+
+---
+
+# Caso 1: ADR 4883/2017
+
++ Norma aplicable:
+  - La fracción VI del artículo 267 del C.C. Ciudad de México (2008)
+  
++ ¿Qué significa "dedicación al desempeño del trabajo del hogar"?
+
+---
+# Caso 1: ADR 4883/2017
+
++ Problemas sobre los hechos en un caso
+  
+  - de prueba o acreditación
+  
+  - de calificación
+  
+  - de interpretación o definición del hecho hipotético
+  
+---
+# Caso 1: ADR 4883/2017
+
++ La claridad sobre la definición de los hechos hipotéticos es primario:
+
+  - determina los elementos de la hipótesis de incidencia normativa (HIN)
+  
+  - "individualiza" los *probanda*
+  
+  - precisa la distribución de la carga probatoria 
+
+---
+# Caso 1: ADR 4883/2017
+
+> *Siempre habrá la necesidad de interpretar (definir) los elementos de la HIN. Los criterios de interpretación jurídica pueden auxiliarse con respaldo epistémico como, por ejemplo, las estadísticas u otro conocimiento científico. Esto último no es imprescindible, pero contribuye a justificar mejor lo interpretado.*
+
+> *También son relevantes los compromisos internacionales.*
+
+---
+# Caso 1: ADR 4883/2017
+
++ La SCJN interpretó la HIN en su conjunto:
+
+> *La fracción normativa es constitucional si se interpreta que* "dedicarse al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos", *no implica exigir al cónyuge solicitante que acredite que se dedicó exclusivamente a las labores domésticas* (p.17).
+
+---
+# Caso 1: ADR 4883/2017
+
+Entonces, la hipótesis fáctica queda reformulada:
+
+1.Dedicarse al TdelH (y, en su caso, al cuidado de los hijos)
+
+2.No exclusivamente, sino durante algún tiempo
+  + Incluso, con trabajo remunerado fuera del hogar
+  
+3.Que esta situación haya generado un costo de oportunidad:</li>
+  + Imposibilidad de adquirir patrimonio propio, o
+  + Notoriamente inferior al patrimonio del excónyuge
+
+---
+# Caso 1: ADR 4883/2017
+
+Para ello, el juez debe evaluar:
+
+.pull-left[
++ La modalidad del TdelH
+  + Ejecución material o no
+]
+
+.pull-right[
++ El periodo de tiempo empleado
+  + Dedicación plena y exclusiva
+  + Mayoritaria (**doble jornada**)
+  + Minoritaria
+  + Ambos comparten las labores
+]
+
+---
+# Caso 1: ADR 4883/2017
+
++ El respaldo epistémico utilizado
+
+  + El ADR 1754/2015 (doble jornada de las mujeres)
+  
+  + Estudio de la OCDE sobre igualdad de género
+    + Data de México disponible es de 2014
+    
+  + Consenso de Brasilia, adoptada el 16/07/2010
+  
+  + Valor económico del trabajo doméstico no remunerado de 2009
+    + Data del Inst. Nac. de las Mujeres
+    + 21.7% del PIB:: 4/5 M; 1/5 H
+
+---
+# Caso 1: ADR 4883/2017
+
++ OCDE, México, 2014
+
+|Labores |Mujeres |Hombres |
+|-----|------:|-------:|
+|Cuidado hogar| 53 min|15 min|
+|Tareas domésticas | 280 min | 75 min|
+
+---
+# Caso 1: ADR 4883/2017
+
++ OCDE, Promedio países OCDE, 2014
+
+|Labores |Mujeres |Hombres |
+|-----|------:|-------:|
+|Cuidado hogar| 40 min|16 min|
+|Tareas domésticas | 168 min | 74 min|
+
+---
+# Caso 1: ADR 4883/2017
+
++ Valor económico trabajo doméstico no remunerado, México, 2009
+
+|PIB |Mujeres |Hombres |
+|:---:|:------:|:--------:|
+|21.7%|4/5| 1/5 |
+
+---
+# Caso 1: ADR 4883/2017
+
+> Una vez interpretada la HIN, la solución del caso ya no depende de la estadística usada, sino de la prueba de los elementos interpretados de la HIN.
+
+---
+class: roja, hide_logo, middle
+# Caso 2
+
+---
+# Caso 2: AD 9/2018
+
+> Trabajadora doméstica reclama el pago de varios derechos laborales y su inscripción en el Instituto Mexicano del Seguro Social.
+
+> Afirma haber ingresado el 11.01.1959 y que fue despedida sin causa justificada.
+
+---
+# Caso 2: AD 9/2018
+
+Dos puntos relevantes:
+
+1. Si la exclusión de las/los trabajadores domésticos del régimen obligatorio de la seguridad social es un caso de discriminación indirecta.
+
+2. Criterios de valoración de la prueba de la renuncia y antigüedad en el empleo.
+
+---
+# Caso 2: AD 9/2018 | DI
+
++ Discriminación indirecta
+
+> La exclusión normativa de las trabajadoras domésticas está planteada, en términos de género, neutrales, sin embargo, en los hechos afecta preponderante y desproporcionalmente a las mujeres.
+
+---
+# Caso 2: AD 9/2018 | DI
+
++ En términos de prueba
+
+> Aquí, la prueba es sobre el impacto desproporcionado que sufre un grupo [las mujeres] a causa de una de una medida [la norma que excluye del régimen obligatorio de la seguridad social]. Más, otras valoraciones [desproporcionado, no justificado].
+
+---
+# Caso 2: AD 9/2018 | DI
+
+¿Dónde entra en juego la estadística?
+
+  + En el impacto adverso
+    + Pero no es imprescindible:: se puede recurrir a la lógica o a generalizaciones. Epistémicamente la estadística es mejor.
+
+  + En la comparación
+    + Con los otros
+    + En similares circunstancias
+
+---
+# Caso 2: AD 9/2018 | DI
+
+Datos y respaldos de la sentencia:
+
++ Comité para la eliminación de la discriminación contra la mujer.
++ Convención sobre la eliminación de todas las formas de discriminación contra la mujer.
++ OIT. Documento de 2016 sobre protección social del trabajo doméstico.
++ OIT, data de 2013, 67.1 millones de personas son trabajadores domésticos que es un grupo con alto nivel de discriminación.
++ OIT: los salarios de los TD son menos de la mitad del promedio mercado.
+
+---
+# Caso 2: AD 9/2018 | DI
+
++ OIT, data 2010, solo 10% del TD cubierto por leyes laborales generales.
++ OIT, 80% TD son mujeres
++ Inst. Nac. Estadística y Geografía 2008: 2.3 millones de TD, de los cuales 9/10 son mujeres.
+
+> Políticas públicas, compromisos internacionales, adopta la dimensión de género
+
+---
+# Caso 2: AD 9/2018 | DI
+
+A partir de todo ello, la SCJN concluye:
+
+> 1. Que las trabajadoras domésticas no estén en el régimen obligatorio del seguro social no atiende a una diferenciación objetiva y razonable.
+
+> 2. Perjudica de manera desproporcionada a las mujeres, pues el TD lo realizan preponderantemente las mujeres (9 de cada 10)
+
+---
+# Caso 2: AD 9/2018 | CV
+
++ Criterios de valoración de la prueba de la renuncia y antigüedad en el empleo
+
+  + ¿Renunció o fue despedida?
+  
+  + ¿Ingresó en 1959, 1960 o en 2011?
+  
+  + ¿Vale más la testimonial que el documento peritado que dice que la firma es del puño y letra de la demandante?
+  
+---
+# Caso 2: AD 9/2018 | CV
+
++ Valoración individual y valoración en conjunto
+
++ Valoración individual:
+  + La credibilidad de la prueba tangible (autenticidad, exactitud, fiabilidad)
+  + La credibilidad de la prueba de testigo (veracidad, objetividad, sensibilidad observacional; conformación y recuperación de la memoria)
+  
+---
+# Caso 2: AD 9/2018 | CV
+
++ Valoración en conjunto:
+  + Corroboración
+  + Convergencia
+  + Contradicción
+  + Número de elementos de prueba
+  + Variedad
+  + Calidad de la generalización que apoya la inferencia
+  
+---
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/unnamed0.svg)
+
+---  
+# Caso 2: AD 9/2018 | CV
+
++ Valoración individual y valoración en conjunto
+
++ A veces, ciertas pruebas son garantías de derechos
+  + P. ej. la contratación modal es por escrito
+  + ¿Podría probarse con testigos, peritos, otros documentos que sí existía una causa de temporalidad?
+  + No. Porque el documento escrito es garantía del derecho laboral y de su defensa.
+
+---
+class: roja, middle, hide_logo
+
+# ¿Qué enseñanzas nos deja?
+
+---
+# 1. Conformación del conjunto de elementos de juicio
+
++ El uso de información estadística de organismos públicos o internacionales
+  + de acceso público
+  + incluso desde Internet
+  + que satisfaga las exigencias de autenticidad, exactitud, fiabilidad
+  + para interpretar los hechos legislativos, la HIN
+  
++ Sin embargo, no es imprescindible (aunque mejora la calidad de la información)
+
+---
+# 1. Conformación del conjunto de elementos de juicio
+
++ Necesidad de bancos de datos
+  + Afrontar el costo y la dificultad de *hacer* estadísticas
+  
++ La información podría ser suficiente para probar el impacto adverso. La carga probatoria de la justificación debería correr en hombros del demandado.
+
+---
+# 2. En la valoración
+
++ Distinguir la valoración individual y la valoración en conjunto
+
++ Recurrir a esquemas o mapas argumentativos (fuerzan a evidenciar las generalizaciones usadas y muestran los posibles errores inferenciales o saltos argumentativos)
+
+---
+# 3. En la decisión
+
++ Contexto de incertidumbre, falta de información y probabilidad inferencial o lógica
+
++ Contexto de dificultad probatoria del trabajador, su situación de vulnerabilidad y los costos asociados al proceso
+
+---
+# Lo cual lleva a:
+
++ Uso de facultades judiciales
+  + Prueba de oficio
+  + Saneamiento probatorio
+
++ Presunciones
+
+---
+# Lo cual lleva a:
+
++ Carga de la prueba (para delimitar los probanda)
+
++ Estándar de prueba, no de certeza o convicción, sino:
+  + Presunción de inocencia (BARD) cuando el demandado tiene que probar la existencia de causa justificada u otro supuesto sancionatorio.
+  + Preponderancia de la prueba, en el resto de materias.
+
+---
+class: roja, middle, hide_logo
+
+# Proceso laboral y prueba
+
+---
+# Proceso laboral y prueba
+
+> *"1781. Le maître est cru sur son affirmation, Pour la quotité des gages; Pour le paiement du salaire de l'année échue; Et pour les à-comptes donnés pour l'année courante."*
+
+> "Al patrón se le cree por su dicho, en cuanto al monto de los salarios; en cuanto al pago del salario del año vencido; y en cuanto a lo que diga haber dado a cuenta por el año corriente".
+
+> .bold[Código civil francés, 1804]
+
+---
+# ¿Por qué (debe haber) un proceso laboral?
+
+> Porque hay situaciones de desigualdad sobre las cuales se hace necesario llamar la atención para gozar (acceder) efectivamente a los derechos que un ordenamiento ofrece.
+
+---
+# Couture (1979)
+
+> *Un nuevo Derecho procesal, extraño a todos los principios tradicionales, sin exceptuar uno solo de ellos, ha debido surgir para establecer, mediante una nueva desigualdad, la igualdad perdida por la distinta condición que tienen en el orden económico de la vida, los que ponen su trabajo como sustancia del contrato, y los que se sirven de él para la satisfacción de sus intereses.*
+
+---
+# Proceso laboral
+
++ Desigualdad como fundamento del proceso laboral (dos perspectivas)
+  + La desigualdad material y la igualdad por compensación
+  + La igualdad en el principio dispositivo, pero donde se reconoce que las partes no son soberanas ni iguales.
+  
+---
+# Proceso laboral. Dos modelos
+
++ De la igualdad (formal) de las partes y el juez director
+
++ A la igualdad efectiva de las partes (a través de la ley) y el juez director del proceso.
+
+---
+# Proceso y prueba. Dos modelos
+
++ Del proceso como mecanismo de resolución de conflictos, dependiente de la habilidad del abogado alejado de la verdad.
+
++ Al proceso como solución de conflictos aplicando Derecho a los hechos ocurridos en la realidad.
+
+---
+# La oralidad
+
++ La oralidad como negación de la justicia de la igualdad formal:
+
+.pull-left[
+- Oralidad
+- Inmediación
+- Concentración
+- Publicidad
+- Economía
+- Celeridad
+]
+
+.pull-right[
+- Escritura
+- No inmediación
+- No concentración
+- No publicidad
+- No economía
+- No celeridad
+]
+
+---
+# La oralidad
+
+Es el símbolo contra la justicia del juez convidado de piedra.
+
+La oralidad no es "técnicas que litigación oral".
+
+---
+# Las reformas de la justicia laboral en América Latina
+
+.pull-left[
++ Venezuela, agosto 2003
+
++ Ecuador, julio 2004
+
++ Colombia, enero 2008
+
++ Chile, marzo 2008
+
++ Bolivia, (1979), 2009
+]
+
+.pull-right[
++ Uruguay, febrero 2010
+
++ Perú, enero-julio 2010
+
++ Costa Rica, 2012
+
++ Nicaragua, 2012-2013
+]
+
+---
+class: front, hide_logo, center, middle
+
+# ¡Gracias por su atención!
+
+## pgparede@pucp.pe

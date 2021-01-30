@@ -84,7 +84,7 @@ a, a > code {
   background-color: #268bd240;
 }
 .inverse {
-  background-color: #222953;
+  background-color: #232756;
   color: #fdf6e3;
 }
 .inverse h1, .inverse h2, .inverse h3 {
@@ -109,7 +109,7 @@ a, a > code {
 }
 
 .roja {
-  background-color: #d22000;
+  background-color: #D55D38;
   color: #fdf6e3;
 
 }
@@ -137,7 +137,7 @@ a, a > code {
 
 
 .front h1 {
-  color: #D55D38;
+  color: #D55038;
   font-size: 2.2em;
 }
 
