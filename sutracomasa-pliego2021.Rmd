@@ -1,0 +1,1293 @@
+---
+title: "Negociación colectiva 2021"
+subtitle: "Proyecto de pliego"
+author: "Paul Paredes"
+institute: "SUTRACOMASA"
+date: "24 de mayo de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+```{r broadcast, echo=FALSE}
+xaringanExtra::use_broadcast()
+```
+
+# Negociación colectiva .red[2021]
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+# .red[Plan de la exposición]
+
+.pull-right[
+### 1. Revisión convenios previos
+
+### 2. Propuesta pliego .red[2021]
+
+### 3. El procedimiento de NEC
+]
+
+---
+class: middle, center, inverse
+
+# Empecemos
+
+---
+class: center, middle, inverse
+
+# Los convenios previos
+
+---
+class: animated, fadeIn
+
+# Comparación CC 2012, 2015 y 2018 (1)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 709px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 168.75px">
+<col style="width: 153.75px">
+<col style="width: 207.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2012-2015</th>
+    <th class="tg-yd3j">2015-2018</th>
+    <th class="tg-yd3j">2018-2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Vacaciones</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Recategorización</td>
+    <td class="tg-yd3j">Mina; concentra; manten.</td>
+    <td class="tg-yd3j">Muestristas II</td>
+    <td class="tg-yd3j">Muestristas II</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Almuerzo caliente</td>
+    <td class="tg-6hlz">Operadores</td>
+    <td class="tg-6hlz">Equipo pesado</td>
+    <td class="tg-6hlz">Equipo pesado</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">AGR</td>
+    <td class="tg-yd3j">5.5%; 5%; 5%</td>
+    <td class="tg-yd3j">256.89; 269.73; 283.22</td>
+    <td class="tg-yd3j">217.21; 225.03; 233.13; W3A, W4, W5: 301.68;228.07;236.28</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. T. Altura</td>
+    <td class="tg-6hlz">0.5% rbm</td>
+    <td class="tg-6hlz">1.5% rbm</td>
+    <td class="tg-6hlz">1.5% rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">B. T. Nocturno</td>
+    <td class="tg-yd3j">0.5% sbm</td>
+    <td class="tg-yd3j">0.5% sbm</td>
+    <td class="tg-yd3j">0.5% sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. R. Vida</td>
+    <td class="tg-6hlz">0.5% rbm</td>
+    <td class="tg-6hlz">0.5% rbm</td>
+    <td class="tg-6hlz">0.5% rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">B. L. Diurno</td>
+    <td class="tg-yd3j">S/12.00 d.t.</td>
+    <td class="tg-yd3j">S/12.00 d.t.</td>
+    <td class="tg-yd3j">S/12.00 d.t.</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. L. Fría</td>
+    <td class="tg-6hlz">S/12.00 n.t.</td>
+    <td class="tg-6hlz">S/12.00 n.t.</td>
+    <td class="tg-6hlz">S/12.00 n.t.</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# Comparación CC 2012, 2015 y 2018 (2)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y2ua{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;
+  vertical-align:top}
+.tg .tg-67cq{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 661px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 168.75px">
+<col style="width: 153.75px">
+<col style="width: 159.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-67cq">Convenio</th>
+    <th class="tg-67cq">2012-2015</th>
+    <th class="tg-67cq">2015-2018</th>
+    <th class="tg-67cq">2018-2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y2ua">B. Reemplazo</td>
+    <td class="tg-y2ua">La diferencia</td>
+    <td class="tg-y2ua">La diferencia</td>
+    <td class="tg-y2ua">La diferencia</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">G. Vacacional</td>
+    <td class="tg-67cq">0.5 sbm</td>
+    <td class="tg-67cq">0.5 sbm</td>
+    <td class="tg-67cq">0.5 sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-y2ua">B. Día Trabajo</td>
+    <td class="tg-y2ua">3.5% sbm</td>
+    <td class="tg-y2ua">3.5% sbm</td>
+    <td class="tg-y2ua">3.5% sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">B. Día T. Minero</td>
+    <td class="tg-67cq">3.5% sbm</td>
+    <td class="tg-67cq">3.5% sbm</td>
+    <td class="tg-67cq">3.5% sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-y2ua">A. Educación</td>
+    <td class="tg-y2ua">0.5 sbm</td>
+    <td class="tg-y2ua">0.5 sbm</td>
+    <td class="tg-y2ua">0.5 sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">A. Vivienda</td>
+    <td class="tg-67cq">0.5% sbm</td>
+    <td class="tg-67cq">0.5% sbm</td>
+    <td class="tg-67cq">0.5% sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-y2ua">B. T. Servicios</td>
+    <td class="tg-y2ua">5:0.5%; 10:1%</td>
+    <td class="tg-y2ua">5:1.5%; 10:2%;15:3%</td>
+    <td class="tg-y2ua">5:1.5%; 10:2%; 15:3%; 20:4%</td>
+  </tr>
+  <tr>
+    <td class="tg-67cq">Pago T. Día Descanso</td>
+    <td class="tg-67cq">2.25 d.t.</td>
+    <td class="tg-67cq">2.25 d.t.</td>
+    <td class="tg-67cq">2.25 d.t.</td>
+  </tr>
+  <tr>
+    <td class="tg-y2ua">Pago T. T. Inusitado</td>
+    <td class="tg-y2ua">sobre tasa</td>
+    <td class="tg-y2ua">sobre tasa</td>
+    <td class="tg-y2ua">sobre tasa</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# Comparación CC 2012, 2015 y 2018 (3)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 168.75px">
+<col style="width: 153.75px">
+<col style="width: 158.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2012-2015</th>
+    <th class="tg-yd3j">2015-2018</th>
+    <th class="tg-yd3j">2018-2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">B. Productividad</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Pago utilidades</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Salud ocupacional</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Seguro oncológico</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Subsidio familiares</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Préstamo especial</td>
+    <td class="tg-yd3j">3 rbm</td>
+    <td class="tg-yd3j">4 rbm</td>
+    <td class="tg-yd3j">4 rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Permiso trabajadores</td>
+    <td class="tg-6hlz">4 a 5 días</td>
+    <td class="tg-6hlz">4 a 7 días</td>
+    <td class="tg-6hlz">4 a 7 días</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Mov. emergencias</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Transporte personal</td>
+    <td class="tg-6hlz">Rutas</td>
+    <td class="tg-6hlz">Rutas</td>
+    <td class="tg-6hlz">Rutas</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+class: animated, fadeIn
+
+# Comparación CC 2012, 2015 y 2018 (4)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 168.75px">
+<col style="width: 153.75px">
+<col style="width: 158.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2012-2015</th>
+    <th class="tg-yd3j">2015-2018</th>
+    <th class="tg-yd3j">2018-2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Asistencia legal</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Reemplazo por cese</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Beca est. superiores</td>
+    <td class="tg-6hlz">500:S/3000</td>
+    <td class="tg-6hlz">600:S/3000</td>
+    <td class="tg-6hlz">700:S/3500</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Caducidad antecedentes</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Fuero, licencia sindical</td>
+    <td class="tg-6hlz">21 dir; 600 d/h</td>
+    <td class="tg-6hlz">21 dir; 600 d/h</td>
+    <td class="tg-6hlz">21 dir; 600 d/h</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Viáticos</td>
+    <td class="tg-yd3j">S/180 y S/70</td>
+    <td class="tg-yd3j">S/210 y S/100</td>
+    <td class="tg-yd3j">S/210 y S/100</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Aniversario sindical</td>
+    <td class="tg-6hlz">US$3000</td>
+    <td class="tg-6hlz">S/10 por afiliado</td>
+    <td class="tg-6hlz">S/10 por afiliado</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Permiso asist. eventos</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Local sindical</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# Comparación CC 2012, 2015 y 2018 (5)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 168.75px">
+<col style="width: 153.75px">
+<col style="width: 158.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2012-2015</th>
+    <th class="tg-yd3j">2015-2018</th>
+    <th class="tg-yd3j">2018-2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Facil. comunic.</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Der. inform.</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Comisión paritaria</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Prácticas profes.</td>
+    <td class="tg-yd3j">s/n</td>
+    <td class="tg-yd3j">15 vacantes</td>
+    <td class="tg-yd3j">15 vacantes</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Capacit. Senati</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Desarrollo personal</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Cumpl. leyes empr. serv.</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Ámbito</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Duración</td>
+    <td class="tg-6hlz">3 años</td>
+    <td class="tg-6hlz">3 años</td>
+    <td class="tg-6hlz">3 años</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# Comparación CC 2012, 2015 y 2018 (6)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 168.75px">
+<col style="width: 153.75px">
+<col style="width: 158.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2012-2015</th>
+    <th class="tg-yd3j">2015-2018</th>
+    <th class="tg-yd3j">2018-2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Caráct. permanente</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Conserv. benefic.</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Difusión convenio</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Com. arm. lab.</td>
+    <td class="tg-yd3j">S/35000 a S/45000</td>
+    <td class="tg-yd3j">S/65000 y proporcional</td>
+    <td class="tg-yd3j">S/75000 y proporcional</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Soluc. controversias</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Evaluación desempeño</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j">Mantenimiento</td>
+    <td class="tg-yd3j">Mantenimiento</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Descuento solidaridad</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">G. Extra. Clima Laboral</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j">S/5000</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Préstamo puente</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz">4 rbm</td>
+    <td class="tg-6hlz">S/30000 (solidario)</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: animated, fadeIn
+
+# Comparación CC 2012, 2015 y 2018 (7)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 168.75px">
+<col style="width: 153.75px">
+<col style="width: 158.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2012-2015</th>
+    <th class="tg-yd3j">2015-2018</th>
+    <th class="tg-yd3j">2018-2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Jubilac. anticip. minera</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz">Telecomunic. y geología</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Días de trabajo</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j"></td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Bono por cese</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz"></td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Prestaciones de salud</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j"></td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Asistencia trámite Essalud</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz"></td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Bono pandemia</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-yd3j"></td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Compromiso conserv. trab.</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-6hlz"></td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: inverse, center, middle
+
+# Propuesta pliego 2021
+
+---
+clase: animated, fadeIn
+
+# Proyecto pliego .red[2021] (1)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fhpc{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+.tg .tg-xux4{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 217.75px">
+<col style="width: 247.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2018-2021</th>
+    <th class="tg-yd3j">2021-2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Vacaciones</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Recategorización</td>
+    <td class="tg-yd3j">Muestristas II</td>
+    <td class="tg-fhpc">Todos</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Almuerzo caliente</td>
+    <td class="tg-6hlz">Equipo pesado</td>
+    <td class="tg-6hlz">Equipo pesado</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">AGR</td>
+    <td class="tg-yd3j">217.21; 225.03; 233.13; W3A, W4, W5: 301.68;228.07;236.28</td>
+    <td class="tg-fhpc">500</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. T. Altura</td>
+    <td class="tg-6hlz">1.5% rbm</td>
+    <td class="tg-xux4">5% rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">B. T. Nocturno</td>
+    <td class="tg-yd3j">0.5% sbm</td>
+    <td class="tg-fhpc">5% rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. R. Vida</td>
+    <td class="tg-6hlz">0.5% rbm</td>
+    <td class="tg-xux4">5% rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">B. L. Diurno</td>
+    <td class="tg-yd3j">S/12.00 d.t.</td>
+    <td class="tg-fhpc">S/20.00 d.t.</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. L. Fría</td>
+    <td class="tg-6hlz">S/12.00 n.t.</td>
+    <td class="tg-xux4">S/20.00 n.t.</td>
+  </tr>
+</tbody>
+</table>
+
+---
+clase: animated, fadeIn
+
+# Proyecto pliego .red[2021] (2)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fhpc{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+.tg .tg-xux4{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 217.75px">
+<col style="width: 247.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2018-2021</th>
+    <th class="tg-yd3j">2021-2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">B. Reemplazo</td>
+    <td class="tg-6hlz">La diferencia</td>
+    <td class="tg-6hlz">La diferencia</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">G. Vacacional</td>
+    <td class="tg-yd3j">0.5 sbm</td>
+    <td class="tg-fhpc">1.5 sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. Día Trabajo</td>
+    <td class="tg-6hlz">3.5% sbm</td>
+    <td class="tg-xux4">10% sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">B. Día T. Minero</td>
+    <td class="tg-yd3j">3.5% sbm</td>
+    <td class="tg-fhpc">10% sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">A. Educación</td>
+    <td class="tg-6hlz">0.5 sbm</td>
+    <td class="tg-xux4">1.5 sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">A. Vivienda</td>
+    <td class="tg-yd3j">0.5% sbm</td>
+    <td class="tg-fhpc">5% rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">B. T. Servicios</td>
+    <td class="tg-6hlz">5:1.5%; 10:2%; 15:3%; 20:4%</td>
+    <td class="tg-xux4">5:5%; 10:7%; 15:9%; 20:11%; 25:13%</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Pago T. Día Descanso</td>
+    <td class="tg-yd3j">2.25 d.t.</td>
+    <td class="tg-yd3j">2.25 d.t.</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Pago T. T. Inusitado</td>
+    <td class="tg-6hlz">sobre tasa</td>
+    <td class="tg-6hlz">sobre tasa</td>
+  </tr>
+</tbody>
+</table>
+
+---
+clase: animated, fadeIn
+
+# Proyecto pliego .red[2021] (3)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 217.75px">
+<col style="width: 247.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2018-2021</th>
+    <th class="tg-yd3j">2021-2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">B. Productividad</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Pago utilidades</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Salud ocupacional</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Seguro oncológico</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Subsidio familiares</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Préstamo especial</td>
+    <td class="tg-yd3j">4 rbm</td>
+    <td class="tg-yd3j">4 rbm</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Permiso trabajadores</td>
+    <td class="tg-6hlz">4 a 7 días</td>
+    <td class="tg-6hlz">4 a 7 días</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Mov. emergencias</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Transporte personal</td>
+    <td class="tg-6hlz">Rutas</td>
+    <td class="tg-6hlz">Rutas</td>
+  </tr>
+</tbody>
+</table>
+
+---
+clase: animated, fadeIn
+
+# Proyecto pliego .red[2021] (4)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+.tg .tg-xux4{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 217.75px">
+<col style="width: 247.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2018-2021</th>
+    <th class="tg-yd3j">2021-2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Asistencia legal</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Reemplazo por cese</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Beca est. superiores</td>
+    <td class="tg-6hlz">700:S/3500</td>
+    <td class="tg-xux4">700:S/10,000</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Caducidad antecedentes</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Fuero, licencia sindical</td>
+    <td class="tg-6hlz">21 dir; 600 d/h</td>
+    <td class="tg-xux4">21 dir; 700 d/h</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Viáticos</td>
+    <td class="tg-yd3j">S/210 y S/100</td>
+    <td class="tg-yd3j">S/210 y S/100</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Aniversario sindical</td>
+    <td class="tg-6hlz">S/10 por afiliado</td>
+    <td class="tg-xux4">S/20 por afiliado</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Permiso asist. eventos</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Local sindical</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+</tbody>
+</table>
+
+---
+clase: animated, fadeIn
+
+# Proyecto pliego .red[2021] (5)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fhpc{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+.tg .tg-xux4{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 217.75px">
+<col style="width: 247.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2018-2021</th>
+    <th class="tg-yd3j">2021-2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Facil. comunic.</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Der. inform.</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Comisión paritaria</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Prácticas profes.</td>
+    <td class="tg-yd3j">15 vacantes</td>
+    <td class="tg-fhpc">15 pre; prof.; becarios; pasantes</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Capacit. Senati</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Desarrollo personal</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Cumpl. leyes empr. serv.</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Ámbito</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Duración</td>
+    <td class="tg-6hlz">3 años</td>
+    <td class="tg-xux4">1 año</td>
+  </tr>
+</tbody>
+</table>
+
+---
+clase: animated, fadeIn
+
+# Proyecto pliego .red[2021] (6)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fhpc{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 217.75px">
+<col style="width: 247.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2018-2021</th>
+    <th class="tg-yd3j">2021-2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Caráct. permanente</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Conserv. benefic.</td>
+    <td class="tg-yd3j">Sí</td>
+    <td class="tg-yd3j">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Difusión convenio</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Com. arm. lab.</td>
+    <td class="tg-yd3j">S/75000 y proporcional</td>
+    <td class="tg-fhpc">S/150,000</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Soluc. controversias</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Evaluación desempeño</td>
+    <td class="tg-yd3j">Mantenimiento</td>
+    <td class="tg-fhpc">Todos</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Descuento solidaridad</td>
+    <td class="tg-6hlz">Sí</td>
+    <td class="tg-6hlz">Sí</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">G. Extra. Clima Laboral</td>
+    <td class="tg-yd3j">S/5000</td>
+    <td class="tg-fhpc">S/15,000</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Préstamo puente</td>
+    <td class="tg-6hlz">S/30,000 (solidario)</td>
+    <td class="tg-6hlz">S/30,000</td>
+  </tr>
+</tbody>
+</table>
+
+---
+clase: animated, fadeIn
+
+# Proyecto pliego .red[2021] (7)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fhpc{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;text-align:left;
+  vertical-align:top}
+.tg .tg-yd3j{border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-6hlz{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+.tg .tg-xux4{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:18px;font-weight:bold;
+  text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 644px">
+<colgroup>
+<col style="width: 178.75px">
+<col style="width: 217.75px">
+<col style="width: 247.75px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yd3j">Convenio</th>
+    <th class="tg-yd3j">2018-2021</th>
+    <th class="tg-yd3j">2021-2022</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6hlz">Jubilac. anticip. minera</td>
+    <td class="tg-6hlz">Telecomunic. y geología</td>
+    <td class="tg-6hlz">Telec. geología</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Días de trabajo</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-fhpc">Subida/bajada</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Bono por cese</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-xux4">10 sbm</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Prestaciones de salud</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-fhpc">Extender; PAMF; al cese</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Asistencia trámite Essalud</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-xux4">Asistencia</td>
+  </tr>
+  <tr>
+    <td class="tg-yd3j">Bono pandemia</td>
+    <td class="tg-yd3j"></td>
+    <td class="tg-fhpc">S/20,000</td>
+  </tr>
+  <tr>
+    <td class="tg-6hlz">Compromiso conserv. trab.</td>
+    <td class="tg-6hlz"></td>
+    <td class="tg-xux4">No tercerización</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: inverse, middle, center
+
+# Algunas características de la negociación colectiva
+
+---
+class: animated, fadeIn
+
+# La negociación colectiva
+
+.pull-left[
+
+1. Fines y funciones de las organizaciones sindicales
+
+2. Convenio colectivo: características
+
+3. Representación de los trabajadores
+
+4. Representación de los empleadores
+
+5. Fuero sindical
+]
+
+---
+class: animated, fadeIn
+
+# El procedimiento
+
+.pull-left[
+
++ Inicio
++ Lugar de presentación
++ Recepción del pliego y buena fe
++ Solicitud de información
++ Valorización de las peticiones
+]
+
+.pull-right[
+
++ Lugar, plazo y modo
++ Terminación
++ Posibilidad conciliación
++ Huelga o arbitraje
+]
+
+---
+class: animated, fadeIn
+
+# El arbitraje
+
++ Tribunal arbitral y normas procedimiento
++ Contenido laudo
++ Arbitraje voluntario
++ Arbitraje obligatorio
++ Arbitraje potestativo
+
+---
+class: inverse, center, middle
+
+# ¡Gracias!
+
+> # *pgparede@pucp.pe*
