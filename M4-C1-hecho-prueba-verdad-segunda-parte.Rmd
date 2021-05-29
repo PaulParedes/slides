@@ -1,0 +1,383 @@
+---
+title: "Hecho, prueba y verdad"
+subtitle: "(Desde la prueba en<br>sentido general)"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "29 de mayo de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# .red[Prueba] y litigación oral
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+class: middle, center, inverse
+
+# Empecemos
+
+---
+class: inverse, middle, center
+
+# La prueba en sentido general
+
+---
+class: middle
+
+.pull-right[
+<ol start=2>
+<li> .azul[La prueba en sentido general]
+  + Objetivo: la prueba de los hechos
+  + Finalidad: la averiguación de la verdad
+  + Ciencia, técnica
+     + Teoría de la prueba
+     + Probática
+  + Argumentación
+     + Razonamiento probatorio
+     + Valoración
+  + Reglas jurídicas
+     + Estándares de prueba
+     + Cargas probatorias
+     + Presunciones
+]
+</ol>
+
+---
+class: center, middle, inverse
+
+# Caso uno
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Tres niños y una flauta
+
+> ## Amartya Sen (2009), *The idea of justice*, The Belknap Press, pp. 12-15.
+
+---
+class: animated, fadeIn, center, middle
+
+> ## ¿A quién le entregaría usted la flauta y por qué?
+
+> ## Escriba una lista de las razones de hecho y de derecho en sustento de su respuesta
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Exponga oralmente la justificación de su respuesta
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Identifique el caso: ¿qué ha necesitado para ello?
+
+---
+class: middle
+
+# Usted ha necesitado dos cosas:
+
+--
+
+> ## 1. Una .red[regla de derecho] (una norma)
+
+--
+
+> ## 2. Un .red[conjunto de hechos] que *"pertenecen"* | *"entran"* | *"encajan"* en la regla de derecho
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Diferencia entre "Teoría del caso" y "Técnicas de litigación oral"
+
+> ## *"Theory of the case"* vs. *"Courtroom tactics"*
+
+---
+class: animated, fadeIn, center, middle
+
+> ### *This conception of ‘theory’ serves the function of isolating that aspect of advocacy which is concerned with .red[rational arguments] from .red[other aspects], such as commanding attention, communication, questioning, persuasive presentation and various courtroom tactics. The conception is also analytically convenient in that it provides a clear connection with theories of legal reasoning.*
+
+> ### William Twining (2006), *Rethinking evidence*, Cambridge University Press, p. 290.
+
+---
+class: animated, fadeIn, center, middle
+
+> ### .red[La teoría del caso] es la afirmación lógica formulada como un argumento que apoya una o más conclusiones sobre el caso como un todo.
+
+> ### Terence Anderson, David Schum, William Twining (2005), *Análisis de la prueba*, Marcial Pons, p. 160.
+
+---
+class: animated, fadeIn, middle
+
+> ## Condiciones para una teoría del caso o,
+
+dicho de otro modo,
+
+> ## Condiciones para la aplicación de derecho que recoge la pretensión/defensa planteada
+
+  > ### Interpretar la norma, en el supuesto de hecho y en la consecuencia
+
+  > ### Identificar los problemas de prueba y los problemas de calificación
+
+---
+class: animated, fadeIn, middle
+
+# Plantear el caso | Formular las pretensiones/defensas
+
+> ### 1. Identificar la regla de derecho que resuelve el conflicto
+
+> ### 2. Determinar los elementos del supuesto de hecho
+
+> ### 2.1. Distribuir el riesgo procesal: .red[la carga de la prueba]
+
+> ### 3. Relacionar la prueba con cada uno de los elementos
+
+> ### 4. ---> plantear el caso
+
+---
+# Argumentación sobre hechos
+
+## Tres (3) concepciones de la argumentación
+
+### 1. .red[Concepción formal]: lógica deductiva: argumentar es deducir
+  
+### 2. .red[Concepción material]: conocimiento: *justified true believe*: epistemología, leyes científicas, máximas de la experiencia: argumentar es fundamentar
+  
+### 3. .red[Concepción pragmática]: dialéctica (justificar una decisión con base en razones) o retórica (persuasión actoral al auditorio): argumentar es convencer
+
+---
+# Argumetación sobre hechos
+
+### Cuatro modos de debatir (Josep Aguiló)
+
+|Tipo de debate | Modo de debatir | Metáfora | Finalidad | 
+|:--------------:|:---------:|:--------:|:---------:|
+|Disputa | Combatir | Bélica | Imponerse al otro |
+|Controversia  |Competir  | Deportiva | Opinión prevaleciente |
+|Diálogo racional |Explorar/diagnosticar | Médica/judicial | Resolver un problema |
+|Consenso |Construir | Constructiva | Alcanzar un consenso |
+
+---
+class: animated, fadeIn, middle
+
+# (recordemos...)
+
+> ## Momentos de la actividad probatoria
+
+> ### 1. Conformación del conjunto de los elementos de juicio (ofrecimiento, admisión, actuación)
+
+> ### 2. Valoración de la prueba (individual (credibilidad) y en conjunto (corroboración))
+
+> ### 3. Decisión sobre los hechos probados (sufiencia probatoria)
+
+---
+
+> # ¿Importan los hechos en el proceso?
+
+> ## - Una decisión es justa sí y solo sí el derecho, la norma, la ley (válido en el OJ) se aplica a los hechos sucedidos en la realidad.
+
+---
+class: animated, fadeIn
+
+# Decisión y aplicación del derecho
+
+> ## La función jurisdiccional en un Estado de Derecho exige dos condiciones de aplicación:
+
+> ### 1. Que la regla a ser aplicada en la resolución del conflicto sea válida.
+
+> ### 2. Que se aplique solo si en la realidad han ocurrido los hechos abstractos descritos en la hipótesis de incidencia normativa.
+
+---
+> # ¿Qué tipo de proceso y de prueba se requiere para que se cumplan, de mejor modo, las condiciones de aplicación?
+
+> Teorías persuasivas y meramente narrativas del proceso 
+
+> vs
+
+> Teorías racionalistas del proceso y de la prueba
+
+> + El proceso es la instancia de aplicación del derecho 
+
+> + La finalidad institucional de la prueba es la averiguación de la verdad
+
+> + (La verdad como correspondencia entre *lo afirmado*  y *la realidad*)
+
+---
+class: middle
+
+> # La averiguación de la verdad
+
+> + Contexto de incerditumbre
+
+> + Falta de información
+
+> + Probabilidad inferencia o lógica: no hay lugar a certezas racionales: solo se puede llegar (también en las ciencias) a un conocimiento más o menos probable: 
+
+> + Las razones justifican el conocimiento
+
+---
+# Valoración y decisión sobre los hechos
+
+## Valoración individual prueba tangible
+
+  1. Valoración individual (análisis de credibilidad)
+
+|Atributos de credibilidad | Prueba tangible |
+|--------------------------|-----------------|
+|Autenticidad |Falsificación |
+|             |Errores en el soporte |
+|             |Cadena de custodia |
+|Exactitud/sensibilidad | Funcionamiento, precisión, del aparato, informe |
+|Fiabilidad | Repetición medida, margen de error análisis estadísticos |
+
+---
+## Valoración individual prueba testimonial
+
+  2.Valoración individual (análisis de credibilidad)
+  
+|Atributos de credibilidad         |Prueba testimonial                |
+|----------------------------------|----------------------------------|
+|Base de la afirmación testimonial |Testigo presencial                |
+|                                  |De oídas                           |
+|                                  |De opinión                         |
+|Veracidad                         |Declaración intencionalmente falsa |
+|                                  |Declaración que cree verdadera, pero es falsa |
+|      |* Conformación de la memoria |
+|      |* Recuperación de la memoria |
+|Objetividad | Sin sesgos (v.g. de confirmación)|
+|Sensibilidad observacional | Defectos sensoriales, condiciones de observación, condición física, foco de atención |
+
+---
+class: middle
+> ## La inmediación no es garantía de credibilidad del testigo (negado experimentalmente)
+
+---
+## Valoración en conjunto
+
+> ### Grado de corroboración de la hipótesis de prueba
+
+> ### Probabilidad lógica (no matemática)
+
+> ### Umbral de suficiencia probatoria: punto a partir del cual se justifica dar por verdadero / cierto / ocurrido un hecho
+
+---
+## Los enlaces de las inferencias probatorias
+
+> #### Epistémico: las máximas de la experiencia: generalizaciones
+
+|Generalizaciones | Descripción |Ejemplo |
+|-----------------|-------------|--------|
+|G. específicas del caso |Hábitos personales, prácticas locales |X usualmente llega tarde al trabajo |
+|G. de contexto | Sentido común (en camino hacia la ciencia) |En AQP las entidades públicas empiezan a atender a las 7:00 a.m. |
+|Conocimiento científico y experticia |Investigación, experimentación |El mesotelioma se produce por exposición al asbesto |
+|Conocimiento general | Cultura media |El BCR fija la tasa de interés legal laboral |
+|G. basadas en la experiencia | Experiencias de primera mano |La X sala laboral de Y siempre pide mostrar el DNI antes de las audiencias |
+|G. de creencias | G. de sentido común |Los que de verdad han cometido una falta son los que no reclaman; el que huye es porque es culpable |
+
+---
+class: middle
+
+> ### Hechos públicos y notorios
+
+> ### Información estadística al alcance de una búsqueda en Google
+
+---
+## Los enlaces de las inferencias probatorias
+
+> ### Legales: las presunciones (legales)
+
+> ### La inferencia, a la conclusión, no la hace el juez, sino que viene hecha por la ley
+
+> + #### Función de garantía de los derechos
+  
+---
+## Los enlaces de las inferencias probatorias
+
+> ### Las definiciones
+
+> ### El problema de clasificación de los hechos
+
+---
+class: center, middle, inverse
+
+# Caso dos 
+
+# Valoración en conjunto
+
+# Mapas argumentativos 
+
+---
+class: middle
+
+> La señora D ha sido trabajadora doméstica en la casa de los padres de tres hermanas. Ella demanda el pago de beneficios sociales desde 1959. Además sostiene que ha sido despedida sin mediar causa justa por lo que pide la IDA. El caso presenta los siguientes medios de prueba. De un lado, se tiene tres testimonios correspondientes a las hermanas de la parte demandada que señalan que la demandante ingresó a laborar en el año 1960 y que no renunció, sino que fue despedida. De otro lado, se tiene un documento elaborado en computadora en el que figura que la causa de extinción del vínculo laboral fue la renuncia al empleo y, además, que laboró del 15 de marzo de 2011 hasta el 26 de abril de 2016. Este documento fue sometido a pericia en materia de grafoscopía, documentoscopía y grafología habiéndose concluido que la firma puesta en él corresponde al puño y letra de la trabajadora.
+
+---
+class: middle
+
+# Preguntas
+
+> ### ¿La señora D fue despedida o renunció?
+
+> ### ¿Ingresó en 1959, 1960 o 2011?
+
+> ### Fundamente su respuesta
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba1.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba2.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba3.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba.svg)
+
+---
+class: inverse, center, middle
+
+# ¡Gracias!
+
+> # *pgparede@pucp.pe*
