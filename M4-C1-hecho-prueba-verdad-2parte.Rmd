@@ -1,0 +1,346 @@
+---
+title: "Hecho, prueba y verdad"
+subtitle: "(Desde la prueba en<br>sentido general)"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "29 de mayo de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# .red[Prueba] y litigación oral
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+class: middle, center, inverse
+
+# Empecemos
+
+---
+class: inverse, middle, center
+
+# La prueba en sentido general
+
+---
+class: middle
+
+.pull-right[
+<ol start=2>
+<li> .azul[La prueba en sentido general]
+  + Objetivo: la prueba de los hechos
+  + Finalidad: la averiguación de la verdad
+  + Ciencia, técnica
+     + Teoría de la prueba
+     + Probática
+  + Argumentación
+     + Razonamiento probatorio
+     + Valoración
+  + Reglas jurídicas
+     + Estándares de prueba
+     + Cargas probatorias
+     + Presunciones
+]
+</ol>
+
+---
+class: center, middle, inverse
+
+# Hecho, prueba, verdad
+
+---
+class: animated, fadeIn, middle
+
+# (recordemos...)
+
+> ## Momentos de la actividad probatoria
+
+> ### 1. Conformación del conjunto de los elementos de juicio (ofrecimiento, admisión, actuación)
+
+> ### 2. Valoración de la prueba (individual (credibilidad) y en conjunto (corroboración))
+
+> ### 3. Decisión sobre los hechos probados (sufiencia probatoria)
+
+---
+class: animated, fadeIn
+
+# ¿Cómo se prueban los hechos en el proceso?
+
+Dos grandes modelos
+
+1. Desconfianza hacia el juzgador
+
+  + Prueba legal o tasada
+  
+  + Juicios por jurado (reglas de exclusión: p.j. Daubert: criterios ded admisión de la prueba pericial)
+  
+2. Confianza hacia el juzgador
+
+  + Íntima convicción
+  
+  + Libre apreciación; sana crítica
+
+---
+class: animated, fadeIn
+
+# FR: Código procesal penal, mod. 01/01/2012
+    
+> Artículo 353
+    
+> Antes de que la Cour d'assises se retire, el presidente dará lectura de la instrucción siguiente, que será, además, anunciada en letras destacadas, en el lugar más visible de la sala de las deliberaciones. 
+    
+> "La ley no preguntará a los jueces sobre los medios por los que han alcanzado el convencimiento, no podrá prescribir las reglas de las que harán depender particularmente la plenitud y la suficiencia de una prueba; les ordenará que se pregunten a sí mismos en el silencio y el recogimiento y que busquen, en la sinceridad de su conciencia, qué impresión les han causado, en su razón, las pruebas esgrimidas contra el acusado, y los medios de su defensa. La ley sólo les hará una pregunta, que reune la totalidad de sus deberes: "¿Tiene usted una íntima convicción?"
+
+---
+class: animated, fadeIn
+
+# Dos concepciones sobre la prueba
+
+1. Concepción persuasiva o psicologista o subjetiva
+
+2. Concepción racionalista
+
+---
+class: animated, fadeIn, center, middle
+
+|  | Concepción persuasiva | Concepción racionalista |
+|--|:----------------------|:------------------------|
+|¿Cuándo está probado un hecho? | Convicción| Grado de corroboración; justificación|
+| Inmediación | Fuerte| Funcional |
+| Recursos | Ausencia | Presencia |
+| Motivación | Explica, o no | Justifica, necesariamente |
+
+---
+class: animated, fadeIn
+
+# Concepción persuasiva
+
+> ### "Mirada desde el punto de vista de las partes, la prueba es, además, una forma de crear la convicción del magistrado. El régimen vigente insta a las partes a agotar los recursos dados por la ley para formar en el espíritu del juez un estado de convencimiento acerca de la existencia e inexistencia de las circunstancias relevantes del juicio".
+
+> ### Couture, Fundamentos del DPC, p. 218.
+
+---
+class: animated, fadeIn
+
+# ¿Cómo elegir entre las dos?
+
+1. El derecho como mecanismo de solución de conflictos (dif. conciliación, arbitraje)
+
+2. Derecho: reglas generales y abstractas. Regulador de la conducta.
+
+  + Valor de la igualdad en la aplicación de la ley
+  
+  + Sobre los hechos ocurridos
+  
+3. Interesa, entonces, averiguar la verdad
+
+---
+class: animated, fadeIn
+
+# Verdad como correspondencia
+
+> "Un enunciado es verdadero, sí y solo sí, se corresponde con la realidad".
+
++ Certezas objetivas no se pueden tener nunca.
+
++ Lo que se tiene es la probabilidad de que sea verdad
+
++ Distinguir:
+
+  + Problemas sobre cómo es el mundo
+  
+  + Problemas de lo que sabemos del mundo: problemas de prueba
+  
+  + La verdad depende del mundo; no de nuestro conocimiento.
+
++ Nuestro conocimiento depende de la prueba.
+
++ La prueba busca la verdad
+
++ La verdad se descubre; no, se construye
+
+---
+class: animated, fadeIn
+
+# Límites en la ciencia y en el proceso
+
++ Hechos pasados, irrepetibles (dif. al conocimiento general)
+
++ Hay otros objetivos que proteger que excluyen pruebas: DDFF; intimidad
+
++ Limitaciones temporales
+
+---
+class: animated, fadeIn, center, middle
+
+> ### Con la prueba buscamos la verdad; con las pruebas existentes al momento que se tomó la decisión; siendo que ese hecho es la hipótesis verdadera con el nivel de estándar probatorio exigido. Eso vale para toda la ciencia.
+
+> ### Jordi Ferrer
+
+---
+class: animated, fadeIn
+
+# ¿Importan los hechos en el proceso?
+
+> ## - Una decisión es justa sí y solo sí el derecho, la norma, la ley (válido en el OJ) se aplica a los hechos sucedidos en la realidad.
+
+---
+class: animated, fadeIn
+
+# Decisión y aplicación del derecho
+
+> ## La función jurisdiccional en un Estado de Derecho exige dos condiciones de aplicación:
+
+> ### 1. Que la regla a ser aplicada en la resolución del conflicto sea válida.
+
+> ### 2. Que se aplique solo si en la realidad han ocurrido los hechos abstractos descritos en la hipótesis de incidencia normativa.
+
+---
+> # ¿Qué tipo de proceso y de prueba se requiere para que se cumplan, de mejor modo, las condiciones de aplicación?
+
+> Teorías persuasivas y meramente narrativas del proceso 
+
+> vs
+
+> Teorías racionalistas del proceso y de la prueba
+
+> + El proceso es la instancia de aplicación del derecho 
+
+> + La finalidad institucional de la prueba es la averiguación de la verdad
+
+> + (La verdad como correspondencia entre *lo afirmado*  y *la realidad*)
+
+---
+class: middle
+
+> # La averiguación de la verdad
+
+> + Contexto de incerditumbre
+
+> + Falta de información
+
+> + Probabilidad inferencia o lógica: no hay lugar a certezas racionales: solo se puede llegar (también en las ciencias) a un conocimiento más o menos probable: 
+
+> + Las razones justifican el conocimiento
+
+---
+# Valoración y decisión sobre los hechos
+
+## Valoración individual prueba tangible
+
+  1. Valoración individual (análisis de credibilidad)
+
+|Atributos de credibilidad | Prueba tangible |
+|--------------------------|-----------------|
+|Autenticidad |Falsificación |
+|             |Errores en el soporte |
+|             |Cadena de custodia |
+|Exactitud/sensibilidad | Funcionamiento, precisión, del aparato, informe |
+|Fiabilidad | Repetición medida, margen de error análisis estadísticos |
+
+---
+## Valoración individual prueba testimonial
+
+  2.Valoración individual (análisis de credibilidad)
+  
+|Atributos de credibilidad         |Prueba testimonial                |
+|----------------------------------|----------------------------------|
+|Base de la afirmación testimonial |Testigo presencial                |
+|                                  |De oídas                           |
+|                                  |De opinión                         |
+|Veracidad                         |Declaración intencionalmente falsa |
+|                                  |Declaración que cree verdadera, pero es falsa |
+|      |* Conformación de la memoria |
+|      |* Recuperación de la memoria |
+|Objetividad | Sin sesgos (v.g. de confirmación)|
+|Sensibilidad observacional | Defectos sensoriales, condiciones de observación, condición física, foco de atención |
+
+---
+class: middle
+> ## La inmediación no es garantía de credibilidad del testigo (negado experimentalmente)
+
+---
+## Valoración en conjunto
+
+> ### Grado de corroboración de la hipótesis de prueba
+
+> ### Probabilidad lógica (no matemática)
+
+> ### Umbral de suficiencia probatoria: punto a partir del cual se justifica dar por verdadero / cierto / ocurrido un hecho
+
+---
+## Los enlaces de las inferencias probatorias
+
+> #### Epistémico: las máximas de la experiencia: generalizaciones
+
+|Generalizaciones | Descripción |Ejemplo |
+|-----------------|-------------|--------|
+|G. específicas del caso |Hábitos personales, prácticas locales |X usualmente llega tarde al trabajo |
+|G. de contexto | Sentido común (en camino hacia la ciencia) |En AQP las entidades públicas empiezan a atender a las 7:00 a.m. |
+|Conocimiento científico y experticia |Investigación, experimentación |El mesotelioma se produce por exposición al asbesto |
+|Conocimiento general | Cultura media |El BCR fija la tasa de interés legal laboral |
+|G. basadas en la experiencia | Experiencias de primera mano |La X sala laboral de Y siempre pide mostrar el DNI antes de las audiencias |
+|G. de creencias | G. de sentido común |Los que de verdad han cometido una falta son los que no reclaman; el que huye es porque es culpable |
+
+---
+class: middle
+
+> ### Hechos públicos y notorios
+
+> ### Información estadística al alcance de una búsqueda en Google
+
+---
+## Los enlaces de las inferencias probatorias
+
+> ### Legales: las presunciones (legales)
+
+> ### La inferencia, a la conclusión, no la hace el juez, sino que viene hecha por la ley
+
+> + #### Función de garantía de los derechos
+  
+---
+## Los enlaces de las inferencias probatorias
+
+> ### Las definiciones
+
+> ### El problema de clasificación de los hechos
+
+---
+class: inverse, center, middle
+
+# ¡Gracias!
+
+> # *pgparede@pucp.pe*

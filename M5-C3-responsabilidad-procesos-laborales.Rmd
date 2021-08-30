@@ -1,0 +1,290 @@
+---
+title: "Responsabilidad y procesos laborales"
+subtitle: "Módulo 5"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "5 de julio de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+
+---
+
+```{r xaringan-logo, echo=FALSE}
+xaringanExtra::use_logo(
+  image_url = "https://raw.githubusercontent.com/PaulParedes/materiales/master/logo-amag-removebg.png"
+)
+```
+
+
+
+
+
+---
+class: center, middle, animated, slideInRight
+
+# En las dos clases anteriores
+
+## El derecho de daños y la justicia correctiva
+
+### ¿La responsabilidad o el derecho de daños, en el ámbito laboral, tiene alguna particularidad? Si la tiene ¿en qué consistiría esta?
+
+---
+class: animated, fadeIn
+
+# La responsabilidad (civil) en el ámbito laboral
+
+## 1. Enfoque clásico
+
+## 2. Enfoque desde la justicia distributiva y la justicia correctiva
+
+---
+class: animated, fadeIn
+
+# 1. El enfoque clásico
+
+- La responsabilidad es materia civil
+
+- No hay razones para diferenciarlo con otros ámbitos
+
+- Aplica subsidiariamente, en lo laboral, la dogmática civil clásica
+
+- La responsabilidad se divide en:
+  + Contractual
+  + Extracontractual
+  
+- La responsabilidad en el ámbito laboral {despido, AT, EP} es (civil) contractual
+
+**Por tanto:** se trata de verificar la presencia de los 4 elementos de la responsabilidad contractual:
+  1. Conducta antijurídica (- incumplimiento de la ley, del contrato)
+  2. Daño
+  3. Nexo causalidad
+  4. Factor de atribución: - Dolo, - Culpa inexcusable, o - Culpa leve
+
+---
+class: animated, slideInRight
+
+# 2. El enfoque desde la justicia distributiva y la justicia correctiva
+
+- Tendencia a la unificación de los sistemas de responsabilidad
+
+- Se habla de responsabilidad civil vs. responsabilidad penal, pero abarca muchos campos, incluido el laboral
+
+- La unificación significa que los linderos de la responsabilidad contractual vs. la extracontractual se difuminan
+
+- No se reconoce que hay diferencia entre que haya, o no, un contrato de por medio, pero ya no es un criterio de separación entre "sistemas".
+
+- P. ej. el CCyC argentino de 2014
+
+- O "Los principios de derecho europeo de la responsabilidad civil", Viena 2005
+
+- Se habla de derecho de daños, *tort law*
+
+---
+class: animated, bounceInDown
+
+# Aspectos problemáticos en los casos de responsabilidad por despido 
+
++ Extensión del daño: daño emergente, lucro cesante, daño moral
+
++ Cuantificación del lucro cesante (ganancias dejadas de percibir: ingresos - gastos:: ¿qué ingresos; qué gastos?)
+
++ Prueba del daño moral (psicológico: dolor, sufrimiento)
+
++ Cuantificación del daño moral
+
+---
+class: animated, fadeIn
+
+# Aspectos problemáticos en los casos de responsabilidad por accidente de trabajo y por enfermedad profesional
+
+¿Qué tipo de responsabilidad aplica?
+
+> Artículo 53. Indemnización por daños a la salud en el trabajo
+
+>	El incumplimiento del empleador del deber de prevención genera la obligación de pagar las indemnizaciones a las víctimas, o a sus derechohabientes, de los accidentes de trabajo y de las enfermedades profesionales. En el caso en que producto de la vía inspectiva se haya comprobado fehacientemente el daño al trabajador, el Ministerio de Trabajo y Promoción del Empleo determina el pago de la indemnización respectiva.
+
+> Ley 29783, LSST
+
+---
+class: animated, fadeIn
+
+# Aspectos problemáticos en los casos de responsabilidad por accidente de trabajo y por enfermedad profesional
+
++ Extensión del daño: daño emergente, lucro cesante, daño moral
+
++ Cuantificación del lucro cesante (ganancias dejadas de percibir: ingresos - gastos:: ¿qué ingresos; qué gastos?)
+
++ Prueba del daño moral (daño físico, daño psicológico, ¿proyecto de vida?)
+
++ Cuantificación del daño moral (cuantificación del valor vida)
+
+---
+class: animated, fadeIn
+
+# Aspectos a considerar en un caso de responsabilidad (por despido arbitrario, accidente de trabajo o enfermedad profesional)
+
++ Hechos pasados y hechos futuros: extensión del daño
+
++ Identificar al (o los) responsable(s)
+
++ Identificar la(s) obligación(es) incumplida(s) (acciones, omisiones)
+
++ Identificar causas (concurrentes) y efectos
+
++ Identificar el tipo de daño (patrimonial, extrapatrimonial)
+
++ Cuantificar los daños
+
++ La prueba de los elementos de la teoría del caso
+
+---
+class: animated, fadeIN
+
+# Plantear la teoría del caso
+    
+> ## Posibles pretensiones
+
+> ## Elementos integrantes de la teoría del caso
+
+---
+class: animated, bounceInDown, center, middle, inverse
+
+# La prueba de la relación causal
+
+---
+class: animated, slideInRight
+
+# Teorías sobre la causalidad
+
+## 1. Hume, 1711-1776 . Teoría de la regularidad causal
+
+La causa es temporalmente, previa, y espacialmente, contigua, respecto de su efecto. Y similares eventos se presentan constantemente conjuntos.
+
+## 2. Hume. Teoría contrafáctica de la causalidad
+
+> “We may define a cause to be an object, followed by another, and where all the objects similar to the first are followed by objects similar to the second. Or in other words where, if the first object had not been the second never had existed.”
+
+***
++ No hay una necesaria conexión, sino regularidad en las leyes de la naturaleza.
+
+---
+class: animated, fadeIn
+
+# Teorías de la causalidad
+
+## 3. Teorías que afirman la existencia de una necesaria conexión intrínseca entre causa y efecto.
+
++ Teorías singularistas, antes que regulares, donde la causalidad es un proceso físico.
+
+## 4. Teorías de la probabilidad (estadística)
+
+---
+class: animated, fadeIn
+
+# Algunas discusiones
+
+## La causalidad es una relación binaria: c causa e
+
+> La bola de billar golpea la bola de billar
+
+## La concepción binaria es muy simple
+
+1. No siempre se requiere contacto: "La luna causa el oleaje sin que la luna toque el mar".
+
+2. Antes que decir que A causa B, mejor es decir que A se opone a otro A* que causa B en lugar de B*
+
+---
+class: animated, fadeIn
+
+## La causalidad es una relación cuaternaria: **c** en lugar de __C*__ causa **e** antes que __E*__
+
+> El choque del camión, pero no el sistema eléctrico del camión, causa las lesiones en el transeunte pero no su muerte.
+
+---
+class: animated, fadeIn
+
+# ¿Solo hay causalidad en los elementos físicos?
+
+# Causalidad mental (mente y cerebro)
+
+## La causalidad mental es independiente de la causalidad física 
+
+## La causalidad mental no es independiente de la causalidad física
+
+### ¿Libre albedrío?
+
+---
+class: animated, fadeIn
+
+# Causalidad mental
+
+## Causalidad descendente (Benjamin Libet, Walter Sinnott-Armstrong)
+
+Hay un sistema superior donde se producen los eventos mentales (estados mentales: intenciones, experiencias); y un sistema inferior donde se producen los eventos físicos (estados físicos del cerebro).
+
+> ¿Los estados mentales son estados físicos?
+
+---
+class: animated, fadeIN
+
+# Causalidad mental
+
+¿Objetos de la mente? 
+Estados cualitativos: deseos, emociones, sensaciones, pena, amor
+
+Estados intencionales: creencias
+
+¿Características? Tienen un contenido, una intención; responde a la experiencia. 
+
+¿Relaciones? Racionales: las creencias son verdaderas o falsas.
+
+
+---
+class: animated, fadeIn
+
+# Causalidad mental 
+
+La causa son conceptos abstractos (Estados mentales) que llevan a hacer o decir algo
+
+
+Afirmaciones de la forma A causa B es verdadera por una relación causal entre A y B de cualquier modo como A y B sean descritos; pero solo ciertas descripciones de A y B terminan siendo una explicación.
+
+Entonces:
+
+Las razones son causas porque las razones explicativas son una especie de explicación causal. Pero cualquier explicación causal ordinaria tiene sentido respecto de un evento si ese evento encaja en el cuadro de las leyes uniformes de la naturaleza; por su parte, las razones explicativas hacen sentido sobre un comportamiento si encaja como un acto de un sujeto racional.
+
+---
+class: animated, fadeIn
+
+# Causalidad mental
+
+Juan levanta el brazo porque se han producido múltiples descargas en su cerebro.
+
+Juan levanta el brazo porque está saludando. 
+
+Porque pide auxilio.
+
+Porque está espantando una mosca.
+
+¿Cuál es su intención?
+
+Las razones de una acción son su causa. La que aparece como racional en la situación dada.
+
+Causa - efecto | Motivo - acto | Motivo antisindical - despido
+
+
+---
+class: center, middle, inverse, animated, bounceInDown
+
+# ¡Muchas gracias!

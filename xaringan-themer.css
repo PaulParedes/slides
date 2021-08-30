@@ -15,7 +15,7 @@
  *    - xaringan wiki: https://github.com/yihui/xaringan/wiki
  *    - remarkjs wiki: https://github.com/gnab/remark/wiki
  *
- *  Version: 0.3.4
+ *  Version: 0.4.0
  *
  * ------------------------------------------------------- */
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&display=swap);
@@ -44,21 +44,21 @@
 
   /* Colors */
   --text-color: #000000;
-  --header-color: #2C2F4D;
+  --header-color: #035AA6;
   --background-color: #FFFFFF;
-  --link-color: #2C2F4D;
-  --text-bold-color: #2C2F4D;
+  --link-color: #035AA6;
+  --text-bold-color: #035AA6;
   --code-highlight-color: rgba(255,255,0,0.5);
   --inverse-text-color: #000000;
-  --inverse-background-color: #F97B64;
+  --inverse-background-color: #03A696;
   --inverse-header-color: #FFFFFF;
-  --inverse-link-color: #2C2F4D;
-  --title-slide-background-color: #2C2F4D;
+  --inverse-link-color: #035AA6;
+  --title-slide-background-color: #035AA6;
   --title-slide-text-color: #FFFFFF;
-  --header-background-color: #2C2F4D;
+  --header-background-color: #035AA6;
   --header-background-text-color: #FFFFFF;
-  --primary: #2C2F4D;
-  --secondary: #F97B64;
+  --primary: #035AA6;
+  --secondary: #03A696;
   --white: #FFFFFF;
   --black: #000000;
 }
@@ -101,14 +101,17 @@ h1, h2, h3 {
 }
 .remark-inline-code {
   font-size: var(--code-inline-font-size);
-  color: #2C2F4D;
+  color: #035AA6;
 }
 .remark-slide-number {
-  color: #2C2F4D;
+  color: #035AA6;
   opacity: 1;
-  font-size: 0.9em;
+  font-size: 0.9rem;
 }
-strong { color: var(--text-bold-color); }
+strong {
+  font-weight: bold;
+  color: var(--text-bold-color);
+}
 a, a > code {
   color: var(--link-color);
   text-decoration: none;
@@ -149,10 +152,10 @@ a, a > code {
   float: left;
 }
 .left-column h2, .left-column h3 {
-  color: #2C2F4D99;
+  color: #035AA699;
 }
 .left-column h2:last-of-type, .left-column h3:last-child {
-  color: #2C2F4D;
+  color: #035AA6;
 }
 .right-column {
   width: 75%;
@@ -174,7 +177,7 @@ img, video, iframe {
   max-width: 100%;
 }
 blockquote {
-  border-left: solid 5px #F97B6480;
+  border-left: solid 5px #03A69680;
   padding-left: 1em;
 }
 .remark-slide table {
@@ -189,7 +192,7 @@ th, td {
   padding: 5px;
 }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) {
-  background: #FDE4E0;
+  background: #CCEDEA;
 }
 table.dataTable tbody {
   background-color: var(--background-color);
@@ -199,7 +202,7 @@ table.dataTable.display tbody tr.odd {
   background-color: var(--background-color);
 }
 table.dataTable.display tbody tr.even {
-  background-color: #FDE4E0;
+  background-color: #CCEDEA;
 }
 table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   background-color: rgba(255, 255, 255, 0.5);

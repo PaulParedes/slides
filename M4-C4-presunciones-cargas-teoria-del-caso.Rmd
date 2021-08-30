@@ -1,0 +1,284 @@
+---
+title: "Cargas de la prueba y presunciones legales"
+subtitle: "Estándares de prueba. Teoría del caso."
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "21 de junio de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight, inverse
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2b2d42",
+  secondary_color = "#ef233c",
+  inverse_header_color = "#edf2f4"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Empecemos
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+class: animated, fadeIn
+
+# Carga de la prueba y presunción
+
+> "La presunción es una herramienta usada en la prueba de los hechos en juicio para permitir que una proposición (una afirmación de hecho) sea considerada como un elemento de juicio (un elemento de prueba) en un caso, aun cuando el argumento que apoya dicha proposición no es suficientemente sólido para alcanzar el estándar de prueba requerido. (...). La carga de la prueba fija un estándar para determinar lo que se considera probado, en el razonamiento probatorio en el derecho".
+
+> Douglas Walton, Burden of Proof, Presumption and Argumentation, Cambridge UP, p. 1.
+
+---
+class: animated, fadeIn
+
+# Contexto de la prueba
+
+> + Incertidumbre
+
+> + Ausencia de conocimiento
+
+> + Inconsistencia
+
+> + "Argumento *ad ignorantiam*" (apelar a la ignorancia)
+
+---
+class: animated, fadeIn
+
+# Argumento *ad ignorantiam*
+
+> + Sobre la vida en otros planetas:
+
+>   + No se puede probar que no haya vida en otros planetas.
+
+>   + Por lo tanto, hay vida en otros planetas.
+
+>   + No se puede probar que haya vida en otros planetas.
+
+>  + Por lo tanto, no hay vida en otros planetas.
+
+---
+class: animated, fadeIn, middle 
+
+# Un ejemplo en un caso laboral
+
+> + ### .left[No se puede probar la existencia de horas extras, entonces,]
+
+> + ### .left[Por lo tanto, no hay horas extras]
+
+---
+# Pregunta:
+
+# .center[
+.red[¿Cuál es el problema con este modo de argumentar?]
+]
+
+---
+class: animated, fadeIn, center, middle
+
+> ### Detrás, la idea de que "el que calla otorga". Pero tiene el problema de que no analiza las razones de por qué "se calla". Se podría callar por distintas razones.
+
+---
+
+class: animated, fadeIn
+
+# Tipos de carga de la prueba: (Prakken y Sartor)
+
+>1. La carga de la persuasión (riesgo de no persuasión*)
+
+>  + La regla por defecto (de la carga de la prueba): *necessitas probandi ei qui agit*
+  
+>  + La inversión de la carga de la prueba (presunciones legales)
+  
+>  + Según la posición en el conocimiento de los hechos de la causa: *United States v. New York 1957*
+
+>2. La carga de la producción (carga de producir evidencia)
+
+>3. La carga táctica de la prueba*
+
+---
+class: animated, fadeIn
+
+# Carga probatoria en la NLPT
+
+> + La presunción de laboralidad
+
+> + Los indicios que permitan presumir la existencia del hecho lesivo alegado
+
+> + Presunción derivada de la conducta de las partes 
+
+---
+class: animated, fadeIn
+
+# Los estándares de prueba
+
+> "Los estándares de prueba son reglas que determinan el grado el grado de confirmación que una hipótesis debe tener, a partir de las pruebas , para poder ser dada por probada a los efectos de adoptar una determinada decisión; pero al hacerlo, realizan también una segunda función de la mayor importancia, i.e., distribuir el riesgo del error entre las partes; y evidentemente es una cuestión política y no epistemológica determinar cuánto riesgo de error nos parece asumible que soporte cada una de las partes en un procedimiento judicial".
+
+> Jordi Ferrer. Prueba sin convicción. Marcial Pons, Madrid, 2021, p. 24
+
+---
+
+# Ejemplos de estándares de prueba
+
++ ### Prueba mínima: principio de prueba: *Scintilla of evidence*
+
++ ### Prueba prevaleciente o preponderante: *Preponderance of evidence*
+
++ ### Prueba clara y convincente: *Clear and convincing evidence*
+
++ ### Más allá de toda duda razonable: *Beyond reasonable doubt*
+
+> ### Douglas Walton. Burden of proof, presumption and argumentation. Cambridge UP, NY, 2014, pp. 57-61
+
+---
+class: animated, fadeIn, inverse, center, middle
+
+# Teoría del caso y técnicas de litigación oral
+
+---
+class: center, middle
+
+# Analice el siguiente caso
+
+---
+class: center, middle
+
+> ## Tres niños y una flauta
+
+> ## Amartya Sen (2009), The idea of justice, The Belknap Press, pp. 12-15.
+
+---
+class: center, middle
+
+> ## ¿A quién le entregaría usted la flauta y por qué?
+
+> ## 1. Escriba una lista de las razones de hecho y de derecho en sustento de su respuesta
+
+> ## 2. Exponga la justificación de su respuesta
+
+---
+class: center, middle
+
+> # Identifique el caso: ¿qué ha necesitado para ello?
+
+---
+class: center, middle
+
+> ## Usted ha necesitado dos cosas:
+
+> ## 1. Una regla de derecho (una norma)
+
+> ## 2. Un conjunto de hechos que "pertenecen" | "entran" | "encajan" | en la regla de derecho
+
+---
+class: animated, fadeIn, center, middle
+
+> ## Diferencia entre "Teoría del caso" y "Técnicas de litigación oral"
+
+> ## *"Theory of the case"* vs. *"Courtroom tactics"*
+
+---
+class: animated, fadeIn, center, middle
+
+> ### *This conception of ‘theory’ serves the function of isolating that aspect of advocacy which is concerned with .red[rational arguments] from .red[other aspects], such as commanding attention, communication, questioning, persuasive presentation and various courtroom tactics. The conception is also analytically convenient in that it provides a clear connection with theories of legal reasoning.*
+
+> ### William Twining (2006), *Rethinking evidence*, Cambridge University Press, p. 290.
+
+---
+class: animated, fadeIn, center, middle
+
+> ### .red[La teoría del caso] es la afirmación lógica formulada como un argumento que apoya una o más conclusiones sobre el caso como un todo.
+
+> ### Terence Anderson, David Schum, William Twining (2005), *Análisis de la prueba*, Marcial Pons, p. 160.
+
+---
+class: animated, fadeIn, middle
+
+> ## Condiciones para una teoría del caso o,
+
+dicho de otro modo,
+
+> ## Condiciones para la aplicación de derecho que recoge la pretensión/defensa planteada
+
+  > ### Interpretar la norma, en el supuesto de hecho y en la consecuencia
+
+  > ### Identificar los problemas de prueba y los problemas de calificación
+
+---
+class: animated, fadeIn, middle
+
+# Plantear el caso | Formular las pretensiones/defensas
+
+> ### 1. Identificar la regla de derecho que resuelve el conflicto
+
+> ### 2. Determinar los elementos del supuesto de hecho
+
+> ### 2.1. Distribuir el riesgo procesal: .red[la carga de la prueba]
+
+> ### 3. Relacionar la prueba con cada uno de los elementos
+
+> ### 4. ---> plantear el caso
+
+---
+# Argumentación sobre hechos
+
+## Tres (3) concepciones de la argumentación
+
+### 1. .red[Concepción formal]: lógica deductiva: argumentar es deducir
+  
+### 2. .red[Concepción material]: conocimiento: *justified true believe*: epistemología, leyes científicas, máximas de la experiencia: argumentar es fundamentar
+  
+### 3. .red[Concepción pragmática]: dialéctica (justificar una decisión con base en razones) o retórica (persuasión actoral al auditorio): argumentar es convencer
+
+---
+# Argumetación sobre hechos
+
+### Cuatro modos de debatir (Josep Aguiló)
+
+|Tipo de debate | Modo de debatir | Metáfora | Finalidad | 
+|:--------------:|:---------:|:--------:|:---------:|
+|Disputa | Combatir | Bélica | Imponerse al otro |
+|Controversia  |Competir  | Deportiva | Opinión prevaleciente |
+|Diálogo racional |Explorar/diagnosticar | Médica/judicial | Resolver un problema |
+|Consenso |Construir | Constructiva | Alcanzar un consenso |
+
+> #### Josep Aguiló. El arte de la mediación. Argumentación, negociación y mediación. Editorial Trotta, Madrid, 2015, pp. 31-55.
+
+---
+class: center, middle 
+
+# Razonamiento probatorio
+
+![:scale 65%](puntos.jpg)
+
+---
+class: inverse, center, middle
+
+# ¡Gracias!
+
+# *pgparede@pucp.pe*
