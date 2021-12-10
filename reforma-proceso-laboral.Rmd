@@ -1,0 +1,570 @@
+---
+title: "Reforma del proceso laboral"
+subtitle: ""
+author: "Paul Paredes"
+institute: ""
+date: "26 de noviembre de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# .red[Argumentación] judicial
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+# .red[Plan de la ponencia]
+
+### 1. Argumentación jurídica (razonamiento jurídico)
+
+### 2. Las 3 perspectivas del razonamiento jurídico
+
+### 3. La argumentación judicial
+
+### 4. Evaluación de los argumentos
+
+---
+class: middle, center, inverse
+
+# Empecemos
+
+---
+# La argumentación jurídica
+
+### Concepto amplio de argum. jdca.
+
++ relativo a un lenguaje
+
++ presuponen un problema a resolver
+
++ implican una actividad (razonar, argumentar) y un resultado (un argumento, una razón, una conclusión)
+
++ susceptibles de ser evaluados, criticados
+
+---
+# La argumentación jurídica
+
+### Perspectivas, enfoques, concepciones, de la argumentación jurídica
+
+1. Formal
+
+2. Material
+
+3. Pragmática: + Retórica + Dialéctica
+
+***
+  
+> "Lo peculiar (...) del razonamiento jurídico es que en el mismo (...) deben considerarse las tres perspectivas, aunque alguna de ellas pueda ser predominante, según el campo del derecho, la institución jurídica o el tipo de operador (...) que se tome en consideración".
+>
+> Atienza, 2015, Razonamiento jurídico, Madrid, Marcial Pons, p. 204.
+
+---
+class: inverse, center, middle
+
+# El razonamiento jurídico en cada una de las 3 perspectivas
+
+---
+# Formal
+
+### Inferir e inferencia
+
++ Pasar de las premisas a la conclusión
+
++ Una relación de inferencia
+
++ El resultado de inferir
+
+???
+
++ Pasar de unos enunciados a otros
+
+---
+# Formal
+
+### Tipos de inferencia
+
++ Deductivas
+
+> Si las premisas son verdaderas, entonces, la conclusión es necesariamente verdadera (con independencia de su contenido de verdad o de su corrección)
+
++ Inductivas o no deductivas
+
+> Las premisas podrían ser verdaderas, pero no la conclusión
+
++ Abductivos (Charles Peirce)
+
+> Dan pie a nuevas ideas. Función heurística.
+> 
+> Debe usarse con precaución. Carácter revisable, derrotable.
+
+---
+# Formal
+
+### En la aplicación del derecho
+
++ "El silogismo subsuntivo".
+
++ "Si se cumple con las condiciones de aplicación X, entonces, la consecuencia jurídica *debe ser* S".
+
+***
+
+> Jerzy Wróblewski 
+
+> "La justificación interna trata de la validez de las inferencias de unas premisas dadas a una decisión jurídica tomada como conclusión. La decisión en cuestión está internamente justificada si las inferencias son válidas y la solidez de las premisas no se pone a prueba...".
+
+> Wróblewski, Jerzy, 1971, “Legal Decision and Its Justification”, Logique et Analyse 14, 53, p. 412.
+
+---
+# Formal 
+
+### Tipos de argumentos - Problemas normativos - interpretativos
+
+.pull-left[
+
++ Argumento *a contrario sensu*
+
+> Evita extender una consec. jdca. a un caso explícitamente no previsto.
+>
+> Condición suficiente o condición necesaria (solo si *p*).
+
++ Argumento *a pari* o por analogía
+
+> *q* es similar a *p*
+]
+
+.pull-right[
+
++ Argumento *a fortiori*: *a maiore ad minus*; *a minori ad maius*
+
+> Refuerza un argumento previo.
+>
+> Caso no previsto explícitamente, pero las razones de N se aplican con mayor intensidad.
+
++ Argumento por reducción al absurdo
+
+> Sirve para descartar una interpretación por absurda (encierra una contradicción)
+]
+
+---
+# Ejemplos
+
+### Argumento a contrario sensu
+
+> Art. 23°.- El trabajo, en sus diversas modalidades, es objeto de atención prioritaria del Estado, el cual protege especialmente a la madre, al menor de edad y al impedido que trabajan.
+
+--
+
+> ¿Protege a las/los trabajadores jóvenes?
+
+---
+### Argumento *a pari*
+
+> Art. 23°.- El trabajo, en sus diversas modalidades, es objeto de atención prioritaria del Estado, el cual protege especialmente a la madre, al menor de edad y al impedido que trabajan.
+
+--
+
+> ¿Protege a las/los dirigentes sindicales?
+
+---
+### Argumento *a fortiori*
+
+> Art. 23°.- El trabajo, en sus diversas modalidades, es objeto de atención prioritaria del Estado, el cual protege especialmente a la madre, al menor de edad y al impedido que trabajan.
+
+--
+
+> ¿Protege a las/los menores que, además, tienen una condición física particular?
+
+---
+### Argumento por reducción al absurdo
+
+> Art. 28°.- El Estado reconoce los derechos de sindicación, negociación colectiva y huelga. Cautela su ejercicio democrático:
+> 2. Fomenta la negociación colectiva (...)
+
+> Si el Estado fomenta la negociación colectiva ¿los convenios colectivos deben ser extendidos a los no afiliados?
+
+---
+# Formal
+
+### Tipo de argumento - Respecto de la premisa fáctica
+
+> Una serie de acontecimientos individuales relacionados con una regla general (máxima de la experiencia, ley o definición) de lo cual se concluye, *probablemente* el hecho h.
+
+---
+# Formal
+
+### La premisa normativa del razonamiento judicial
+
+.pull-left[
++ Una regla (de acción) : un caso configurado con propiedades genéricas donde la solución normativa es una acción (obligatorio, prohibido o permitido)
+
+> clasificar, subsumir
+
++ Una regla (de fin) : un caso configurado con prop. genér. donde la solución normativa es la producción de un estado de cosas en una medida determinada
+
+> excepcional: razonamiento finalista, más discrecional (no arbitrario), hacia el futuro
+]
+
+.pull-right[
++ Un principio : un caso sin configurar, pero la solución es una acción
+
+> caso de lagunas normativas, lagunas axiológicas, vacío
+>
+> ponderar:> 2 principios : uno permite A, el otro prohíbe A : bajo ciertas circunstancias X : uno de los principios (Y) prima sobre el otro (Z) --> si se dan las circunstancias X, aplica el principio Y 
+
++ Una directriz : un caso sin configurar, pero la solución es producir un estado de cosas en la mayor medida posible. Es más una tarea legislativa, de la administración, que de los jueces
+]
+
+---
+class: inverse, middle, center
+
+# Interpretación (judicial)
+
+---
+# Interpretación
+
+1. Ambigüedad (Wróblewski)
++ Asignar un sentido, un significado, a cualquier "entidad".
++ Asignar un sentido, un significado, a una entidad, expresión, lingüística.
++ Asignar un significado a una expresión lingüística cuando existen dudas sobre ese significado en un caso concreto de comunicación.
+
+2. Ambigüedad (Tarello)
++ Interpretación como actividad (el proceso de interpretar)
+  + Captación del sentido de modo intuitivo
+  + A través de un pensamiento discursivo, una argumentación
+    1. La interpretación es necesaria siempre
+    2. ***In claris non fit interpretatio*** 
+
++ Interpretación como resultado (el producto de la actividad)
+  1. La interpretación como significado (lo que se ha entendido)
+  2. La interpretación como enunciado o proposición donde la disposición jurídica D significa S, lo cual es la conclusión de un argumento.
+ 
+---
+# Esquema interpretativo
+
+**(Atienza)**
+<br>
+<br>
+
+(1) Enunciado a interpretar
+
+**(2) Enunciado interpretativo**
+
+***
+
+(3) Enunciado interpretado
+<br>
+<br>
+
+**(Guastini)**
++ Decisión interpretativa propia
++ Decisión interpretativa de un tercero
+
+---
+# Un ejemplo
+
+(1) Si no se hubiese llegado a un acuerdo en negociación directa o en conciliación, de haberla solicitado los trabajadores, podrán las partes someter el diferendo a arbitraje. (art. 61 TUO LRCT)
+
+(2a) Podrán las partes (por acuerdo de partes) someter el diferendo a arbitraje; o,
+
+(2b) Podrán las partes (cualquiera de ellas) someter el diferendo a arbitraje
+
+***
+
+(3) Si no hay acuerdo en trato directo, podrán las partes someter el diferendo a arbitraje en 2a o 2b.
+
+(4) El TC ha interpretado que en 2b
+
+---
+# Objeto de la interpretación
+
++ Interpretación de la ley (interpretatio legis)
+
+  + "D significa S" (¿pero cómo se llega a D?)
+
++ Interpretación del derecho (interpretatio iuris)
+
+  + "D significa S", pero también
+  + Ponderación de normas
+  + Resolución de antinomias
+  + Integración de lagunas
+  
+---
+# Modo de interpretar
+
++ En abstracto (interpretación doctrinal)
+
++ En concreto (interpretación judicial)
+  + Orientada a los hechos (Wróblewski)
+  + Subsumir un caso concreto en el campo de una norma identificada previamente en abstracto (Guastini)
+
+---
+# Cómo se interpreta (actividad discursiva)
+
+### Los cánones interpretativos y las teorías sobre la interpretación
+.pull-left[
+(Savigny) (elementos)
+1. Gramatical
+2. Lógico
+3. Histórico
+4. Sistemático
+
+(MacCormick) (argumentos interpretativos)
+1. Lingüísticos (significados ordinario y técnico)
+2. Sistémicos
+3. Teleológicos y deontológicos
+4. Intención del autor*
+]
+
+.pull-right[
+(STC 5854-2005-AA/TC, f. 12)
+1. Literal
+2. Teleológico
+3. Sistemático
+4. Histórico
+]
+---
+# La interpretación jurídica 
+
+> La interpretación jurídica consiste en la atribución de sentido o significado a los enunciados jurídicos (Gascón)
+
+> La interpretación jurídica consiste en argumentar a favor de atribuir un determinado sentido a un objeto (Lifante)
+
+## Según quién sea el intérprete
+1. Interpretación auténtica
+2. Interpretación oficial
+3. Interpretación doctrinal
+4. Interpretación judicial, la que realiza un órgano jurisdiccional.
+
+---
+class: inverse, center, middle
+
+# 2. Las normas de origen judicial
+
+---
+# Las normas de origen judicial:<br>jurisprudencia y precedente 
+
+## La sentencia (dos puntos de vista)
+
++ Sentencia como resultado institucional (acto jurídico a partir de una norma que confiere el poder, a los jueces, de dictar sentencias)
+
++ Sentencia como documento normativo: considerandos y fallo (norma particular dirigida a las partes (u otros) del proceso para resolver un conflicto). 
+  + La fundamentación trata de mostrar que el fallo es correcto.
+
+---
+# Dos modelos de incorporación de normas<br>de origen judicial al derecho objetivo
+
+.pull-left[
++ El modelo de la jurisprudencia (más cercano al civil law)
+  + Las sentencias son un conjunto de documentos del que se extraen normas jurídicas generales.
+  + Idea de reiteración en la aplicación de un mismo criterio.
+  + Se habla de "línea jurisprudencial"
+  + Interesa la jerarquía: las altas cortes
+  + Las altas costes unifican "doctrina jurisprudencial"
+  + ¿Son vinculantes?
+]
+
+.pull-right[
++ El modelo del precedente (más cercano al common law)
+  + La *ratio decidendi* que se usa para resolver el caso **vincula** en el futuro al propio tribunal y a los tribunales inferiores.
+  + Aplica la doctrina del *stare decisis*; vincula a las futuras decisiones sobre el mismo objeto.
+  + Su fuerza es persuasiva antes que "obligatoria" o "vinculante" (Taruffo)
+  + El segundo juez tiene 3 alternativas:
+     1. Declarar y aplicar el precedente (declare)
+     2. Distinguir su caso (distinguish)
+     3. No aplicarlo por mal dado el precedente (overrule)
+]
+
+---
+# Puntos de contacto
+
+### Premisas
+
+.pull-left[
++ Al aplicar derecho se necesita justificar la decisión.
++ Para ello se requiere utilizar una norma universal, y con ello, reconocer que tiene implicancias hacia el futuro: resolver igual los casos iguales (igualdad de trato).
++ Si el derecho objetivo se mantiene estable, un juez debe resolver de igual modo a como lo hizo con anterioridad, so pena de incurrir en arbitrariedad o irracionalidad.
+]
+
+.pull-right[
++ Ese juez tiene, entonces, 3 alternativas aceptables:
+  1. Resolver igual
+  2. Distinguir, a partir de una propiedad relevante
+  3. No aplicar el caso anterior señalando que estuvo mal resuelto por problemas con la norma universal previamente aplicada
+
++ En ambos modelos las guías son:
+  + La igualdad ante la ley
+  + La legalidad de la decisión
+  + La independencia judicial
+  + La imparcialidad
+]
+
+
+
+---
+# Material
+
+> Los argumentos son razones que se dan a favor, o en contra, de una tesis, de una conclusión. Aquí importan las premisas: (verdaderas o correctas)
+
+### Tipos de razones
+
++ Razones teóricas (para creer en algo)
++ Razones prácticas (para actuar)
++ Razones explicativas
++ Razones justificativas
+
+---
+# Material
+
+### Justificación externa
+
+> Jerzy Wróblewski 
+
+> "La justificación externa de la decisión jurídica pone a prueba no sólo la validez de las inferencias, sino también la solidez de las premisas. El amplio alcance de la justificación externa es exigido especialmente en la decisión judicial debido a los más altos estándares que se le imponen".
+
+> Wróblewski, Jerzy, 1971, “Legal Decision and Its Justification”, Logique et Analyse 14, 53, p. 412.
+
+---
+# Pragmática : dialéctica
+
+### Justificación de la premisa fáctica
+
+### Los enlaces de las inferencias probatorias
+
+> ### 1. Epistémico
+
+> ### 2. Legal
+
+> ### 3. Conceptual (las definiciones)
+
+---
+# Los enlaces de las inferencias probatorias
+
+> #### Epistémico: las máximas de la experiencia: generalizaciones
+
+|Generalizaciones | Descripción |Ejemplo |
+|-----------------|-------------|--------|
+|G. específicas del caso |Hábitos personales, prácticas locales |X usualmente llega tarde al trabajo |
+|G. de contexto | Sentido común (en camino hacia la ciencia) |En AQP las entidades públicas empiezan a atender a las 7:00 a.m. |
+|Conocimiento científico y experticia |Investigación, experimentación |El mesotelioma se produce por exposición al asbesto |
+|Conocimiento general | Cultura media |El BCR fija la tasa de interés legal laboral |
+|G. basadas en la experiencia | Experiencias de primera mano |La X sala laboral de Y siempre pide mostrar el DNI antes de las audiencias |
+|G. de creencias | G. de sentido común |Los que de verdad han cometido una falta son los que no reclaman; el que huye es porque es culpable |
+
+---
+# Los enlaces de las inferencias probatorias
+
+> ### Hechos públicos y notorios
+
+> ### Información estadística al alcance de una búsqueda en Google
+
+---
+# Los enlaces de las inferencias probatorias
+
+### Legales: las presunciones (legales)
+
+> ### La inferencia, a la conclusión, no la hace el juez, sino que viene hecha por la ley
+
+> ### Función de garantía de los derechos
+  
+---
+# Los enlaces de las inferencias probatorias
+
+### Las definiciones
+
+> ### El problema de clasificación de los hechos
+
+---
+# Problemas sobre la prueba
+
+> ### 1. Problemas de prueba: de conocimiento: depende de la prueba (la verdad se descubre)
+
+> ### 2. Problemas de clasificación (o de calificación): problemas con el supuesto de hecho de la norma: problema de apreciación sobre el conjunto de hechos que recoge la norma
+
+> ### MacCormick, Neil. Legal Reasoning and Legal Theory, reimpreso, Oxford, Clarendon Press, 2003, pp. 87-93.
+
+
+---
+# Caso 1
+
+Juan tiene en su contrato de trabajo una cláusula en la cual se indica que el empleador se compromete a brindar todas las facilidades que resulten necesarias para la adecuada prestación del servicio, incluyendo facilidades para el traslado a su centro de trabajo. Juan se acaba de comprar un automóvil último modelo. Juan piensa que su empleador debe darle un espacio para estacionar su moderno vehículo o, en todo caso, pagarle la cochera. Su empleador le acaba de responder que "ni hablar, de ninguna manera".
+
+Juan piensa interponer una demanda requiriendo a su empleador 1. la asignación de una plaza en la playa de estacionamiento de la empresa o, alternativamente, asuma el costo del estacionamiento en una playa comercial cercana al lugar de trabajo. Asimismo, ha demandado el monto pagado por estacionamiento desde la fecha del reclamo a su empleador.
+
+***
+
+Grupos pares: Argumente a favor de la demanda de Juan
+
+Grupos impares: Argumente en contra de la demanda de Juan 
+
+---
+# Caso 2 
+
+> La señora D ha sido trabajadora doméstica en la casa de los padres de tres hermanas. Ella demanda el pago de beneficios sociales desde 1959. Además sostiene que ha sido despedida sin mediar causa justa por lo que pide la IDA. El caso presenta los siguientes medios de prueba. De un lado, se tiene tres testimonios correspondientes a las hermanas de la parte demandada que señalan que la demandante ingresó a laborar en el año 1960 y que no renunció, sino que fue despedida. De otro lado, se tiene un documento elaborado en computadora en el que figura que la causa de extinción del vínculo laboral fue la renuncia al empleo y, además, que laboró del 15 de marzo de 2011 hasta el 26 de abril de 2019. Este documento fue sometido a pericia en materia de grafoscopía, documentoscopía y grafología habiéndose concluido que la firma puesta en él corresponde al puño y letra de la trabajadora.
+
+***
+
+### Preguntas
+
+Grupos pares: ¿La señora D fue despedida o renunció?
+
+Grupos impares: ¿La señora D ingresó en 1959, 1960 o 2011?
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba1.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba2.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba3.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba.svg)
+
+---
+class: inverse, center, middle
+
+# ¡Gracias!
+
+> # *pgparede@pucp.pe*

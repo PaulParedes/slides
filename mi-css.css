@@ -4,9 +4,10 @@
 .blue { color: blue; }
 .yellow { color: yellow }
 .red { color: red; }
+.rojo { color: #dc322f; }
 .black { color: #000; }       /* black text intended for heading contrast */
 .bold { font-weight: bold; }  /* bold for speaker's name on first/last slides */
 .azul { color: #085AA6; }
-.orange { color: orange }
+.orange { color: orange; }
 .verde { color: #03A696 }
 .verdd { color: #67fd9a }     /* verde de las tablas

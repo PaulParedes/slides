@@ -1,0 +1,34 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uony{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:24px;text-align:left;
+  vertical-align:top}
+.tg .tg-2t6e{border-color:inherit;font-family:Georgia, serif !important;;font-size:24px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2t6e"></th>
+    <th class="tg-2t6e"></th>
+    <th class="tg-2t6e">Prueba en sentido general</th>
+    <th class="tg-2t6e">Derecho probatorio</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uony">2a</td>
+    <td class="tg-uony">Formación de la<br>prueba</td>
+    <td class="tg-uony">No sujeto a procedimientos<br>regulados en la ley</td>
+    <td class="tg-uony">Sujeto a procedimientos regulados<br>en la ley: documentos públicos:<br>- Sentencia con calidad de cosa juzgada<br>- Documentos registrales<br>- Escrituras públicas<br>- Actas de infracción del SIT</td>
+  </tr>
+  <tr>
+    <td class="tg-2t6e">2b</td>
+    <td class="tg-2t6e">Control sobre la<br>prueba</td>
+    <td class="tg-2t6e">Credenciales de la prueba:<br>credibilidad (autenticidad,<br>exactitud, fiabilidad; sensibilidad<br>observacional, objetividad,<br>veracidad)</td>
+    <td class="tg-2t6e">Credibilidad, autenticidad:<br>1. Control ad hoc en cada procedimiento<br>2. Control en el proceso: tachas:<br>- Ineficacia por falsedad (242 CPC)<br>- Ineficacia por nulidad (243 CPC)<br></td>
+  </tr>
+</tbody>
+</table>

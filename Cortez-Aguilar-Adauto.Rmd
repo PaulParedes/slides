@@ -1,0 +1,54 @@
+---
+title: "Exp. 10841-2018"
+subtitle: "Sres. Cortez, Aguilar, Adauto"
+author: "Segunda Sala Laboral Permanente"
+institute: "Informe oral"
+date: "13 de octubre de 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - hygge
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+---
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+class: center, middle
+
+# Anexo 2-A: 
+
+# Escrito 2, demandantes, 04 junio 2018
+
+---
+class: center
+
+![:scale 40%](Buenaventura/img/cuader1t.png) ![:scale 40%](Buenaventura/img/cuader2t.png)
+
+---
+class: center, middle
+
+# Anexo 1-H: 
+
+# Escrito contestación de demanda, 15 agosto 2019
+
+---
+class: center
+
+![:scale 40%](Buenaventura/img/cuader1e.png) ![:scale 40%](Buenaventura/img/cuader2e.png)
+
+---
+class: center, middle
+
+# Gracias

@@ -1,0 +1,39 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-szks{background-color:#FFA4A0;border-color:inherit;font-family:Georgia, serif !important;;font-size:26px;text-align:left;
+  vertical-align:top}
+.tg .tg-1438{border-color:inherit;font-family:Georgia, serif !important;;font-size:26px;text-align:left;vertical-align:top}
+.tg .tg-thei{border-color:inherit;font-family:Georgia, serif !important;;font-size:26px;text-align:center;vertical-align:top}
+.tg .tg-ttsf{font-family:Georgia, serif !important;;font-size:26px;text-align:left;vertical-align:top}
+.tg .tg-35tj{background-color:#FFA4A0;font-family:Georgia, serif !important;;font-size:26px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-thei">Prueba en sentido general</th>
+    <th class="tg-thei">Derecho probatorio</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1438">Criterios de racionalidad en el<br>conocimiento de los hechos.</td>
+    <td class="tg-szks">Criterios jurídicos que limitan<br>los criterios de racionalidad.</td>
+  </tr>
+  <tr>
+    <td class="tg-1438">Campo de la experiencia empírica. <br>Del mundo.</td>
+    <td class="tg-szks">Fines institucionales. <br>Valores jurídicos.</td>
+  </tr>
+  <tr>
+    <td class="tg-1438">Principio de libertad probatoria.</td>
+    <td class="tg-szks">Regulación legal de la prueba<br>(judicial).</td>
+  </tr>
+  <tr>
+    <td class="tg-ttsf">Razonamiento probatorio.</td>
+    <td class="tg-35tj">Regulaciones; reglas sobre el<br>desarrollo de la prueba en un<br>ordenamiento jurídico dado.</td>
+  </tr>
+</tbody>
+</table>

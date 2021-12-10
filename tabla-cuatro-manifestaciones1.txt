@@ -1,0 +1,29 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jjx4{background-color:#FFA4A0;font-family:Georgia, serif !important;;font-size:24px;font-style:italic;text-align:left;
+  vertical-align:top}
+.tg .tg-a8uf{background-color:#FFA4A0;font-family:Georgia, serif !important;;font-size:24px;text-align:left;vertical-align:top}
+.tg .tg-jkvj{font-family:Georgia, serif !important;;font-size:24px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jkvj"></th>
+    <th class="tg-jkvj"></th>
+    <th class="tg-jkvj">Prueba en sentido general</th>
+    <th class="tg-jkvj">Derecho probatorio</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a8uf">1</td>
+    <td class="tg-a8uf">Ofrecimiento/<br>admisión de la<br>prueba</td>
+    <td class="tg-jjx4">"Todo lo relevante es admisible"</td>
+    <td class="tg-a8uf">- Reglas de oportunidad<br>- Reglas de exclusión por<br>baja calidad epistémica (relevancia)<br>- Reglas de exclusión por<br>tutela de valores extraprocesales:<br>. med. prob. obtenidos ilícitamente<br>. secreto profesional<br>. secreto de Estado<br>. protección de valores constitucionales<br>(intimidad, religión, libertad, etc.)</td>
+  </tr>
+</tbody>
+</table>

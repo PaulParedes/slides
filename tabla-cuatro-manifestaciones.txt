@@ -1,0 +1,53 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ceb2{font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-lqc6{background-color:#FFA4A0;font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-cf9h{background-color:#FFA4A0;font-family:Georgia, serif !important;;font-size:16px;font-style:italic;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ceb2"></th>
+    <th class="tg-ceb2"></th>
+    <th class="tg-ceb2">Prueba en sentido general</th>
+    <th class="tg-ceb2">Derecho probatorio</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lqc6">1</td>
+    <td class="tg-lqc6">Ofrecimiento/<br>admisión de la<br>prueba</td>
+    <td class="tg-cf9h">"Todo lo relevante es admisible"</td>
+    <td class="tg-lqc6">- Reglas de oportunidad<br>- Reglas de exclusión por<br>baja calidad epistémica (relevancia)<br>- Reglas de exclusión por<br>tutela de valores extraprocesales:<br>. med. prob. obtenidos ilícitamente<br>. secreto profesional<br>. secreto de Estado<br>. protección de valores constitucionales<br>(intimidad, religión, libertad, etc.)</td>
+  </tr>
+  <tr>
+    <td class="tg-ceb2">2a</td>
+    <td class="tg-ceb2">Formación de la<br>prueba</td>
+    <td class="tg-ceb2">No sujeto a procedimientos<br>regulados en la ley</td>
+    <td class="tg-ceb2">Sujeto a procedimientos regulados<br>en la ley: documentos públicos:<br>- Sentencia con calidad de cosa juzgada<br>- Documentos registrales<br>- Escrituras públicas<br>- Actas de infracción del SIT</td>
+  </tr>
+  <tr>
+    <td class="tg-lqc6">2b</td>
+    <td class="tg-lqc6">Control sobre la<br>prueba</td>
+    <td class="tg-lqc6">Credenciales de la prueba:<br>credibilidad (autenticidad,<br>exactitud, fiabilidad; sensibilidad<br>observacional, objetividad,<br>veracidad)</td>
+    <td class="tg-lqc6">Credibilidad, autenticidad:<br>1. Control ad hoc en cada procedimiento<br>2. Control en el proceso: tachas:<br>- Ineficacia por falsedad (242 CPC)<br>- Ineficacia por nulidad (243 CPC)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ceb2">3</td>
+    <td class="tg-ceb2">Valoración</td>
+    <td class="tg-ceb2">Libre valoración:<br>1. Individual<br>2. En conjunto</td>
+    <td class="tg-ceb2">Prueba legal (tasada)</td>
+  </tr>
+  <tr>
+    <td class="tg-lqc6">4</td>
+    <td class="tg-lqc6">Elección de la<br>prueba</td>
+    <td class="tg-lqc6">1. Libre elección<br>2. Libre búsqueda</td>
+    <td class="tg-lqc6">1. Tipos de pruebas: típicas y atípicas<br>2. Restricciones a la búsqueda de<br>elementos de prueba (Prueba de oficio)</td>
+  </tr>
+</tbody>
+</table>
