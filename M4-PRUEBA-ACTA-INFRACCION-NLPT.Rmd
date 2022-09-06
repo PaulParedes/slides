@@ -1,0 +1,226 @@
+---
+title: "El acta de infracción como elemento probatorio en el proceso judicial"
+author: ".small[Paul Paredes]"
+date: "10 de diciembre de 2021"
+output:
+  xaringan::moon_reader:
+    css:
+      - "custom_2020.css"
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+      - "mi-css.css"
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    seal: false # esto omite title slide automática
+    self_contained: false
+#mode: selfcontained
+---
+class: front, hide_logo
+
+```{r eval=FALSE, include=FALSE}
+# Para que funcione el infinite moon reader, correr desde el root!
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css"))
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# El acta de infracción como elemento probatorio en el proceso laboral
+----
+## Paul Paredes<br/>4 de julio de 2022
+]
+
+.pull-right[
+.right[
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+]
+
+.center[
+
+&nbsp;
+
+## MDTSS | Escuela de Posgrado | PUCP
+]
+]
+
+
+???
+Agradecer a Luis Mendoza Legoas.
+Expresión de intereses.
+ 
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+# Plan de la ponencia
+
+1. Planteamiento del problema: ¿Cuál es el **.rojo[significado]** de las **actas de infracción** en un proceso laboral?
+
+1. Prueba y prueba jurídica
+
+1. Cuatro (4) manifestaciones de la tensión entre prueba y prueba jurídica
+
+1. Dos (2) tesis sobre el valor de las actas de infracción
+
+1. Conclusiones
+
+
+---
+class: middle, center, inverse
+
+# Planteamiento del problema
+
+---
+# LGIT, Ley 28806
+
+.small[
+**Artículo 16.- Actas de Infracción**
+
+> Las Actas de Infracción por vulneración del ordenamiento jurídico sociolaboral, así como las actas de infracción por obstrucción a la labor inspectiva, se extenderán en modelo oficial y con los requisitos que se determinen en las normas reguladoras del procedimiento sancionador.
+
+> **.rojo[Los hechos constatados**] por los inspectores actuantes que se formalicen en las **actas de infracción** observando los requisitos que se establezcan, **.rojo[se presumen ciertos**] sin perjuicio de las pruebas que en defensa de sus respectivos derechos e intereses puedan aportar los interesados.
+
+> El mismo valor y fuerza probatoria tendrán los hechos comprobados por la Inspección del Trabajo que se reflejen en los **informes** así como en los **documentos** en que se formalicen las medidas inspectivas que se adopten.
+]
+
+---
+# LGIT, Ley 28806
+
+.small[
+**Artículo 47.- Carácter de las Actas de Infracción**
+
+> **.rojo[Los hechos constatados**] por los servidores de la Inspección del Trabajo que se formalicen en las **.rojo[Actas de Infracción**] observando los requisitos establecidos, **.rojo[merecen fe**], **sin perjuicio de** las pruebas que puedan aportar los sujetos responsables, en defensa de sus respectivos derechos e intereses.
+]
+
+---
+# TUO Ley 27444, LPAG, D.S. 004-2019-JUS 
+
+**Artículo 244.- Contenido mínimo del Acta de Fiscalización**
+
+> 244.2 Las **.rojo[Actas de fiscalización]** dejan **.rojo[constancia de los hechos verificados**] durante la diligencia, **salvo** prueba en contrario.
+
+---
+# TUO Ley 27584, LPCA, D.S. 011-2019-JUS
+
+**Artículo 31.- Pruebas de oficio**
+
+> Cuando los medios probatorios ofrecidos por las partes sean **insuficientes para formar convicción**, el Juez en decisión motivada e inimpugnable, puede ordenar la actuación de los **.rojo[medios probatorios adicionales]** que considere convenientes.
+
+---
+# Ley 29497, NLPT
+
+**Artículo 31.- Contenido de la sentencia**
+
+> El juez recoge los fundamentos de hecho y de derecho esenciales para **.rojo[motivar su decisión]**. (...).
+
+---
+class: middle, center, inverse
+
+# Prueba y prueba jurídica
+
+---
+# Razonamiento probatorio y derecho probatorio
+
+`r xfun::file_string('tabla-compa-razoprob-derprob.txt')`
+
+---
+class: middle, center, inverse
+
+# Cuatro manifestaciones
+
+---
+# Cuatro manifestaciones
+
+
+`r xfun::file_string('tabla-cuatro-manifestaciones1.txt')`
+
+---
+# Cuatro manifestaciones
+
+
+`r xfun::file_string('tabla-cuatro-manifestaciones2.txt')`
+
+
+---
+# Cuatro manifestaciones
+
+
+`r xfun::file_string('tabla-cuatro-manifestaciones34.txt')`
+
+---
+class: inverse, middle, center
+
+# Valor de las actas de infracción
+
+---
+class: middle, center
+
+# Valoración en conjunto: dos tesis
+
+---
+# Tesis 1
+
+## Privilegio de la prueba escrita sobre la prueba oral
+
+.small[
+
+> Mayor fiabilidad de los documentos (y de los procedimientos reglados y lo actuado por los funcionarios públicos)
+
+> Mayor funcionalidad de la prueba escrita
+
+> El nivel de confianza de los documentos públicos en muy alto, aunado a la ausencia de elementos de refutación.
+
+> Artículo 31° LPCA; artículo 31° NLPT
+
+> Tesis desde la libre valoración de la prueba
+]
+---
+# Tesis 2
+
+## Los arts. 16 y 47 LGIT como reglas legales de prueba
+
+.small[
+> Presunción-principio: se aplica sin otra condición de aplicación que su propio contenido
+
+> Invierte la carga de la prueba: de la producción y de la "persuasión"
+
+> Se redistribuye la carga de la prueba: la refutación recae en quien alega que los hechos son diferentes a los contenidos en el acta
+
+> Aplica sobre los hechos; no sobre la calificación jurídica de esos hechos
+
+> Tesis desde la prueba legal
+]
+
+---
+class: inverse, center, middle
+
+# Conclusiones
+
+---
+class: middle
+
+> *El razonamiento probatorio es la guía en el conocimiento en general, incluso en el proceso (judicial); pero el derecho introduce ciertas limitaciones o condiciones que se justifican en otros valores institucionales, considerados, a veces, más preeminentes que la averiguación de los hechos.*
+
+---
+class: front, hide_logo, center, middle
+
+# ¡Gracias por su atención!
+
+## pgparede@pucp.pe

@@ -1,0 +1,203 @@
+---
+title: "Cargas de la prueba, presunciones legales y"
+subtitle: "estándares de prueba"
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo, PUCP"
+date: "27 de junio de 2022"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight, inverse
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#2C2F4D",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Empecemos
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+class: middle, center, inverse
+
+# Las cargas de la prueba y las presunciones legales
+
+---
+class: middle, center
+
+# STC 01113-2011-PA/TC, fundamentos 5 y 6
+
+## El Peruano 07/10/2011
+---
+class: center, middle
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/01113-2011-a.png)
+background-size: 70%
+
+---
+class: center, middle
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/01113-2011-b.png)
+background-size: 70%
+
+---
+class: middle, center
+
+# CAS LAB 17885-2017 DEL SANTA, considerandos 15 y 16
+
+## 18/12/2019
+
+---
+class: center, middle
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/17885-2017-a.png)
+background-size: 55%
+
+---
+class: center, middle
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/17885-2017-b.png)
+background-size: 55%
+
+---
+class: center, middle
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/17885-2017-c.png)
+background-size: 60%
+
+---
+class: animated, fadeIn
+
+# Carga de la prueba y presunción
+
+> "La presunción es una herramienta usada en la prueba de los hechos en juicio para permitir que una proposición (una afirmación de hecho) sea considerada como un elemento de juicio (un elemento de prueba) en un caso, aun cuando el argumento que apoya dicha proposición no es suficientemente sólido para alcanzar el estándar de prueba requerido. (...). La carga de la prueba fija un estándar para determinar lo que se considera probado, en el razonamiento probatorio en el derecho".
+
+> Douglas Walton, Burden of Proof, Presumption and Argumentation, Cambridge UP, p. 1.
+
+---
+class: animated, fadeIn
+
+# Contexto de la prueba
+
+> + Incertidumbre
+
+> + Ausencia de conocimiento
+
+> + Inconsistencia
+
+> + "Argumento *ad ignorantiam*" (apelar a la ignorancia)
+
+
+---
+class: animated, fadeIn
+
+# Carga probatoria en la NLPT
+
+> + La presunción de laboralidad
+
+> + Los indicios que permitan presumir la existencia del hecho lesivo alegado
+
+> + Presunción derivada de la conducta de las partes 
+
+---
+class: animated, fadeIn
+
+# Los estándares de prueba
+
+> "Los estándares de prueba son reglas que determinan el grado el grado de confirmación que una hipótesis debe tener, a partir de las pruebas , para poder ser dada por probada a los efectos de adoptar una determinada decisión; pero al hacerlo, realizan también una segunda función de la mayor importancia, i.e., distribuir el riesgo del error entre las partes; y evidentemente es una cuestión política y no epistemológica determinar cuánto riesgo de error nos parece asumible que soporte cada una de las partes en un procedimiento judicial".
+
+> Jordi Ferrer. Prueba sin convicción. Marcial Pons, Madrid, 2021, p. 24
+
+---
+
+# Ejemplos de estándares de prueba
+
++ ### Prueba mínima: principio de prueba: *Scintilla of evidence*
+
++ ### Prueba prevaleciente o preponderante: *Preponderance of evidence*
+
++ ### Prueba clara y convincente: *Clear and convincing evidence*
+
++ ### Más allá de toda duda razonable: *Beyond reasonable doubt*
+
+> ### Douglas Walton. Burden of proof, presumption and argumentation. Cambridge UP, NY, 2014, pp. 57-61
+
+---
+
+---
+class: center, middle, inverse
+
+# Análisis de un caso 
+
+# Justificación de la premisa fáctica
+
+---
+class: middle
+
+> La señora D ha sido trabajadora doméstica en la casa de los padres de tres hermanas. Ella demanda el pago de beneficios sociales desde 1959. Además sostiene que ha sido despedida sin mediar causa justa por lo que pide la IDA. El caso presenta los siguientes medios de prueba. De un lado, se tiene tres testimonios correspondientes a las hermanas de la parte demandada que señalan que la demandante ingresó a laborar en el año 1960 y que no renunció, sino que fue despedida. De otro lado, se tiene un documento elaborado en computadora en el que figura que la causa de extinción del vínculo laboral fue la renuncia al empleo y, además, que laboró del 15 de marzo de 2011 hasta el 26 de abril de 2019. Este documento fue sometido a pericia en materia de grafoscopía, documentoscopía y grafología habiéndose concluido que la firma puesta en él corresponde al puño y letra de la trabajadora.
+
+---
+class: middle
+
+# Preguntas
+
+> ### ¿La señora D fue despedida o renunció?
+
+> ### ¿Ingresó en 1959, 1960 o 2011?
+
+> ### Fundamente su respuesta
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba1.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba2.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba3.svg)
+
+---
+class: middle
+
+![:scale 100%](https://raw.githubusercontent.com/PaulParedes/materiales/master/esquema-prueba.svg)
+
+---
+class: inverse, center, middle
+
+# ¡Gracias!
+
+# *pgparede@pucp.pe*

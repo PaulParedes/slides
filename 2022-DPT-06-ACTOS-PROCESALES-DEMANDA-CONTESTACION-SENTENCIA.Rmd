@@ -1,0 +1,581 @@
+---
+title: "Los actos procesales: demanda, contestación y sentencia"
+subtitle: ""  
+author: 
+  - "Paul Paredes"
+  - "Maestría en Derecho Procesal, UNMSM"
+date: 'Lima, 3 de junio de 2022'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+class: middle, center
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#035AA6",
+  secondary_color = "#03A696",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Clase 6
+
+# Los actos procesales: demanda, contestación y sentencia
+
+---
+# Plan de la clase
+
+1. Presupuestos procesales y condiciones de la acción
+
+2. El jugamiento anticipado y la rebeldía
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+
+# Presupuestos procesales
+
+## Para la existencia de una relación procesal válida
+
+![](img/mermaid-diagram-20211021162036.svg)
+
+---
+# Condiciones de la acción
+
+## Presupuestos para la emisión de una decisión de fondo
+
+![](img/mermaid-diagram-20211021161745.svg)
+
+---
+class: center, middle
+
+# Capacidad procesal
+
+---
+
+layout: true
+class: title title-4
+
+---
+# Más de un demandante (16)
+
+.box-inv-4.normal[
+Cuando el proceso es iniciado por más de un
+demandante debe designarse a uno de ellos para que los
+represente y señalarse un domicilio procesal único.
+]
+
+---
+# Comparecencia con/sin abogado (16)
+
+.box-inv-4.normal[
+Los prestadores de servicios pueden comparecer
+al proceso sin necesidad de abogado cuando el total
+reclamado no supere las diez (10) Unidades de Referencia
+Procesal (URP). Cuando supere este límite y hasta las
+setenta (70) Unidades de Referencia Procesal (URP) es
+facultad del juez, atendiendo a las circunstancias del caso,
+exigir o no la comparecencia con abogado. En los casos
+en que se comparezca sin abogado debe emplearse el
+formato de demanda aprobado por el Poder Judicial.
+]
+
+---
+# Comparecencia menores (8.1)
+
+.box-inv-4.normal[
+8.1 Los menores de edad pueden comparecer sin
+necesidad de representante legal. En el caso de
+que un menor de catorce (14) años comparezca
+al proceso sin representante legal, el juez pone la
+demanda en conocimiento del Ministerio Público
+para que actúe según sus atribuciones. La falta
+de comparecencia del Ministerio Público no
+interfiere en el avance del proceso.
+]
+
+---
+# Comparencia sindicatos (8.2)
+
+.box-inv-4.normal[
+8.2 Los sindicatos pueden comparecer al proceso
+laboral en causa propia, en defensa de los
+derechos colectivos y en defensa de sus
+dirigentes y afiliados.
+]
+
+---
+# Comparencia sindicatos (8.3)
+
+.box-inv-4.normal[
+8.3 Los sindicatos actúan en defensa de sus dirigentes
+y afi liados sin necesidad de poder especial de
+representación; sin embargo, en la demanda o
+contestación debe identificarse individualmente
+a cada uno de los afiliados con sus respectivas
+pretensiones. En este caso, el empleador debe
+poner en conocimiento de los trabajadores la
+demanda interpuesta. La inobservancia de este
+deber no afecta la prosecución del proceso.
+La representación del sindicato no habilita al
+cobro de los derechos económicos que pudiese
+reconocerse a favor de los afi liados.
+]
+
+---
+
+layout: false
+name: requisitos
+class: center middle section-title section-title-4 animated fadeIn
+
+# Requisitos de la demanda
+
+---
+
+layout: true
+class: title title-4
+
+---
+# Requisitos de la demanda (16)
+
+.box-inv-4.small[De la norma procesal civil]
+
+.box-inv-4.small[Monto de cada extremo y total]
+
+.box-inv-4.small[No se incluye pliegos]
+
+.box-inv-4.small[Se indica la finalidad del medio de prueba]
+
+
+---
+
+layout: false
+name: interes-obrar
+class: center middle section-title section-title-4 animated fadeIn
+
+# Interés para obrar
+
+---
+
+layout: true
+class: title title-4
+
+---
+# Caso especial de procedencia (20)
+
+.box-inv-4.normal[
+En el caso de pretensiones referidas a la prestación
+personal de servicios, de naturaleza laboral o
+administrativa de derecho público, no es exigible el
+agotamiento de la vía administrativa establecida según la
+legislación general del procedimiento administrativo, salvo que en el correspondiente régimen se haya establecido un procedimiento previo ante un órgano o tribunal específico, en cuyo caso debe recurrirse ante ellos antes de acudir al
+proceso contencioso administrativo.
+]
+
+---
+
+layout: false
+name: legitimidad-obrar
+class: center middle section-title section-title-4 animated fadeIn
+
+# Legitimidad para obrar
+
+---
+
+layout: true
+class: title title-4
+
+---
+# Legitimidad especial (9.1)
+
+.box-inv-4.small[
+9.1 Las pretensiones derivadas de la afectación
+al derecho a la no discriminación en el acceso
+al empleo o del quebrantamiento de las
+prohibiciones de trabajo forzoso e infantil pueden
+ser formuladas por los afectados directos, una
+organización sindical, una asociación o institución
+sin fi nes de lucro dedicada a la protección
+de derechos fundamentales con solvencia
+para afrontar la defensa a criterio del juez, la
+Defensoría del Pueblo o el Ministerio Público.
+]
+
+---
+# Legitimidad especial (9.2)
+
+.box-inv-4.small[
+9.2 Cuando se afecten los derechos de libertad
+sindical, negociación colectiva, huelga, a la
+seguridad y salud en el trabajo y, en general,
+cuando se afecte un derecho que corresponda a
+un grupo o categoría de prestadores de servicios,
+pueden ser demandantes el sindicato, los
+representantes de los trabajadores, o cualquier
+trabajador o prestador de servicios del ámbito.
+]
+
+---
+class: inverse, middle, center
+
+
+# Privilegio del fondo sobre la forma 
+
+.box-inv-4.normal[Interpretación de los requisitos y presupuestos procesales a favor de la continuidad del proceso]
+
+---
+
+layout: true
+class: title title-4
+
+---
+# Informalismo y nulidades procesales
+
+.box-4.small[
+Las formas y sus límites
+]
+
+&nbsp;
+
+.box-inv-4.smaller[
+  + Res. Adm. 014-93-CE-PJ:
+    + Papel A4
+    + Indicar, parte superior derecha de los escritos, en orden descendente:
+      + Nombre del secretario,
+      + Número del expediente,
+      + Cuaderno del expediente en el que el escrito se presenta
+      + Numeración del escrito (130.4 C.P.C.)
+      
+  + Artículos 130 y ss. C.P.C.
+]
+
+---
+# Forma del escrito 
+
+.box-inv-4.tiny[
+Artículo  130.- El escrito que se presente al proceso se sujeta a las siguientes regulaciones:
+
+1. Es escrito en máquina de escribir u otro medio técnico;
+
+2. Se mantiene en blanco un espacio de no menos de tres centímetros en el margen izquierdo y dos en el derecho;
+
+3. Es redactado por un solo lado y a doble espacio;
+
+4. Cada interesado numerará correlativamente sus escritos;
+
+5. Se sumillará el pedido en la parte superior derecha;
+
+6. Si el escrito tiene anexos, éstos serán identificados con el número del escrito seguido de una letra;
+
+7. Se usa el idioma castellano, salvo que la ley o el Juez, a pedido de las partes, autoricen el uso del quechua o del aymara;
+
+8. La redacción será clara, breve, precisa y dirigida al Juez del proceso y, de ser el caso, se hará referencia al número de la resolución, escrito o anexo que se cite; y,
+
+9. Si el escrito contiene otrosíes o fórmulas similares, éstos deben contener pedidos independientes del principal.
+]
+
+---
+# Doctrina
+
+Sentencia Corte Constitucional Colombia T-204 1997
+
+.box-inv-4.smaller[
+“No se pueden sacrificar los referidos derechos, con la exigencia de formalismos extremos que no se acompasan con el mandato constitucional de la efectividad de los derechos y de la prevalencia del derecho sustancial Las formalidades procesales sólo se conciben como medios para garantizar la validez y la eficacia de los actos procesales, en cuanto estos tiendan a la realización de los derechos de los sujetos procesales, más no como simples ritualidades insustanciales.”
+]
+
+---
+# Teoría de las nulidades procesales
+
+STC n.° 00569-2003-AC/TC, fundamento 4. 
+
+Suplencia de los actos procesales deficientes
+
+.box-inv-4.tiny[
+
+Ahora bien, a efectos de determinar qué actos procesales pueden ser objeto de la suplencia, cabe distinguir los actos procesales viciados, en actos defectuosos, actos inválidos, y actos nulos.
+
+Los **actos defectuosos** son aquellos que se realizan sin que concurran todos los presupuestos, requisitos y condiciones que determinan su admisibilidad, pero que no generan afectación de principios o de derechos procesales constitucionales de relevancia y, por ese hecho, son inocuos. Por su parte, los **actos inválidos** son aquellos que se realizan incumpliendo los requisitos y condiciones que la ley prevé, dando lugar, a su vez, a la afectación de derechos o principios constitucionales, pero que, sin embargo, pueden ser subsanados o reparados por sí mismos, o eventualmente por medio de la intervención del juez (Binder Alberto. El incumplimiento de las formas procesales. Ad Hoc, Buenos Aires 2000. Pág. 96). Finalmente, los **actos nulos** son aquellos que, habiendo comprometido seriamente derechos o principios constitucionales, no pueden ser reparados.
+]
+
+---
+# STC n.° 00197-2005-PA/TC
+
+Fundamento 7
+
+.box-inv-4.smaller[
+Con independencia de lo ya afirmado en tomo a la causal que sustentó la nulidad de una de las resoluciones cuestionadas, este Tribunal debe recordar no sólo que la nulidad de los actos procesales está sujeta al principio de legalidad sino, además, que en un Estado Constitucional de Derecho, la nulidad de un acto procesal sólo puede decretarse cuando de por medio se encuentran comprometidos, con su inobservancia, derechos, principios o valores constitucionales. En efecto, la nulidad de los actos procesales no se justifica en la simple voluntad de la ley. No admite una consideración de la nulidad por la simple nulidad, porque así se expresa o porque o es voluntad de la ley, sino porque en el establecimiento de determinadas formalidades que se observen en dichos actos procesales, subyacen bienes constitucionalmente protegidos.
+]
+
+---
+
+# Algunas consecuencias:
+
+.box-inv-4.small[
+1. Subsanación (hacia adelante)
+]
+
+.box-inv-4.small[
+2. Suplencia 
+
+  + Suplencia de los actos procesales deficientes
+  
+    + De la demanda
+  
+    + De la prueba
+]
+
+---
+# Corte IDH, Caso Velásquez Rodríguez. 
+
+Sentencia de 29 de julio de 1988. Serie C No. 4
+
+.box-inv-4.tiny[
+"138. La forma en que la defensa ha sido conducida habría podido bastar para que muchos de los hechos afirmados por la Comisión se tuvieran válidamente por ciertos, sin más, en virtud del principio de que, salvo en la materia penal --que no tiene que ver en el presente caso, como ya se dijo (supra 134-135)--, el silencio del demandado o su contestación elusiva o ambigua pueden interpretarse como aceptación de los hechos de la demanda, por lo menos mientras lo contrario no aparezca de los autos o no resulte de la convicción judicial. La Corte, sin embargo, trató de suplir esas deficiencias procesales, admitiendo todas las pruebas que le fueron propuestas, aun en forma extemporánea, y ordenando de oficio algunas otras. Esto, por supuesto, sin renunciar a sus potestades discrecionales para apreciar el silencio o la inercia de Honduras ni a su deber de valorar la totalidad de los hechos."
+]
+
+También en: Corte I.D.H., Caso Godínez Cruz. Sentencia de 20 de enero de 1989. Serie C No. 5.
+
+
+---
+class: center, middle
+
+# Suplencia de la demanda
+
+&nbsp;
+
+.box-inv-4.large[¿Petitorio o pretensión implícitos?]
+
+---
+# CAS LAB 16940-2017
+
+(5 de diciembre de 2019)
+
+.box-inv-4.small[
+**Décimo Segundo:** Tal como se ha descrito, la litis ha discurrido respecto a la reposición por un despido incausado, al haberlo así propuesto el actor en su escrito de demanda, mas no, la desnaturalización de los contratos, lo que no importó que se ejerza también la defensa en dicho sentido, lo que conlleva a establecer que al haberse sentenciado, y otorgado el derecho por una pretensión no postulada, como es el caso de la desnaturalización de los contratos, se ha violentado el principio de congruencia procesal y por ende el debido proceso. 
+]
+
+???
+
+1. Una propuesta de solución
+
++ Las oraciones y las proposiciones en el derecho
+
++ Las oraciones: conjunto de símbolos lingüísticos con sentido completo:
+  + [ ] UNMSM
+  + [ ] deseoso Lima estaba fruta aromática en otro
+  + [ ] La Ciudad Blanca es la capital de Perú
+
+2. Una propuesta de solución
+
++ Es usual distinguir entre oraciones asertivas (descriptivas::proposiciones) (V/F) y oraciones directivas (prescriptivas::normas) (Jus/Inj; Vál/Inv; Efi/Inef)
+
+  + [ ] Juan trabaja en el Poder Judicial
+  + [ ] María es mayor de edad
+  + [ ] Está prohibido fumar en clase
+  + [ ] Quien por dolo causa un daño a otro está obligado a repararlo
+
+3. Una propuesta de solución
+
+Las proposiciones son el significado expresado por las oraciones asertivas
+
+  + María tiene 25 años de edad.
+  + La edad de María es de 25 años.
+  + Hace 25 años nació María.
+  + María le lleva 3 años a su hermano Jorge quien ya tiene 22 años cumplidos.
+  + No veo a María desde que cumplió 20 años. Han pasado 5 años desde ese entonces.
+
++ Varias oraciones asertivas pueden expresar la misma proposición
+
++ Los razonamientos se dan entre las proposiciones.
+
+  =
+
++ Las premisas de los razonamientos son proposiciones y de estas se infiere otra proposición que es la conclusión.
+
++ Las premisas y conclusiones permiten construir cadenas argumentativas, conformadas por proposiciones.
+
+---
+
+# Una propuesta de solución (1)
+
+.box-inv-4[Una conclusión no es sino una proposición derivada de una cadena argumentativa (los razonamientos) integrada por una serie de proposiciones.]
+
+.box-inv-4[Esa conclusión podría ser el petitorio o la pretensión.]
+
+---
+
+# Una propuesta de solución (2)
+
+.box-inv-4[¿Qué significaría la suplencia de la demanda en este contexto?]
+
+--
+
+.box-4["La determinación de la cadena de proposiciones]
+
+--
+
+.box-inv-4[¿Qué sería el petitorio implícito?]
+
+--
+
+.box-inv-4["La cadena de proposiciones que deriva **en** la pretensión explícita."]
+
+---
+class: animated, slideInRight
+layout: false
+
+
+![](https://raw.githubusercontent.com/PaulParedes/materiales/master/mermaid-implicito.svg)
+
+---
+
+layout: true
+class: title title-4
+
+---
+
+# ¿Petitorio o pretensión implícitos?
+
+.box-inv-4.medium[CAS LAB 16940-2017 (5 de diciembre de 2019)]
+
+.box-inv-4[El "petitorio implícito" ¿afecta la congruencia?]
+
+.box-inv-4[El "petitorio implícito" ¿vulnera el derecho de defensa?]
+
+
+???
+
+<ol>
+<li> Suplencia de la demanda
+  + Enfoque desde las proposiciones en el derecho
+  + Los razonamientos se dan entre las proposiciones
+  + Las premisas de los razonamientos son proposiciones y de esas se infiere otra proposición que es la conclusión; y así, se construye una cadena argumentativa.
+  + .red[En el caso:] la conclusión sería el petitorio o pretensión
+  + entonces, la suplencia de la demanda sería
+</ol>
+> determinar la cadena de proposiciones que deriva .red[en] la pretensión explícita
+
+
+---
+# Otras consecuencias
+
+.box-4.smaller[Impulso de oficio (¿abandono?; art. 30 NLPT)]
+
+.box-inv-4.smaller[
+
+Artículo 30.- Formas especiales de conclusión del proceso
+
+El proceso laboral puede concluir, de forma especial, por conciliación, allanamiento, reconocimiento de la demanda, transacción, desistimiento o abandono. También concluye cuando ambas partes inasisten por segunda vez a cualquiera de las audiencias programadas en primera instancia.
+
+(...)
+
+El abandono del proceso se produce transcurridos cuatro (4) meses sin que se realice acto que lo impulse. El juez declara el abandono a pedido de parte o de tercero legitimado, en la segunda oportunidad que se solicite, salvo que en la primera vez el demandante no se haya opuesto al abandono o no haya absuelto el traslado conferido.
+]
+---
+# Sentencia
+
+.box-4.small[Fallo ultra y extra petita]
+
+.box-inv-4.small[Congruencia y derecho de defensa]
+
+.box-inv-4.small[Motivación]
+  
+---
+# Artículo 31
+
+Contenido de la sentencia 
+
+.box-inv-4.tiny[
+El juez recoge los fundamentos de hecho y de derecho esenciales para motivar su decisión.
+La existencia de hechos admitidos no enerva la necesidad de fundamentar la sentencia en derecho.
+
+La sentencia se pronuncia sobre todas las articulaciones o medios de defensa propuestos por las partes y sobre la demanda, en caso de que la declare fundada total o parcialmente, indicando los derechos reconocidos, así como las prestaciones que debe cumplir el demandado. Si la prestación ordenada es de dar una suma de dinero, la misma debe estar indicada en monto líquido. El juez puede disponer el pago de sumas mayores a las demandadas si apareciere error en el cálculo de los derechos demandados o error en la invocación de las normas aplicables.
+
+Tratándose de pretensiones con pluralidad de demandantes o demandados, el juez debe pronunciarse expresamente por los derechos y obligaciones concretos que corresponda a cada uno de ellos. 
+
+El pago de los intereses legales y la condena en costos y costas no requieren ser demandados. Su cuantía o modo de liquidación es de expreso pronunciamiento en la sentencia.
+]
+
+---
+# Resumen
+
+.box-4.smaller[Privilegio del fondo sobre la forma]
+
+.box-4.smaller[Interpretación de los requisitos y presupuestos procesales a favor de la continuidad del proceso]
+
+.box-4.tiny[Las formas y sus límites]
+
+.center.float-left[
+.box-inv-4.tiny[Res. Adm. 014-93-CE-PJ (Papel A4)]
+.box-inv-4.tiny[Art. 130° y ss. C.P.C.]
+.box-inv-4.tiny[Sentencia de la Corte Constitucional Colombia T-204 1997]
+.box-inv-4.tiny[Corte IDH, Caso Velásquez Rodríguez, sentencia 29 julio 1988]
+.box-inv-4.tiny[Corte IDH, Caso Godínez Cruz, sentencia 20 enero 1989]
+]
+
+.box-4.tiny[Las nulidades procesales]
+
+.center.float-left[
+.box-inv-4.tiny[STC 00197-2005-PA/TC, fund. 7]
+.box-inv-4.tiny[STC 00569-2003-AC/TC, fund. 4]
+]
+
+.box-4.smaller[Actos defectuosos ...> actos inocuos]
+
+.box-4.smaller[Actos inválidos ...> subsanación o suplencia]
+
+.box-4.smaller[Actos nulos ...> ni subsanación ni suplencia]
+
+---
+# Resumen
+
+.box-4.small[Consecuencias de la aplicación de los principios estudiados]
+
+.box-inv-4.smaller[No observar falta de requisitos ante actos inocuos]
+.box-inv-4.smaller[Subsanación (hacia adelante)]
+.box-inv-4.smaller[Apercibimientos diferentes a la conclusión]
+.box-inv-4.smaller[Suplencia de los actos procesales deficientes]
+
+.box-4.small[Otras consecuencias]
+
+.box-inv-4.smaller[Impulso de oficio]
+.box-inv-4.smaller[Sentencia: Fallo *ultra y extra petita*]
+.box-inv-4.smaller[Sentencia: Congruencia y derecho de defensa]
+
+---
+class: center, middle
+
+# ¡Gracias!
+

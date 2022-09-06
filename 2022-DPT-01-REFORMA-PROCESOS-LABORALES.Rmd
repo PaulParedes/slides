@@ -1,0 +1,304 @@
+---
+title: "La reforma de los procesos laborales en América Latina"
+subtitle: ""
+author: "Paul Paredes"
+institute: "Maestría en Derecho Procesal, UNMSM"
+date: "22 de abril de 2022"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle, animated, slideInRight
+
+# Clase 1
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: animated, fadeIn
+
+# Antecedentes de la reforma
+
+.pull-left[
+
+### 1. ¿Por qué modificar la LPT?
+
+### 2. Comisión de redacción
+
+### 3. Viajes
+]
+
+.pull-right[
+
+### 4. Códigos
+
+### 5. Comisión de revisión
+
+### 6. Foros de discusión
+]
+
+---
+class: animated, fadeIn
+
+# Tareas de la reforma
+
+### 1. Formación y capacitación
+
+### 2. Implementación material de los despachos. Infraestructura
+
+### 3. La NLPT
+
+### 4. Seguimiento y retroalimentación del nuevo proceso
+
+---
+class: animated, fadeIn
+
+# Beneficios de la reforma
+
+.pull-left[
+
+### 1. Celeridad: 6 meses
+
+### 2. Ensanchamiento de la base poblacional con acceso a la justicia laboral
+
+### 3. Simplicidad del procedimiento
+]
+
+.pull-right[
+
+### 4. Predictibilidad de la justicia laboral
+
+### 5. Modernidad de los procedimientos
+
+### 6. Revaloración del rol de la Corte Suprema
+]
+
+---
+class: animated, fadeIn
+
+# Pautas (generales) del diseño procesal
+
+### + Proceso breve y sencillo
+
+### + Acceso a la justicia
+
+### + Medidas de protección
+
+---
+class: animated, fadeIn
+
+# Los ejes (oficiales) de la reforma procesal
+
+## R.M. 044-2008-TR (febrero de 2008)
+
+### 1. La oralidad
+
+### 2. Uso intensivo de la tecnología
+
+---
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/rm044-2008-tr.png)
+background-size: auto
+background-position: center
+
+---
+class: animated, fadeIn, center, middle
+
+# 1. La oralidad
+
+> # «hay que **diseñar** un procedimiento laboral que sea oral»
+
+---
+class: animated, fadeIn, center, middle
+# ... pero
+
+# ¿La Ley 26636 regula, incorpora, describe un proceso *escrito*?
+
+---
+class: animated, fadeIn, center, middle
+
+> ### «El moderno **‘sistema de la oralidad’** [es aquel] en el cual las partes, los defensores y los testigos **hablan**, más que escriben, **al juez** en la **audiencia** pública, y en el cual, por tanto, la audiencia viene a constituir el momento más importante del proceso.»
+
+> Mauro Cappelletti
+
+---
+class: animated, fadeIn, center, middle
+
+> # proceso oral.
+> ## 1. Proceso que reúne, en la audiencia, a las partes, sus abogados, el material probatorio y el juez, para conocer y resolver una causa.
+
+---
+class: animated, fadeIn, center, middle
+
+> ### «Las audiencias y actuación de los medios probatorios se realizan ante el juez, siendo indelegables bajo sanción de nulidad».
+
+> Artículo I, Título Preliminar, Ley 26636
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+> # «No basta cambiar la ley para tener procesos orales»
+
+---
+class: animated, fadeIn
+
+# 2. Uso intensivo de la tecnología
+
+### 1. Notificaciones electrónicas, a cargo del PJ
+
+### 2. Expediente electrónico, a cargo del PJ
+
+### 3. Base de datos de jurisprudencia y precedentes sistematizada, a cargo del MTPE, con la colaboración del PJ y TC
+
+### 4. Sistema de cálculo de derechos laborales, a cargo del MTPE con la colaboración del PJ
+
+### 5. Sistema de remisión electrónico de información de las planillas electrónicas, a cargo del MTPE
+
+---
+class: animated, fadeIn
+
+# La reforma en América Latina
+
+### 1. Perspectiva estática
++ Legislativa
++ ¿Cómo es el proceso laboral?
+
+### 2. Perspectiva dinámica
++ El proceso en acción
++ ¿Cómo funciona (cómo viene funcionando) el proceso laboral?
+
+---
+class: animated, fadeIn
+
+# Países que han implementado reformas laborales
+
+.pull-left[
+
++ Venezuela, agosto 2003
+
++ Ecuador, julio 2004
+
++ Colombia, enero 2008
+
++ Chile, marzo 2008
+
++ Bolivia, (1979), 2009
+]
+
+.pull-right[
+
++ Uruguay, febrero 2010
+
++ Perú, enero-julio 2010
+
++ Costa Rica, 2012
+
++ Nicaragua, 2012
+
++ México, 2019 (2022)
+]
+
+---
+class: animated, fadeIn
+
+# La experiencia ecuatoriana 
+
++ Oralidad, inmediación, concentración
+
++ Grabación magnetofónica
+
++ Trascripción en acta
+
+---
+class: animated, fadeIn
+
+# La experiencia venezolana
+
++ Infraestructura
+
++ Capacitación
+
++ Efectividad de la conciliación (85%)
+
++ Oralidad, inmediación, concentración
+
++ Grabación audiovisual
+
++ Sentencia al final de la audiencia de juicio
+
++ Lentitud en la etapa de casación
+
+---
+class: animated, fadeIn
+
+# La tendencia actual a la oralidad
+
++ Mayor dosis de oralidad (que no excluye la escritura, sino que acerca, concentra y simplifica)
+
++ Uso de nuevas tecnologías
+
++ Rol protagónico del juez
+
++ Fortalecimiento de los mecanismos alternativos de solución de conflictos
+
++ Protección especial frente a la vulneración de derechos fundamentales
+
+---
+class: animated, fadeIn
+
+# La tendencia actual a la oralidad
+
++ Principio protector
+
+  + Igualdad por compensación
+
+  + Fondo vs. Forma
+
+  + A favor del proceso
+
+  + Simplicidad
+
+  + Acceso a la justicia
+
+  + Debido proceso / tutela judicial
+
+---
+class: animated, fadeIn
+
+# La tendencia actual a la oralidad
+
++ Principio protector
+
+  + Ampliación de las medidas cautelares y celeridad en la ejecución de la sentencia
+
+  + Igualdad en la aplicación de la ley
+
+  + Predictibilidad de las resoluciones
+
+  + Eficacia de la justicia
+
+  + Una justicia pronta
+
+  + La teoría del caso*
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!

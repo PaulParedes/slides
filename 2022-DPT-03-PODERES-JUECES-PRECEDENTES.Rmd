@@ -1,0 +1,698 @@
+---
+title: "Los poderes de los jueces"
+subtitle: "Jurisprudencia, precedentes y otras figuras"  
+author: 
+  - "Paul Paredes"
+  - "Maestría en Derecho Procesal, UNMSM"
+date: 'Lima, 6 de mayo de 2022'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+class: middle, center
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#035AA6",
+  secondary_color = "#03A696",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Clase 3
+
+# Los poderes de los jueces
+
+---
+# Plan de la clase
+
+1. Interpretación (judicial)
+
+2. Las normas de origen judicial:
+
+  + Jurisprudencia
+  
+  + Precedente
+  
+3. Los precedentes en la doctrina
+
+4. Los precedentes en el ordenamiento jurídico peruano
+
+5. Doctrina jurisprudencial, plenos jurisdiccionales y otras figuras
+
+6. Independencia e imparcialidad
+
+7. Los plenos jurisdiccionales supremos en materia laboral
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: inverse, center, middle
+
+# 1. Interpretación (judicial)
+
+---
+# Interpretación
+
+1. Ambigüedad (Wróblewski)
++ Asignar un sentido, un significado, a cualquier "entidad".
++ Asignar un sentido, un significado, a una entidad, expresión, lingüística.
++ Asignar un significado a una expresión lingüística cuando existen dudas sobre ese significado en un caso concreto de comunicación.
+
+
+<ol start="2">
+	<li>Ambigüedad (Tarello)</li>
+</ol>
++ Interpretación como actividad (el proceso de interpretar)
+  + Captación del sentido de modo intuitivo
+  + A través de un pensamiento discursivo, una argumentación
+     1. La interpretación es necesaria siempre
+     2. ***In claris non fit interpretatio*** 
+
++ Interpretación como resultado (el producto de la actividad)
+  1. La interpretación como significado (lo que se ha entendido)
+  2. La interpretación como enunciado o proposición donde la disposición jurídica D significa S, lo cual es la conclusión de un argumento.
+ 
+---
+# Esquema interpretativo
+
+.pull-left[
+
+### (1. Atienza)
+
+
++ (1) Enunciado a interpretar
++ **(2) Enunciado interpretativo**
+***
++ (3) Enunciado interpretado
+
+]
+
+.pull-right[
+### (2. Guastini)
++ Decisión interpretativa propia
++ Decisión interpretativa de un tercero
+]
+
+---
+# Un ejemplo
+
+(1) Si no se hubiese llegado a un acuerdo en negociación directa o en conciliación, de haberla solicitado los trabajadores, podrán las partes someter el diferendo a arbitraje. (art. 61 TUO LRCT)
+
+(2a) Podrán las partes (por acuerdo de partes) someter el diferendo a arbitraje; o,
+
+(2b) Podrán las partes (cualquiera de ellas) someter el diferendo a arbitraje
+
+***
+
+(3) Si no hay acuerdo en trato directo, podrán las partes someter el diferendo a arbitraje en 2a o 2b.
+
+(4) El TC ha interpretado que en 2b
+
+---
+# Objeto de la interpretación
+
++ Interpretación de la ley (interpretatio legis)
+
+  + "D significa S" (¿pero cómo se llega a D?)
+
++ Interpretación del derecho (interpretatio iuris)
+
+  + "D significa S", pero también
+  + Ponderación de normas
+  + Resolución de antinomias
+  + Integración de lagunas
+  
+---
+# Modo de interpretar
+
++ En abstracto (interpretación doctrinal)
+
++ En concreto (interpretación judicial)
+  + Orientada a los hechos (Wróblewski)
+  + Subsumir un caso concreto en el campo de una norma identificada previamente en abstracto (Guastini)
+
+---
+# Cómo se interpreta (actividad discursiva)
+
+### Los cánones interpretativos y las teorías sobre la interpretación
+.pull-left[
+(Savigny) (elementos)
+1. Gramatical
+2. Lógico
+3. Histórico
+4. Sistemático
+
+(MacCormick) (argumentos interpretativos)
+1. Lingüísticos (significados ordinario y técnico)
+2. Sistémicos
+3. Teleológicos y deontológicos
+4. Intención del autor*
+]
+
+.pull-right[
+(STC 5854-2005-AA/TC, f. 12)
+1. Literal
+2. Teleológico
+3. Sistemático
+4. Histórico
+]
+---
+# La interpretación jurídica 
+
+> La interpretación jurídica consiste en la atribución de sentido o significado a los enunciados jurídicos (Gascón)
+
+> La interpretación jurídica consiste en argumentar a favor de atribuir un determinado sentido a un objeto (Lifante)
+
+## Según quién sea el intérprete
+1. Interpretación auténtica
+2. Interpretación oficial
+3. Interpretación doctrinal
+4. Interpretación judicial, la que realiza un órgano jurisdiccional.
+
+---
+class: inverse, center, middle
+
+# 2. Las normas de origen judicial
+
+---
+# Las normas de origen judicial:<br>jurisprudencia y precedente 
+
+## La sentencia (dos puntos de vista)
+
++ Sentencia como resultado institucional (acto jurídico a partir de una norma que confiere el poder, a los jueces, de dictar sentencias)
+
++ Sentencia como documento normativo: considerandos y fallo (norma particular dirigida a las partes (u otros) del proceso para resolver un conflicto). 
+  + La fundamentación trata de mostrar que el fallo es correcto.
+
+---
+# Dos modelos de incorporación de normas<br>de origen judicial al derecho objetivo
+
+.pull-left[
++ El modelo de la jurisprudencia (más cercano al civil law)
+  + Las sentencias son un conjunto de documentos del que se extraen normas jurídicas generales.
+  + Idea de reiteración en la aplicación de un mismo criterio.
+  + Se habla de "línea jurisprudencial"
+  + Interesa la jerarquía: las altas cortes
+  + Las altas costes unifican "doctrina jurisprudencial"
+  + ¿Son vinculantes?
+]
+
+.pull-right[
++ El modelo del precedente (más cercano al common law)
+  + La *ratio decidendi* que se usa para resolver el caso **vincula** en el futuro al propio tribunal y a los tribunales inferiores.
+  + Aplica la doctrina del *stare decisis*; vincula a las futuras decisiones sobre el mismo objeto.
+  + Su fuerza es persuasiva antes que "obligatoria" o "vinculante" (Taruffo)
+  + El segundo juez tiene 3 alternativas:
+     1. Declarar y aplicar el precedente (declare)
+     2. Distinguir su caso (distinguish)
+     3. No aplicarlo por mal dado el precedente (overrule)
+]
+
+---
+# Puntos de contacto
+
+### Premisas
+
+.pull-left[
++ Al aplicar derecho se necesita justificar la decisión.
++ Para ello se requiere utilizar una norma universal, y con ello, reconocer que tiene implicancias hacia el futuro: resolver igual los casos iguales (igualdad de trato).
++ Si el derecho objetivo se mantiene estable, un juez debe resolver de igual modo a como lo hizo con anterioridad, so pena de incurrir en arbitrariedad o irracionalidad.
+]
+
+.pull-right[
++ Ese juez tiene, entonces, 3 alternativas aceptables:
+  1. Resolver igual
+  2. Distinguir, a partir de una propiedad relevante
+  3. No aplicar el caso anterior señalando que estuvo mal resuelto por problemas con la norma universal previamente aplicada
+
++ En ambos modelos las guías son:
+  + La igualdad ante la ley
+  + La legalidad de la decisión
+  + La independencia judicial
+  + La imparcialidad
+]
+
+
+---
+class: inverse, center, middle
+
+# Los precedentes en la doctrina
+
+---
+# El precedente judicial (Taruffo)
+
+### Inglaterra
+
++ El precedente inglés como precedente vinculante es una construcción dogmática (Rupert Cross). En la práctica el precedente no es vinculante. Su fuerza es persuasiva. Siempre deriva de la decisión de un caso. Se fundamente en la analogía de los hechos de los dos casos. En su motivación se distingue: los motivos de la decisión: ratio decidendi (la regla de derecho aplicada a los hechos del caso); y los obiter dictum (lo demás).
+
+### EE.UU.
+
++ El juez americano aplica el precedente sí y solo si considera que aplicando el precedente llega a una conclusión que piensa justa.
+
+### En civil law
+
+> (...): precedente en Civil law no lo hay- No hay el precedente clásico. Hay otras cosas que llamamos, pero de manera incorrecta en mi opinión, precedentes. (Taruffo, 92)
+
+---
+class: inverse, center, middle
+
+# Los precedentes en el ordenamiento jurídico peruano
+
+---
+# Ley 31307 - C.P.Const.
+
+> Artículo VI. Precedente vinculante
+
+> Las sentencias del Tribunal Constitucional que adquieren la autoridad de cosa juzgada constituyen precedente vinculante cuando así lo exprese la sentencia, precisando el extremo de su efecto normativo, **formulando la regla jurídica en la que consiste el precedente**. Cuando el Tribunal Constitucional resuelva apartándose del precedente, debe expresar los fundamentos de hecho y de derecho que sustentan la sentencia y las razones por las cuales se aparta del precedente.
+
+> **Para crear, modiﬁcar, apartarse o dejar sin efecto un precedente vinculante se requiere la reunión del Pleno del Tribunal Constitucional y el voto conforme de cinco
+magistrados**.
+
+> **En los procesos de acción popular, la sala competente de la Corte Suprema de la República también puede crear, modificar o derogar precedentes vinculantes con el voto conforme de cuatro jueces supremos. La sentencia que lo establece formula la regla jurídica en la que consiste el precedente, expresa el extremo de su efecto normativo y, en el caso de su apartamiento, los fundamentos de hecho y de derecho en que se sustenta**.
+
+---
+# Ley 31307 - C.P.Const.
+
+> Artículo VII. Control difuso e interpretación
+constitucional
+
+> Cuando exista incompatibilidad entre la Constitución y otra norma de inferior jerarquía, el juez debe preferir la primera, siempre que ello sea relevante para resolver la controversia y no sea posible obtener una interpretación conforme a la Constitución.
+
+> Los jueces no pueden dejar de aplicar una norma cuya constitucionalidad haya sido conﬁrmada en un proceso de inconstitucionalidad o en un proceso de acción popular.
+
+> **Los jueces interpretan y aplican las leyes o toda norma con rango de ley y los reglamentos según los preceptos y principios constitucionales conforme a la interpretación que resulte de las resoluciones del Tribunal Constitucional.**
+
+---
+# Ley 31307 - C.P.Const.
+
+> Artículo VIII. **Interpretación de los derechos humanos y tratados internacionales**
+
+> El contenido y alcances de los derechos constitucionales protegidos por los procesos regulados en el presente código deben interpretarse de conformidad con la Declaración Universal de Derechos Humanos, los tratados sobre derechos humanos, así como con las **decisiones adoptadas por los tribunales internacionales sobre derechos humanos** constituidos según tratados de los que el Perú es parte.
+
+> **En caso de incompatibilidad entre una norma convencional y una constitucional, los jueces preferirán la norma que más favorezca a la persona y sus derechos humanos**.
+
+---
+# Ley 29497 - NLPT
+
+> Artículo IV.- Interpretación y aplicación de las normas en la resolución de los conflictos de la justicia laboral
+
+>	Los jueces laborales, bajo responsabilidad, imparten justicia con arreglo a la Constitución Política del Perú, los tratados internacionales de derechos humanos y la ley. Interpretan y aplican toda norma jurídica, incluyendo los convenios colectivos, según los principios y preceptos constitucionales, así como los **precedentes vinculantes del Tribunal Constitucional y de la Corte Suprema de Justicia de la República**.
+
+> Artículo 31.- Contenido de la sentencia
+
+>	El juez recoge los fundamentos de hecho y de derecho esenciales para motivar su decisión. La existencia de hechos admitidos no enerva la necesidad de fundamentar la sentencia en derecho.
+
+---
+# Ley 29497 - NLPT
+
+> Artículo 40.- Precedente vinculante de la Corte Suprema de Justicia de la República
+
+>	La Sala Constitucional y Social de la Corte Suprema de Justicia de la República que conozca del recurso de casación puede convocar al pleno de los jueces supremos que conformen otras salas en materia constitucional y social, si las hubiere, a efectos de emitir sentencia que constituya o varíe un precedente judicial.
+
+>	La decisión que se tome en mayoría absoluta de los asistentes al **pleno casatorio** constituye **precedente judicial** y vincula a los órganos jurisdiccionales de la República, hasta que sea modificada por otro precedente.
+
+>	Los abogados pueden informar oralmente en la vista de la causa, ante el pleno casatorio.
+
+
+>	Artículo 41.- Publicación de sentencias
+
+>	El texto íntegro de todas las sentencias casatorias y las resoluciones que declaran improcedente el recurso de casación se publican obligatoriamente en el diario oficial El Peruano, aunque no establezcan precedente. La publicación se hace dentro de los sesenta (60) días de expedidas, bajo responsabilidad.
+
+---
+# C.P.C.
+
+> Artículo 400.- Precedente judicial
+
+> La Sala Suprema Civil puede convocar al pleno de los magistrados supremos civiles a efectos de emitir sentencia que constituya o varíe un precedente judicial.
+
+> La decisión que se tome en mayoría absoluta de los asistentes al **pleno casatorio** constituye **precedente judicial** y vincula a los órganos jurisdiccionales de la República, hasta que sea modificada por otro precedente.
+
+> Los abogados podrán informar oralmente en la vista de la causa, ante el pleno casatorio.
+
+> El texto íntegro de todas las sentencias casatorias y las resoluciones que declaran improcedente el recurso se publican obligatoriamente en el Diario Oficial, aunque no establezcan precedente. La publicación se hace dentro de los sesenta días de expedidas, bajo responsabilidad."
+
+---
+class: inverse, center, middle
+
+# Doctrina jurisprudencial, plenos jurisdiccionales y otras figuras
+
+---
+
+# Doctrina jurisprudencial
+
+> Artículo 22.- Carácter vinculante de la doctrina jurisprudencial
+
+> Las Salas Especializadas de la Corte Suprema de Justicia de la República ordenan la publicación trimestral en el Diario Oficial "El Peruano" de las **Ejecutorias que fijan principios jurisprudenciales que han de ser de obligatorio cumplimiento**, en todas las instancias judiciales.
+
+> **Estos principios** deben ser invocados por los Magistrados de todas las instancias judiciales, cualquiera que sea su especialidad, como **precedente de obligatorio cumplimiento**. En caso que **por excepción decidan apartarse** de dicho criterio, están obligados a motivar adecuadamente su resolución dejando constancia del precedente obligatorio que desestiman y de los fundamentos que invocan.
+
+> Los fallos de la Corte Suprema de Justicia de la República pueden excepcionalmente apartarse en sus resoluciones jurisdiccionales, de su propio criterio jurisprudencial, motivando debidamente su resolución, lo que debe hacer conocer mediante nuevas publicaciones, también en el Diario Oficial "El Peruano", en cuyo caso debe hacer mención expresa del precedente que deja de ser obligatorio por el nuevo y de los fundamentos que invocan.
+
+---
+
+# Plenos jurisdiccionales
+
+### Plenos laborales nacionales, regionales o distritales.
+
+> Artículo 116.- Plenos jurisdiccionales.
+
+> Los integrantes de las Salas Especializadas, pueden reunirse en plenos jurisdiccionales nacionales, regionales o distritales a fin de **concordar jurisprudencia** de su especialidad, a instancia de los órganos de apoyo del Poder Judicial.
+
+---
+# Sala plena de la Corte Suprema
+
+> Artículo 80.- Atribuciones de la Sala Plena de la Corte Suprema
+
+> Son atribuciones de la Sala Plena de la Corte Suprema de Justicia de la República:
+
+> 4.Sistematizar y difundir la jurisprudencia de las Salas Especializadas de la Corte Suprema y disponer la publicación trimestral de las Ejecutorias que fijen principios jurisprudenciales que han de ser de obligatorio cumplimiento en todas las instancias judiciales.
+
+
+---
+# Otras figuras
+
++ Plenos jurisdiccionales supremos en materia laboral
+
++ Plenos jurisdiccionales nacionales en materia laboral
+
++ ¿Qué son?
+
+---
+class: inverse, center, middle
+
+# Independencia e imparcialidad
+
+---
+# Código Iberoamericano de Ética Judicial
+
+## Independencia
+
+> ART. 20.- El juez independiente es aquel que determina **desde el Derecho vigente** la decisión justa, sin dejarse influir real o aparentemente por factores ajenos al Derecho mismo.
+
+## Imparcialidad
+
+> ART. 9°.- La imparcialidad judicial tiene su fundamento en el derecho de los justiciables a ser **tratados por igual** y, por tanto, a no ser discriminados en lo que respecta al desarrollo de la función jurisdiccional.
+
+> ART. 10.- El juez imparcial es aquel que persigue **con objetividad y con fundamento en la prueba la verdad de los hechos**, manteniendo a lo largo de todo el proceso una equivalente distancia con las partes y con sus abogados, y evita todo tipo de comportamiento que pueda reflejar favoritismo, predisposición o prejuicio.
+
+---
+class: middle
+
+# Imparcialidad
+
+> "(...). Lo que supone la imparcialidad es la obligación del juez de actuar de manera objetiva y de tomar en consideración, para arribar a su decisión, solo los elementos que hayan sido debidamente probados; por eso, aunque pueda resultar paradójico, es perfectamente posible que un buen juez (que actúa de manera imparcial) llegue a la conclusión de que deber declarar a tal persona inocente, a pesar de que ***crea*** que es culpable; es decir, él piensa (por un cúmulo de factores, de informaciones, de viverso tipo) que X ha realizado una determinada acción, pero, al mismo tiempo, considera que ello no ha quedado suficientemente probado de acuerdo con las normas jurídica que debe aplicar (y que incluye un estándar de prueba que para los casos penales, suele formularse con la expresión de "más allá de toda duda razonable"). 
+
+> Atienza, Filosofía del derecho y transformación social, Ed. Trotta, 2017, p. 236
+
+---
+class: center, middle, inverse
+
+# Los plenos jurisdiccionales supremos
+
+---
+class: middle
+
+.left-column[
+## Primer Pleno
+]
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i7n6{background-color:#03A696;border-color:inherit;color:#FFF;font-family:Georgia, serif !important;;font-size:20px;
+  text-align:left;vertical-align:top}
+.tg .tg-67cq{border-color:inherit;font-family:Georgia, serif !important;;font-size:20px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-i7n6">Fecha</th>
+    <th class="tg-i7n6">Pleno</th>
+    <th class="tg-i7n6">Temas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-67cq">4 y 14 mayo 2012</td>
+    <td class="tg-67cq">I</td>
+    <td class="tg-67cq">1. Procedencia reposición vía Ley 26636<br>2. Procedencia reposición en vía abreviada NLPT<br>3. Competencia en daños y perjuicios, y daño moral<br>4. La responsabilidad por DYP por enfermedad profesional es contractual<br>5. El trabajador debe probar la enfermedad profesional y el empleador<br>el cumplimiento de sus obligaciones<br>6. Para el quantum indemnizatorio aplica el 1321 CC, salvo que se haya<br>probado su valor<br>7. Los trabajadores de espera, vigilancia o custodia no están en la jornada<br>máxima solo si su prestación es intermitente<br>8. Las limitaciones presupuestales no impiden gozar del pago de HE, salvo<br>que trabajador acepte la compensación<br>9. En el sector público se pueden compensar las HE si el trabajador lo aceptó<br>en un convenio</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: middle
+
+
+.left-column[
+##Segundo Pleno
+]
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tspg{background-color:#03a696;font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-ceb2{font-family:Georgia, serif !important;;font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tspg">Fecha</th>
+    <th class="tg-tspg">Pleno</th>
+    <th class="tg-tspg">Temas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ceb2">8 y 9 mayo 2014</td>
+    <td class="tg-ceb2">II</td>
+    <td class="tg-ceb2">1. No es necesario que los servidores públicos del 728 agoten la vía administrativa<br>2. El órgano administrativo competente para el agotamiento VA es el TSC<br>3. El proceso contencioso administrativo es la vía pertinente en el caso de 276,<br>CAS, SERVIR<br>4. Respecto de 3 es competente el juzgado especializado de trabajo<br>5. Vía procesal para demandar la invalidez contratos CAS<br>6. En el caso de obreros municipales el juez competente es el juez laboral<br>7. Desnaturalización de los contratos CAS<br>8. Competencia para conocer reposición por incausado y fraudulento: juez laboral<br>9. Plazo de caducidad, reposición por incausado o fraudulento: 30 días hábiles<br>10. Si pretensión única: proceso abreviado<br>Si acumulación de pretensiones: proceso ordinario<br>11. Las aportaciones al SSS pueden incluirse en el cálculo indemnizatorio<br>12. Remuneración es todo concepto de libre disponibilidad, sin perjuicio de las <br>excepciones de ley. Aplica el principio de primacía de la realidad.<br>13. Los bonos FJ y FF tienen naturaleza remunerativa y son computables para CTS<br>y pensionables, específicamente para jueces y fiscales<br>14. Los JPL solo competentes en pretensiones cuantificables no &gt; 50 URP<br>15. Los JPL no son competentes si un extremo cuantificable y otro no.<br>16. Tribunal Unipersonal si cuantía no &gt; 70 URP; también si una pretensión es no <br>cuantificable<br>17. Contra las actuaciones de la SBS es competente el juez laboral en la vía ordinaria<br>18. Misma regla en las pretensiones del SPP<br>19. Plazo de notificación: desde día sgte. fecha programada notificación, salvo que no<br>haya certeza<br>20. El rebelde sí puede contestar la demanda a pesar  de la rebeldía<br>21. Pago de pensión mínima (invalidez, jubilación, viudez, orfandad y ascendientes)<br>(Ley 23908).<br>22. Sobre caducidad de aportaciones Ley 8433 (Ley del Seguro Social)<br>23. Sobre contribuciones del Seguro Social del Empleado</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: middle
+
+.left-column[
+## Tercer y Cuarto Plenos
+]
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e904{font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-mig4{background-color:#03A696;color:#FFF;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mig4">Fecha</th>
+    <th class="tg-mig4">Pleno</th>
+    <th class="tg-mig4">Temas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e904">22 y 30 junio 2015</td>
+    <td class="tg-e904">III</td>
+    <td class="tg-e904">1. Interpretación a favor del trabajador de las cláusulas normativas del Conv. Col.<br>2. No se requiere agotar la VA si afectación al contenido esencial der. remuneración<br>3. Los herederos pueden solicitar las pensiones devengadas hasta la fecha del deceso</td>
+  </tr>
+  <tr>
+    <td class="tg-e904">1 diciembre 2015</td>
+    <td class="tg-e904">IV</td>
+    <td class="tg-e904">1. El juez actúa los MP del demandado cuando este no acude a la AJ<br>2. Existencia de prórroga automática de los contratos CAS<br>3. Prescripción de las pensiones devengadas<br>4. Bonificaciones para pensionistas de entidades reguladas por FONAFE</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: middle
+
+
+.left-column[
+## Quinto Pleno
+]
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vrf4{background-color:#03a696;color:#ffffff;font-family:Georgia, serif !important;;font-size:16px;text-align:left;
+  vertical-align:top}
+.tg .tg-ceb2{font-family:Georgia, serif !important;;font-size:15px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vrf4">Fecha</th>
+    <th class="tg-vrf4">Pleno</th>
+    <th class="tg-vrf4">Temas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ceb2">16 octubre 2016</td>
+    <td class="tg-ceb2">V</td>
+    <td class="tg-ceb2">1. Causales de nulidad de los laudos arbitrales económicos<br>2. Interpretación art. 3 Ley 28449, sobre pensiones DL 20530<br>3. IDP por despido: daño emergente, lucro cesante, daño moral; de oficio, daños<br>punitivos (igual a los aportes SPP, SNP u otro). Voto en minoría: se puede demandar<br>remuneraciones devengadas)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ceb2"></td>
+    <td class="tg-ceb2"></td>
+    <td class="tg-ceb2">En la Apelación N.° 4968-20173 (11.02.2018) el Pleno de la Segunda Sala Constitucional<br>y Social Transitoria de la Corte Suprema de Justicia estableció como criterio jurisdiccional<br>respecto de las causales de nulidad de un laudo arbitral económico, el siguiente:<br>«El laudo arbitral será nulo cuando se presente alguno de los supuestos que a<br>continuación enumeramos:a) Cuando el árbitro, tribunal o alguno de sus miembros, están<br>impedidos de participar como tales (artículo 64° del Decreto Supremo N° 010-2003-TR);<br>b) Cuando se pronuncie en forma distinta a alguna de las propuestas finales de las<br>partes o combinando planteamientos de una y otra (artículo 65° del<br>Decreto Supremo N° 010-2003-TR);<br>c) Cuando se ha expedido bajo presión derivada de modalidades irregulares de<br>huelga o de daños a las personas o las cosas (artículo 69° del Decreto Supremo<br>N° 010-2003-TR);<br>d) Cuando se haya emitido sin tener en cuenta el informe de la Autoridad Administrativa<br>de Trabajo (Apelación N° 11673-2015-LIMA de fecha once de diciembre<br>de dos mil quince);<br>e) Cuando una de las partes no ha sido debidamente notificada del nombramiento<br>de un árbitro o de alguna actuación arbitral, o por cualquier motivo no ha podido<br>ejercer sus derechos (literal b), del artículo 63° del Decreto Legislativo N° 1071); y<br>f) Cuando el árbitro o tribunal arbitral resuelve sobre materias no sometidas<br>a su decisión (literal d), del artículo 63° del Decreto Legislativo N° 1071).»</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: middle
+
+.left-column[
+## Sexto Pleno
+]
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e904{font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-mig4{background-color:#03A696;color:#FFF;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mig4">Fecha</th>
+    <th class="tg-mig4">Pleno</th>
+    <th class="tg-mig4">Temas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e904">18 set, 2 oct 2017</td>
+    <td class="tg-e904">VI</td>
+    <td class="tg-e904">1. Responsabilidad del empleador en caso de daños a la vida o salud del trabajador<br>2. Juez de oficio ordena pago de daños punitivos<br>3. Los policías municipales y personal de serenazgo deben ser considerados obreros<br>Deben estar sujetos al régimen 728<br>4. Todos los días de paralización (huelga trabajadores PJ) deben ser descontados<br>del plazo de caducidad<br>5. Los jueces ordenan pagar los intereses ante deudas previsionales, aun si no <br>hubiesen sido demandados<br>6. Aplica el régimen de construcción civil en obras de entidades públicas<br>7. Modifica el acuerdo del IV Pleno sobre bonos de pensionistas<br>8. Precisa acuerdo del III Pleno sobre pensiones reclamadas por herederos</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: middle
+
+.left-column[
+## Sétimo Pleno
+]
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e904{font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-mig4{background-color:#03A696;color:#FFF;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mig4">Fecha</th>
+    <th class="tg-mig4">Pleno</th>
+    <th class="tg-mig4">Temas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e904">22 mayo 2018</td>
+    <td class="tg-e904">VII</td>
+    <td class="tg-e904">1. El POL es la vía para pretensiones sobre salud, previsionales, compañías de<br>seguros, AFP, cuando su origen sea laboral<br>2. Los inspectores de transporte deben ser considerados empleados<br>3. El bono del DU 037-94 no aplica a trabajadores y cesantes de las empresas<br>del Estado<br>4. Indemnización de los trabajadores de dirección y confianza: no tienen derecho,<br>salvo que hayan ingresado a un puesto que no era de dirección o confianza<br>5. Los trabajadores de dirección o confianza de las entidades públicas no genera<br>indemnización alguna, si fueron designados directamente para puesto dirección o<br>confianza</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: middle
+
+.left-column[
+## Octavo Pleno
+]
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e904{font-family:Georgia, serif !important;;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-mig4{background-color:#03A696;color:#FFF;font-family:Georgia, serif !important;;font-size:18px;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mig4">Fecha</th>
+    <th class="tg-mig4">Pleno</th>
+    <th class="tg-mig4">Temas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e904">6 agosto 2019</td>
+    <td class="tg-e904">VIII</td>
+    <td class="tg-e904">1. Protección fuero sindical<br>2. No se puede extender los efectos de un convenio colectivo suscrito por <br>sindicato minoritario, salvo que el convenio, por acuerdo de partes lo estableza;<br>o cuando el empleador decida unilateralmente extender los efectos del convenio<br>colectivo a los demás trabajadores, siempre y cuando se refieran solamente a<br>beneficios laborales más favorables al trabajador<br>3. Si el trabajador estuvo imposibilitado de afiliarse a un sindicato, una vez<br>declarado el vínculo deberá decidir a qué sindicato afiliarse o, si el vínculo<br>estuviese extinguido, le corresponderá los beneficios de los Con. Col. o laudos<br>arbitrales económicos</td>
+  </tr>
+</tbody>
+</table>
+
+---
+class: center, middle
+
+# ¡Gracias!
+

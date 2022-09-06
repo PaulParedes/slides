@@ -1,0 +1,491 @@
+---
+title: "Tipos de procesos (netamente) laborales"
+subtitle: "y otros tipos de procesos (no netamente laborales)"  
+author: 
+  - "Paul Paredes"
+  - "Maestría en Derecho Procesal, UNMSM"
+date: 'Lima, 27 de mayo de 2022'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+class: middle, center
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#035AA6",
+  secondary_color = "#03A696",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Clase 5
+
+# Tipos de procesos (netamente) laborales
+
+# y otros tipos de procesos (no netamente laborales)
+
+
+---
+# Plan de la clase
+
+1. Los procesos laborales EN la NLPT
+
+2. Los procesos laborales FUERA de la NLPT
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+
+# Los procesos laborales
+
+---
+class: center, middle
+
+# Los tipos de procesos EN la NLPT
+
+.box-4[El proceso ordinario laboral]
+
+.box-inv-4[El proceso abreviado laboral]
+
+.box-5[El proceso impugnativo de laudos arbitrales económicos]
+
+.box-inv-5[El proceso cautelar]
+
+.box-6[El proceso de ejecución]
+
+.box-inv-6[Los procesos no contenciosos]
+
+---
+class: center, middle
+
+# Los tipos de procesos FUERA de la NLPT
+
+.box-1[El proceso contencioso administrativo (D.S. 011-2019-JUS)]
+
+.box-inv-1[El proceso de acción popular (CPConst.)]
+
+.box-2[El proceso de anulación de laudo jurídico (D.Leg. 1071)]
+
+.box-inv-2[El proceso de acción de amparo (CPConst.)]
+
+.box-3[El proceso de inconstitucionalidad (CPConst.)]
+
+.box-inv-3[El proceso de cumplimiento (CPConst.)]
+
+---
+class: center, middle
+
+# El proceso ordinario laboral
+
+**.box-4[1.Audiencia de conciliación]**
+
+.box-inv-4.small[El juez tiene una participación activa en la solución de las diferencias.]
+
+.box-inv-4.small[La conciliación puede prolongarse lo necesario por decisión de las partes.]
+
+.box-inv-4.small[El juez aprueba el acuerdo parcial o total, y también sobre los extremos no controvertidos, con calidad de cosa juzgada y ordena el cumplimiento de lo acordado.]
+
+.box-inv-4.small[Los extremos no solucionados pasan a ser materia de juicio.]
+
+.box-inv-4.small[El juez emite sentencia al finalizar la audiencia si la causa es de puro derecho o no hay necesidad de actuación probatoria (**juzgamiento anticipado**).]
+
+---
+class: center, middle
+
+# El proceso ordinario laboral
+
+**.box-4[2.Audiencia de juzgamiento]**
+
+.box-4.small[Incorpora las etapas de:]
+
+.box-inv-4.small[**Confrontación de posiciones:** exposición de los argumentos de demandante y demandado.]
+
+.box-inv-4.small[**Actuación probatoria:** actuación de todos los medios probatorios sólo de los hechos necesitados de prueba.]
+
+.box-inv-4.small[**Alegatos:** argumentación de cierre de los abogados.]
+
+.box-inv-4.small[**Sentencia:** a la conclusión de la audiencia o luego de 60 minutos. Excepcionalmente, dentro de 5 días hábiles siguientes.]
+
+---
+
+layout: false
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pol1.png)
+background-size: contain
+
+
+---
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pol2.png)
+background-size: contain
+
+---
+
+layout: true
+class: title title-4
+
+---
+class: center, middle
+
+# El proceso abreviado laboral
+
+.box-4[Audiencia Única]
+
+.box-4.smaller[Se estructura sobre la base de las audiencias de conciliación y de juzgamiento del proceso ordinario laboral.]
+
+.box-4.smaller[Incorpora las etapas de:]
+
+.box-inv-4.small[Conciliación]
+
+.box-inv-4.small[Confrontación de posiciones]
+
+.box-inv-4.small[Actuación probatoria]
+
+.box-inv-4.small[Alegatos]
+
+.box-inv-4.small[Sentencia]
+
+---
+layout: false
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pal.png)
+background-size: contain
+
+---
+class: animated, fadeIn, center middle
+
+# El proceso impugnativo de laudos arbitrales económicos
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pilae.png)
+background-size: contain
+
+---
+class: animated, fadeIn
+
+# El proceso cautelar
+
++ Se admite .red[CUALQUIER] medida que sea idónea para asegurar la eficacia de la pretensión principal.
+
++ En general, cabe la medida especial de reposición provisional.
+
++ Si ésta es solicitada por un dirigente sindical, menor de edad, madre gestante o persona con discapacidad no tendrá la necesidad de acreditar el peligro en la demora ni ofrecer contracautela. Le bastará acreditar su condición de tal al momento del despido y la verosimilitud de su demanda.
+
++ Asignación provisional
+  + Procede en los casos de reposición.
+  + Es la entrega de una suma mensual fijada por el juez, no mayor a la última remuneración ordinaria mensual percibida, con cargo a la CTS.
+  + Ordenada la reposición el empleador restituye el depósito CTS.
+  + Ordenado el pago de remuneraciones devengadas estas se deducirán de la asignación percibida.
+  
+---
+class: animated, fadeIn
+
+# El proceso de ejecución
+
++ Títulos ejecutivos
+  + Las resoluciones judiciales firmes
+  + Las actas de conciliación judicial
+  + Los laudos arbitrales firmes que resuelven un conflicto jurídico
+  + Las resoluciones de la AAT firmes que reconocen obligaciones
+  + El documento privado que contenga una transacción extrajudicial
+  + El acta de conciliación extrajudicial, privada o administrativa; y
+  + La liquidación para cobranza de aportes previsionales del sistema privado de pensiones
+
+---
+class: animated, fadeIn
+
+# El proceso de ejecución
+
++ Características:
+  + Multa por contradicción temeraria
+     + Se produce si la contradicción no se sustenta en la inexigibilidad de la obligación, la nulidad o falsedad del título ejecutivo, la extinción de la obligación o excepciones o defensas previas
+     + La multa puede ser de ½ hasta 50 URP
+
+  + Incumplimiento injustificado al mandato de ejecución
+     + Se produce cuando injustificadamente no se cumple el mandato de hacer o no hacer, sin que exista suspensión de la ejecución
+     + Las multas podrán ser sucesivas, acumulativas y crecientes en 30% hasta que el obligado cumpla el mandato
+
+---
+class: animated, fadeIn
+
+# Los procesos no contenciosos
+
+1. Consignación de beneficios sociales
+
+2. Autorización de ingreso a centro de trabajo
+  + Da trámite a la necesidad de autorización previa para ingresar al centro de trabajo cuando este coincide con el domicilio del empleador, en el caso de la inspección del trabajo.
+
+3. Entrega de documentos
+  + Regula la mera solicitud de entrega de documentos laborales tales como certificado de trabajo, constancias, etc.
+
+---
+class: animated, fadeIn
+
+## Algunas reglas adicionales en torno a los procesos
+
+1. Arbitraje:
+  + Se puede pactar arbitraje si este se celebra a la conclusión de la relación laboral y si la remuneración mensual fue mayor a 70 URP.
+
+2. Costos a cargo del Estado:
+  + El Estado puede ser condenado al pago de costos, pero no de gastos judiciales (costas).
+
+3. Aplicación supletoria:
+  + Las normas del Código Procesal Civil son de aplicación supletoria
+
+4. Aplicación progresiva:
+  + Se establece que la nueva ley procesal del trabajo deberá implementarse de modo progresivo
+  + Las primeras cortes en implementar en 2010: Tacna, Cañete, La Libertad, Arequipa, Lambayeque y Cusco.
+  + Las cortes más recientes en 2021: San Martín, Amazonas y Madre de Dios
+  + Falta: Huancavelica
+
+---
+class: inverse, center, middle
+
+# Procesos en materia laboral FUERA de la NLPT
+
+---
+class: animated, bounceInDown, center, middle, inverse
+
+# Proceso contencioso administrativo en materia laboral
+
+# Proceso de amparo 
+
+---
+class: animated, fadeIn
+
+#### El proceso contencioso administrativo en materia laboral
+
+> Artículo 2.- Competencia por materia de los juzgados especializados de trabajo
+
+>	Los juzgados especializados de trabajo conocen de los siguientes procesos:
+
+> 4.- En proceso contencioso administrativo conforme a la ley de la materia, las pretensiones originadas en las prestaciones de servicios de carácter personal, de naturaleza laboral, administrativa o de seguridad social, de derecho público; así como las impugnaciones contra actuaciones de la autoridad administrativa de trabajo.
+
+> Artículo 20.- Caso especial de procedencia
+
+> En el caso de pretensiones referidas a la prestación personal de servicios, de naturaleza laboral o administrativa de derecho público, no es exigible el agotamiento de la vía administrativa establecida según la legislación general del procedimiento administrativo, salvo que en el correspondiente régimen se haya establecido un procedimiento previo ante un órgano o tribunal específico, en cuyo caso debe recurrirse ante ellos antes de acudir al proceso contencioso administrativo.
+
+---
+class: animated, fadeIn
+
+# El proceso contencioso administrativo conforme a la ley de la materia
+
+1. ¿Qué temas o pretensiones?
+
+  + Preguntarnos por los actos impugnables (art. 4, TUO-LPCA) (actuaciones administrativas)
+  
+  + II Pleno Jurisdiccional
+  
+  + III Pleno Jurisdiccional
+
+2. Norma procesal:
+
+  + D.S. 011-2019-JUS, TUO de la Ley 27584, Ley que regula el proceso contencioso administrativo
+  
+    + Vías del proceso ordinario (antes proceso especial)
+    + Tiene sus propios plazos
+    + Actuación probatoria restringida al procedimiento administrativo*
+    + Medios impugnatorios: reposición, apelación, casación
+    + Los recursos siguen al CPC.
+
+---
+class: animated, fadeIn
+
+# II Pleno
+
+**1. ¿Es necesario que los servidores públicos sujetos al régimen laboral privado regulado por el Decreto Legislativo N° 728 agoten la vía administrativa?**
+
+No es necesario que agoten la vía administrativa. El agotamiento de la misma solo será exigible en los siguientes supuestos: i) aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); (ii) aquellos trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios (Decreto Legislativo N° 1057); y, iii) aquellos trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057- Ley del Servicio Civil (SERVIR). No obstante, no seré exigible en los supuestos excepcionales a que se refiere el articulo 19 de la Ley N° 27584 así como en aquellas impugnaciones que se formulen en contra de actos materiales, a que se refiere el articulo 4 inciso 3 dela citada ley.
+
+---
+class: animated, fadeIn
+
+**2.¿Cuál es el órgano administrativo competente para el agotamiento de la vía administrativa?**
+
+El Pleno acordó por unanimidad: El órgano administrativo competente para el agotamiento de la vía administrativa es el Tribunal del Servicio Civil, solo respecto de las pretensiones referidas a: (i) el acceso al servicio civil; ii) evaluación y progresión en la carrera, (iii) régimen disciplinario;y, (iv) terminación de la relación de trabajo, de conformidad con el articulo 17 del Decreto Legislativo N° 1023. Los regímenes laborales públicos especiales se rigen por sus propias normas.
+
+---
+class: animated, fadeIn
+
+**3.¿Cuál es la vía procesal judicial pertinente para aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios (Decreto Legislativo N° 1057); y, trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057 - Ley del Servicio Civil?**
+
+El Pleno acordé por unanimidad: En aquellos distritos judiciales en los que se encuentre vigente la Ley N° 26636, la vía procesal será la del proceso contencioso administrativo, de conformidad con lo establecido en la Ley N° 27584; y, en aquellos distritos judiciales en los que se encuentre vigente la Ley N° 29497, Nueva Ley Procesal del Trabajo, la vía procesal será la del proceso contencioso administrativo, conforme lo establece el articulo 2° numeral 4° de la misma.
+
+---
+class: animated, fadeIn
+
+**4.¿Cuál es el órgano jurisdiccional competente para conocer demandas contencioso administrativas de aquellos trabajadores sujetos al régimen laboral público (Decreto Legislativo 276 y los trabajadores amparados por la Ley N° 24041); trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios Decreto Legislativo N° 1057); y, trabajadores incorporados a la carrera del servicio civil al amparo de la Ley N° 30057 - Ley del Servicio Civil?**
+
+El Pleno acordé por unanimidad: Al amparo de la Ley N° 26636, el órgano jurisdiccional competente para demandas contencioso administrativas es el Juzgado Especializado de Trabajo, pues así lo estableció la Segunda Disposición Modificatoria de la Ley 29364, Ley que modifica diversos artículos del Código Procesal Civil. Mientras que, en aplicación de la Ley N° 29497, el órgano jurisdiccional competente para conocer las demandas contencioso administrativas es el juzgado especializado de trabajo, pues así se establece expresamente en el numeral 4 del articulo 2 de la Nueva Ley
+Procesal del Trabajo.
+
+---
+class: animated, fadeIn
+
+**5. ¿Cuál es la vía procesal judicial para que los trabajadores demanden la invalidez del contrato administrativo de servicios?**
+
+El Pleno acordó por unanimidad:
+
+1. Aquellos trabajadores que inicien y continúen su prestación de servicios suscribiendo Contratos Administrativos de Servicios - CAS (Decreto Legislativo N° 1057), deberán tramitar su demanda de invalidez en la vía del proceso contencioso administrativo;
+
+2. Aquellos trabajadores que iniciaron su prestación de servicios sujeto a contratos modales (Decreto Legislativo N° 728) o contratos de servicios no personales (SNP), en una entidad pública bajo el régimen laboral de la actividad privada o mixto, y que posteriormente suscribieron contratos CAS, deben tramitar su demanda de invalidez en la vía del proceso ordinario laboral;
+
+---
+class: animated, fadeIn
+
+(...)
+
+3.Aquellos trabajadores que iniciaron su prestación de servicios sujetos a contratos temporales o contratos de servicios no personales (SNP), en una entidad publica cuyo régimen laboral sea exclusivamente el régimen de la actividad publica, y que posteriormente suscribieron contratos CAS, deben tramitar su demanda de invalidez en la vía del proceso
+contencioso administrativo, y,
+
+4.Si el régimen laboral de la entidades el régimen laboral público y el trabajador inicia su prestación de servicios suscribiendo un contrato administrativo de servicios pero continúa laborando luego de vencido el plazo de vigencia del mismo, la vía procesal seré la del proceso contencioso administrativo. Si el personal de la entidad se encuentra bajo el régimen laboral privado o mixto, la vía procesal será la del proceso ordinario laboral.
+
+5.En los casos en que el juez de la causa advierta la improcedencia de la demanda por incompetencia; éste debe disponer la remisión del proceso al juez competente para que conozca del mismo o adecuar la vía procesal, de ser el caso.
+
+---
+class: animated, fadeIn
+
+**6.¿Cuál es el órgano competente para conocer demandas planteadas por trabajadores obreros municipales?**
+
+El Pleno acordé por unanimidad:
+
+El órgano jurisdiccional competente es el juez laboral en la vía del proceso ordinario o abreviado laboral según corresponda, atendiendo a las pretensiones que se planteen; pues de conformidad con el articulo 37 de la Ley 27972, Ley Orgánica de Municipalidades, los obreros municipales se encuentran bajo el régimen laboral de la actividad privada y como tales, no estén obligados a agotar la vía administrativa para acudir al Poder Judicial.
+
+---
+class: animated, fadeIn
+
+### CASACIÓN N.° 15366-2016, LIMA NORTE
+
+> Ante una actuación material que no se sustenta en un acto administrativo, conocido en doctrina como “vía de hecho” resulta innecesario exigirle al administrado el agotamiento de la vía administrativa, independientemente que dicha actuación impugnable no se encuentre contemplada expresamente entre las causales de inexigibilidad del agotamiento de la vía administrativa a que se refiere el artículo 19° del Texto Único Ordenado de la Ley N° 27584.
+
+---
+class: animated, fadeIn
+
+# Tercer pleno 
+
+**1. ¿En qué caso, además de los expresamente predeterminados en la ley, el trabajador se encuentra exonerado de agotar la vía administrativa, para interponer la demanda contenciosa administrativa laboral?**
+
+El Pleno acordó por unanimidad:
+
+El trabajador se encuentra exonerado de agotar la vía administrativa, para interponer la demanda contenciosa administrativa laboral, en aquellos casos en los que invoca la afectación del contenido esencial del derecho a la remuneración, ya sea que peticione el pago de la remuneración básica, la remuneración total, la remuneración permanente, las bonificaciones, las dietas, las asignaciones, las retribuciones, los estímulos, los incentivos, las compensaciones económicas y los beneficios de toda índole, cualquiera sea su forma, modalidad, periodicidad, mecanismo y fuente de financiamiento.
+
+---
+class: animated, fadeIn
+
+# El proceso de amparo
+
++ Según el CPConst.
++ Regla de residualidad:: Amparo es improcedente si existe una "VPE=S"
++ Caso 00206-2005-PA/TC, Baylón Flores
++ Caso 02383-2013-PA/TC, Elgo Ríos
+
+---
+class: animated, fadeIn
+
+# Caso Elgo Ríos
+
+### Precedentes
+
+12.- Sistematizando la jurisprudencia vigente de este Tribunal, puede afirmarse que existen dos perspectivas para entender cuándo una vía puede ser considerada "igualmente satisfactoria": una objetiva, vinculada al análisis de la vía propiamente dicha (vía específica idónea); y otra subjetiva, relacionada con el examen de la afectación al derecho invocado (urgencia iusfundamental).
+
+13.- Desde la perspectiva objetiva, el análisis de la vía específica idónea puede aludir tanto: (1) a la estructura del proceso, atendiendo a si la regulación objetiva del procedimiento permite afirmar que estamos ante una vía célere y eficaz (estructura idónea)', o (2) a la idoneidad de la protección que podría recibirse en la vía ordinaria, debiendo analizarse si la vía ordinaria podrá resolver debidamente el caso iusfundamental que se ponga a su consideración (tutela idónea). Este análisis objetivo, claro está, es independiente a si estamos ante un asunto que merece tutela urgente.
+ 
+---
+class: animated, fadeIn
+
+14.- De otra parte, desde una perspectiva subjetiva, una vía ordinaria puede ser considerada igualmente satisfactoria si: (1) transitada no pone en grave riesgo al derecho afectado, siendo necesario evaluar si transitar la vía ordinaria puede tornar irreparable la afectación alegada (urgencia como amenaza de irreparabilidad); situación también predicable cuando existe un proceso ordinario considerado como "vía igualmente satisfactoria" desde una perspectiva objetiva; (2) se evidencia que no es necesaria una tutela urgente, atendiendo a la relevancia del derecho involucrado o a la gravedad del daño que podría ocurrir (urgencia por la magnitud del bien involucrado o del daño).
+
+---
+class: animated, fadeIn
+
+15.- Queda claro, entonces, que la vía ordinaria será "igualmente satisfactoria" a la vía del proceso constitucional de amparo, si en un caso concreto se demuestra, de manera copulativa, el cumplimiento de estos elementos:
+
+- Que la estructura del proceso es idónea para la tutela del derecho;
+
+- Que la resolución que se fuera a emitir podría brindar tutela adecuada;
+
+- Que no existe riesgo de que se produzca la irreparabilidad; y
+
+- Que no existe necesidad de una tutela urgente derivada de la relevancia
+del derecho o de la gravedad de las consecuencias.
+
+En sentido inverso, la ausencia de cualquiera de estos presupuestos revela que no
+existe una vía idónea alternativa al amparo, por lo que la vía constitucional quedará
+habilitada para la emisión de un pronunciamiento de fondo (salvo que se incurra en alguna otra causal de improcedencia).
+
+17.- Las reglas para determinar cuándo una vía ordinaria alterna resulta igualmente
+satisfactoria son las establecidas en esta sentencia, y conforme a ellas se
+interpretará el inciso 2 del artículo 5, resultando aplicables a todos los procesos de
+amparo, independientemente de su materia.
+
+---
+class: animated, fadeIn
+
+25.- Al respecto, este Tribunal señala que, a pesar de la existencia de referida norma procesal, en sustancia mantiene los criterios materiales referidos a la procedencia del amparo laboral. Así, como antes, en caso que la vía laboral no permita la reposición satisfactoria o eficaz del trabajador (supuesto de estructura idónea, previsto en el fundamento 13, supra), o cuando el demandante persiga la tutela urgente de sus derechos constitucionales frente a despidos nulos, en caso no vaya a obtener tutela satisfactoria en la vía laboral (supuesto de tutela idónea y urgencia iusfundamental, previstos en los fundamentos 13 y 14, supra), deberá admitirse a trámite la demanda de amparo. Igualmente, para los casos que no se encuentran regidos por la Ley N° 29497, Nueva Ley Procesal del Trabajo, resulta de aplicación el análisis sobre la pertinencia de la vía constitucional fijados en esta sentencia como precedente, que son compatibles con los precedentes que fueron establecidos en la STC Exp. N° 00206-2005-PA/TC. 
+
+26.- En este orden de ideas, si el demandante cuenta con una vía laboral en la que podrá obtener de manera célere —tanto o más que a través del amparo— la reposición que solicita, deberá acudir a esa vía y no al proceso constitucional de amparo, salvo que estemos ante situaciones que objetivamente demanden una tutela urgente que solamente puede canalizarse mediante un medio procesal como el amparo. 
+
+---
+class: inverse, middle, center
+
+# Una audiencia con la NLPT
+
+---
+class: animated, bounceInDown, inverse
+
+# Octava Sala Laboral de Lima, 18 de junio de 2020
+
+.center[
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Foctavasalalaboraldelima%2Fvideos%2F633063550753094%2F&show_text=0&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+]
+
+---
+class: animated, fadeIn
+
+# .left-column[
+Pregunta:
+]
+
+# .right-column[
+¿Qué hubiese hecho usted en el rol de demandante, demandado o juez?
+]
+
+---
+class: center, middle
+
+# ¡Gracias!
+

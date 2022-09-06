@@ -1,0 +1,445 @@
+---
+title: "Medios impugnatorios"
+subtitle: "(Juzgamiento anticipado y rebeldía)"  
+author: 
+  - "Paul Paredes"
+  - "Maestría en Derecho Procesal, UNMSM"
+date: 'Lima, 10 de junio de 2022'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+class: middle, center
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#035AA6",
+  secondary_color = "#03A696",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Clase 7
+
+# Juzgamiento anticipado y rebeldía
+
+# Medios impugnatorios
+
+---
+# Plan de la clase
+
+1. Juzgamiento anticipado y rebeldía
+
+2. Medios impugnatorios: apelación y casación
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: inverse, center, middle
+
+# El juzgamiento anticipado y la rebeldía
+
+---
+
+layout: true
+class: title title-4
+
+---
+# Razones subyacentes
+
+.box-inv-4.sp-after.small[
+Importancia de la conciliación en el modelo de la NLPT
+]
+
+.box-inv-4.sp-after.small[
+No son dos audiencias *obligatorias*
+]
+
+.box-inv-4.sp-after.small[
+Incentivos que modulan la conducta hacia el acuerdo
+]
+
+.center.float-left[
+.box-4[Juzgamiento anticipado]
+.box-4[Rebeldía]
+.box-4[-->]
+.box-4[Aud. conciliación]
+]
+
+.box-4[La aud. conciliación como única audiencia]
+
+.center.float-left[
+.box-inv-4.small[Única porque hubo acuerdo]
+.box-inv-4.small[Única porque hubo juzgamiento anticipado]
+]
+
+---
+
+# Razones subyacentes
+
+.box-4.small[1.Una justicia oportuna]
+
+.box-4.small[2.Funcionalidad del proceso]
+
+.center.float-left[.box-inv-4[]
+.box-inv-4[Hechos admitidos]
+.box-inv-4[Hechos necesitados de prueba]
+.box-inv-4[Conducta procesal]
+.box-inv-4[Presunción relativa de verdad de la demanda]
+]
+
+---
+# Dos modalidades de juzg. anticipado
+
+.box-4.small[Primera modalidad]
+
+.box-inv-4.smaller[
+Segundo párrafo del inciso 2 del artículo 43°:
+]
+
+.smaller[
+> «Por decisión de las partes la conciliación puede prolongarse lo necesario hasta que se dé por agotada, pudiendo incluso continuar los días hábiles siguientes, cuantas veces sea necesario, en un lapso no mayor de un (1) mes. Si las partes acuerdan la solución parcial o total de su conflicto el juez, en el acto, aprueba lo acordado con efecto de cosa juzgada; asimismo, ordena el cumplimiento de las prestaciones acordadas en el plazo establecido por las partes o, en su defecto, en el plazo de cinco (5) días hábiles siguientes. **Del mismo modo, si algún extremo no es controvertido, el juez emite resolución con calidad de cosa juzgada ordenando su pago en igual plazo.**»
+]
+
+---
+# Dos modalidades de juzg. anticipado
+
+.box-4.small[Segunda modalidad]
+
+.box-inv-4.smaller[
+Segundo párrafo del inciso 3 del artículo 43°:
+]
+
+.smaller[
+> «Si el juez advierte, haya habido o no contestación, que la cuestión debatida es solo de derecho, o que siendo también de hecho no hay necesidad de actuar medio probatorio alguno, solicita a los abogados presentes exponer sus alegatos, a cuyo término, o en un lapso no mayor de sesenta (60) minutos, dicta el fallo de su sentencia. La notificación de la sentencia se realiza de igual modo a lo regulado para el caso de la sentencia dictada en la audiencia de juzgamiento.»
+]
+
+.box-inv-4.small[Esta modalidad no depende de la rebeldía. La rebeldía es solo un subtipo desencadenante del juzgamiento anticipado]
+
+---
+# JA: segunda modalidad
+
+.box-4[Supuestos]
+
+.box-inv-4[Cuando la causa es solo de derecho]
+
+.box-inv-4[Cuando siendo de hecho no existe necesidad de actuar medio probatorio alguno. Ver art. 46*.]
+
+.box-inv-5.small[*Hechos admitidos, presumidos por ley, notorios y recogidos en resolución con calidad de cosa juzgada]
+
+.box-inv-5.small[**No es determinante del JA si se contestó o no la demanda]
+
+---
+# Rebeldía
+
+.center.float-left[
+.box-inv-4[Significado del silencio]
+.box-inv-4[Conductas no colaborativas del demandado]
+]
+
+.box-4.sp-after[
+Segundo párrafo del artículo 19°:
+]
+
+.box-4[
+«Si el demandado no niega expresamente los hechos expuestos en la demanda, estos son considerados admitidos».
+]
+
+---
+# Rebeldía
+
+.box-4[Primera idea: ¿sanción?]
+
+.small[
+> (...), cuando el demandado no contesta o no asiste a la audiencia de conciliación o no cumple con el requisito de acudir con poderes suficientes para conciliar, el sistema asume que expresa su conformidad sobre los hechos de la demanda a fin de precluir con la etapa de la contestación, avanzar a las siguientes y cumplir su finalidad de solución de los conflictos.
+
+> P. Paredes. Base doctrinal del juzgamiento anticipado, p. 6.
+]
+
+---
+# Rebeldía
+
+.box-4[Segunda idea: conducta voluntaria de la parte]
+
+.box-inv-4[Verificar el emplazamiento al demandado]
+
+.box-4[Tercera idea: en el PAL el JA carece de mayor utilidad práctica, aunque la rebeldía generaría que los hechos se reputen admitidos]
+
+---
+# Rebeldía y juzgamiento anticipado
+
+&nbsp;
+
+&nbsp;
+
+.box-4.medium[Tres escenarios:]
+
+---
+# Rebeldía y juzgamiento anticipado
+
+.box-4[Uno]
+
+.small[
++ Si demandado no asiste, entonces, no contesta la demanda.
++ Si no contesta la demanda, no niega expresamente los hechos de la demanda.
++ Entonces, los hechos de la demanda son hechos admitidos y no se requiere la actuación de medios probatorios.
+]
+
+---
+# Rebeldía y juzgamiento anticipado
+
+.box-4[Dos]
+
+.small[
++ Si demandado asiste, se apersona, pero no contesta la demanda.
++ Si no contesta la demanda, no niega expresamente los hechos de la demanda.
++ Entonces, los hechos de la demanda son hechos admitidos y no se requiere la actuación de medios probatorios.
+]
+
+---
+# Rebeldía y juzgamiento anticipado
+
+.box-4[Tres]
+
+.small[
++ Si demandado asiste, se apersona, (formalmente) contesta la demanda, pero no tiene poderes suficientes para conciliar.
++ Si no tiene poderes suficientes para conciliar se incumple con un requisito de la contestación.
++ Si se incumple con un requisito de la contestación, se tiene por no contestada.
++ Si no contesta la demanda, no niega expresamente los hechos de la demanda.
++ Entonces, los hechos de la demanda son hechos admitidos y no se requiere la actuación de medios probatorios.
+]
+
+---
+# Rebeldía y dirección del juez
+
+.box-inv-4[
++ Si juez no aplica el JA sería porque ha visto los MP y que considere que 1. contradicen la demanda o 2 no la sustentan.
+]
+---
+class: inverse, middle, center
+
+# Medios impugnatorios
+
+---
+class: animated, fadeIn
+
+# Medios impugnatorios en la NLPT
+
+1. Recurso de apelación
+
+2. Recurso de casación
+
+3. ¿Recurso de reposición?
+
+---
+class: animated, fadeIn, center, middle
+
+# El procedimiento ...>
+
+---
+class: animated, slideInRight
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/pol2.png)
+background-size: contain
+
+---
+class: animated, fadeIn
+
+# La apelación
+
++ Plazo de apelación de sentencia: **.red[5 dhs]**
+  + de la audiencia (cuando se dicta el fallo y se notifica la sentencia o resolución en la misma audiencia :: no es lo típico ni frecuente).
+  + de citadas las partes para su notificación (notificación en estrado)
+
++ Audiencia de vista de la causa
+  + Extremos apelados y su fundamento
+  + El OJ puede formular preguntas a las partes y sus abogados
+  + Sentencia inmediata o luego de 60 min.; o diferir dentro de los 5 dhs.
+  + Cita a las partes para la notificación de la sentencia. Debe ser dentro de los 5 dhs.
+  + Si las partes no concurren a la audiencia, igualmente notifica la sentencia en su despacho al 5 dhs.
+
+---
+class: animated, fadeIn
+
+# La casación. Causales.
+  
+1. Infracción normativa que incide directamente sobre la decisión contenida en la resolución impugnada.
+2. Apartamiento de los precedentes vinculantes del TC o la CS.
+  + (¿apartamiento inmotivado? ~ art. 386 CPC)
+
+> Ley 26636 | *Artículo 56.- CAUSALES.- Son causales para interponer el recurso de casación:*
+
+>	*a) La aplicación indebida de una norma de derecho material.*
+
+>	*b) La interpretación errónea de una norma de derecho material.*
+
+>	*c) La inaplicación de una norma de derecho material.*
+
+>	*d) La contradicción con otras resoluciones expedidas por la Corte Suprema de Justicia o las Cortes Superiores, pronunciadas en casos objetivamente similares, siempre que dicha contradicción esté referida a una de las causales anteriores.*
+
+---
+class: animated, fadeIn
+
+# La casación. Precedentes vinculantes CS. (art. 40.° NLPT)
+
++ La SCyS-CSJR **convoca** al pleno de los jueces supremos en materia constitucional y social.
++ **Finalidad::** .red[constituir] o .red[variar] un precedente judicial.
++ **Decisión::** por mayoría absoluta de los asistentes al pleno casatorio.
++ **Consecuencia:: .red[vincula]** a los órganos jurisdiccionales hasta que sea modificada por otro precedente.
++ Los abogados pueden **informar oralmente** en la vista de la causa ante el pleno casatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Admisibilidad.
+
++ Vs. sentencias y autos finales de las salas superiores.
+  + Si contiene monto reconocido, ...>>100 URP. (cf. art. 388 CPC)
++ Ante la sala superior que emitió la resolución impugnada.
+  + Sala superior remite **sin más trámite**.
++ Plazo: **.red[10 dhs]**.
++ Tasa (cf. Undécima D.C.)
+
+---
+class: animated, fadeIn
+
+# La casación. Procedencia.
+
++ No consentimiento de la resolución adversa de primera instancia, si fuese confirmada en segunda instancia.
++ Claridad y precisión de las causales:: Infrac.Normat. o Apart.Precd.Vinc.
++ Demostrar la incidencia directa de la IN.
++ Indicar si pedido es Anulatorio o Revocatorio.
+
+---
+class: animated, fadeIn
+
+# La casación. Efecto.
+
++ ### La interposición **.red[no suspende]** la ejecución de la sentencia.
++ Excepcionalmente se suspende:
+  + solo si obligación de dar suma de dinero.
+  + a pedido de parte.
+  + previo depósito o carta fianza por el importe total.
+     + IT: capital, intereses, costos, costas, más intereses de 1 año proyectado.
+> ...> juez suspende en resolución fundamentada e inimpugnable
+
+---
+class: animated, fadeIn
+
+# La casación. Finalidad.
+
+> Artículo 384.- Fines de la casación
+El recurso de casación tiene por fines la adecuada aplicación del derecho objetivo al caso concreto y la uniformidad de la jurisprudencia nacional por la Corte Suprema de Justicia. 
+
+> (Ley 29364, del 28 mayo 2009).
+
+> Artículo  384.- El recurso de casación tiene por fines esenciales la correcta aplicación e interpretación del derecho objetivo y la unificación de la jurisprudencia nacional por la Corte Suprema de Justicia.
+
+> (Original)
+
+---
+class: animated, fadeIn
+
+#### La casación. Fines.
+
+1. Función de nomofilaquia::
+
+ a) Poner en evidencia los errores. Modelo de tercera instancia.
+
+ b) Interpretación | justa | adecuada | correcta | mejor | ajustada a los valores, bienes, principios constitucionales | de la norma.
+
+ > CS elige entre valores. ¿Hacer derecho? Modelo de Corte Suprema.
+
+2. Uniformidad (de la interpretación de la ley) por medio de la jurisprudencia nacional.
+ 
+ a) Mera y formal unificación de la jurisprudencia. Modelo de tercera instancia.
+ 
+ b) Uniformidad de la interpretación en los supuestos de hecho. (¿conservador vs. innovación?)
+ 
+  > El precedente se vuelve significativo. Referencia para jurisprudencia uniforme.
+  
+  > El cambio de precedente rompe la uniformidad para crear una nueva.
+ 
+---
+class: animated, fadeIn
+
+# El rol de la Corte Suprema
+
+Distinguir entre:
+
+1. Resoluciones emitidas en casación. Jurisprudencia. (art. 31, 39 NLPT).
+
+2. Resoluciones emitidas en casación. Precedentes vinculantes. (art. 40 NLPT) ~~ (art. 400 CPC).
+
+3. Plenos jurisdiccionales supremos en materia laboral. (art. 22 y 116 LOPJ).
+
+---
+class: animated, fadeIn
+
+#### Doctrina jurisprudencial
+
+> Carácter vinculante de la doctrina jurisprudencial.
+
+>Artículo 22.- Las Salas Especializadas de la Corte Suprema de Justicia de la República ordenan la publicación trimestral en el Diario Oficial "El Peruano" de las Ejecutorias que fijan principios jurisprudenciales que han de ser de obligatorio cumplimiento, en todas las instancias judiciales.
+
+> Estos principios deben ser invocados por los Magistrados de todas las instancias judiciales, cualquiera que sea su especialidad, como precedente de obligatorio cumplimiento. En caso que por excepción decidan apartarse de dicho criterio, están obligados a motivar adecuadamente su resolución dejando constancia del precedente obligatorio que desestiman y de los fundamentos que invocan.
+
+> Los fallos de la Corte Suprema de Justicia de la República pueden excepcionalmente apartarse en sus resoluciones jurisdiccionales, de su propio criterio jurisprudencial, motivando debidamente su resolución, lo que debe hacer conocer mediante nuevas publicaciones, también en el Diario Oficial "El Peruano", en cuyo caso debe hacer mención expresa del precedente que deja de ser obligatorio por el nuevo y de los fundamentos que invocan.
+
+---
+class: animated, fadeIn
+
+# Plenos jurisdiccionales
+
++ Plenos laborales nacionales, regionales o distritales.
+
+> Plenos jurisdiccionales.
+
+> Artículo 116.- Los integrantes de las Salas Especializadas, pueden reunirse en plenos jurisdiccionales nacionales, regionales o distritales a fin de concordar jurisprudencia de su especialidad, a instancia de los órganos de apoyo del Poder Judicial.
+
+---
+class: animated, fadeIn
+
+### Sala plena de la Corte Suprema
+
+> Artículo 80.- Atribuciones de la Sala Plena de la Corte Suprema
+Son atribuciones de la Sala Plena de la Corte Suprema de Justicia de la República:
+
+> 4.Sistematizar y difundir la jurisprudencia de las Salas Especializadas de la Corte Suprema y disponer la publicación trimestral de las Ejecutorias que fijen principios jurisprudenciales que han de ser de obligatorio cumplimiento en todas las instancias judiciales.
+
+---
+class: center, middle
+
+# ¡Gracias!
+

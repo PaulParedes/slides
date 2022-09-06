@@ -1,0 +1,482 @@
+---
+title: "Presunciones derivadas de la conducta de las partes"
+author: ".small[Paul Paredes]"
+date: "11 de agosto de 2022"
+output:
+  xaringan::moon_reader:
+    css:
+      - "custom_2020.css"
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+      - "mi-css.css"
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    seal: false # esto omite title slide automática
+    self_contained: false
+#mode: selfcontained
+---
+class: front, hide_logo
+
+```{r eval=FALSE, include=FALSE}
+# Para que funcione el infinite moon reader, correr desde el root!
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css"))
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Presunciones derivadas de la conducta de las partes en la NLPT
+----
+## Paul Paredes<br/>11 de agosto de 2022
+]
+
+.pull-right[
+.right[
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+]
+
+.center[
+
+&nbsp;
+
+## Programa Presupuestal 0099<br/> Poder Judicial
+]
+]
+
+
+???
+Agradecer la invitación.
+Expresión de intereses.
+ 
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+# Plan de la ponencia
+
+.small[
+
+1. Planteamiento del problema: ¿Qué **.rojo[implicancias]** trae para el proceso laboral la **(in)conducta de las partes**?
+
+1. Proceso y deber de colaboración: conducta de las partes
+
+1. Prueba y prueba jurídica
+
+1. Presunciones y conducta de las partes
+
+1. Algunas situaciones problemáticas
+
+1. Conclusiones
+
+]
+
+---
+class: middle, center, inverse
+
+# Planteamiento del problema
+
+---
+# NLPT, Ley 29497
+
+.small[
+**Artículo 29.- Presunciones legales derivadas de la conducta de las partes**
+
+> El juez puede **.rojo[extraer conclusiones]** en contra de los intereses de las partes atendiendo a su **conducta asumida en el proceso**. Esto es particularmente relevante cuando la actividad probatoria es obstaculizada por una de las partes.
+
+> Entre otras circunstancias, se entiende que se **obstaculiza la actuación probatoria** cuando no se cumple con las exhibiciones ordenadas, se niega la existencia de documentación propia de su actividad jurídica o económica, se impide o niega el acceso al juez, los peritos o los comisionados judiciales al material probatorio o a los lugares donde se encuentre, se niega a declarar, o responde evasivamente. 
+]
+
+---
+class: middle, center, inverse
+
+# Proceso y deber de colaboración: conducta de las partes
+
+---
+class: center, middle
+
+# ¿Por qué (debe haber) un proceso laboral?
+
+---
+class: animated, fadeIn
+
+# El Código Civil francés de 1804
+
+--
+
+> "1781. Le maître est cru sur son affirmation, Pour la quotité des gages; Pour le paiement du salaire de l'année échue; Et pour les à-comptes donnés pour l'année courante."
+
+--
+
+> "Al patrón se le cree por su dicho, en cuanto al monto de los salarios; en cuanto al pago del salario del año vencido; y en cuanto a lo que diga haber dado a cuenta por el año corriente".
+
+---
+# ¿Por qué un proceso laboral?
+
+Porque hay situaciones de desigualdad sobre las cuales se hace necesario llamar la atención para gozar (acceder) efectivamente a los derechos que un ordenamiento ofrece.
+
+---
+# El proceso laboral de la NLPT
+
+.pull-left[
+
+> **.rojo[DE]** la igualdad (formal) de las partes y el juez espectador
+]
+
+.pull-right[
+> **.rojo[A]** la igualdad efectiva de las partes (a través de la ley) y el juez director del proceso
+]
+
+---
+# Deber de colaboración en la NLPT
+
+.small[
+**Art. III.- Fundamentos del proceso laboral**
+> En todo proceso laboral los jueces deben evitar que **la desigualdad** entre las partes **.rojo[afecte]** el desarrollo o resultado del proceso, (...).
+
+> Los jueces laborales tienen un rol protagónico en el desarrollo e impulso del proceso. Impiden y sancionan la inconducta contraria a los **deberes de veracidad, probidad, lealtad y buena fe de las partes**, sus representantes, sus abogados y terceros. 
+
+]
+
+---
+.small[
+**Art. 11.- Reglas de conducta en las audiencias**
+
+> En las audiencias el juez cuida especialmente que se observen las siguientes reglas de conducta:
+
+> a) (...).
+
+> b) **.rojo[Colaboración en la labor de impartición de justicia]**. Merece sanción alegar hechos falsos, ofrecer medios probatorios inexistentes, obstruir la actuación de las pruebas, generar dilaciones que provoquen injustificadamente la suspensión de la audiencia, o desobedecer las órdenes dispuestas por el juez.
+
+]
+
+---
+# Tipo de conducta en el proceso
+
+1. Colaboración
+
+2. Obstrucción
+
+3. Silencio (consciente)
+
+---
+# Manejo procesal de las (in)conductas
+
+1. Sanciones: multas, denuncias
+
+2. Consecuencias en el resultado del proceso: uso de presunciones (legales o judiciales) 
+
+---
+class: middle, center, inverse
+
+# Prueba y prueba jurídica
+
+---
+# Razonamiento probatorio y derecho probatorio
+
+`r xfun::file_string('tabla-compa-razoprob-derprob.txt')`
+
+---
+class: middle, center 
+
+# Cuatro manifestaciones de la tensión entre prueba y prueba jurídica
+
+---
+# Cuatro manifestaciones
+
+
+`r xfun::file_string('tabla-cuatro-manifestaciones1.txt')`
+
+---
+# Cuatro manifestaciones
+
+
+`r xfun::file_string('tabla-cuatro-manifestaciones2.txt')`
+
+
+---
+# Cuatro manifestaciones
+
+
+`r xfun::file_string('tabla-cuatro-manifestaciones34.txt')`
+
+---
+# La prueba en el proceso laboral de la NLPT
+
+.pull-left[
+
+> **.rojo[DEL]** proceso como mero mecanismo de resolución de conflictos, dependiente de la habilidad de las partes y de sus abogados, (donde impera el concepto de verdad como persuasión)
+]
+
+.pull-right[
+> **.rojo[AL]** proceso como solución de conflictos aplicando Derecho a los hechos ocurridos en la realidad (verdad como correspondencia)
+]
+
+---
+class: inverse, middle, center
+
+# Presunciones y conducta de las partes
+
+---
+# Contexto de la prueba
+
++ Incertidumbre
+
++ Ausencia de conocimiento
+
++ Inconsistencia
+
++ Conducta de las partes
+
+---
+# Carga de la prueba y presunción
+
+.small[
+> "**La presunción** es una herramienta usada en la prueba de los hechos en juicio para permitir que una proposición (una afirmación de hecho) sea considerada como un elemento de juicio (un elemento de prueba) en un caso, aun cuando el argumento que apoya dicha proposición no es suficientemente sólido para alcanzar el estándar de prueba requerido. (...). **La carga de la prueba** fija un estándar para determinar lo que se considera probado, en el razonamiento probatorio en el derecho".
+
+> Douglas Walton, Burden of Proof, Presumption and Argumentation, Cambridge UP, p. 1.
+]
+
+---
+# Sobre las presunciones, distinguir:
+
+.small[
++ Presunciones simples, de hombre, prueba por indicios
+
++ Presunciones legales:
+
+  + Presunciones regla; normas constitutivas
+  
+      + Iure et de iure
+    
+      + Iuris tantum 
+      
+  + Verdades interinas; presunciones principio
+]´
+
+---
+# Sobre carga de la prueba (*common law*), se distingue
+
++ Carga de la producción
+
++ Carga de la persuasión
+
+---
+# Los estándares de prueba
+
+.small[
+> "Los estándares de prueba son reglas que determinan el grado el grado de confirmación que una hipótesis debe tener, a partir de las pruebas , para poder ser dada por probada a los efectos de adoptar una determinada decisión; pero al hacerlo, realizan también una segunda función de la mayor importancia, i.e., distribuir el riesgo del error entre las partes; y evidentemente es una cuestión política y no epistemológica determinar cuánto riesgo de error nos parece asumible que soporte cada una de las partes en un procedimiento judicial".
+
+> Jordi Ferrer. Prueba sin convicción. Marcial Pons, Madrid, 2021, p. 24
+]
+
+---
+
+# Ejemplos de estándares de prueba
+
+.small[
++ Prueba mínima: principio de prueba: *Scintilla of evidence*
+
++ Prueba prevaleciente o preponderante: *Preponderance of evidence*
+
++ Prueba clara y convincente: *Clear and convincing evidence*
+
++ Más allá de toda duda razonable: *Beyond reasonable doubt*
+
+> Douglas Walton. Burden of proof, presumption and argumentation. Cambridge UP, NY, 2014, pp. 57-61
+]
+
+---
+# Los enlaces de las inferencias probatorias
+
+> 1. Epistémico
+
+> 2. Legal
+
+> 3. Conceptual (las definiciones)
+
+---
+# Epistémico: las máximas de la experiencia
+
+.smaller[
+
+|Generalizaciones | Descripción |Ejemplo |
+|-----------------|-------------|--------|
+|G. específicas del caso |Hábitos personales, prácticas locales |X usualmente llega tarde al trabajo |
+|G. de contexto | Sentido común (en camino hacia la ciencia) |En AQP las entidades públicas empiezan a atender a las 7:00 a.m. |
+|Conocimiento científico y experticia |Investigación, experimentación |El mesotelioma se produce por exposición al asbesto |
+|Conocimiento general | Cultura media |El BCR fija la tasa de interés legal laboral |
+|G. basadas en la experiencia | Experiencias de primera mano |La X sala laboral de Y siempre pide mostrar el DNI antes de las audiencias |
+|G. de creencias | G. de sentido común |Los que de verdad han cometido una falta son los que no reclaman; el que huye es porque es culpable |
+
+]
+
+
+---
+# Los enlaces de las inferencias probatorias
+
+> **Legales**: las presunciones (legales)
+
+> La inferencia, a la conclusión, no la hace el juez, sino que viene hecha por la ley
+
+> + Función de garantía de los derechos
+  
+---
+# Los enlaces de las inferencias probatorias
+
+> Las **definiciones**
+
+> El problema de clasificación de los hechos
+
+---
+# Problemas sobre la prueba
+
+> 1. Problemas de prueba: de conocimiento: depende de la prueba (la verdad se descubre)
+
+> 2. Problemas de clasificación (o de calificación): problemas con el supuesto de hecho de la norma: problema de apreciación sobre el conjunto de hechos que recoge la norma
+
+
+> MacCormick, Neil. Legal Reasoning and Legal Theory, reimpreso, Oxford, Clarendon Press, 2003, pp. 87-93.
+
+---
+class: inverse, middle, center
+
+# Algunas situaciones problemáticas
+
+---
+# Algunas situaciones problemáticas derivada de la (in)conducta de la parte
+
+.small[
+
++ La rebeldía (art. 43, inc. 1, NLPT)
+
++ Silencio del demandado (art. 19, segundo párrafo)
+
+> "(...).  Si el demandado no niega expresamente los hechos expuestos en la demanda, estos son considerados admitidos". 
+
+]
+
+---
+class: center, middle
+
+## ¿Qué es? 
+
+---
+class: center, middle
+
+## Una presunción legal iuris tantum
+
+---
+# Algunas situaciones problemáticas derivada de la (in)conducta de la parte
+
++ Obstaculizar la actividad probatoria (art. 29) 
+
+.small[
+> El juez puede **.rojo[extraer conclusiones]** en contra de los intereses de las partes atendiendo a su **conducta asumida en el proceso**. Esto es particularmente relevante cuando la actividad probatoria es obstaculizada por una de las partes.
+
+> Entre otras circunstancias, se entiende que se **obstaculiza la actuación probatoria** cuando no se cumple con las exhibiciones ordenadas, se niega la existencia de documentación propia de su actividad jurídica o económica, se impide o niega el acceso al juez, los peritos o los comisionados judiciales al material probatorio o a los lugares donde se encuentre, se niega a declarar, o responde evasivamente. 
+]
+
+---
+class: center, middle
+
+## ¿Qué es? 
+
+---
+class: center, middle
+
+## Una presunción judicial recogida en la ley
+
++ ¿El "puede" es discrecional habiendo obstrucción en la actuación probatoria de la parte?
+
+---
+# Algunas situaciones problemáticas derivada de la (in)conducta de la parte
+
+.small[
++ El D. Leg. 1310 y la conservación de documentos (antes, el D.L. 25988 pero diferente)
+
+> "3.4 Para todo efecto legal, los empleadores están obligados a conservar los documentos y constancias de pago de las obligaciones laborales económicas solamente hasta cinco años después de efectuado el pago".
+
+> DL 25988, art. 5: "Transcurrido el período a que se refiere el párrafo anterior, las empresas podrán disponer de dichos documentos para su reciclaje o destrucción. En todo caso, inclusive en lo relativo a materia laboral, luego de transcurrido el período, corresponderá a la parte que alega un derecho su probanza".
+
+> STC 01113-2011-PA/TC, del 07/10/2011
+
+]
+
+---
+
+## ¿Vale como argumento de defensa?
+
+.small[
+
++ El argumento de defensa del plazo de cinco (5) años del D. Leg. 1310 no es suficiente para enervar la aplicación de la presunción del art. 29.
+
++ Ello por cuanto la carga de la prueba del pago siempre estará en hombros de quien alega haber pagado.
+
++ El riesgo de la falta de acreditación de la prueba del pago no recae sobre el demandante, sino sobre el demandado.
+
++ Esta regla aplica incluso en una causa civil. 
+]
+
+---
+# Algunas situaciones problemáticas derivada de la (in)conducta de la parte
+
++ La prueba del hecho lesivo (art. 23.5) 
+
+.small[
+> 23.5 En aquellos casos en que de la demanda y de la prueba actuada aparezcan indicios que permitan presumir la existencia del hecho lesivo alegado, el juez debe darlo por cierto, salvo que el demandado haya aportado elementos suficientes para demostrar que existe justificación objetiva y razonable de las medidas adoptadas y de su proporcionalidad.  
+
+> Los indicios pueden ser, entre otros, las circunstancias en las que sucedieron los hechos materia de la controversia y los antecedentes de la conducta de ambas partes". 
+
+]
+
+---
+class: center, middle
+
+## ¿Qué es?
+
+---
+class: center, middle
+
+## Una presunción legal iuris tantum
+
+.pull-left[
++ Las circunstancias es el contexto del caso
+]
+
+.pull-right[
++ Los antecedentes de la conducta de las partes: una generalización específica del caso
+]
+
+---
+class: inverse, center, middle
+
+# Conclusiones
+
+---
+class: middle
+
+> *La conducta de las partes forma parte del contexto del caso y da pie para sustentar tanto presunciones legales (iuris tantum) como presunciones judiciales, que justifiquen la premisa fáctica del caso.*
+
+---
+class: front, hide_logo, center, middle
+
+# ¡Gracias por su atención!
+
+## pgparede@pucp.pe

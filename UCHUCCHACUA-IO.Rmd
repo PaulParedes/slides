@@ -1,0 +1,166 @@
+---
+title: "Exp. 2101656 - Gob. Reg. Lima"
+subtitle: "Recurso de revisión ante la Dirección General de Trabajo"
+author: "Sindicatos de Cía. de Minas Buenaventura"
+institute: "Unidad Uchucchacua"
+date: "1 de marzo de 2022"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - hygge
+      - "mi-css.css"
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+class: animated, fadeIn
+
+## Comunicación cese colectivo 212 trabajadores
+
+.center[![tabla1](img/uchu/tiempo1.png)]
+
+---
+## Comunicación cese colectivo 212 trabajadores
+
+.center[![tabla2](img/uchu/tiempo2.png)]
+
+---
+
+# XXXX
+
+## xxxx
+
+### xxxx
+
+---
+
+.pull-left[
+
+![tabla1](img/uchu/tiempo1.png)
+
+]
+
+.pull-right[
+
+![tabla2](img/uchu/tiempo1.png)
+
+]
+
+---
+
+.pull-left[
+- One bullet.
+
+- Another bullet.
+]
+
+.pull-right[
+![an image](foo.png)
+]
+
+---
+
+1. Causas objetivas alegadas:
+
+  1. económica **Y** 
+  
+  2. estructural: .red[**AMBAS.**]
+
+1. Presenta copia del Informe Pericial con firmas manuscritas:
+
+  - 2 firmas en la carátula; y,
+  
+  - esas mismas 2 firmas en la última hoja del Anexo 4 del IP.
+  
+1. Dice que los motivos "económicos estructurales" están acreditados en el IP.
+
+1. Presenta --fuera del IP-- 4 cuadros Excel.
+
+---
+class: animated, fadeIn
+
+# Pero ...
+
++ .red[**Si 2 causales**], entonces, se necesita .red[**2 fundamentaciones**], diferentes, suficientemente identificadas.
+
++ Pero:
+
+  1. El IP .red[**no distingue las 2 causales].** Más claro: .red[**EL IP NO CONTIENE 2 CAUSALES**].
+  
+  1. Un ingeniero no puede sustentar lo económico (no es su expertise).
+  
+  1. Un contador no puede sustentar lo estructural (no es su expertise).
+  
+  1. El IP no aparece lo suficientemente respaldado por los nominados profesionales. Sus firmas están, fácticamente, fuera de los límites del IP en sí. 
+  
+  1. Los 4 cuadros Excel no están insertos en el IP. Son piezas sueltas no justificadas en la causal alegada.
+
+---
+class: animated, fadeIn
+
+# 2 firmas carátula IP
+
+.center[![caratula](https://raw.githubusercontent.com/PaulParedes/materiales/master/caratulaIP.png)]
+
+---
+class: animated, fadeIn
+
+# 2 firmas última página (Anexo 4 IP)
+
+.center[![ultima-pagina-IP](https://raw.githubusercontent.com/PaulParedes/materiales/master/ultimaIP.png)]
+
+---
+class: animated, fadeIn
+
+# Los motivos "económicos estructurales" en el IP
+
++ El IP tiene 64 páginas
+
++ **9 tablas**
+  + 1 baja de ley del mineral
+  + 2 alto costo de producción
+  + 3 inversiones realizadas
+  + .red[1 situación financiera]
+  + 1 suspensión de operaciones
+  + 1 compromisos comunidades
+
++ **4 anexos**
+  + 1: descripción del proceso productivo (p.30-37)
+  + 2: fundamentación del personal con posiciones excedentes por suspensión de operaciones y necesidad cambios estructurales (p.38-61)
+  + 3: dimensionamiento de puestos en etapa de suspensión (p. 62)
+  + 4: dimensionamiento de puestos de trabajo excedente (p.63-64)
+
+---
+class: animated, fadeIn
+
+# Tabla de situación financiera n.° 7, p. 16
+
+
+---
+class: animated, fadeIn
+
+background-image: url(https://raw.githubusercontent.com/PaulParedes/materiales/master/tabla7financiera.png)
+background-position: center
+background-size: contain, 50% 50%, cover
+
+---
+class: animated, fadeIn
+
+# Los 4 cuadros Excel
+
+.center[![cuadros-excels](https://raw.githubusercontent.com/PaulParedes/materiales/master/4excels.png)]
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!
