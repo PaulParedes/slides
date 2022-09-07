@@ -1,0 +1,284 @@
+---
+title: "Exp. 2101656 - Gob. Reg. Lima"
+subtitle: ""
+author: "Sindicatos de Cía. de Minas Buenaventura"
+institute: ""
+date: "10 de septiembre de 2022"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: 
+      - default
+      - css/my-theme.css
+      - css/my-fonts.css
+      - xaringan-themer.css
+      - mi-css.css
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    self_contained: true
+    seal: true
+---
+class: center, middle, animated, slideInRight
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1F1D2B",
+  secondary_color = "#F97B64",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+# Recurso de revisión
+
+## RDR 009-2022-GRL
+
+## Comunicación de cese colectivo de 212 trabajadores
+
+---
+layout: true
+class: animated, fadeIn
+
+---
+# 1. Reconsideración ¿es procedente?
+
+.pull-left[
+
+![:scale 70%](img/uchu/tiempo1.png)
+
+]
+
+.pull-right[
+
+![:scale 70%](img/uchu/tiempo2.png)
+
+]
+
+---
+## 2. ¿El Inf. Per. está debidamente suscrito?
+
+#### Presentación del informe
+
+.center[
+
+![:scale 30%](img/uchu/0581.png)
+
+]
+
+---
+
+.pull-left[
+
+![:scale 70%](img/uchu/0582.png)
+
+]
+
+
+.pull-right[
+
+![:scale 70%](img/uchu/0583.png)
+
+]
+
+---
+### El informe
+
+.pull-left[
+
+![:scale 70%](img/uchu/0584.png)
+
+]
+
+.pull-right[
+
+![:scale 70%](img/uchu/0587.png)
+]
+
+---
+### El informe
+
+.pull-left[
+
+![:scale 70%](img/uchu/0588.png)
+
+]
+
+.pull-right[
+
+![:scale 70%](img/uchu/0610.png)
+]
+
+---
+### El informe
+
+.center[
+
+![:scale 30%](img/uchu/0611.png)
+
+]
+
+---
+
+## 3. Lo presentado en preadministrativo
+
+### Carta invitación 15 de octubre 2021
+
+.pull-left[
+
+![:scale 70%](img/uchu/carta15octubre-0.png)
+
+]
+
+.pull-right[
+
+![:scale 70%](img/uchu/carta15-1.png)
+]
+
+---
+### Carta invitación 15 de octubre 2021
+
+.center[
+
+![:scale 70%](img/uchu/carta15-1.png)
+
+]
+
+---
+
+## 4. La empresa no ha presentado la información solicitada
+
+--
+
+## 5. La falta de información incide en una negociación real de buena fe
+
+---
+
+## 6. No ha habido negociación colectiva
+
+### Acta sindicato empleados
+
+
+.pull-left[
+
+![:scale 70%](img/uchu/acta-empleados-reunion-27-10-2021-p1.jpeg)
+
+]
+
+.pull-right[
+
+![:scale 70%](img/uchu/acta-empleados-reunion-27-10-2021-p2.jpeg)
+]
+
+---
+### Acta sindicato obreros
+
+
+.pull-left[
+
+![:scale 70%](img/uchu/acta-obreros-0.png)
+
+]
+
+.pull-right[
+
+![:scale 70%](img/uchu/acta-obreros-1.png)
+]
+
+---
+### Acta sindicato obreros
+
+.center[
+
+![:scale 90%](img/uchu/acta-obreros-1.png)
+
+]
+
+---
+
+## 7. Vulneración derechos fundamentales
+
+
+
+|  | Número dirigentes | En lista cese colectivo |
+|--|:----------------------|:------------------------|
+| Sindicato Obreros | 20| 19 + 1 |
+| Sindicato Empleados | 15 | 10 |
+| Comité SST | ... | 5 |
+| Grupo vulnerable Covid | ... | 13 |
+| Discapacidad | ... | 8 |
+| Maternidad | ... | 1 |
+
+---
+
+## 8. No cumple el mínimo del 10% del total del personal de la empresa
+
+### Línea del tiempo
+
+.pull-left[
+
+![:scale 70%](img/uchu/time3.png)
+
+]
+
+.pull-right[
+
+![:scale 70%](img/uchu/time4.png)
+
+]
+
+---
+class: center, middle
+
+|   | Obreros | Empleados | Totales |
+|---|---------|-----------|---------|
+| Mutuo disenso | 40 | 31 | 71 |
+| Mismo puesto | 29 | 13 | 42 |
+| Dif. puesto | 5 | 7 | 12 |
+| Subtotales | 74 | 51 | 125 |
+
+---
+class: center, middle
+
+| Total | Obreros | Empleados |
+|---|---------|-----------|
+| 212 | 143 | 69 |
+| -125 | -74 | -51 |
+|------|-----|-----|
+| 87 | 69 | 18 |
+
+---
+class: center, middle
+
+| Suspensión | Obreros | Empleados | Total |
+|---|---------|-----------|------|
+|  | 56 | 15 | 71 |
+|----|----|----|
+| Indeterminado | | | 16 |
+| | | | 87 |
+
+---
+class: center, middle
+
+|    | Número de trabajadores | Porcentaje |
+|----|------------------------|------------|
+| Total personal empresa | 1,859 | 100% |
+| Lista octubre 2021 | 212 | 11.40% |
+| A febrero 2022 | 87 | 4.68% |
+
+---
+class: center, middle
+
+
