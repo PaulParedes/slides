@@ -1,0 +1,537 @@
+#LyX file created by tex2lyx 2.3
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin /home/paul/SHARE/SHAREHOME/Documentos/PROYECTOS/SLIDES/SLIDES/
+\textclass article
+\begin_preamble
+% Options for packages loaded elsewhere
+
+
+%
+\usepackage{ifxetex}
+\usepackage{ifluatex}\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage{textcomp}% provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+\defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+ % remove section numbering
+
+\title{Precedentes vinculantes en materia laboral}
+\author{Paul Paredes}
+\date{14 de agosto de 2021}
+
+
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding utf8
+\fontencoding T1
+\font_roman "lmodern" "default"
+\font_sans "default" "default"
+\font_typewriter "lmodern" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Precedentes vinculantes en materia laboral"
+\pdf_author "Paul Paredes"
+\pdf_bookmarks 0
+\pdf_bookmarksnumbered 0
+\pdf_bookmarksopen 0
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks 0
+\pdf_pdfborder 0
+\pdf_colorlinks 0
+\pdf_backref section
+\pdf_pdfusetitle 0
+\pdf_quoted_options "hidelinks,pdfcreator={LaTeX via pandoc}"
+\papersize default
+\use_geometry false
+\use_package amsmath 2
+\use_package amssymb 2
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth -\maxdimen
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+maketitle
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family typewriter
+{r
+\begin_inset space \space{}
+
+\end_inset
+
+xaringan-logo,
+\begin_inset space \space{}
+
+\end_inset
+
+echo=FALSE}
+\begin_inset space \space{}
+
+\end_inset
+
+xaringanExtra::use_logo(
+\begin_inset space \space{}
+
+\end_inset
+
+
+\begin_inset space \space{}
+
+\end_inset
+
+
+\begin_inset space \space{}
+
+\end_inset
+
+image_url
+\begin_inset space \space{}
+
+\end_inset
+
+=
+\begin_inset space \space{}
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+"
+\end_layout
+
+\end_inset
+
+https://raw.githubusercontent.com/PaulParedes/materiales/master/logo-amag-removebg.png
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+"
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \space{}
+
+\end_inset
+
+)
+\family default
+
+\end_layout
+
+\begin_layout Standard
+class: animated, fadeIn
+\end_layout
+
+\begin_layout Section
+La responsabilidad (civil) en el ámbito laboral
+\end_layout
+
+\begin_layout Subsection
+1. Enfoque clásico
+\end_layout
+
+\begin_layout Subsection
+2. Enfoque desde la justicia distributiva y la justicia correctiva
+\end_layout
+
+\begin_layout Standard
+class: animated, slideInRight
+\end_layout
+
+\begin_layout Section
+2. El enfoque desde la justicia distributiva y la justicia correctiva
+\end_layout
+
+\begin_layout Itemize
+Tendencia a la unificación de los sistemas de responsabilidad 
+\end_layout
+
+\begin_layout Itemize
+Se habla de responsabilidad civil vs.
+\begin_inset space ~
+
+\end_inset
+
+responsabilidad penal, pero abarca muchos campos, incluido el laboral 
+\end_layout
+
+\begin_layout Itemize
+La unificación significa que los linderos de la responsabilidad contractual vs.
+\begin_inset space ~
+
+\end_inset
+
+la extracontractual se difuminan 
+\end_layout
+
+\begin_layout Itemize
+No se reconoce que hay diferencia entre que haya, o no, un contrato de por medio, pero ya no es un criterio de separación entre 
+\begin_inset Quotes eld
+\end_inset
+
+sistemas
+\begin_inset Quotes erd
+\end_inset
+
+. 
+\end_layout
+
+\begin_layout Itemize
+P. ej. el CCyC argentino de 2014 
+\end_layout
+
+\begin_layout Itemize
+O 
+\begin_inset Quotes eld
+\end_inset
+
+Los principios de derecho europeo de la responsabilidad civil
+\begin_inset Quotes erd
+\end_inset
+
+, Viena 2005 
+\end_layout
+
+\begin_layout Itemize
+Se habla de derecho de daños, 
+\emph on
+tort law
+\emph default
+ 
+\end_layout
+
+\begin_layout Standard
+class: animated, fadeIn
+\end_layout
+
+\begin_layout Section
+Aspectos problemáticos en los casos de responsabilidad por accidente de trabajo y por enfermedad profesional
+\end_layout
+
+\begin_layout Standard
+¿Qué tipo de responsabilidad aplica?
+\end_layout
+
+\begin_layout Quote
+Artículo 53. Indemnización por daños a la salud en el trabajo 
+\end_layout
+
+\begin_layout Standard
+
+\begin_inset Separator plain
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+El incumplimiento del empleador del deber de prevención genera la obligación de pagar las indemnizaciones a las víctimas, o a sus derechohabientes, de los accidentes de trabajo y de las enfermedades profesionales. En el caso en que producto de la vía inspectiva se haya comprobado fehacientemente el daño al trabajador, el Ministerio de Trabajo y Promoción del Empleo determina el pago de la indemnización respectiva. 
+\end_layout
+
+\begin_layout Standard
+
+\begin_inset Separator plain
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Ley 29783, LSST 
+\end_layout
+
+\begin_layout Standard
+class: animated, fadeIn
+\end_layout
+
+\begin_layout Section
+Aspectos a considerar en un caso de responsabilidad (por despido arbitrario, accidente de trabajo o enfermedad profesional)
+\end_layout
+
+\begin_layout Itemize
+Hechos pasados y hechos futuros: extensión del daño 
+\end_layout
+
+\begin_layout Itemize
+Identificar al (o los) responsable(s) 
+\end_layout
+
+\begin_layout Itemize
+Identificar la(s) obligación(es) incumplida(s) (acciones, omisiones) 
+\end_layout
+
+\begin_layout Itemize
+Identificar causas (concurrentes) y efectos 
+\end_layout
+
+\begin_layout Itemize
+Identificar el tipo de daño (patrimonial, extrapatrimonial) 
+\end_layout
+
+\begin_layout Itemize
+Cuantificar los daños 
+\end_layout
+
+\begin_layout Itemize
+La prueba de los elementos de la teoría del caso 
+\end_layout
+
+\begin_layout Standard
+class: animated, bounceInDown, center, middle, inverse
+\end_layout
+
+\begin_layout Section
+La prueba de la relación causal
+\end_layout
+
+\begin_layout Standard
+class: animated, fadeIn
+\end_layout
+
+\begin_layout Section
+Teorías de la causalidad
+\end_layout
+
+\begin_layout Subsection
+3. Teorías que afirman la existencia de una necesaria conexión intrínseca entre causa y efecto.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+tightlist
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Teorías singularistas, antes que regulares, donde la causalidad es un proceso físico. 
+\end_layout
+
+\begin_layout Subsection
+4. Teorías de la probabilidad (estadística)
+\end_layout
+
+\begin_layout Standard
+class: animated, fadeIn
+\end_layout
+
+\begin_layout Subsection
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+texorpdfstring{
+\end_layout
+
+\end_inset
+
+La causalidad es una relación cuaternaria: 
+\series bold
+c
+\series default
+ en lugar de __C*__ causa 
+\series bold
+e
+\series default
+ antes que __E*__
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}{
+\end_layout
+
+\end_inset
+
+La causalidad es una relación cuaternaria: c en lugar de __C*__ causa e antes que __E*__
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+El choque del camión, pero no el sistema eléctrico del camión, causa las lesiones en el transeunte pero no su muerte. 
+\end_layout
+
+\begin_layout Standard
+class: animated, fadeIn
+\end_layout
+
+\begin_layout Section
+Causalidad mental
+\end_layout
+
+\begin_layout Subsection
+Causalidad descendente (Benjamin Libet, Walter Sinnott-Armstrong)
+\end_layout
+
+\begin_layout Standard
+Hay un sistema superior donde se producen los eventos mentales (estados mentales: intenciones, experiencias); y un sistema inferior donde se producen los eventos físicos (estados físicos del cerebro).
+\end_layout
+
+\begin_layout Quote
+¿Los estados mentales son estados físicos? 
+\end_layout
+
+\begin_layout Standard
+class: animated, fadeIn
+\end_layout
+
+\begin_layout Section
+Causalidad mental
+\end_layout
+
+\begin_layout Standard
+La causa son conceptos abstractos (Estados mentales) que llevan a hacer o decir algo
+\end_layout
+
+\begin_layout Standard
+Afirmaciones de la forma A causa B es verdadera por una relación causal entre A y B de cualquier modo como A y B sean descritos; pero solo ciertas descripciones de A y B terminan siendo una explicación.
+\end_layout
+
+\begin_layout Standard
+Entonces:
+\end_layout
+
+\begin_layout Standard
+Las razones son causas porque las razones explicativas son una especie de explicación causal. Pero cualquier explicación causal ordinaria tiene sentido respecto de un evento si ese evento encaja en el cuadro de las leyes uniformes de la naturaleza; por su parte, las razones explicativas hacen sentido sobre un comportamiento si encaja como un acto de un sujeto racional.
+\end_layout
+
+\begin_layout Standard
+class: center, middle, inverse, animated, bounceInDown
+\end_layout
+
+\begin_layout Section
+¡Muchas gracias!
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,334 @@
+---
+title: "Principios (y fundamentos) del proceso laboral"
+subtitle: ""
+author: "Paul Paredes"
+institute: "Maestría en Derecho del Trabajo y Seguridad Social, PUCP"
+date: "Lima, 27 de marzo de 2023"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - default
+      - default-fonts 
+      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    self_contained: true
+---
+class: center, middle, animated, slideInRight
+
+# Clase 2
+
+# Principios (y fundamentos) del proceso laboral
+
+---
+class: inverse, center, middle, animated, bounceInDown
+
+# ¡Empecemos!
+
+---
+class: animated, slideInRight, center, middle
+
+# ¿Por qué (debe haber) un proceso laboral?
+
+---
+class: animated, fadeIn
+
+# El Código Civil francés de 1804
+
+--
+
+> # "1781. Le maître est cru sur son affirmation, Pour la quotité des gages; Pour le paiement du salaire de l'année échue; Et pour les à-comptes donnés pour l'année courante."
+
+--
+
+> # "Al patrón se le cree por su dicho, en cuanto al monto de los salarios; en cuanto al pago del salario del año vencido; y en cuanto a lo que diga haber dado a cuenta por el año corriente".
+
+---
+class: animated, fadeIn
+
+# Poder. Estado social. 
+  + Intervención en la economía para asegurar ciertos derechos básicos
+
+# Justicia
+  + Justicia distributiva
+  + Justicia correctiva (conmutativa)
+
+---
+class: animated, fadeIn
+
+# Igualdad (en la distribución)
+  + De características
+  + De trato (a los iguales, misma categoría)
+    + a c/u lo mismo
+    + a c/u lo de la ley
+    + a c/u según su rango
+    + a c/u según su mérito
+    + a c/u según su trabajo
+    + a c/u según su necesidad
+
+# Igualdad (¿cómo distribuir?)
+  + En el proceso de distribución igualitario
+  + En el resultado igualitario
+  
+---
+class: animated, fadeIn  
+
+# Tres nociones de igualdad en las constituciones
+
+1. Igualdad política
+  + Reparto del poder político en una sociedad
+  + Participación en la producción de las normas jurídicas
+
+2. Igualdad ante la ley
+  + Normas generales y no arbitrarias: casos iguales, se resuelven iguales
+  + Prohibición de discriminar: (no siempre hay que tratar igual a todos en ciertas circunstancias, pero nunca se puede utilizar ciertas características para diferenciar el trato)
+
+3. Igualdad en la ley (a través de la ley)
+  + La aplicación del Derecho debe producir resultados igualitarios en cuanto a las condiciones de vida de los ciudadanos
+  + Podría parecer ir contra la igualdad ante la ley en abstracto (acción afirmativa)
+
+---
+class: animated, fadeIn
+
+# Couture
+
+### **Couture** planteó que la razón de ser del Derecho procesal del trabajo era asegurar ciertos resultados mínimos de justicia dentro de la desigual relación del trabajo, y que para lograrlo era necesario establecer la igualdad mediante una desigualdad: la igualdad por compensación.
+
+.left-column[
+# Pregunta:
+]
+.right-column[
+### ¿Qué noción de igualdad daría respaldo a su postura?
+]
+
+---
+class: animated, fadeIn
+
+# Impacto de la desigualdad (económica y social)
+
++ En la configuración de las relaciones laborales
+
++ En el valor epistémico de la prueba
+
++ En valores de política pública (p. ej. la justicia distributiva)
+
+---
+class: animated, fadeIn
+
+# La desigualdad como fundamento del proceso laboral (dos perspectivas)
+
+## 1. La desigualdad material y la igualdad por compensación
+
+## 2. La igualdad en el principio dispositivo, pero donde se reconoce que las partes no son soberanas ni iguales
+
+---
+class: animated, fadeIn
+
+# 1. La desigualdad material y la igualdad por compensación
+
+1. La igualdad por compensación: el procedimiento lógico de corregir las desigualdades es el crear otras desigualdades
+  + El principio de imparcialidad: igualdad de armas
+    + Quien produce y conserva un medio de prueba | Sin acceso al medio de prueba
+    + Quien dispone cómo ejecutar un servicio y cómo se deja constancia de ello | Quien está sometido a las órdenes
+    + La igualdad de armas es un objetivo por cumplir
+    + Importancia de los poderes del juez
+
+**+ La igualdad por compensación se posiciona como el fundamento de las actuaciones procesales en los conflictos laborales**.
+
+---
+class: animated, fadeIn
+
+# Tres datos como respaldo epistémico a la desigualdads de las relaciones jurídicas laborales en el Perú
+
+## 1. Informalidad laboral: en 2015, 55.5%; en microempresas, 88.7%
+
+## 2. Contratos a plazo fijo: 78% fijos vs. 22% indeterminado
+
+## 3. Sindicación y cobertura de la negociación colectiva: 6% y 5.1%, respectivamente.
+
+---
+class: animated, fadeIn
+
+# 2. La igualdad en el principio dispositivo
+
+1. El principio dispositivo (según lo alegado y probado) prohíbe apreciar, de oficio, hechos relevantes que constan en el proceso pero que no han sido propuestos expresamente por las partes.
+
+2. De vincular al juez a lo alegado y probado no se sigue, necesariamente, que la actuación del juez esté completamente sometida a las partes.
+
+---
+class: animated, fadeIn
+
+# Principio dispositivo
+
++ Afirmar la sujeción del juez a la soberanía de las partes camufla una idea de desigualdad: si las partes son soberanas, entonces, son igualmente soberanas.
+
++ ¿Son las partes iguales?
+
++ Si todo se deja al principio dispositivo (en su versión más restrictiva), entonces se niega el derecho de defensa de una de las partes.
+
++ Se trata de afirmar el p. dispositivo pero sin llevar a convertir al proceso en "una cosa de las partes"
+
++ Presencia de algunas notas del p. inquisitivo en clave de optimización de la decisión. 
+
++ Pero también en clave de optimización epistémica (evitar que se cree una realidad paralela y el sistema procesal no tendría nada que decir)
+
+---
+class: animated, fadeIn
+
+# Proceso laboral. Dos modelos
+
+.pull-left[
+**DE** la igualdad (formal)de las partes y el espectador
+]
+
+.pull-right[
+**A** la igualdad efectiva de las partes (a través de la ley) y el juez director del proceso
+]
+
+---
+class: animated, fadeIn
+
+# Proceso y prueba. Dos modelos
+
+.pull-left[
+**DEL** proceso como mero mecanismo de resolución de conflictos, dependiente de la habilidad del abogado alejado de la verdad (verdad como persuasión)
+]
+
+.pull-right[
+**AL** proceso como solución de conflictos aplicando derecho a los hechos ocurridos en la realidad (verdad como correspondencia)
+]
+
+---
+class: animated, fadeIn
+
+# La oralidad
+
+## La oralidad como respuesta, a la justicia, de la igualdad formal:
+
+--
+
+.center[
+.pull-left[
+**Oralidad**
+
+Inmediación
+
+Concentración
+
+Publicidad
+
+Economía
+
+Celeridad
+]
+]
+
+--
+
+.center[
+.pull-right[
+**Escritura**
+
+No inmediación
+
+No concentración
+
+No publicidad
+
+No economía
+
+No celeridad
+]
+]
+
+---
+class: animated, fadeIn
+
+# La oralidad
+
+&nbsp;
+
+--
+
+Es el símbolo contra la justicia del juez convidado de piedra.
+
+--
+
+&nbsp;
+
+La oralidad no es *"técnicas que litigación oral"*.
+
+---
+class: animated fadeIn
+
+# La igualdad por compensación
+
+--
+
+## La igualdad por compensación: el procedimiento lógico de corregir las desigualdades es el crear otras desigualdades
+
+--
+
++ El principio de imparcialidad: igualdad de armas
+
++ Quien produce y conserva un medio de prueba **vs.** quien no tienen acceso al medio de prueba o con dificultad
+
++ Quien dispone cómo ejecutar un servicio y cómo se deja constancia de ello **vs.** quien está sometido a esas órdenes
+
++ La igualdad de armas es un objetivo por cumplir
+
++ Importancia de los poderes del juez
+
+---
+class: animated, fadeIn, middle, center
+
+# La igualdad por compensación
+
+> ## La igualdad por compensación se posiciona como el fundamento de las actuaciones procesales en los conflictos laborales.
+
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo I.- Principios del proceso laboral
+
+> El proceso laboral se inspira, entre otros, en los principios de inmediación, oralidad, concentración, celeridad, economía procesal y veracidad.
+	
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo II.- Ámbito de la justicia laboral
+> Corresponde a la justicia laboral resolver los conflictos jurídicos que se originan con ocasión de las prestaciones de servicios de carácter personal, de naturaleza laboral, formativa, cooperativista o administrativa; están excluidas las prestaciones de servicios de carácter civil, salvo que la demanda se sustente en el encubrimiento de relaciones de trabajo. Tales conflictos jurídicos pueden ser individuales, plurales o colectivos, y estar referidos a aspectos sustanciales o conexos, incluso previos o posteriores a la prestación efectiva de los servicios.
+
+---
+class: animated, fadeIn
+
+# NLPT 
+
+>Artículo III.- Fundamentos del proceso laboral
+
+>En todo proceso laboral los jueces deben evitar que la desigualdad entre las partes afecte el desarrollo o resultado del proceso, para cuyo efecto procuran alcanzar la igualdad real de las partes, privilegian el fondo sobre la forma, interpretan los requisitos y presupuestos procesales en sentido favorable a la continuidad del proceso, observan el debido proceso, la tutela jurisdiccional y el principio de razonabilidad. En particular, acentúan estos deberes frente a la madre gestante, el menor de edad y la persona con discapacidad.
+
+> Los jueces laborales tienen un rol protagónico en el desarrollo e impulso del proceso. Impiden y sancionan la inconducta contraria a los deberes de veracidad, probidad, lealtad y buena fe de las partes, sus representantes, sus abogados y terceros.
+
+> El proceso laboral es gratuito para el prestador de servicios, en todas las instancias, cuando el monto total de las pretensiones reclamadas no supere las setenta (70) Unidades de Referencia Procesal (URP).
+
+---
+class: animated, fadeIn
+
+# NLPT
+
+> Artículo IV.- Interpretación y aplicación de las normas en la resolución de los conflictos de la justicia laboral
+
+> Los jueces laborales, bajo responsabilidad, imparten justicia con arreglo a la Constitución Política del Perú, los tratados internacionales de derechos humanos y la ley. Interpretan y aplican toda norma jurídica, incluyendo los convenios colectivos, según los principios y preceptos constitucionales, así como los precedentes vinculantes del Tribunal Constitucional y de la Corte Suprema de Justicia de la República.
+
+---
+class: inverse, center, middle, animated, bounceInDown
+# ¡Gracias!
