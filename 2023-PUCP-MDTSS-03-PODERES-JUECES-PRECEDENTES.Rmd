@@ -46,6 +46,12 @@ style_duo_accent(
 xaringanExtra::use_webcam()
 ```
 
+```{r broadcast, echo=FALSE}
+xaringanExtra::use_broadcast()
+```
+
+
+
 # Clase 3
 
 # Poderes de los jueces
