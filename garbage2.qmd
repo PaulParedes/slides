@@ -1,0 +1,378 @@
+---
+title: "Tipos de procesos laborales"
+subtitle: "(regulados en la NLPT)"
+author: "Paul Paredes | MDTSS, PUCP"
+date: "17 04 2023"
+date-format: long # full, long, medium, or short
+format:
+  revealjs: 
+    slide-number: true
+    # chalkboard: 
+    #   buttons: false
+    preview-links: auto
+    theme: [simple, custom-quarto-ah-style.scss]
+    self-contained: true
+    title-slide-attributes:
+      data-background-color: "#cf3a36"
+lang: es
+resources:
+  - slides.pdf
+---
+
+```{r include=FALSE}
+library(tidyverse)
+library(httr)
+
+clrs <- MetBrewer::met.brewer(name = "Java")
+clrs_lt <- colorspace::lighten(clrs, 0.9)
+
+knitr::opts_chunk$set(fig.retina = 3, collapse = TRUE)
+options(digits = 3, width = 75)
+```
+
+# Clase 5 {background-color="`r clrs[2]`" .white}
+
+# Plan de la clase {background-color="`r clrs[2]`"}
+
+## {background-color="`r clrs_lt[2]`"}
+
+::: {.incremental style="font-size: 1.8em;"}
+- Los procesos laborales **regulados EN** la NLPT
+- Los procesos laborales **NO regulados** en la NLPT
+:::
+
+# Los procesos laborales regulados EN la NLPT {background-color="`r clrs[2]`"}
+
+## {background-color="`r clrs_lt[2]`"}
+
+::: {.incremental style="font-size: 1.5em;"}
+- El proceso ordinario laboral
+- El proceso abreviado laboral
+- El proceso impugnativo de laudos arbitrales económicos
+- El proceso cautelar
+- El proceso de ejecución
+- Los procesos no contenciosos
+:::
+
+# Los procesos laborales NO regulados en la NLPT {background-color="`r clrs[2]`"}
+
+## {background-color="`r clrs_lt[2]`"}
+
+::: {.incremental style="font-size: 1.1em;"}
+- El proceso contencioso administrativo (D.S. 011-2019-JUS)
+- El proceso de acción popular (CPConst.)
+- El proceso de anulación de laudo jurídico (D.Leg. 1071)
+- El proceso de acción de amparo (CPConst.)
+- El proceso de inconstitucionalidad (CPConst.)
+- El proceso de cumplimiento (CPConst.)
+:::
+
+# El proceso ordinario laboral {background-color="`r clrs[3]`"}
+
+## {background-color="`r clrs_lt[3]`"}
+
+:::: {.columns}
+
+::: {.column width="15" .smaller}
+**Audiencia de conciliación**
+:::
+
+::: {.column width="85%" style="font-size: 0.7em;" .incremental}
+- El juez tiene una participación activa en la solución de las diferencias.
+- La conciliación puede prolongarse lo necesario por decisión de las partes.
+- El juez aprueba el acuerdo parcial o total, y también sobre los extremos no controvertidos, con calidad de cosa juzgada y ordena el cumplimiento de lo acordado.
+- Los extremos no solucionados pasan a ser materia de juicio.
+- El juez emite sentencia al finalizar la audiencia si la causa es de puro derecho o no hay necesidad de actuación probatoria (**juzgamiento anticipado**).
+
+:::
+
+::::
+
+## {background-color="`r clrs_lt[3]`"}
+
+:::: {.columns}
+
+::: {.column width="15" .smaller}
+**Audiencia de juzgamiento**
+:::
+
+::: {.column width="85%" style="font-size: 0.7em;" .incremental}
+- Incorpora las etapas de:
+    - **Confrontación de posiciones:** exposición de los argumentos de demandante y demandado.
+    - **Actuación probatoria:** actuación de todos los medios probatorios sólo de los hechos necesitados de prueba.
+    - **Alegatos:** argumentación de cierre de los abogados.
+    - **Sentencia:** a la conclusión de la audiencia o luego de 60 minutos. Excepcionalmente, dentro de 5 días hábiles siguientes.
+
+:::
+
+::::
+
+## {background-color="`r clrs_lt[3]`"}
+
+
+![](https://raw.githubusercontent.com/PaulParedes/materiales/master/pol1.png){fig-align="center" width="100%"}
+
+
+## {background-color="`r clrs_lt[3]`"}
+
+![](https://raw.githubusercontent.com/PaulParedes/materiales/master/pol2.png){fig-align="center" width="100%"}
+
+
+# El proceso abreviado laboral {background-color="`r clrs[4]`"}
+
+## {background-color="`r clrs_lt[4]`"}
+
+:::: {.columns}
+
+::: {.column width="15" .smaller}
+**Audiencia única**
+:::
+
+::: {.column width="85%" style="font-size: 0.7em;" .incremental}
+- Se estructura sobre la base de las audiencias de conciliación y de juzgamiento del proceso ordinario laboral.
+- Incorpora las etapas de:
+  - Conciliación
+  - Confrontación de posiciones
+  - Actuación probatoria
+  - Alegatos
+  - Sentencia
+
+:::
+
+::::
+
+## {background-color="`r clrs_lt[4]`"}
+
+![](https://raw.githubusercontent.com/PaulParedes/materiales/master/pal.png)
+
+
+# El proceso impugnativo de laudos arbitrales económicos  {background-color="`r clrs[5]`"}
+
+
+## {background-color="`r clrs_lt[5]`"}
+
+![](https://raw.githubusercontent.com/PaulParedes/materiales/master/pilae.png)
+
+
+# El proceso cautelar {background-color="`r clrs[1]`"}
+
+## {background-color="`r clrs_lt[1]`" .smaller}
+
++ Se admite **<span style="color:red;">CUALQUIER</span>** medida que sea idónea para asegurar la eficacia de la pretensión principal.
+
++ En general, cabe la medida especial de reposición provisional.
+
++ Si ésta es solicitada por un dirigente sindical, menor de edad, madre gestante o persona con discapacidad no tendrá la necesidad de acreditar el peligro en la demora ni ofrecer contracautela. Le bastará acreditar su condición de tal al momento del despido y la verosimilitud de su demanda.
+
++ Asignación provisional
+  + Procede en los casos de reposición.
+  + Es la entrega de una suma mensual fijada por el juez, no mayor a la última remuneración ordinaria mensual percibida, con cargo a la CTS.
+  + Ordenada la reposición el empleador restituye el depósito CTS.
+  + Ordenado el pago de remuneraciones devengadas estas se deducirán de la asignación percibida.
+  
+
+# El proceso de ejecución  {background-color="`r clrs[5]`"}
+
+## El proceso de ejecución {background-color="`r clrs_lt[5]`" .smaller}
+
+::: {.incremental}
+
+- El Decreto Legislativo 1069 (28 de junio de 2008)
+
+   - Del proceso de ejecución y el proceso ejecutivo al proceso único de ejecución
+   
+- En NLPT: proceso de ejecución: títulos ejecutivos
+
+- Pautas comunes en ejecución de RRJJFF:
+
+   - Competente el juez de la demanda
+   - Inicio de la ejecución con el mandato de ejecución
+   - La posibilidad de la contradicción a la ejec. (cumplim. de lo ordenado o extinción de la obligación)
+   - Si contradicción, se corre traslado al ejecutante
+   - Cabe apelar el auto que resuelve la contradicción
+   - Si no hay contradicción, juez ordena llevar adelante la ejecución
+
+:::
+ 
+## El proceso de ejecución {background-color="`r clrs_lt[5]`" .smaller}
+
+::: {.incremental}
+
+- Tres tipos de mandatos de ejec. de sentencia:
+
+   - Exigencias no patrimoniales
+   
+   - Ejecución de sumas líquidas
+   
+   - Ejecución de suma ilíquida
+   
+- Diferencias con el CPC:
+
+   - Efecto NO suspensión de la ejecución de las sentencias ante la interposición de la casación (art. 38 NLPT)
+   
+   - Solicitud de suspensión de la ejecución cuando se ejecuta suma ilíquida (art. 60 NLPT)
+   
+   - Multas por contradicción temeraria
+   
+   - Multas sucesivas, acumulativas y crecientes en 30%; incluida la denuncia penal
+   
+   - Liquidación de suma ilíquida (art. 63 NLPT)
+   
+:::
+
+## El proceso de ejecución {background-color="`r clrs_lt[5]`" .smaller}
+
+::: {.incremental}
+
+- Ejecución de sentencias contra sujetos privados
+
+   - Ejecución anticipada (art. 38 NLPT)
+
+- Ejecución de sentencias contra entidades públicas
+
+   - En procesos seguidos bajo la NLPT (trabajadores sector público sujetos al 728)
+      - Art. 73 del D. Leg. 1440, D. Leg. del Sistema Nacional de Presupuesto Público
+      - Ejecución anticipada (art. 3 del D.S. 003-2020-JUS, reglamento de la Ley 30137, Ley de Priorización)
+      
+   - En procesos seguidos bajo la LPCA (art. 46 LPCA)
+      - Art. 46 LPCA
+      - Ley de Priorización 30137 y su reglamento
+      - No ejecución anticipada
+
+:::
+
+## El proceso de ejecución {background-color="`r clrs_lt[5]`" .smaller}
+
+::: {.incremental}
+
+- STC 015-2001-AI/TC, 016-2001-AI/TC y 004-2002-AI/TC
+
+   - Nunca se afecta los bienes de dominio público
+   
+   - Principio de legalidad presupuestaria
+   
+      - El privilegio de la autotutela ejecutiva de la administración
+      
+      - La posibilidad de diferir la ejecución forzada, por un lapso razonable, sobre bienes del Estado de dominio privado
+      
+   - Afectar partidas presupuestarias comunes a todos los pliegos
+   
+   - Transferencias dinerarias
+   
+   - Reconocimiento de pago de intereses ante la demora
+   
+   - Eludir el cumplimiento genera la nulidad del acto
+   
+   - Se debe hacer valer las responsabilidades
+   
+   - Si no se inicia el pago en 6 meses: ejecución forzada
+   
+:::
+
+
+## {background-color="`r clrs_lt[5]`"}
+
+:::: {.columns}
+
+::: {.column width="15" .smaller}
+**Títulos ejecutivos**
+:::
+
+::: {.column width="85%" style="font-size: 0.7em;" .incremental}
++ Las resoluciones judiciales firmes
++ Las actas de conciliación judicial
++ Los laudos arbitrales firmes que resuelven un conflicto jurídico
++ Las resoluciones de la AAT firmes que reconocen obligaciones
++ El documento privado que contenga una transacción extrajudicial
++ El acta de conciliación extrajudicial, privada o administrativa; y
++ La liquidación para cobranza de aportes previsionales del sistema privado de pensiones
+:::
+
+::::
+
+## El proceso de ejecución {background-color="`r clrs_lt[5]`" .smaller}
+
++ Características:
+  + Multa por contradicción temeraria
+     + Se produce si la contradicción no se sustenta en la inexigibilidad de la obligación, la nulidad o falsedad del título ejecutivo, la extinción de la obligación o excepciones o defensas previas
+     + La multa puede ser de ½ hasta 50 URP
+
+  + Incumplimiento injustificado al mandato de ejecución
+     + Se produce cuando injustificadamente no se cumple el mandato de hacer o no hacer, sin que exista suspensión de la ejecución
+     + Las multas podrán ser sucesivas, acumulativas y crecientes en 30% hasta que el obligado cumpla el mandato
+
+
+
+# Los procesos no contenciosos  {background-color="`r clrs[4]`"}
+
+## {background-color="`r clrs_lt[4]`"}
+
+:::: {.columns}
+
+::: {.column width="15" .smaller}
+**Los procesos no contenciosos**
+:::
+
+::: {.column width="85%" style="font-size: 0.7em;" .incremental}
+
+1. Consignación de beneficios sociales
+
+2. Autorización de ingreso a centro de trabajo
+
+   - Da trámite a la necesidad de autorización previa para ingresar al centro de trabajo cuando este coincide con el domicilio del empleador, en el caso de la inspección del trabajo.
+
+3. Entrega de documentos
+   - Regula la mera solicitud de entrega de documentos laborales tales como certificado de trabajo, constancias, etc.
+
+:::
+
+::::
+
+## {background-color="`r clrs_lt[4]`" .smaller}
+
+**STC** 
+- 03052-2009-PA/TC (03052-2010-PA/TC; 06459-2013-PA/TC)
+
+Constitúyase PRECEDENTE VINCULANTE las reglas contenidas en el fundamento 37 de la presente sentencia:
+a. El cobro de los beneficios sociales, compensación por tiempo de servicios, vacaciones truncas, gratificaciones truncas, utilidades u otro concepto remunerativo debido al trabajador no supone el consentimiento del despido arbitrario y, por ende, no debe considerarse como causal de improcedencia del amparo.
+
+b. El cobro de la indemnización por despido arbitrario u otro concepto que tenga el mismo fin “incentivos” supone la aceptación de la forma de protección alternativa brindada por ley, por lo que debe considerarse como causal de improcedencia del amparo.
+
+c. El pago pendiente de la compensación por tiempo de servicios u otros conceptos remunerativos adeudados al trabajador debe efectuarse de modo independiente y diferenciado al pago de la indemnización por despido arbitrario u otro concepto que tenga el mismo fin; el empleador deberá realizar dichos pagos en cuentas separadas o a través de consignaciones en procesos judiciales independientes.
+
+
+# Algunas reglas adicionales en torno a los procesos {background-color="`r clrs[3]`"}
+
+## {background-color="`r clrs_lt[3]`"}
+
+::: {.incremental}
+- **Arbitraje (de derecho)**:
+  
+  + Se puede pactar arbitraje si este se celebra a la conclusión de la relación laboral y si la remuneración mensual fue mayor a 70 URP.
+
+- **Costos a cargo del Estado**:
+
+  + El Estado puede ser condenado al pago de costos, pero no de gastos judiciales (costas).
+
+:::
+
+
+## {background-color="`r clrs_lt[3]`"}
+
+::: {.incremental}
+- **Aplicación supletoria**:
+
+  + Las normas del Código Procesal Civil son de aplicación supletoria
+
+- **Aplicación progresiva**:
+
+   + Las primeras cortes en implementar en 2010: Tacna, Cañete, La Libertad, Arequipa, Lambayeque y Cusco.
+   + En 2012: Lima Sur, Lima Norte, Callao, Lima
+   + En 2015: Lima Este, Puente Piedra-Ventanilla
+   + En 2021: San Martín, Amazonas y Madre de Dios
+   + En 2022: Huancavelica
+
+:::
+
+## Gracias {background-color="`r clrs[2]`" .center .middle style="font-size: 2em;"}
+

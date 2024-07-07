@@ -11,3 +11,12 @@
 .orange { color: orange; }
 .verde { color: #03A696 }
 .verdd { color: #67fd9a }     /* verde de las tablas
+
+/* Extra font size */
+
+
+.large { font-size: 110% }
+
+.small { font-size: 70%  }
+
+.extra-large { font-size: 250% }
